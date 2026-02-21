@@ -1,0 +1,4 @@
+{
+  "_comment": "Maps webhook slugs to their directive files and allowed tools. Deploy with: modal deploy execution/modal_webhook.py",
+  "webhooks": {}
+}

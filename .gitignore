@@ -1,0 +1,41 @@
+# =============================================================================
+# VietAgent .gitignore
+# =============================================================================
+
+# --- Secrets & credentials ---
+.env
+credentials.json
+token.json
+*.pem
+*.key
+
+# --- Temporary / intermediate files ---
+.tmp/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+env/
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs ---
+*.log
