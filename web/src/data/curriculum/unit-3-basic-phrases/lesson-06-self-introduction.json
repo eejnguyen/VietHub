@@ -1,0 +1,229 @@
+{
+  "slug": "lesson-06-self-introduction",
+  "unitSlug": "unit-3-basic-phrases",
+  "title": "Introducing Yourself",
+  "titleVi": "Tự Giới Thiệu",
+  "description": "Learn how to introduce yourself as a Vietnamese-American heritage speaker — your name, age, background, and why you're learning Vietnamese.",
+  "order": 6,
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Self-introductions in Vietnamese go beyond 'Hi, I'm...'. Vietnamese people naturally share — and ask about — age, family background, and personal details that might feel intrusive in American culture. This is normal and friendly, not nosy.\n\nAs a heritage speaker, you have a unique story. People in Vietnam will be curious: 'Where are you from? Where are your parents from? Why is your Vietnamese so good/bad?' This lesson gives you the phrases to answer confidently.\n\nYou'll learn how to say your name, your age, that you're Vietnamese-American, where your parents are from, and that you're learning Vietnamese."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u3-l06-tentoila",
+          "vietnamese": "Tên tôi là...",
+          "english": "My name is...",
+          "ipa": "/ten˧ toj˧ laː˧˩/",
+          "audioFile": null,
+          "notes": "Formal/neutral way to give your name. In casual speech among young people, 'Tên mình là...' is more common.",
+          "exampleSentence": {
+            "vietnamese": "Tên tôi là Justin.",
+            "english": "My name is Justin.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l06-toila",
+          "vietnamese": "Tôi là...",
+          "english": "I am...",
+          "ipa": "/toj˧ laː˧˩/",
+          "audioFile": null,
+          "notes": "Used to state what you are (profession, nationality, etc.).",
+          "exampleSentence": {
+            "vietnamese": "Tôi là sinh viên.",
+            "english": "I am a student.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l06-toio",
+          "vietnamese": "Tôi ở...",
+          "english": "I live in...",
+          "ipa": "/toj˧ ʔɤː˧˩/",
+          "audioFile": null,
+          "notes": "'Ở' can mean 'live at' or 'be at'. Context tells you which.",
+          "exampleSentence": {
+            "vietnamese": "Tôi ở California.",
+            "english": "I live in California.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l06-tuoi",
+          "vietnamese": "...tuổi",
+          "english": "...years old",
+          "ipa": "/tuəj˧˩/",
+          "audioFile": null,
+          "notes": "Pattern: 'Tôi' + number + 'tuổi'. E.g., 'Tôi hai mươi lăm tuổi' = I'm 25 years old.",
+          "exampleSentence": {
+            "vietnamese": "Tôi hai mươi lăm tuổi.",
+            "english": "I am 25 years old.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l06-nguoimygocviet",
+          "vietnamese": "người Mỹ gốc Việt",
+          "english": "Vietnamese-American (person)",
+          "ipa": "/ŋɨəj˧˩ mi˧˩ ɣok˧˥ viək˧˩/",
+          "audioFile": null,
+          "notes": "'Người' = person, 'Mỹ' = America, 'gốc' = origin/root, 'Việt' = Vietnamese. Literally: 'American person of Vietnamese origin'.",
+          "exampleSentence": {
+            "vietnamese": "Tôi là người Mỹ gốc Việt.",
+            "english": "I am Vietnamese-American.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l06-toisinho",
+          "vietnamese": "Tôi sinh ở...",
+          "english": "I was born in...",
+          "ipa": "/toj˧ ʂiɲ˧ ʔɤː˧˩/",
+          "audioFile": null,
+          "notes": "'Sinh' = to be born. Vietnamese doesn't need a past tense marker here — context makes it clear.",
+          "exampleSentence": {
+            "vietnamese": "Tôi sinh ở Mỹ.",
+            "english": "I was born in America.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l06-bamatu",
+          "vietnamese": "Ba má tôi từ...",
+          "english": "My parents are from...",
+          "ipa": "/baː˧ maː˧˥ toj˧ tɨː˧˩/",
+          "audioFile": null,
+          "notes": "'Ba má' = dad and mom (Southern). 'Từ' = from. Northern speakers say 'bố mẹ'.",
+          "exampleSentence": {
+            "vietnamese": "Ba má tôi từ Sài Gòn.",
+            "english": "My parents are from Saigon.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l06-danghoctiengviet",
+          "vietnamese": "Tôi đang học tiếng Việt",
+          "english": "I am learning Vietnamese",
+          "ipa": "/toj˧ daːŋ˧ hɔk˧˩ tiəŋ˧˥ viək˧˩/",
+          "audioFile": null,
+          "notes": "'Đang' = currently (in progress), 'học' = to study/learn, 'tiếng Việt' = Vietnamese language.",
+          "exampleSentence": {
+            "vietnamese": "Tôi đang học tiếng Việt vì muốn nói chuyện với bà ngoại.",
+            "english": "I'm learning Vietnamese because I want to talk with my grandma.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l06-hieumotchut",
+          "vietnamese": "Tôi hiểu một chút",
+          "english": "I understand a little",
+          "ipa": "/toj˧ hiəw˧˩ mot˧˩ tɕut˧˥/",
+          "audioFile": null,
+          "notes": "'Hiểu' = understand, 'một chút' = a little. Very useful phrase when people speak too fast.",
+          "exampleSentence": {
+            "vietnamese": "Tôi hiểu tiếng Việt một chút thôi.",
+            "english": "I only understand Vietnamese a little.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l06-noicham",
+          "vietnamese": "Nói chậm giùm",
+          "english": "Please speak slowly (Southern)",
+          "ipa": "/noj˧˥ tɕəm˧˩ jum˧˩/",
+          "audioFile": null,
+          "ttsText": "Nói chậm giùm",
+          "notes": "'Giùm' is Southern for 'giúm/giúp' (help/please do for me). Northern speakers say 'Nói chậm giúp'. Essential survival phrase!",
+          "exampleSentence": {
+            "vietnamese": "Xin lỗi, nói chậm giùm được không?",
+            "english": "Sorry, could you please speak slowly?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l06-ratvuigap",
+          "vietnamese": "Rất vui được gặp",
+          "english": "Nice to meet you",
+          "ipa": "/zət˧˥ vuj˧ dɨək˧˥ ɣap˧˩/",
+          "audioFile": null,
+          "notes": "'Rất' = very, 'vui' = happy, 'được gặp' = to be able to meet. Used when first meeting someone.",
+          "exampleSentence": {
+            "vietnamese": "Rất vui được gặp anh.",
+            "english": "Nice to meet you (to a man slightly older).",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "In Vietnamese culture, asking someone's age, marital status, job, and income during a first conversation is completely normal — it's how people figure out the right pronouns and social register to use with you. Don't be offended when someone asks 'Bao nhiêu tuổi?' (How old are you?) or 'Lấy chồng/vợ chưa?' (Are you married yet?). These aren't intrusive — they're the Vietnamese way of placing you in the social map so they can speak to you properly.\n\nAs a Việt Kiều (overseas Vietnamese), expect extra curiosity. People will want to know where your parents came from, when they left, and whether you can eat spicy food. Embrace it — it's genuine interest and warmth."
+    },
+    {
+      "type": "instruction",
+      "content": "Putting it all together — a heritage speaker self-introduction:\n\n'Xin chào, tên tôi là [name]. Tôi là người Mỹ gốc Việt. Tôi sinh ở Mỹ nhưng ba má tôi từ Sài Gòn. Tôi [age] tuổi. Tôi đang học tiếng Việt vì muốn nói chuyện với gia đình. Tôi hiểu một chút nhưng nói không giỏi lắm. Nói chậm giùm nhé!'\n\n(Hello, my name is [name]. I'm Vietnamese-American. I was born in America but my parents are from Saigon. I'm [age] years old. I'm learning Vietnamese because I want to talk with my family. I understand a little but I don't speak very well. Please speak slowly!)\n\nThis kind of introduction instantly earns goodwill. Vietnamese people love hearing heritage speakers try."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u3-l06-ex01",
+      "question": "How do you say 'I am Vietnamese-American' in Vietnamese?",
+      "options": [
+        "Tôi là người Việt ở Mỹ.",
+        "Tôi là người Mỹ gốc Việt.",
+        "Tôi từ Mỹ và Việt Nam.",
+        "Tôi là Mỹ-Việt."
+      ],
+      "correctAnswer": "Tôi là người Mỹ gốc Việt.",
+      "explanation": "'Người Mỹ gốc Việt' literally means 'American person of Vietnamese origin'. 'Gốc' = root/origin."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u3-l06-ex02",
+      "question": "Fill in the blank:",
+      "sentence": "Ba má tôi ___ Sài Gòn.",
+      "english": "My parents are from Saigon.",
+      "correctAnswer": "từ",
+      "acceptableAnswers": ["từ", "Từ"],
+      "explanation": "'Từ' means 'from' when talking about origin or where someone comes from."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u3-l06-ex03",
+      "question": "What is the Southern Vietnamese way to say 'Please speak slowly'?",
+      "options": [
+        "Nói chậm giúp tôi.",
+        "Nói chậm giùm.",
+        "Xin nói chậm lại.",
+        "Làm ơn nói chậm."
+      ],
+      "correctAnswer": "Nói chậm giùm.",
+      "explanation": "'Giùm' is the Southern form of 'giúm/giúp' (please do for me). It makes the request sound natural and polite in Southern dialect."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u3-l06-ex04",
+      "question": "Fill in the blank:",
+      "sentence": "Tôi ___ học tiếng Việt.",
+      "english": "I am (currently) learning Vietnamese.",
+      "correctAnswer": "đang",
+      "acceptableAnswers": ["đang", "Đang"],
+      "explanation": "'Đang' indicates an action in progress right now, similar to English '-ing'. 'Đang học' = currently studying/learning."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u3-l06-ex05",
+      "question": "Type this phrase in Vietnamese:",
+      "prompt": "My name is... (formal)",
+      "correctAnswer": "Tên tôi là...",
+      "acceptableAnswers": ["Tên tôi là", "Tên tôi là...", "tên tôi là", "tên tôi là..."],
+      "explanation": "'Tên' = name, 'tôi' = I/me, 'là' = is. This is the standard way to give your name in Vietnamese."
+    }
+  ]
+}

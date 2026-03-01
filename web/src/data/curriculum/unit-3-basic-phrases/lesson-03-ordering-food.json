@@ -1,0 +1,253 @@
+{
+  "slug": "lesson-03-ordering-food",
+  "unitSlug": "unit-3-basic-phrases",
+  "title": "Ordering Food",
+  "titleVi": "Gọi Món",
+  "description": "Learn how to order food and drinks like a local in Saigon. From phở restaurants to cà phê sữa đá at a quán to bánh mì stands, you'll master the real phrases people actually use — plus essential words for customizing your order.",
+  "order": 3,
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Ordering food in Vietnam is refreshingly direct. There's no equivalent of 'I would like to order...' or 'Could I possibly have...' — you just tell them what you want. The core pattern is simple:\n\n**Cho tôi + [item]** — Give me [item]\n\nThat's it. No extra pleasantries needed. At a phở shop, you'd say:\n- **Cho tôi một tô phở bò.** — Give me one bowl of beef phở.\n\nAt a coffee shop:\n- **Cho tôi một ly cà phê sữa đá.** — Give me one iced milk coffee.\n\nAt a bánh mì stand:\n- **Cho tôi một ổ bánh mì thịt.** — Give me one bánh mì with meat.\n\nThis directness isn't rude — it's normal and expected. Street food vendors are busy and appreciate efficiency. You'll also need to know how to ask for the check, ask how much something costs, and customize your order (more ice, less sugar, extra spicy)."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u3-l03-chotoi",
+          "vietnamese": "cho tôi",
+          "english": "give me / I'd like",
+          "ipa": "/t͡ɕɔ˧ toj˧/",
+          "audioFile": null,
+          "notes": "The universal ordering phrase. 'Cho' (give) + 'tôi' (me). In casual settings you might hear 'cho em' (if you're younger than the vendor) or 'cho anh/chị' (if you're older). At street food stalls, just 'cho tôi' works perfectly.",
+          "exampleSentence": {
+            "vietnamese": "Cho tôi hai tô phở gà.",
+            "english": "Give me two bowls of chicken phở.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l03-tinhtien",
+          "vietnamese": "tính tiền",
+          "english": "check please / calculate the bill",
+          "ipa": "/tiɲ˧˥ tiən˨˩/",
+          "audioFile": null,
+          "notes": "Literally 'calculate money.' Said when you're ready to pay. You can also say 'tính tiền giùm' (calculate the bill for me — slightly softer) or just raise your hand and say 'tính tiền!' In casual spots, people also say 'trả tiền' (pay money).",
+          "exampleSentence": {
+            "vietnamese": "Chị ơi, tính tiền giùm em.",
+            "english": "Excuse me (older sister), the check please.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l03-baonhieutien",
+          "vietnamese": "bao nhiêu tiền?",
+          "english": "how much (money)?",
+          "ipa": "/baːw˧ ɲiəw˧ tiən˨˩/",
+          "audioFile": null,
+          "notes": "The essential price-asking phrase. 'Bao nhiêu' (how much/many) + 'tiền' (money). Point at the item and ask this — works everywhere from street stalls to restaurants.",
+          "exampleSentence": {
+            "vietnamese": "Bánh mì này bao nhiêu tiền?",
+            "english": "How much is this bánh mì?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l03-may",
+          "vietnamese": "mấy?",
+          "english": "how many? (small numbers)",
+          "ipa": "/mej˧˥/",
+          "audioFile": null,
+          "notes": "Used for asking 'how many' when you expect a small number (roughly under 10). 'Mấy người?' (How many people?), 'Mấy ly?' (How many glasses?). Waitstaff often ask this when you sit down: 'Mấy người?' to know how many seats you need.",
+          "exampleSentence": {
+            "vietnamese": "Mấy người ăn?",
+            "english": "How many people eating?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l03-them",
+          "vietnamese": "thêm",
+          "english": "more / extra / additional",
+          "ipa": "/tʰem˧/",
+          "audioFile": null,
+          "notes": "Essential for customizing orders. 'Thêm rau' (more vegetables), 'thêm nước' (more broth), 'thêm đá' (more ice). Place it before the item you want more of.",
+          "exampleSentence": {
+            "vietnamese": "Cho thêm rau đi.",
+            "english": "Add more vegetables please.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l03-bot",
+          "vietnamese": "bớt",
+          "english": "less / reduce",
+          "ipa": "/bɤt˧˥/",
+          "audioFile": null,
+          "notes": "The opposite of 'thêm.' 'Bớt đường' (less sugar), 'bớt cay' (less spicy), 'bớt đá' (less ice). Very useful for customizing drinks and food to your preference.",
+          "exampleSentence": {
+            "vietnamese": "Bớt ngọt giùm em.",
+            "english": "Make it less sweet for me, please.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l03-cay",
+          "vietnamese": "cay",
+          "english": "spicy",
+          "ipa": "/kaj˧/",
+          "audioFile": null,
+          "notes": "Vietnamese food can range from mild to extremely spicy. Useful phrases: 'Không cay' (not spicy), 'ít cay' (a little spicy), 'cay nhiều' (very spicy). If you can't handle spice, say 'Không cay nha' when ordering.",
+          "exampleSentence": {
+            "vietnamese": "Cay quá! Cho tôi thêm nước đi.",
+            "english": "Too spicy! Give me more water please.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l03-ngot",
+          "vietnamese": "ngọt",
+          "english": "sweet",
+          "ipa": "/ŋɔt˧˩/",
+          "audioFile": null,
+          "notes": "Especially important for drinks. Southern Vietnamese coffee and drinks tend to be very sweet. 'Ít ngọt' (a little sweet / less sweet) or 'không ngọt' (not sweet) are your go-to customizations.",
+          "exampleSentence": {
+            "vietnamese": "Cà phê này ngọt quá, bớt đường đi.",
+            "english": "This coffee is too sweet, less sugar please.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l03-man",
+          "vietnamese": "mặn",
+          "english": "salty",
+          "ipa": "/man˧˩/",
+          "audioFile": null,
+          "notes": "Less commonly requested in customizations, but useful to know. 'Mặn quá' (too salty) is a common complaint. Southern food tends to be sweeter than Northern food, which is saltier.",
+          "exampleSentence": {
+            "vietnamese": "Món này mặn quá, cho thêm cơm đi.",
+            "english": "This dish is too salty, give me more rice.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l03-da",
+          "vietnamese": "đá",
+          "english": "ice",
+          "ipa": "/ɗaː˧˥/",
+          "audioFile": null,
+          "notes": "Literally means 'rock/stone' but in food contexts always means ice. Essential for ordering drinks in Saigon's heat. 'Cà phê đá' (iced coffee), 'trà đá' (iced tea). Almost all drinks in the South are served with ice by default.",
+          "exampleSentence": {
+            "vietnamese": "Cho tôi một ly trà đá.",
+            "english": "Give me one glass of iced tea.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l03-khongda",
+          "vietnamese": "không đá",
+          "english": "no ice",
+          "ipa": "/xoŋ˧ ɗaː˧˥/",
+          "audioFile": null,
+          "notes": "Say this if you don't want ice in your drink. 'Cho tôi cà phê sữa không đá' (Give me milk coffee with no ice). Some people prefer 'cà phê sữa nóng' (hot milk coffee) instead.",
+          "exampleSentence": {
+            "vietnamese": "Cho tôi cà phê sữa không đá.",
+            "english": "Give me milk coffee with no ice.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l03-itduong",
+          "vietnamese": "ít đường",
+          "english": "less sugar / a little sugar",
+          "ipa": "/it˧˥ ɗɯəŋ˨˩/",
+          "audioFile": null,
+          "notes": "'Ít' means 'a little / less.' This is one of the most useful drink customizations in Saigon, where condensed milk coffee is notoriously sweet. You can also say 'không đường' (no sugar).",
+          "exampleSentence": {
+            "vietnamese": "Cà phê sữa đá, ít đường nha.",
+            "english": "Iced milk coffee, less sugar please.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l03-nhieuda",
+          "vietnamese": "nhiều đá",
+          "english": "lots of ice / extra ice",
+          "ipa": "/ɲiəw˨˩ ɗaː˧˥/",
+          "audioFile": null,
+          "notes": "'Nhiều' means 'many/much/a lot.' In Saigon's heat, extra ice is always welcome. You can use 'nhiều' with anything: 'nhiều rau' (lots of vegetables), 'nhiều nước' (lots of broth).",
+          "exampleSentence": {
+            "vietnamese": "Cho nhiều đá vào đi, trời nóng quá!",
+            "english": "Put lots of ice in, it's so hot!",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "instruction",
+      "content": "**Real-World Ordering Scenarios**\n\n**Scenario 1: At a Phở Restaurant**\nYou sit down and the server approaches.\n- Server: *Mấy người?* — How many people?\n- You: *Dạ, hai người.* — Two people.\n- Server: *Ăn gì?* — What are you eating?\n- You: *Cho tôi một tô phở bò tái, một tô phở gà.* — One beef phở (rare), one chicken phở.\n- You: *Cho thêm giá và rau.* — Add more bean sprouts and herbs.\n- When done: *Tính tiền giùm.* — Check please.\n\n**Scenario 2: Ordering Cà Phê Sữa Đá at a Quán**\n- You: *Cho em một ly cà phê sữa đá, ít đường.* — One iced milk coffee, less sugar.\n- Barista: *Còn gì nữa không?* — Anything else?\n- You: *Dạ, hết rồi. Bao nhiêu tiền?* — That's all. How much?\n\n**Scenario 3: At a Bánh Mì Stand**\n- You: *Cho tôi một ổ bánh mì thịt.* — One meat bánh mì.\n- You: *Không cay nha.* — Not spicy please.\n- Vendor: *Mười lăm ngàn.* — Fifteen thousand (đồng).\n- You hand over money: *Dạ, cảm ơn.* — Thank you."
+    },
+    {
+      "type": "cultural_note",
+      "content": "Street food culture is the soul of Saigon. Here are things to know as a heritage speaker navigating food stalls:\n\n**Sitting down:** Many street food places have tiny plastic chairs and low tables on the sidewalk. Just sit down — no one will seat you. If it's crowded, it's normal to share a table with strangers.\n\n**Getting attention:** Say 'Chị ơi!' or 'Anh ơi!' (calling by pronoun + 'ơi') to get the server's attention. This is the equivalent of raising your hand. 'Ơi' is the calling particle.\n\n**Paying:** Most street food is cash only. Prices are in thousands of đồng — when someone says 'ba mươi' (thirty), they mean 30,000 đồng (about $1.20 USD). There's usually no tipping at street food stalls.\n\n**Condiments:** Phở and many noodle dishes come with a plate of fresh herbs (rau sống), bean sprouts (giá), lime (chanh), and chili (ớt) on the side. These are free — tear the herbs and add them to your bowl as you like.\n\n**'Trà đá' is often free:** At many street food places in Saigon, iced tea (trà đá) comes to your table automatically and is included in the price. This is a beloved Southern tradition — in the North, it's more common to get hot tea instead."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u3-l03-ex01",
+      "question": "You want to order one iced milk coffee with less sugar. What do you say?",
+      "options": [
+        "Cho tôi cà phê sữa đá, ít đường.",
+        "Tôi muốn một ly cà phê, không đường.",
+        "Làm ơn cho tôi cà phê nóng.",
+        "Cà phê sữa đá, nhiều đường."
+      ],
+      "correctAnswer": "Cho tôi cà phê sữa đá, ít đường.",
+      "explanation": "'Cho tôi cà phê sữa đá, ít đường' correctly orders an iced milk coffee (cà phê sữa đá) with less sugar (ít đường). The second option removes sugar entirely and drops the milk. The third is a hot coffee. The fourth asks for extra sugar."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u3-l03-ex02",
+      "question": "You've finished eating your phở and want to pay. You call the server: 'Chị ơi, _____ giùm em.'",
+      "correctAnswer": "tính tiền",
+      "explanation": "'Tính tiền' means 'calculate the bill.' The full phrase 'Chị ơi, tính tiền giùm em' is a natural, polite way to ask for the check — calling the server (chị ơi), requesting the bill (tính tiền), softening it (giùm = for me), and using the appropriate pronoun (em = I, the younger one)."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u3-l03-ex03",
+      "question": "At a phở restaurant, the server asks 'Mấy người?' What are they asking?",
+      "options": [
+        "What would you like to eat?",
+        "How many people?",
+        "Do you have a reservation?",
+        "Is this your first time here?"
+      ],
+      "correctAnswer": "How many people?",
+      "explanation": "'Mấy người?' means 'How many people?' This is typically the first thing a server asks when you sit down — they need to know how many bowls/seats/menus to prepare. 'Mấy' means 'how many' (for small numbers) and 'người' means 'people.'"
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u3-l03-ex04",
+      "question": "Type the phrase to ask 'how much money?' when you want to know the price of something.",
+      "correctAnswer": "bao nhiêu tiền",
+      "acceptableAnswers": ["bao nhiêu tiền", "Bao nhiêu tiền", "bao nhiêu tiền?", "Bao nhiêu tiền?"],
+      "explanation": "'Bao nhiêu tiền' (how much money) is the essential price-asking phrase. 'Bao nhiêu' means 'how much/how many' and 'tiền' means 'money.' You can point at any item and ask this."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u3-l03-ex05",
+      "question": "You want your bánh mì without any spice. What do you add to your order?",
+      "options": [
+        "Thêm cay",
+        "Cay nhiều",
+        "Không cay",
+        "Bớt ngọt"
+      ],
+      "correctAnswer": "Không cay",
+      "explanation": "'Không cay' means 'not spicy / no spice.' 'Thêm cay' means 'more spicy,' 'cay nhiều' means 'very spicy,' and 'bớt ngọt' means 'less sweet' — none of which help if you want to avoid spice!"
+    }
+  ]
+}

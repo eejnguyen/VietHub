@@ -1,0 +1,265 @@
+{
+  "slug": "lesson-02-food",
+  "unitSlug": "unit-2-basic-vocab",
+  "title": "Food & Drinks",
+  "titleVi": "Thức Ăn & Thức Uống",
+  "description": "Learn the essential food and drink vocabulary that every Vietnamese household uses — Southern style.",
+  "order": 2,
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Food is at the heart of Vietnamese culture, and Southern Vietnam has its own distinct food vocabulary. As a heritage speaker, you've probably heard many of these words at the dinner table — 'Con ăn cơm chưa?' is practically a greeting in Vietnamese households.\n\nIn this lesson, we'll cover staple foods, popular dishes, drinks, and condiments you'll encounter in any Southern Vietnamese family. Pay attention to terms that differ from Northern usage."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u2-l02-com",
+          "vietnamese": "cơm",
+          "english": "cooked rice / meal",
+          "ipa": "/kəːm˧/",
+          "audioFile": null,
+          "notes": "'Cơm' means both 'cooked rice' and 'a meal'. 'Ăn cơm' = to eat (a meal). 'Cơm' is the center of Vietnamese dining — everything else is a side dish.",
+          "exampleSentence": {
+            "vietnamese": "Con ăn cơm chưa?",
+            "english": "Have you eaten yet? (parent to child)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l02-pho",
+          "vietnamese": "phở",
+          "english": "pho (rice noodle soup)",
+          "ipa": "/fəː˧˥/",
+          "audioFile": null,
+          "notes": "Vietnam's most famous dish. Southern phở tends to be sweeter and served with more herbs (rau) and bean sprouts (giá) than Northern phở.",
+          "exampleSentence": {
+            "vietnamese": "Sáng nay con ăn phở nha.",
+            "english": "This morning let's eat pho, okay.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l02-bun",
+          "vietnamese": "bún",
+          "english": "rice vermicelli noodles",
+          "ipa": "/bun˧˥/",
+          "audioFile": null,
+          "notes": "Thin round rice noodles used in bún bò Huế, bún riêu, bún thịt nướng, and many other dishes. Different from phở noodles (which are flat).",
+          "exampleSentence": {
+            "vietnamese": "Bún thịt nướng ở đây ngon lắm.",
+            "english": "The grilled pork vermicelli here is very delicious.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l02-banh-mi",
+          "vietnamese": "bánh mì",
+          "english": "bread / Vietnamese sandwich",
+          "ipa": "/ɓaːɲ˧˥ mi˧˩/",
+          "audioFile": null,
+          "notes": "'Bánh mì' literally means 'wheat cake' and refers to both bread in general and the famous Vietnamese sandwich with pâté, meat, pickled vegetables, and herbs.",
+          "exampleSentence": {
+            "vietnamese": "Mua cho con ổ bánh mì đi má.",
+            "english": "Buy me a bánh mì, mom.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l02-hu-tieu",
+          "vietnamese": "hủ tiếu",
+          "english": "Southern-style noodle soup",
+          "ipa": "/hu˧˥ tiew˧˥/",
+          "audioFile": null,
+          "notes": "A distinctly Southern dish. Hủ tiếu Nam Vang (Phnom Penh style) is the most popular version. Uses a clear pork broth with thin, chewy noodles. This is a Southern staple that Northern Vietnamese don't typically eat.",
+          "exampleSentence": {
+            "vietnamese": "Ba thích ăn hủ tiếu khô hay nước?",
+            "english": "Dad, do you like dry or soup hủ tiếu?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l02-goi-cuon",
+          "vietnamese": "gỏi cuốn",
+          "english": "fresh spring rolls",
+          "ipa": "/ɣɔːj˧˥ kuən˧˥/",
+          "audioFile": null,
+          "notes": "Southern term. In the North, these are called 'nem cuốn'. Made with rice paper, shrimp, pork, herbs, and vermicelli. Dipped in tương (peanut sauce) in the South, not nước mắm.",
+          "exampleSentence": {
+            "vietnamese": "Gỏi cuốn chấm tương ngon hơn.",
+            "english": "Fresh spring rolls taste better dipped in peanut sauce.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l02-che",
+          "vietnamese": "chè",
+          "english": "sweet dessert soup / pudding",
+          "ipa": "/tɕɛː˧˩/",
+          "audioFile": null,
+          "notes": "A broad category of Vietnamese sweet soups/puddings. Saigon is famous for chè — you'll find chè carts and shops everywhere. Popular types: chè ba màu (three-color), chè đậu đỏ (red bean), chè bưởi (pomelo).",
+          "exampleSentence": {
+            "vietnamese": "Trời nóng quá, mình đi ăn chè đi.",
+            "english": "It's so hot, let's go eat chè.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l02-nuoc-mam",
+          "vietnamese": "nước mắm",
+          "english": "fish sauce",
+          "ipa": "/nɨək˧˥ mam˧˥/",
+          "audioFile": null,
+          "notes": "The essential condiment of Vietnamese cuisine. 'Nước mắm pha' = diluted fish sauce dipping sauce (mixed with sugar, lime, garlic, chili). Phú Quốc fish sauce is considered the best.",
+          "exampleSentence": {
+            "vietnamese": "Pha nước mắm cho con đi má.",
+            "english": "Mix the fish sauce dip for me, mom.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l02-ca-phe-sua-da",
+          "vietnamese": "cà phê sữa đá",
+          "english": "iced coffee with condensed milk",
+          "ipa": "/kaː˧˩ fe˧ sɨə˧˥ ɗaː˧˥/",
+          "audioFile": null,
+          "notes": "Vietnam's iconic coffee drink. Made with a phin (drip filter) and sweetened condensed milk over ice. Vietnamese coffee is typically very strong robusta. Saigon cafe culture is huge.",
+          "exampleSentence": {
+            "vietnamese": "Cho tui một ly cà phê sữa đá.",
+            "english": "Give me one iced coffee with milk.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l02-tra-da",
+          "vietnamese": "trà đá",
+          "english": "iced tea",
+          "ipa": "/tɕaː˧˩ ɗaː˧˥/",
+          "audioFile": null,
+          "notes": "Free iced tea served at almost every restaurant and street food stall in Southern Vietnam. It's a cultural staple — you sit down, trà đá appears. Usually very light jasmine or green tea.",
+          "exampleSentence": {
+            "vietnamese": "Ngồi uống trà đá đi.",
+            "english": "Let's sit and drink iced tea.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l02-thit",
+          "vietnamese": "thịt",
+          "english": "meat",
+          "ipa": "/tʰit˧˩/",
+          "audioFile": null,
+          "notes": "'Thịt' alone usually means pork (thịt heo) in Southern Vietnam. 'Thịt bò' = beef, 'thịt gà' = chicken. Note: Southern says 'thịt heo', Northern says 'thịt lợn' for pork.",
+          "exampleSentence": {
+            "vietnamese": "Hôm nay má kho thịt nha.",
+            "english": "Today mom is braising pork, okay.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l02-rau",
+          "vietnamese": "rau",
+          "english": "vegetables / herbs",
+          "ipa": "/ɣaːw˧/",
+          "audioFile": null,
+          "notes": "'Rau' covers both vegetables and fresh herbs. 'Rau sống' = raw herb plate (served with most dishes). Southern meals always include a big plate of fresh herbs.",
+          "exampleSentence": {
+            "vietnamese": "Ăn rau đi con, rau tốt cho sức khỏe.",
+            "english": "Eat your vegetables, child — vegetables are good for your health.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l02-nuoc",
+          "vietnamese": "nước",
+          "english": "water / liquid / country",
+          "ipa": "/nɨək˧˥/",
+          "audioFile": null,
+          "notes": "'Nước' is one of the most common words in Vietnamese. It means water, liquid, or even country. 'Nước lọc' = filtered/plain water, 'nước ngọt' = soft drink, 'nước dừa' = coconut water.",
+          "exampleSentence": {
+            "vietnamese": "Uống nước đi con.",
+            "english": "Drink some water, child.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l02-banh",
+          "vietnamese": "bánh",
+          "english": "cake / pastry / any flour-based food",
+          "ipa": "/ɓaːɲ˧˥/",
+          "audioFile": null,
+          "notes": "'Bánh' is a broad category covering cakes, pastries, dumplings, and any food made from flour or starch. Bánh xèo (crispy crepe), bánh cuốn (steamed rolls), bánh tráng (rice paper), etc.",
+          "exampleSentence": {
+            "vietnamese": "Chiều nay mình đi ăn bánh xèo nha.",
+            "english": "This afternoon let's go eat bánh xèo, okay.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l02-an",
+          "vietnamese": "ăn",
+          "english": "to eat",
+          "ipa": "/an˧/",
+          "audioFile": null,
+          "notes": "The most essential food verb. 'Ăn cơm' = eat a meal, 'ăn sáng' = eat breakfast, 'ăn trưa' = eat lunch, 'ăn tối/chiều' = eat dinner (Southern often says 'ăn chiều' instead of 'ăn tối').",
+          "exampleSentence": {
+            "vietnamese": "Mấy giờ mình ăn tối?",
+            "english": "What time are we eating dinner?",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "In Southern Vietnamese families, meals are communal — dishes are placed in the center of the table and everyone shares. The most respectful gesture is to serve food to elders first ('gắp thức ăn cho ông bà'). You'll often hear 'Mời ba má ăn cơm' (inviting parents to eat) before anyone starts. Saying 'Con mời ba má ăn cơm' before a family meal is basic Vietnamese table manners.\n\nSouthern food tends to be sweeter than Northern food, with more sugar in sauces and broths. Coconut milk (nước cốt dừa) is also used much more heavily in Southern cooking. And the herb plates are enormous — a plate of rau sống accompanies almost every dish."
+    },
+    {
+      "type": "instruction",
+      "content": "Useful food phrases for heritage speakers:\n\n• 'Con ăn cơm chưa?' — Have you eaten yet? (a common greeting)\n• 'Ngon lắm!' — Very delicious!\n• 'Con no rồi.' — I'm full already.\n• 'Cho con thêm cơm.' — Give me more rice.\n• 'Cay quá!' — Too spicy!\n• 'Mời ba má ăn cơm.' — Please eat, mom and dad. (said before a meal)"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u2-l02-ex01",
+      "question": "What is the Southern Vietnamese term for fresh spring rolls?",
+      "options": ["nem cuốn", "gỏi cuốn", "chả giò", "bánh cuốn"],
+      "correctAnswer": "gỏi cuốn",
+      "explanation": "Southern Vietnamese says 'gỏi cuốn' for fresh spring rolls. 'Nem cuốn' is the Northern term. 'Chả giò' is the Southern term for fried spring rolls."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u2-l02-ex02",
+      "question": "What does 'thịt heo' mean?",
+      "options": ["beef", "chicken", "pork", "fish"],
+      "correctAnswer": "pork",
+      "explanation": "'Thịt heo' is the Southern term for pork. In Northern Vietnamese, pork is 'thịt lợn'. 'Heo' and 'lợn' both mean pig."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u2-l02-ex03",
+      "question": "Type the Vietnamese for 'iced coffee with condensed milk':",
+      "correctAnswer": "cà phê sữa đá",
+      "acceptableAnswers": ["cà phê sữa đá", "ca phe sua da"],
+      "explanation": "'Cà phê sữa đá' — cà phê (coffee) + sữa (milk/condensed milk) + đá (ice). Vietnam's most iconic drink."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u2-l02-ex04",
+      "question": "Which noodle dish is distinctly Southern and not commonly found in Northern Vietnam?",
+      "options": ["phở", "bún chả", "hủ tiếu", "bún riêu"],
+      "correctAnswer": "hủ tiếu",
+      "explanation": "Hủ tiếu is a distinctly Southern dish with clear pork broth and thin, chewy noodles. Bún chả is actually a Northern dish (Hanoi specialty)."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u2-l02-ex05",
+      "question": "Your mom cooked a great meal. Type 'Very delicious!' in Vietnamese:",
+      "correctAnswer": "Ngon lắm!",
+      "acceptableAnswers": ["Ngon lắm!", "Ngon lắm", "ngon lắm", "ngon lắm!"],
+      "explanation": "'Ngon' = delicious, 'lắm' = very/really (placed after the adjective in Southern speech). 'Ngon lắm!' is what you say to compliment someone's cooking."
+    }
+  ]
+}

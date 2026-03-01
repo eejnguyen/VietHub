@@ -1,0 +1,325 @@
+{
+  "slug": "lesson-05-consonants-1",
+  "unitSlug": "unit-1-pronunciation",
+  "title": "Consonants Part 1: Single Consonants",
+  "titleVi": "Phụ Âm Đơn",
+  "description": "Learn the single consonants of Vietnamese, with special attention to the Southern (Saigon) dialect. Several consonants sound very different in Southern vs. Northern speech — this lesson highlights exactly what you will hear from Southern speakers.",
+  "order": 5,
+  "estimatedMinutes": 30,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese has **17 single consonant letters** that can appear at the beginning of a syllable. Many overlap with English sounds, but several are dramatically different — and some change depending on whether you speak the **Southern (Saigon)** or **Northern (Hanoi)** dialect.\n\nThis lesson focuses on the **Southern dialect**, which is what you will hear from:\n- Speakers from Ho Chi Minh City (Saigon) and the Mekong Delta\n- Most of the Vietnamese diaspora community (the majority of overseas Vietnamese trace their roots to the South)\n- Your parents and grandparents, if your family is from southern Vietnam\n\n**The biggest Southern differences to watch for:**\n- **d** = /j/ (like English 'y'), not /z/\n- **v** often = /j/ (like English 'y') in casual speech\n- **r** = retroflex /ʐ/ (tongue curled back)\n- **s** = retroflex /ʂ/ (sounds like 'sh' to English ears)"
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u1-l05-b",
+          "vietnamese": "b",
+          "english": "Consonant B",
+          "ipa": "/ɓ/",
+          "audioFile": null,
+          "notes": "An implosive 'b'. Your vocal cords vibrate as your lips close, creating a slight inward suction of air. Softer and more 'swallowed' than English 'b'. Same in both dialects.",
+          "exampleSentence": {
+            "vietnamese": "ba",
+            "english": "three / dad",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-c",
+          "vietnamese": "c",
+          "english": "Consonant C",
+          "ipa": "/k/",
+          "audioFile": null,
+          "notes": "Always a hard 'k' sound, never soft like in English 'city'. Used before a, ă, â, o, ô, ơ, u, ư. Before e, ê, i, y, the letter 'k' is used instead.",
+          "exampleSentence": {
+            "vietnamese": "cá",
+            "english": "fish",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-d",
+          "vietnamese": "d",
+          "english": "Consonant D (Southern: 'y' sound)",
+          "ipa": "/j/ (Southern), /z/ (Northern)",
+          "audioFile": null,
+          "notes": "THIS IS THE #1 NORTH-SOUTH DIFFERENCE. In Southern Vietnamese, 'd' sounds like English 'y' in 'yes'. In Northern Vietnamese, it sounds like 'z' in 'zoo'. If your family is from the South, the 'd' in 'da' sounds like 'ya'. This is the sound you hear from your parents.",
+          "exampleSentence": {
+            "vietnamese": "da",
+            "english": "skin / leather / yes (informal)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-đ",
+          "vietnamese": "đ",
+          "english": "Consonant Đ",
+          "ipa": "/ɗ/",
+          "audioFile": null,
+          "notes": "An implosive 'd'. This is the sound English speakers expect when they see the letter 'd'. The crossbar distinguishes it from plain 'd'. Think of it as the 'real d' of Vietnamese. Same in both dialects.",
+          "exampleSentence": {
+            "vietnamese": "đi",
+            "english": "to go",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-g",
+          "vietnamese": "g",
+          "english": "Consonant G",
+          "ipa": "/ɣ/",
+          "audioFile": null,
+          "notes": "A voiced velar fricative. Say 'g' as in 'go' but let the air flow through continuously instead of fully stopping. A soft, breathy 'g'. Used before a, ă, â, o, ô, ơ, u, ư. Before e, ê, i, y, the digraph 'gh' is used instead.",
+          "exampleSentence": {
+            "vietnamese": "gà",
+            "english": "chicken",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-h",
+          "vietnamese": "h",
+          "english": "Consonant H",
+          "ipa": "/h/",
+          "audioFile": null,
+          "notes": "Same as English 'h' in 'hat'. A simple breathy sound. Same in both dialects.",
+          "exampleSentence": {
+            "vietnamese": "hai",
+            "english": "two",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-k",
+          "vietnamese": "k",
+          "english": "Consonant K",
+          "ipa": "/k/",
+          "audioFile": null,
+          "notes": "Same sound as 'c' — a hard 'k'. Used before e, ê, i, y (where 'c' cannot appear). Vietnamese 'k' is unaspirated (no puff of air), more like the 'k' in 'ski' than in 'kite'.",
+          "exampleSentence": {
+            "vietnamese": "kế",
+            "english": "plan / next",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-l",
+          "vietnamese": "l",
+          "english": "Consonant L",
+          "ipa": "/l/",
+          "audioFile": null,
+          "notes": "Similar to English 'l' in 'love'. Only appears at the beginning of syllables in Vietnamese, never at the end (unlike English 'bell'). Same in both dialects.",
+          "exampleSentence": {
+            "vietnamese": "là",
+            "english": "to be / is",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-m",
+          "vietnamese": "m",
+          "english": "Consonant M",
+          "ipa": "/m/",
+          "audioFile": null,
+          "notes": "Same as English 'm'. Can appear at the beginning or end of a syllable. Same in both dialects.",
+          "exampleSentence": {
+            "vietnamese": "mẹ",
+            "english": "mother",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-n",
+          "vietnamese": "n",
+          "english": "Consonant N",
+          "ipa": "/n/",
+          "audioFile": null,
+          "notes": "Same as English 'n'. Can appear at the beginning or end of a syllable. Same in both dialects.",
+          "exampleSentence": {
+            "vietnamese": "nước",
+            "english": "water / country",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-p",
+          "vietnamese": "p",
+          "english": "Consonant P",
+          "ipa": "/p/",
+          "audioFile": null,
+          "notes": "Rarely starts native Vietnamese words. Mostly found in loanwords (pin = battery, phở uses 'ph' not 'p'). As a final consonant, 'p' is an unreleased stop — your lips close but no air comes out.",
+          "exampleSentence": {
+            "vietnamese": "pin",
+            "english": "battery",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-q",
+          "vietnamese": "q",
+          "english": "Consonant Q",
+          "ipa": "/k/ (always with 'u' as /kw/)",
+          "audioFile": null,
+          "notes": "Always appears as 'qu-', never alone. Pronounced /kw/, like English 'qu' in 'quick'. The 'u' is part of the consonant combination, not the vowel.",
+          "exampleSentence": {
+            "vietnamese": "quê",
+            "english": "hometown / countryside",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-r",
+          "vietnamese": "r",
+          "english": "Consonant R (Southern: retroflex)",
+          "ipa": "/ʐ/ or /ɹ/ (Southern)",
+          "audioFile": null,
+          "notes": "SOUTHERN DIALECT: The tongue curls back (retroflex). Some Southern speakers use a sound close to English 'r', others use a buzzy retroflex /ʐ/. NORTHERN DIALECT: A trill or tap, like Spanish 'r'. The Southern 'r' is one of the distinctive markers of Saigon speech.",
+          "exampleSentence": {
+            "vietnamese": "ra",
+            "english": "to go out",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-s",
+          "vietnamese": "s",
+          "english": "Consonant S (Southern: 'sh'-like)",
+          "ipa": "/ʂ/ or /s/ (Southern)",
+          "audioFile": null,
+          "notes": "SOUTHERN DIALECT: Often retroflex, sounding like 'sh' in English 'ship'. The tongue curls back. NORTHERN DIALECT: A flat /s/ like English 'sun'. In Southern speech, 's' and 'x' sound different: 's' is 'sh'-like while 'x' is a flat 's'.",
+          "exampleSentence": {
+            "vietnamese": "sao",
+            "english": "star / why",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-t",
+          "vietnamese": "t",
+          "english": "Consonant T",
+          "ipa": "/t/",
+          "audioFile": null,
+          "notes": "Unaspirated 't' — no puff of air. Like the 't' in English 'stop', not the 't' in 'top'. As a final consonant, it is an unreleased stop — your tongue touches the roof but no air comes out. Same in both dialects.",
+          "exampleSentence": {
+            "vietnamese": "tốt",
+            "english": "good",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-v",
+          "vietnamese": "v",
+          "english": "Consonant V (Southern: often 'y' sound)",
+          "ipa": "/v/ or /j/ (Southern casual)",
+          "audioFile": null,
+          "notes": "SOUTHERN DIALECT: In formal speech, pronounced /v/ like English 'v'. In casual everyday speech, many Southern speakers say /j/ (like 'y'). This means 'v' and 'd' can sound the same in casual Southern speech! NORTHERN DIALECT: Always /v/. Heritage speakers often use the /j/ pronunciation without realizing it.",
+          "exampleSentence": {
+            "vietnamese": "về",
+            "english": "to return / about",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l05-x",
+          "vietnamese": "x",
+          "english": "Consonant X (always 's' sound)",
+          "ipa": "/s/",
+          "audioFile": null,
+          "notes": "Always pronounced /s/, like English 's' in 'sun'. Never like English 'x' in 'box'. In Southern Vietnamese, this contrasts with 's' (which sounds like 'sh'). In Northern Vietnamese, 's' and 'x' sound the same. Same in both dialects.",
+          "exampleSentence": {
+            "vietnamese": "xin",
+            "english": "to ask / please",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "instruction",
+      "content": "**Southern Dialect Consonant Summary:**\n\n| Letter | Southern Sound | Northern Sound | English Comparison |\n|--------|---------------|----------------|--------------------|\n| **d** | /j/ | /z/ | Southern: 'y' in 'yes' |\n| **đ** | /ɗ/ | /ɗ/ | Implosive 'd' (same both) |\n| **r** | /ʐ/ or /ɹ/ | trill/tap | Southern: retroflex, like curled-tongue 'r' |\n| **s** | /ʂ/ | /s/ | Southern: 'sh' in 'ship' |\n| **v** | /j/ or /v/ | /v/ | Southern casual: 'y' in 'yes' |\n| **x** | /s/ | /s/ | Always 's' in 'sun' (same both) |\n\nThese differences mean that in casual Southern speech, the words **da**, **va**, and **gia** can all sound like 'ya'. Context and tone keep them distinct."
+    },
+    {
+      "type": "cultural_note",
+      "content": "If you are a heritage speaker who grew up hearing Vietnamese at home, these are the sounds you already know. Your parents and grandparents from Saigon naturally use /j/ for 'd', retroflex 'r' and 's', and the casual /j/ for 'v'. Some Vietnamese language classes teach Northern pronunciation as the 'standard' — but there is no single correct dialect. Southern pronunciation is used by over 30 million speakers in Vietnam and by the majority of the diaspora. This course teaches the sounds you hear from your family so you can connect what you already know with the written language."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u1-l05-ex01",
+      "question": "In the Southern (Saigon) dialect, the consonant 'd' is pronounced as:",
+      "options": [
+        "/d/ like English 'd' in 'dog'",
+        "/z/ like English 'z' in 'zoo'",
+        "/j/ like English 'y' in 'yes'",
+        "/ð/ like English 'th' in 'this'"
+      ],
+      "correctAnswer": "/j/ like English 'y' in 'yes'",
+      "explanation": "In Southern Vietnamese, 'd' is pronounced /j/, sounding like English 'y' in 'yes'. So 'da' sounds like 'ya'. This is the #1 North-South consonant difference. Northern speakers pronounce 'd' as /z/."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l05-ex02",
+      "question": "Which consonant letter represents the implosive 'd' sound (the sound English speakers expect for 'd')?",
+      "options": ["d", "đ", "t", "b"],
+      "correctAnswer": "đ",
+      "explanation": "The letter 'đ' (with the crossbar) is the implosive /ɗ/, which sounds like the English 'd'. Plain 'd' without the crossbar is /j/ in Southern speech (like 'y'). This is a critical distinction."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l05-ex03",
+      "question": "In Southern Vietnamese, the letter 's' sounds most like which English sound?",
+      "options": [
+        "'s' in 'sun'",
+        "'z' in 'zoo'",
+        "'sh' in 'ship'",
+        "'ch' in 'chip'"
+      ],
+      "correctAnswer": "'sh' in 'ship'",
+      "explanation": "In the Southern dialect, 's' is often a retroflex /ʂ/, which sounds like 'sh' in English 'ship'. The tongue curls back. This contrasts with 'x', which is the flat /s/ sound in Southern speech. In Northern Vietnamese, both 's' and 'x' sound like flat /s/."
+    },
+    {
+      "type": "tone_matching",
+      "key": "u1-l05-ex04",
+      "instruction": "Match each Vietnamese word to its meaning, using your knowledge of consonant sounds.",
+      "pairs": [
+        {
+          "word": "ba",
+          "options": ["to go", "three / dad", "fish", "mother"],
+          "correct": "three / dad"
+        },
+        {
+          "word": "đi",
+          "options": ["to go", "three / dad", "fish", "mother"],
+          "correct": "to go"
+        },
+        {
+          "word": "cá",
+          "options": ["to go", "three / dad", "fish", "mother"],
+          "correct": "fish"
+        },
+        {
+          "word": "mẹ",
+          "options": ["to go", "three / dad", "fish", "mother"],
+          "correct": "mother"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l05-ex05",
+      "question": "Why can the words 'da', 'va', and 'gia' all sound similar in casual Southern Vietnamese?",
+      "options": [
+        "They all have the same tone",
+        "Southern speakers pronounce d, v, and gi all as /j/ (the 'y' sound)",
+        "Southern speakers drop all consonants",
+        "They are actually the same word"
+      ],
+      "correctAnswer": "Southern speakers pronounce d, v, and gi all as /j/ (the 'y' sound)",
+      "explanation": "In casual Southern speech, 'd' = /j/, 'v' often = /j/, and 'gi' = /j/. So all three initial consonants merge to the same 'y' sound. Context and tones help listeners tell them apart. This is a well-known feature of Southern Vietnamese, not an error."
+    }
+  ]
+}

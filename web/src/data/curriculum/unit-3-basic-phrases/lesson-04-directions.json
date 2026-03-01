@@ -1,0 +1,214 @@
+{
+  "slug": "lesson-04-directions",
+  "unitSlug": "unit-3-basic-phrases",
+  "title": "Asking Directions",
+  "titleVi": "Hỏi Đường",
+  "description": "Learn how to ask for and understand directions in Southern Vietnamese — including the key word 'quẹo' that marks you as a Southern speaker.",
+  "order": 4,
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Getting around in Vietnam means asking for directions constantly. Whether you're looking for a restaurant, the bathroom, or your cousin's house, you need a handful of key phrases.\n\nAs a heritage speaker, you've probably heard these words at home — 'quẹo trái', 'đi thẳng', 'ở đâu'. Now let's lock them in so you can navigate confidently.\n\nImportant: Southern Vietnamese uses 'quẹo' for 'turn'. In the North, people say 'rẽ'. If someone says 'rẽ trái', it means the same as 'quẹo trái' — but you'll sound more natural using 'quẹo' in Saigon."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u3-l04-odau",
+          "vietnamese": "ở đâu",
+          "english": "where (is it)?",
+          "ipa": "/ʔɤː˧˩ dəw˧/",
+          "audioFile": null,
+          "notes": "The most essential question word for directions. Place it after the thing you're looking for.",
+          "exampleSentence": {
+            "vietnamese": "Nhà vệ sinh ở đâu?",
+            "english": "Where is the bathroom?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l04-ditháng",
+          "vietnamese": "đi thẳng",
+          "english": "go straight",
+          "ipa": "/di˧ tʰaŋ˧˩/",
+          "audioFile": null,
+          "notes": "The most common direction you'll hear. 'Đi' = go, 'thẳng' = straight.",
+          "exampleSentence": {
+            "vietnamese": "Đi thẳng rồi quẹo trái.",
+            "english": "Go straight then turn left.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l04-queo",
+          "vietnamese": "quẹo",
+          "english": "turn (Southern)",
+          "ipa": "/kwɛw˧˩/",
+          "audioFile": null,
+          "ttsText": "quẹo",
+          "notes": "Southern dialect for 'turn'. Northern speakers say 'rẽ'. Using 'quẹo' immediately marks you as a Southern speaker.",
+          "exampleSentence": {
+            "vietnamese": "Quẹo phải ở ngã tư.",
+            "english": "Turn right at the intersection.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l04-bentrai",
+          "vietnamese": "bên trái",
+          "english": "left side / on the left",
+          "ipa": "/ben˧ tɕaːj˧˥/",
+          "audioFile": null,
+          "notes": "'Bên' = side. 'Quẹo trái' = turn left."
+        },
+        {
+          "key": "u3-l04-benphai",
+          "vietnamese": "bên phải",
+          "english": "right side / on the right",
+          "ipa": "/ben˧ faːj˧˩/",
+          "audioFile": null,
+          "notes": "'Quẹo phải' = turn right. In Southern pronunciation, 'ph' sounds like /f/."
+        },
+        {
+          "key": "u3-l04-gan",
+          "vietnamese": "gần",
+          "english": "near / close",
+          "ipa": "/ɣən˧˩/",
+          "audioFile": null,
+          "exampleSentence": {
+            "vietnamese": "Có tiệm ăn nào gần đây không?",
+            "english": "Is there any restaurant near here?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l04-xa",
+          "vietnamese": "xa",
+          "english": "far",
+          "ipa": "/saː˧/",
+          "audioFile": null,
+          "notes": "In Southern dialect, 'x' is pronounced /s/.",
+          "exampleSentence": {
+            "vietnamese": "Có xa không?",
+            "english": "Is it far?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l04-dangtruoc",
+          "vietnamese": "đằng trước",
+          "english": "in front / ahead",
+          "ipa": "/daŋ˧˩ tɕɨək˧˥/",
+          "audioFile": null,
+          "notes": "Can also say 'phía trước'. 'Đằng' and 'phía' both mean 'direction/side'."
+        },
+        {
+          "key": "u3-l04-dangsau",
+          "vietnamese": "đằng sau",
+          "english": "behind / in back",
+          "ipa": "/daŋ˧˩ ʂəw˧/",
+          "audioFile": null,
+          "exampleSentence": {
+            "vietnamese": "Nhà vệ sinh ở đằng sau.",
+            "english": "The bathroom is in the back.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l04-ngatu",
+          "vietnamese": "ngã tư",
+          "english": "intersection (4-way)",
+          "ipa": "/ŋaː˧˥ tɨː˧/",
+          "audioFile": null,
+          "notes": "'Ngã' = way/fork, 'tư' = four. A 3-way intersection is 'ngã ba'.",
+          "exampleSentence": {
+            "vietnamese": "Tới ngã tư thì quẹo trái.",
+            "english": "When you reach the intersection, turn left.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l04-duong",
+          "vietnamese": "đường",
+          "english": "road / street",
+          "ipa": "/dɨəŋ˧˩/",
+          "audioFile": null,
+          "notes": "Also used in street names: 'đường Nguyễn Huệ' = Nguyen Hue Street.",
+          "exampleSentence": {
+            "vietnamese": "Đường này đi tới chợ.",
+            "english": "This road goes to the market.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l04-phia",
+          "vietnamese": "phía",
+          "english": "direction / side",
+          "ipa": "/fiə˧˥/",
+          "audioFile": null,
+          "notes": "Used with other words: 'phía trước' (ahead), 'phía sau' (behind), 'phía trên' (above), 'phía dưới' (below)."
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "In Vietnam, directions are often given using landmarks rather than street names — 'go past the church', 'next to the phở shop', 'opposite the park'. People also use hand gestures extensively. Don't be surprised if someone walks you partway to your destination. Vietnamese hospitality extends to helping strangers find their way.\n\nAlso, 'đi thẳng' can be vague — it might mean 50 meters or 2 kilometers. When in doubt, ask 'Có xa không?' (Is it far?)."
+    },
+    {
+      "type": "instruction",
+      "content": "Putting it together — here are two common scenarios:\n\n**Finding the bathroom:**\n'Xin lỗi, nhà vệ sinh ở đâu?' → 'Ở đằng sau, bên trái.'\n(Excuse me, where is the bathroom? → In the back, on the left.)\n\n**Finding a restaurant:**\n'Có tiệm ăn nào gần đây không?' → 'Đi thẳng, tới ngã tư quẹo phải. Ở bên trái đường.'\n(Is there a restaurant near here? → Go straight, turn right at the intersection. It's on the left side of the road.)"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u3-l04-ex01",
+      "question": "How do you ask 'Where is the bathroom?' in Vietnamese?",
+      "options": [
+        "Nhà vệ sinh ở đâu?",
+        "Nhà vệ sinh gần đây?",
+        "Đi nhà vệ sinh?",
+        "Nhà vệ sinh bên trái?"
+      ],
+      "correctAnswer": "Nhà vệ sinh ở đâu?",
+      "explanation": "'Ở đâu' means 'where'. Place the thing you're looking for before 'ở đâu' to ask where it is."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u3-l04-ex02",
+      "question": "What is the Southern Vietnamese word for 'turn'?",
+      "options": ["rẽ", "quẹo", "đi", "bên"],
+      "correctAnswer": "quẹo",
+      "explanation": "Southern Vietnamese uses 'quẹo' for 'turn'. 'Rẽ' is the Northern equivalent. Both are understood everywhere, but 'quẹo' sounds more natural in Saigon."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u3-l04-ex03",
+      "question": "Fill in the blank:",
+      "sentence": "Đi thẳng rồi ___ trái.",
+      "english": "Go straight then turn left.",
+      "correctAnswer": "quẹo",
+      "acceptableAnswers": ["quẹo", "Quẹo", "rẽ", "Rẽ"],
+      "explanation": "'Quẹo trái' means 'turn left' in Southern Vietnamese. 'Rẽ trái' is also acceptable (Northern)."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u3-l04-ex04",
+      "question": "Fill in the blank:",
+      "sentence": "Có tiệm ăn nào ___ đây không?",
+      "english": "Is there any restaurant near here?",
+      "correctAnswer": "gần",
+      "acceptableAnswers": ["gần", "Gần"],
+      "explanation": "'Gần' means 'near/close'. 'Gần đây' = 'near here'."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u3-l04-ex05",
+      "question": "What does 'ngã tư' mean?",
+      "options": ["dead end", "roundabout", "four-way intersection", "bridge"],
+      "correctAnswer": "four-way intersection",
+      "explanation": "'Ngã' means way/fork and 'tư' means four. A 'ngã tư' is a four-way intersection. Similarly, 'ngã ba' is a three-way intersection."
+    }
+  ]
+}

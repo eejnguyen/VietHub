@@ -1,0 +1,219 @@
+{
+  "slug": "lesson-07-final-consonants",
+  "unitSlug": "unit-1-pronunciation",
+  "title": "Final Consonants",
+  "titleVi": "Âm Cuối",
+  "description": "Master the 8 final consonant sounds in Vietnamese: -c, -ch, -m, -n, -ng, -nh, -p, -t. Learn how Southern Vietnamese merges some of these endings and practice important minimal pairs.",
+  "order": 7,
+  "estimatedMinutes": 16,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese syllables can end with one of 8 consonant sounds (or no consonant at all). Unlike English, these final consonants are **unreleased** — your mouth moves into position but doesn't produce a burst of air. For example, the '-p' in Vietnamese is not like the '-p' in English 'stop'; your lips close but you don't release any air. This is one of the most important differences between Vietnamese and English pronunciation."
+    },
+    {
+      "type": "instruction",
+      "content": "The 8 final consonant sounds are:\n\n• **-m** /m/ — lips close (same as English)\n• **-n** /n/ — tongue touches the ridge behind your upper teeth\n• **-ng** /ŋ/ — back of tongue raises to soft palate (like English 'sing')\n• **-nh** /ɲ/ — tongue touches the palate (like 'canyon')\n• **-p** /p/ — lips close, unreleased\n• **-t** /t/ — tongue tip touches ridge, unreleased\n• **-c** /k/ — back of tongue touches soft palate, unreleased\n• **-ch** /jk/ or /ɪk/ — a glide into an unreleased stop"
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u1-l07-cam",
+          "vietnamese": "cam",
+          "english": "orange (fruit)",
+          "ipa": "/kam/",
+          "audioFile": null,
+          "notes": "Final -m: lips fully close. Same as English."
+        },
+        {
+          "key": "u1-l07-can",
+          "vietnamese": "cần",
+          "english": "to need",
+          "ipa": "/kə̀n/",
+          "audioFile": null,
+          "notes": "Final -n: tongue tip touches the ridge behind upper teeth.",
+          "exampleSentence": {
+            "vietnamese": "Tôi cần nước.",
+            "english": "I need water.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l07-mang",
+          "vietnamese": "mang",
+          "english": "to carry / to bring",
+          "ipa": "/maŋ/",
+          "audioFile": null,
+          "notes": "Final -ng: back of tongue rises. In Southern speech, -n and -ng sometimes merge — 'can' and 'cang' may sound similar."
+        },
+        {
+          "key": "u1-l07-banh",
+          "vietnamese": "bánh",
+          "english": "cake / bread / pastry",
+          "ipa": "/ɓáɲ/",
+          "audioFile": null,
+          "notes": "Final -nh: the tongue presses against the hard palate. Common in food words!",
+          "exampleSentence": {
+            "vietnamese": "Bánh mì ngon lắm.",
+            "english": "The bread is very delicious.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l07-dep",
+          "vietnamese": "đẹp",
+          "english": "beautiful / pretty",
+          "ipa": "/ɗɛ̂p/",
+          "audioFile": null,
+          "notes": "Final -p: lips close without releasing air. The sound just stops.",
+          "exampleSentence": {
+            "vietnamese": "Đẹp quá!",
+            "english": "So beautiful!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l07-mat",
+          "vietnamese": "mắt",
+          "english": "eye",
+          "ipa": "/mắt/",
+          "audioFile": null,
+          "notes": "Final -t: tongue touches the ridge, unreleased. In Southern speech, -t and -c often merge."
+        },
+        {
+          "key": "u1-l07-hoc",
+          "vietnamese": "học",
+          "english": "to study / to learn",
+          "ipa": "/hɔ̂k/",
+          "audioFile": null,
+          "notes": "Final -c: back of tongue rises to soft palate, unreleased. This is like the 'k' position but with no air release.",
+          "exampleSentence": {
+            "vietnamese": "Tôi học tiếng Việt.",
+            "english": "I study Vietnamese.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l07-sach",
+          "vietnamese": "sách",
+          "english": "book",
+          "ipa": "/ʂáɪk/",
+          "audioFile": null,
+          "notes": "Final -ch: in Southern Vietnamese, this has a glide quality — the vowel shifts slightly before the stop. Different from Northern."
+        },
+        {
+          "key": "u1-l07-an",
+          "vietnamese": "ăn",
+          "english": "to eat",
+          "ipa": "/ăn/",
+          "audioFile": null,
+          "exampleSentence": {
+            "vietnamese": "Ăn cơm chưa?",
+            "english": "Have you eaten (rice) yet?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l07-ang",
+          "vietnamese": "ăng",
+          "english": "(used in compound words)",
+          "ipa": "/ăŋ/",
+          "audioFile": null,
+          "notes": "Compare with 'ăn' above — in Southern speech, these two endings may sound very similar. The -n/-ng distinction is one of the trickiest parts of Southern Vietnamese spelling."
+        }
+      ]
+    },
+    {
+      "type": "instruction",
+      "content": "**Important Minimal Pairs:** These word pairs differ only in their final consonant. Practicing them will train your ear and help with spelling.\n\n• **bán** (to sell) vs. **bàng** — listen for -n (tongue tip) vs. -ng (tongue back)\n• **mắt** (eye) vs. **mắc** (expensive/stuck) — -t (tongue tip) vs. -c (tongue back)\n• **bắt** (to catch) vs. **bắc** (north) — another -t vs. -c pair\n• **sách** (book) vs. **sắc** (sharp/tone name) — -ch vs. -c\n• **cam** (orange) vs. **can** (to advise) — -m (lips) vs. -n (tongue tip)"
+    },
+    {
+      "type": "instruction",
+      "content": "**The Southern Final Consonant Mergers:**\n\n1. **-n / -ng merger:** Many Southern speakers pronounce final -n and -ng similarly, especially after certain vowels. 'Bạn' (friend) and 'bạng' may sound almost the same. This makes spelling harder — you'll need to memorize which words end in -n vs. -ng.\n\n2. **-t / -c merger:** Similarly, final -t and -c often merge in Southern speech. 'Mắt' (eye) and 'mắc' (expensive) may sound identical. Again, memorizing correct spellings is essential.\n\n3. **Final -ch:** Southern Vietnamese pronounces final -ch with a distinct glide quality that differs from Northern Vietnamese. It may sound more like /ɪk/ with a slight 'y' quality before it."
+    },
+    {
+      "type": "cultural_note",
+      "content": "The -n/-ng and -t/-c mergers are a well-known source of spelling errors for Southern Vietnamese speakers, even fluent native speakers. Teachers in southern Vietnam often spend extra time drilling these distinctions. If you're a heritage speaker who finds these endings confusing, you're in very good company — this is one of the most common spelling challenges across the entire Southern Vietnamese-speaking population. Don't feel discouraged; even your relatives in Saigon might text 'bàng' when they mean 'bàn' (table)!"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u1-l07-ex01",
+      "question": "How are final consonants in Vietnamese different from English?",
+      "options": [
+        "They are louder and more emphasized",
+        "They are unreleased — your mouth forms the position but doesn't release air",
+        "They are always silent",
+        "They are pronounced exactly like English"
+      ],
+      "correctAnswer": "They are unreleased — your mouth forms the position but doesn't release air",
+      "explanation": "Vietnamese final consonants are unreleased stops. Your mouth moves into position (lips close for -p, tongue touches ridge for -t, etc.) but you don't release a puff of air. The sound just stops."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l07-ex02",
+      "question": "Which two final consonant pairs commonly merge in Southern Vietnamese speech?",
+      "options": [
+        "-m/-n and -p/-t",
+        "-n/-ng and -t/-c",
+        "-m/-ng and -p/-c",
+        "-n/-nh and -t/-ch"
+      ],
+      "correctAnswer": "-n/-ng and -t/-c",
+      "explanation": "In Southern Vietnamese, -n and -ng often merge (both may sound like -ng), and -t and -c often merge (both may sound like -c). This is why spelling these endings correctly is a common challenge for Southern speakers."
+    },
+    {
+      "type": "tone_matching",
+      "key": "u1-l07-ex03",
+      "instruction": "Match each final consonant with the correct mouth position.",
+      "pairs": [
+        {
+          "word": "-m",
+          "options": ["Lips close", "Tongue tip to ridge", "Back of tongue rises", "Tongue to palate"],
+          "correct": "Lips close"
+        },
+        {
+          "word": "-n",
+          "options": ["Lips close", "Tongue tip to ridge", "Back of tongue rises", "Tongue to palate"],
+          "correct": "Tongue tip to ridge"
+        },
+        {
+          "word": "-ng",
+          "options": ["Lips close", "Tongue tip to ridge", "Back of tongue rises", "Tongue to palate"],
+          "correct": "Back of tongue rises"
+        },
+        {
+          "word": "-nh",
+          "options": ["Lips close", "Tongue tip to ridge", "Back of tongue rises", "Tongue to palate"],
+          "correct": "Tongue to palate"
+        }
+      ],
+      "explanation": "The nasal finals form two pairs: -m (lips) and -p (lips) go together; -n (tongue tip) and -t (tongue tip) go together; -ng (tongue back) and -c (tongue back) go together; -nh (palate) and -ch (palate) go together."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u1-l07-ex04",
+      "instruction": "Choose the correct final consonant to complete the word.",
+      "sentence": "họ___ (to study/learn)",
+      "english": "to study / to learn",
+      "correctAnswer": "c",
+      "acceptableAnswers": ["c"],
+      "explanation": "The word is 'học' (to study). It ends with -c /k/, where the back of your tongue rises to touch the soft palate."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l07-ex05",
+      "question": "The words 'mắt' (eye) and 'mắc' (expensive) may sound identical in Southern Vietnamese because:",
+      "options": [
+        "The vowels are different in Southern speech",
+        "The tones change in Southern speech",
+        "Final -t and -c merge in Southern speech",
+        "Southern speakers skip final consonants entirely"
+      ],
+      "correctAnswer": "Final -t and -c merge in Southern speech",
+      "explanation": "In Southern Vietnamese, the final consonants -t and -c often merge, making word pairs like 'mắt' and 'mắc' sound identical. This is why correct spelling requires memorization — you can't always rely on pronunciation alone."
+    }
+  ]
+}

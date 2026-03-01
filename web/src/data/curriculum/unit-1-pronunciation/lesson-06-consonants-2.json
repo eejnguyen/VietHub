@@ -1,0 +1,230 @@
+{
+  "slug": "lesson-06-consonants-2",
+  "unitSlug": "unit-1-pronunciation",
+  "title": "Consonants Part 2 — Digraphs & Clusters",
+  "titleVi": "Phụ Âm Ghép",
+  "description": "Learn the Vietnamese consonant combinations: ch, gi, kh, ng, ngh, nh, ph, th, tr, and qu. Understand key Southern dialect differences where gi and d merge, and ch and tr often sound identical.",
+  "order": 6,
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese has several consonant digraphs (two-letter combinations) and clusters that represent single sounds. These are some of the most distinctive sounds in the language, and several of them are pronounced very differently in Southern vs. Northern Vietnamese. If you grew up hearing Southern Vietnamese at home, this lesson will help you connect the sounds you already know with how they're written."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u1-l06-cha",
+          "vietnamese": "cha",
+          "english": "father",
+          "ipa": "/tɕa/",
+          "audioFile": null,
+          "notes": "ch = /tɕ/ — similar to English 'ch' in 'cheese' but softer. In Southern Vietnamese, ch and tr often sound the same."
+        },
+        {
+          "key": "u1-l06-cho",
+          "vietnamese": "chó",
+          "english": "dog",
+          "ipa": "/tɕɔ́/",
+          "audioFile": null,
+          "exampleSentence": {
+            "vietnamese": "Con chó nhỏ.",
+            "english": "The small dog.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l06-gia",
+          "vietnamese": "gia",
+          "english": "family (as in gia đình)",
+          "ipa": "/ja/",
+          "audioFile": null,
+          "notes": "gi = /j/ in Southern Vietnamese — exactly like 'd' in Southern speech! Both sound like English 'y'. In Northern Vietnamese, gi = /z/."
+        },
+        {
+          "key": "u1-l06-gioi",
+          "vietnamese": "giỏi",
+          "english": "good at / skillful",
+          "ipa": "/jɔ̌j/",
+          "audioFile": null,
+          "exampleSentence": {
+            "vietnamese": "Em giỏi lắm!",
+            "english": "You're very good!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l06-kho",
+          "vietnamese": "khó",
+          "english": "difficult",
+          "ipa": "/xɔ́/",
+          "audioFile": null,
+          "notes": "kh = /x/ — like the 'ch' in Scottish 'loch' or German 'Bach'. No English equivalent — practice pushing air through the back of your mouth."
+        },
+        {
+          "key": "u1-l06-ngu",
+          "vietnamese": "ngủ",
+          "english": "to sleep",
+          "ipa": "/ŋủ/",
+          "audioFile": null,
+          "notes": "ng = /ŋ/ — the 'ng' sound from English 'sing', but here it starts the syllable. This is tricky for English speakers!"
+        },
+        {
+          "key": "u1-l06-nghe",
+          "vietnamese": "nghe",
+          "english": "to listen / to hear",
+          "ipa": "/ŋɛ/",
+          "audioFile": null,
+          "notes": "ngh = /ŋ/ — same sound as ng, but spelled 'ngh' before i, e, and ê. This is purely a spelling rule, not a different sound."
+        },
+        {
+          "key": "u1-l06-nha",
+          "vietnamese": "nhà",
+          "english": "house / home",
+          "ipa": "/ɲà/",
+          "audioFile": null,
+          "notes": "nh = /ɲ/ — like the 'ny' in 'canyon' or Spanish 'ñ'. Very common in Vietnamese.",
+          "exampleSentence": {
+            "vietnamese": "Nhà tôi ở đây.",
+            "english": "My house is here.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l06-pho",
+          "vietnamese": "phở",
+          "english": "pho (rice noodle soup)",
+          "ipa": "/fə̌ː/",
+          "audioFile": null,
+          "notes": "ph = /f/ — exactly like English 'f'. Simple! This is NOT an aspirated 'p'."
+        },
+        {
+          "key": "u1-l06-thay",
+          "vietnamese": "thầy",
+          "english": "teacher (male)",
+          "ipa": "/tʰə̀j/",
+          "audioFile": null,
+          "notes": "th = /tʰ/ — an aspirated 't', like the 't' in English 'top' (with a puff of air). Vietnamese unwritten 't' has NO aspiration.",
+          "exampleSentence": {
+            "vietnamese": "Thầy dạy giỏi.",
+            "english": "The teacher teaches well.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l06-trai",
+          "vietnamese": "trái",
+          "english": "fruit / left side",
+          "ipa": "/tʂáj/ or /táj/",
+          "audioFile": null,
+          "notes": "tr — In formal Southern speech: /tʂ/ (retroflex). In casual Southern speech: often just /t/, merging with 'ch'. So 'trời' may sound like 'chời' or even 'tời'."
+        },
+        {
+          "key": "u1-l06-qua",
+          "vietnamese": "qua",
+          "english": "to pass / to cross",
+          "ipa": "/kwa/",
+          "audioFile": null,
+          "notes": "qu = /kw/ — like English 'qu' in 'quick'. Always followed by a vowel.",
+          "exampleSentence": {
+            "vietnamese": "Đi qua đường.",
+            "english": "Cross the street.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "instruction",
+      "content": "**The Southern gi/d Merger:** In Southern Vietnamese, 'gi' and 'd' are both pronounced /j/ (like English 'y'). This means 'da' (skin) and 'gia' (family) start with the same sound. In Northern Vietnamese, 'd' = /z/ and 'gi' = /z/ too — so they also merge, but into a different sound! The key takeaway: you must memorize the spelling because you can't tell gi from d by sound alone in either dialect."
+    },
+    {
+      "type": "instruction",
+      "content": "**The Southern ch/tr Merger:** Many Southern speakers pronounce 'tr' the same as 'ch'. So 'trà' (tea) and 'cha' (father) may sound identical. This is completely normal in Southern Vietnamese and not a mistake. However, when writing, you still need to use the correct spelling. Context and memorization are your friends here."
+    },
+    {
+      "type": "cultural_note",
+      "content": "The ch/tr and gi/d mergers are among the most recognizable features of Southern Vietnamese. If you've ever heard someone joke about Southerners confusing their spelling, this is why — the sounds merge in speech but remain distinct in writing. Heritage speakers who learned Vietnamese by ear often find these spelling distinctions challenging, and that's perfectly normal. Even native speakers in Saigon sometimes second-guess whether a word uses 'tr' or 'ch'!"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u1-l06-ex01",
+      "question": "In Southern Vietnamese, how is 'gi' pronounced?",
+      "options": [
+        "/j/ — like English 'y'",
+        "/z/ — like English 'z'",
+        "/dʒ/ — like English 'j' in 'jump'",
+        "/g/ — like English 'g' in 'go'"
+      ],
+      "correctAnswer": "/j/ — like English 'y'",
+      "explanation": "In Southern Vietnamese, 'gi' is pronounced /j/, exactly like the letter 'd' in Southern speech. Both sound like English 'y'. Northern Vietnamese pronounces both as /z/."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l06-ex02",
+      "question": "What is the difference between 'ng' and 'ngh' in Vietnamese?",
+      "options": [
+        "They represent completely different sounds",
+        "They represent the same sound /ŋ/, but 'ngh' is used before i, e, and ê",
+        "'ngh' is only used in Northern Vietnamese",
+        "'ng' is used at the end of words and 'ngh' at the beginning"
+      ],
+      "correctAnswer": "They represent the same sound /ŋ/, but 'ngh' is used before i, e, and ê",
+      "explanation": "Both 'ng' and 'ngh' represent the same /ŋ/ sound. The 'h' is added before the vowels i, e, and ê as a spelling convention. Compare: ngủ (sleep) vs. nghề (profession)."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l06-ex03",
+      "question": "What happens to 'tr' in casual Southern Vietnamese speech?",
+      "options": [
+        "It becomes /r/ like in English",
+        "It often merges with 'ch', sounding like /tɕ/ or even /t/",
+        "It is always pronounced /tʂ/ like in Northern speech",
+        "It is silent"
+      ],
+      "correctAnswer": "It often merges with 'ch', sounding like /tɕ/ or even /t/",
+      "explanation": "In casual Southern Vietnamese, 'tr' often merges with 'ch'. So 'trời' (sky) might sound like 'chời' or even 'tời'. This is one of the most recognizable features of Southern speech."
+    },
+    {
+      "type": "tone_matching",
+      "key": "u1-l06-ex04",
+      "instruction": "Match each digraph with its Southern Vietnamese pronunciation.",
+      "pairs": [
+        {
+          "word": "ph",
+          "options": ["/f/", "/x/", "/tʰ/", "/kw/"],
+          "correct": "/f/"
+        },
+        {
+          "word": "kh",
+          "options": ["/f/", "/x/", "/tʰ/", "/kw/"],
+          "correct": "/x/"
+        },
+        {
+          "word": "th",
+          "options": ["/f/", "/x/", "/tʰ/", "/kw/"],
+          "correct": "/tʰ/"
+        },
+        {
+          "word": "qu",
+          "options": ["/f/", "/x/", "/tʰ/", "/kw/"],
+          "correct": "/kw/"
+        }
+      ],
+      "explanation": "ph = /f/ (like English 'f'), kh = /x/ (like Scottish 'loch'), th = /tʰ/ (aspirated 't'), qu = /kw/ (like English 'qu' in 'quick')."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u1-l06-ex05",
+      "instruction": "Fill in the correct digraph to complete the word.",
+      "sentence": "___à (tea)",
+      "english": "tea",
+      "correctAnswer": "tr",
+      "acceptableAnswers": ["tr", "Tr"],
+      "explanation": "The word for 'tea' is 'trà'. Even though Southern speakers might pronounce it like 'chà', the correct spelling uses 'tr'. Remember: spelling preserves the standard form even when pronunciation differs!"
+    }
+  ]
+}

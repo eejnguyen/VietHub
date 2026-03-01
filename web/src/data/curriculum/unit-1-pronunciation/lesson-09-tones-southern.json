@@ -1,0 +1,210 @@
+{
+  "slug": "lesson-09-tones-southern",
+  "unitSlug": "unit-1-pronunciation",
+  "title": "Southern Tone Pronunciation",
+  "titleVi": "Thanh Điệu Miền Nam",
+  "description": "The most essential lesson for Southern heritage speakers. Learn how Southern Vietnamese effectively uses 5 tones instead of 6, with the hỏi and ngã tones merging into one. Understand why your family's pronunciation is perfectly correct — and how it connects to the written system.",
+  "order": 9,
+  "estimatedMinutes": 22,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "This is arguably the most important lesson in this entire course for Southern heritage speakers. If you grew up hearing Vietnamese at home in a Southern-dialect family, the tonal system you absorbed is **different from what textbooks usually teach** — and that's not a deficiency. Southern Vietnamese has its own fully consistent tonal system. Understanding it will unlock your ability to connect what you hear with what you read and write."
+    },
+    {
+      "type": "instruction",
+      "content": "**The Big Picture: 6 Tones in Writing, 5 Tones in Southern Speech**\n\nStandard Vietnamese (as taught in most textbooks, based on the Hanoi dialect) has 6 distinct tones. Southern Vietnamese (Saigon dialect) effectively has **5 tones** because the hỏi (̉) and ngã (~) tones **merge into a single tone**. This means:\n\n• In Northern speech: 'mả' (grave) and 'mã' (horse) sound DIFFERENT\n• In Southern speech: 'mả' (grave) and 'mã' (horse) sound the SAME\n\nThis is the single most important difference between Northern and Southern Vietnamese pronunciation. When your parents speak, they use 5 tones — and this is completely normal and correct for Southern Vietnamese."
+    },
+    {
+      "type": "instruction",
+      "content": "**The 5 Southern Tones in Detail:**\n\n**1. Ngang (level) — no mark**\nPitch: Mid-level, flat — ———\nSlightly lower starting pitch than Northern ngang. A steady, neutral tone at a comfortable speaking pitch.\nExample: 'ma' (ghost), 'đi' (to go), 'lo' (to worry)\n\n**2. Sắc (rising) — ´ mark**\nPitch: Rising sharply from mid to high — ／\nSharper and more abrupt than Northern sắc. Rises quickly and decisively.\nExample: 'má' (mom/cheek), 'bé' (small), 'có' (to have)\n\n**3. Huyền (falling) — ` mark**\nPitch: Falling from low-mid to low — ＼\nStarts lower than Northern huyền and falls further. A heavy, low, descending tone.\nExample: 'mà' (but), 'bà' (grandmother), 'và' (and)\n\n**4. Hỏi/Ngã (MERGED — low falling-rising) — ̉ or ~ mark**\nPitch: Falls low then rises back up — ＼／\nThis single tone replaces BOTH the hỏi and ngã of Northern speech. It dips down then curves back up, without the glottal break that Northern ngã has.\nExample: 'mả' (grave) = 'mã' (horse) — same tone!\nAlso: 'bảo' (to tell) sounds like 'bão' (storm)\n\n**5. Nặng (heavy/dropping) — dot below**\nPitch: Short, low, dropping sharply — ⬇\nMore abrupt than Northern nặng. The voice drops and cuts off quickly, like a short grunt.\nExample: 'mạ' (rice seedling), 'bạn' (friend), 'học' (to study)"
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u1-l09-di",
+          "vietnamese": "đi",
+          "english": "to go",
+          "ipa": "/ɗi˧/",
+          "audioFile": null,
+          "notes": "Southern ngang tone: mid-level, flat, relaxed. No tone mark."
+        },
+        {
+          "key": "u1-l09-co",
+          "vietnamese": "có",
+          "english": "to have / yes",
+          "ipa": "/kɔ˧˥/",
+          "audioFile": null,
+          "notes": "Southern sắc tone: sharp rise from mid to high. Quick and decisive.",
+          "exampleSentence": {
+            "vietnamese": "Có ăn không?",
+            "english": "Do you want to eat?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l09-ba",
+          "vietnamese": "bà",
+          "english": "grandmother",
+          "ipa": "/ɓa˨˩/",
+          "audioFile": null,
+          "notes": "Southern huyền tone: low and falling. Starts lower than Northern huyền.",
+          "exampleSentence": {
+            "vietnamese": "Bà ngoại ơi!",
+            "english": "Grandma! (maternal grandmother)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l09-bao-hoi",
+          "vietnamese": "bảo",
+          "english": "to tell / to say",
+          "ipa": "/ɓaw˧˩˧/",
+          "audioFile": null,
+          "notes": "Southern merged hỏi/ngã tone (spelled with hỏi mark): dips low then rises. In Southern speech, this sounds identical to ngã words."
+        },
+        {
+          "key": "u1-l09-bao-nga",
+          "vietnamese": "bão",
+          "english": "storm",
+          "ipa": "/ɓaw˧˩˧/",
+          "audioFile": null,
+          "notes": "Southern merged hỏi/ngã tone (spelled with ngã mark): same pronunciation as 'bảo' above! The IPA is identical in Southern speech. Only the spelling differs."
+        },
+        {
+          "key": "u1-l09-ban",
+          "vietnamese": "bạn",
+          "english": "friend",
+          "ipa": "/ɓan˨˩ˀ/",
+          "audioFile": null,
+          "notes": "Southern nặng tone: drops sharply and cuts off. Short, heavy, abrupt.",
+          "exampleSentence": {
+            "vietnamese": "Bạn tôi ở Sài Gòn.",
+            "english": "My friend is in Saigon.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l09-no",
+          "vietnamese": "nỏ",
+          "english": "crossbow / (Southern: no, not)",
+          "ipa": "/nɔ˧˩˧/",
+          "audioFile": null,
+          "notes": "Hỏi tone word. In Southern speech, sounds the same as a ngã-tone word would."
+        },
+        {
+          "key": "u1-l09-no-nga",
+          "vietnamese": "nõ",
+          "english": "(rare word, used here for comparison)",
+          "ipa": "/nɔ˧˩˧/",
+          "audioFile": null,
+          "notes": "Ngã tone word. In Southern speech, identical pronunciation to 'nỏ' above. Northern speakers would pronounce these differently."
+        }
+      ]
+    },
+    {
+      "type": "instruction",
+      "content": "**Southern vs. Northern Tone Comparison:**\n\n| Tone | Northern | Southern | Key Difference |\n|------|----------|----------|----------------|\n| Ngang | Mid-level ——— | Mid-level ——— (slightly lower) | Very similar |\n| Sắc | Rising ／ | Rising ／ (sharper) | Southern is more abrupt |\n| Huyền | Low falling ＼ | Low falling ＼ (starts lower) | Southern starts and ends lower |\n| Hỏi | Dipping-rising ＼／ | Merged ＼／ | Merges with ngã in South |\n| Ngã | Rising-creaky ／〜 | Merged ＼／ | Merges with hỏi in South |\n| Nặng | Low dropping ⬇ | Low dropping ⬇ (more abrupt) | Southern is shorter, choppier |\n\nThe overall effect is that Southern Vietnamese sounds lower-pitched, more clipped, and less 'sing-song' than Northern Vietnamese to many listeners."
+    },
+    {
+      "type": "instruction",
+      "content": "**For Heritage Speakers: Connecting Sound to Writing**\n\nHere's the challenge the hỏi/ngã merger creates: when you hear a word with the merged tone, you can't tell from sound alone whether to write ̉ (hỏi) or ~ (ngã). Vietnamese writing still uses all 6 tone marks, preserving the historical distinction even though Southern speech doesn't make it.\n\nThis means you need to **memorize** which words take hỏi vs. ngã. There's a useful rule of thumb:\n\n• Words of pure Vietnamese origin more often use **hỏi** (̉)\n• Words borrowed from Chinese (Sino-Vietnamese) more often use **ngã** (~)\n\nBut there are many exceptions. The most reliable method is extensive reading practice — the more you see words in print, the more the correct marks become second nature. Don't be frustrated by this; it's genuinely hard, and even native Southern speakers sometimes mix them up."
+    },
+    {
+      "type": "cultural_note",
+      "content": "The hỏi/ngã merger is not a deficiency or a sign of 'incorrect' Vietnamese. Southern Vietnamese is spoken by roughly half of all Vietnamese speakers worldwide, including the vast majority of the Vietnamese diaspora in the United States, Australia, and France. It is a fully legitimate dialect with a long history. When your parents, grandparents, and aunties speak with 5 tones, they are speaking correct Southern Vietnamese. The written language uses 6 marks because it was standardized to represent all dialects — think of it like how English spelling represents sounds that many dialects don't actually distinguish (like the 'wh' in 'which' vs. 'witch')."
+    },
+    {
+      "type": "cultural_note",
+      "content": "In Vietnamese classrooms in southern Vietnam, teachers explicitly teach students to distinguish hỏi and ngã in writing, even though the students don't distinguish them in speech. It's treated as a spelling/literacy challenge, not a speech correction exercise. The common dictation errors of swapping ̉ and ~ are so well-known that there's even a Vietnamese saying about it. You're learning the same skill that schoolchildren in Saigon learn — connecting Southern pronunciation to standard Vietnamese orthography."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u1-l09-ex01",
+      "question": "What is the most significant difference between Northern and Southern Vietnamese tones?",
+      "options": [
+        "Southern Vietnamese has more tones than Northern",
+        "The hỏi (̉) and ngã (~) tones merge into one tone in Southern speech",
+        "Southern Vietnamese doesn't use the sắc tone",
+        "The ngang tone is pronounced completely differently"
+      ],
+      "correctAnswer": "The hỏi (̉) and ngã (~) tones merge into one tone in Southern speech",
+      "explanation": "The hỏi/ngã merger is THE defining tonal feature of Southern Vietnamese. While Northern speakers distinguish 6 tones, Southern speakers effectively use 5, because hỏi and ngã sound identical."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l09-ex02",
+      "question": "In Southern Vietnamese, 'bảo' (to tell, hỏi tone) and 'bão' (storm, ngã tone) are pronounced:",
+      "options": [
+        "Completely differently — one rises, one falls",
+        "Identically — the hỏi/ngã merger makes them sound the same",
+        "Similarly but 'bão' has a glottal stop",
+        "Differently — 'bão' is louder"
+      ],
+      "correctAnswer": "Identically — the hỏi/ngã merger makes them sound the same",
+      "explanation": "In Southern Vietnamese, 'bảo' and 'bão' are pronounced exactly the same way — both with a low dipping-then-rising contour. Only context and spelling distinguish them. Northern speakers would pronounce these differently, with 'bão' having a creaky/broken quality."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l09-ex03",
+      "question": "Why does Vietnamese writing still use 6 tone marks even though Southern speech only distinguishes 5 tones?",
+      "options": [
+        "It's a mistake that hasn't been corrected yet",
+        "The writing system represents all dialects and preserves historical distinctions",
+        "Only Northern Vietnamese uses the written language",
+        "The 6th tone mark is optional in Southern writing"
+      ],
+      "correctAnswer": "The writing system represents all dialects and preserves historical distinctions",
+      "explanation": "Vietnamese orthography was standardized to serve all dialects. The 6 tone marks preserve distinctions that some dialects maintain and others don't. Southern speakers must learn which words take hỏi vs. ngã through reading and memorization — just like schoolchildren in Saigon do."
+    },
+    {
+      "type": "tone_matching",
+      "key": "u1-l09-ex04",
+      "instruction": "Match each Southern Vietnamese tone with its pitch contour.",
+      "pairs": [
+        {
+          "word": "Ngang (no mark)",
+          "options": ["Mid-level, flat", "Rising sharply", "Low falling", "Dipping then rising", "Dropping sharply, cuts off"],
+          "correct": "Mid-level, flat"
+        },
+        {
+          "word": "Sắc (´)",
+          "options": ["Mid-level, flat", "Rising sharply", "Low falling", "Dipping then rising", "Dropping sharply, cuts off"],
+          "correct": "Rising sharply"
+        },
+        {
+          "word": "Huyền (`)",
+          "options": ["Mid-level, flat", "Rising sharply", "Low falling", "Dipping then rising", "Dropping sharply, cuts off"],
+          "correct": "Low falling"
+        },
+        {
+          "word": "Hỏi/Ngã (̉ or ~)",
+          "options": ["Mid-level, flat", "Rising sharply", "Low falling", "Dipping then rising", "Dropping sharply, cuts off"],
+          "correct": "Dipping then rising"
+        },
+        {
+          "word": "Nặng (dot below)",
+          "options": ["Mid-level, flat", "Rising sharply", "Low falling", "Dipping then rising", "Dropping sharply, cuts off"],
+          "correct": "Dropping sharply, cuts off"
+        }
+      ],
+      "explanation": "The 5 Southern tones: Ngang = flat mid, Sắc = sharp rise, Huyền = low fall, Hỏi/Ngã (merged) = dip then rise, Nặng = drop and cut off. Notice how hỏi and ngã share a single contour — this is the Southern merger in action."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l09-ex05",
+      "question": "You hear a Southern Vietnamese speaker say a word with a low dipping-then-rising tone. You need to write it down. How do you know whether to use the hỏi mark (̉) or the ngã mark (~)?",
+      "options": [
+        "Listen more carefully — they're slightly different in Southern speech too",
+        "You can't tell from sound alone — you need to memorize the correct spelling for each word",
+        "Always use hỏi (̉) in Southern Vietnamese",
+        "Always use ngã (~) in Southern Vietnamese"
+      ],
+      "correctAnswer": "You can't tell from sound alone — you need to memorize the correct spelling for each word",
+      "explanation": "Because hỏi and ngã merge completely in Southern speech, you cannot distinguish them by ear. You must memorize which words take which mark. A helpful (but imperfect) rule: pure Vietnamese words tend to use hỏi, while Sino-Vietnamese words tend to use ngã. Extensive reading is the best way to internalize the correct spellings."
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "slug": "lesson-06-household",
+  "unitSlug": "unit-2-basic-vocab",
+  "title": "Household Items",
+  "titleVi": "Đồ Dùng Trong Nhà",
+  "description": "Learn the Vietnamese words for things around the house — furniture, appliances, and everyday items, with key Southern dialect differences.",
+  "order": 6,
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "These are words you hear every day at home. Your parents might say 'ngồi vô bàn ăn cơm' (sit at the table to eat) or 'tắt tivi đi ngủ' (turn off the TV and go to sleep).\n\nPay close attention to the Southern-specific terms in this lesson. Some household items have completely different words in the South compared to the North. If your family is from Saigon or the Mekong Delta, these are the words you grew up hearing."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u2-l06-nha",
+          "vietnamese": "nhà",
+          "english": "house / home",
+          "ipa": "/ɲaː˧˩/",
+          "audioFile": null,
+          "notes": "'Nhà' means both the physical building and the concept of home. 'Về nhà' = go home. 'Nhà tôi' can mean 'my house' or 'my spouse'.",
+          "exampleSentence": {
+            "vietnamese": "Về nhà chưa? Má nấu cơm rồi.",
+            "english": "Are you home yet? Mom already cooked rice.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l06-phong",
+          "vietnamese": "phòng",
+          "english": "room",
+          "ipa": "/fɔŋ˧˩/",
+          "audioFile": null,
+          "notes": "'Phòng ngủ' = bedroom, 'phòng khách' = living room, 'phòng tắm' = bathroom. In Southern speech, 'ph' is pronounced /f/.",
+          "exampleSentence": {
+            "vietnamese": "Vô phòng dọn dẹp đi!",
+            "english": "Go to your room and clean up!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l06-cua",
+          "vietnamese": "cửa",
+          "english": "door / gate",
+          "ipa": "/kɨə˧˥/",
+          "audioFile": null,
+          "notes": "'Cửa sổ' = window (literally 'draft door'). 'Đóng cửa' = close the door. 'Mở cửa' = open the door.",
+          "exampleSentence": {
+            "vietnamese": "Đóng cửa lại, muỗi vô nhà!",
+            "english": "Close the door, mosquitoes are getting in!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l06-ban",
+          "vietnamese": "bàn",
+          "english": "table / desk",
+          "ipa": "/baːn˧˩/",
+          "audioFile": null,
+          "notes": "'Bàn ăn' = dining table. 'Bàn học' = study desk. Context determines which type of table.",
+          "exampleSentence": {
+            "vietnamese": "Để sách lên bàn đi.",
+            "english": "Put the books on the table.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l06-ghe",
+          "vietnamese": "ghế",
+          "english": "chair",
+          "ipa": "/ɣɛ˧˥/",
+          "audioFile": null,
+          "notes": "'Ghế' is general for any seat. 'Ghế xoay' = swivel chair. 'Ghế dài' = bench.",
+          "exampleSentence": {
+            "vietnamese": "Kéo ghế ngồi đây đi con.",
+            "english": "Pull up a chair and sit here, child.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l06-giuong",
+          "vietnamese": "giường",
+          "english": "bed",
+          "ipa": "/jɨəŋ˧˩/",
+          "audioFile": null,
+          "ttsText": "yường",
+          "notes": "In Southern dialect, 'gi' is pronounced /j/ (like 'y'). So 'giường' sounds like 'yường'.",
+          "exampleSentence": {
+            "vietnamese": "Lên giường ngủ đi, khuya rồi!",
+            "english": "Get in bed and sleep, it's late!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l06-tu",
+          "vietnamese": "tủ",
+          "english": "cabinet / wardrobe / closet",
+          "ipa": "/tu˧˩/",
+          "audioFile": null,
+          "notes": "'Tủ quần áo' = wardrobe/clothes closet. 'Tủ sách' = bookshelf. 'Tủ' is the general word for any cabinet or enclosed storage.",
+          "exampleSentence": {
+            "vietnamese": "Quần áo trong tủ kìa, lấy đi.",
+            "english": "The clothes are in the closet, go get them.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l06-den",
+          "vietnamese": "đèn",
+          "english": "light / lamp",
+          "ipa": "/ɗɛn˧˩/",
+          "audioFile": null,
+          "notes": "'Tắt đèn' = turn off the light. 'Bật đèn' or 'mở đèn' = turn on the light.",
+          "exampleSentence": {
+            "vietnamese": "Tắt đèn đi ngủ!",
+            "english": "Turn off the light and go to sleep!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l06-quat",
+          "vietnamese": "quạt",
+          "english": "fan",
+          "ipa": "/kwat˧˩/",
+          "audioFile": null,
+          "notes": "'Quạt máy' = electric fan. 'Quạt trần' = ceiling fan. Essential in Vietnamese households, especially in the South!",
+          "exampleSentence": {
+            "vietnamese": "Nóng quá, mở quạt lên đi.",
+            "english": "It's so hot, turn the fan on.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l06-tivi",
+          "vietnamese": "tivi",
+          "english": "television / TV",
+          "ipa": "/tiviː˧/",
+          "audioFile": null,
+          "notes": "Borrowed from English 'TV'. Universally used in both Northern and Southern speech. 'Coi tivi' (Southern) = watch TV. Northern says 'xem tivi'.",
+          "exampleSentence": {
+            "vietnamese": "Tắt tivi đi, học bài đi con!",
+            "english": "Turn off the TV and go study!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l06-tu-lanh",
+          "vietnamese": "tủ lạnh",
+          "english": "refrigerator",
+          "ipa": "/tu˧˩ laɲ˧˩/",
+          "audioFile": null,
+          "notes": "Literally 'cold cabinet'. Very straightforward compound word. Some families also say 'tủ đá' (ice cabinet).",
+          "exampleSentence": {
+            "vietnamese": "Nước trong tủ lạnh kìa, lấy uống đi.",
+            "english": "Water is in the fridge, go grab some to drink.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l06-bep",
+          "vietnamese": "bếp",
+          "english": "kitchen / stove",
+          "ipa": "/ɓep˧˥/",
+          "audioFile": null,
+          "notes": "'Bếp' means both the kitchen (the room) and the stove/cooking surface. 'Nhà bếp' specifically means 'kitchen room'.",
+          "exampleSentence": {
+            "vietnamese": "Má đang nấu ăn dưới bếp.",
+            "english": "Mom is cooking down in the kitchen.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l06-chen",
+          "vietnamese": "chén",
+          "english": "bowl (Southern) / rice bowl",
+          "ipa": "/tɕɛn˧˥/",
+          "audioFile": null,
+          "notes": "This is a key North-South difference! Southern says 'chén', Northern says 'bát'. If your family says 'chén', you're speaking Southern Vietnamese. 'Chén cơm' = bowl of rice.",
+          "exampleSentence": {
+            "vietnamese": "Lấy chén ra ăn cơm đi.",
+            "english": "Get the bowls out to eat rice.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l06-dua",
+          "vietnamese": "đũa",
+          "english": "chopsticks",
+          "ipa": "/ɗuə˧˩/",
+          "audioFile": null,
+          "notes": "'Đôi đũa' = a pair of chopsticks. 'Cầm đũa' = hold chopsticks. Heritage speakers often struggle with chopstick vocabulary since you might use forks at home!",
+          "exampleSentence": {
+            "vietnamese": "Cầm đũa cho đúng nè!",
+            "english": "Hold the chopsticks correctly!",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "Traditional Vietnamese homes often have an open floor plan where the living room and dining area blend together. Many Southern Vietnamese families keep an altar ('bàn thờ') as the most prominent piece of furniture in the home — it honors ancestors and is treated with great respect. Shoes are ALWAYS removed before entering a Vietnamese home. And don't be surprised if family members share bedrooms well into adulthood — it's common and considered normal, not a sign of financial struggle."
+    },
+    {
+      "type": "instruction",
+      "content": "Key Southern vs Northern household vocabulary:\n\n• chén (South) vs bát (North) = bowl\n• ly (South) vs cốc (North) = drinking glass\n• coi tivi (South) vs xem tivi (North) = watch TV\n• muỗng (South) vs thìa (North) = spoon\n\nIf your family uses 'chén', 'ly', and 'muỗng', you're speaking Southern Vietnamese — and that's what we're teaching here."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u2-l06-ex01",
+      "question": "What is the Southern Vietnamese word for 'bowl'?",
+      "options": ["bát", "chén", "ly", "đĩa"],
+      "correctAnswer": "chén",
+      "explanation": "'Chén' is the Southern word for bowl. Northern Vietnamese uses 'bát'. If you hear 'chén' at home, your family speaks Southern dialect."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u2-l06-ex02",
+      "question": "What does 'tủ lạnh' literally mean?",
+      "options": ["ice box", "cold cabinet", "food storage", "cool room"],
+      "correctAnswer": "cold cabinet",
+      "explanation": "'Tủ' = cabinet and 'lạnh' = cold. So 'tủ lạnh' literally means 'cold cabinet' — refrigerator."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u2-l06-ex03",
+      "question": "Type the Vietnamese word for 'chopsticks':",
+      "english": "chopsticks",
+      "correctAnswer": "đũa",
+      "acceptableAnswers": ["đũa", "Đũa"],
+      "explanation": "'Đũa' means chopsticks. 'Đôi đũa' = a pair of chopsticks."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u2-l06-ex04",
+      "question": "Your mom yells: 'Đóng cửa lại, muỗi vô nhà!' What is she telling you to do?",
+      "options": ["Open the window", "Close the door", "Turn off the fan", "Turn on the light"],
+      "correctAnswer": "Close the door",
+      "explanation": "'Đóng cửa' = close the door. She's worried about mosquitoes ('muỗi') getting inside — a very common concern in Vietnamese households!"
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u2-l06-ex05",
+      "question": "How do you say 'Turn off the TV' in Vietnamese? (Hint: ___  tivi đi)",
+      "english": "Turn off the TV",
+      "correctAnswer": "Tắt",
+      "acceptableAnswers": ["Tắt", "tắt"],
+      "explanation": "'Tắt' means to turn off. 'Tắt tivi đi' = Turn off the TV. 'Tắt đèn' = turn off the light."
+    }
+  ]
+}

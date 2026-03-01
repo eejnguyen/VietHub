@@ -1,0 +1,179 @@
+{
+  "slug": "lesson-04-triple-vowels",
+  "unitSlug": "unit-1-pronunciation",
+  "title": "Triple Vowels",
+  "titleVi": "Nguyên Âm Ba",
+  "description": "Learn the triple vowel combinations of Vietnamese. These three-vowel clusters are less common than single or double vowels, but they appear in many everyday words and are essential for natural fluency.",
+  "order": 4,
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese has **7 triple vowel** combinations (nguyên âm ba). These are sequences of three vowel sounds within a single syllable. They may look intimidating on the page, but they follow predictable patterns.\n\nTriple vowels have three parts:\n1. **On-glide** — a quick initial vowel or semivowel\n2. **Nucleus** — the main vowel that carries the tone\n3. **Off-glide** — a quick ending vowel\n\nThe tone mark always goes on the **nucleus** (the middle or main vowel). Once you can pronounce each single and double vowel from the previous lessons, triple vowels are simply a matter of combining them smoothly."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u1-l04-ieu",
+          "vietnamese": "iêu / yêu",
+          "english": "Combination IÊU / YÊU",
+          "ipa": "/iəw/",
+          "audioFile": null,
+          "notes": "Starts with 'i', glides through the central vowel 'ê', and ends with rounded 'u'. Spelled 'yêu' at the start of a syllable. This is one of the most common triple vowels — it appears in the word 'yêu' (to love).",
+          "exampleSentence": {
+            "vietnamese": "yêu",
+            "english": "to love",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l04-oai",
+          "vietnamese": "oai",
+          "english": "Combination OAI",
+          "ipa": "/waːj/",
+          "audioFile": null,
+          "notes": "Starts with a 'w' glide (from 'o'), opens to long 'a', and finishes with 'i'. Three distinct mouth movements in one syllable.",
+          "exampleSentence": {
+            "vietnamese": "ngoài",
+            "english": "outside",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l04-oay",
+          "vietnamese": "oay",
+          "english": "Combination OAY",
+          "ipa": "/waj/",
+          "audioFile": null,
+          "notes": "Similar to 'oai' but with the short 'a' (ă sound) in the middle instead of the long 'a'. Less common than 'oai'.",
+          "exampleSentence": {
+            "vietnamese": "xoay",
+            "english": "to rotate / to turn",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l04-uây",
+          "vietnamese": "uây",
+          "english": "Combination UÂY",
+          "ipa": "/wəj/",
+          "audioFile": null,
+          "notes": "Starts with a 'w' glide (from 'u'), passes through the short schwa 'â', and ends with 'i'. Rare but appears in important words.",
+          "exampleSentence": {
+            "vietnamese": "quây",
+            "english": "to surround / to gather around",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l04-uôi",
+          "vietnamese": "uôi",
+          "english": "Combination UÔI",
+          "ipa": "/uəj/",
+          "audioFile": null,
+          "notes": "Starts with 'u', glides through 'ô', and ends with 'i'. Think of the double vowel 'uô' (from 'ua/uô') plus a final 'i' glide.",
+          "exampleSentence": {
+            "vietnamese": "đuôi",
+            "english": "tail",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l04-ươi",
+          "vietnamese": "ươi",
+          "english": "Combination ƯƠI",
+          "ipa": "/ɯəj/",
+          "audioFile": null,
+          "notes": "Starts with unrounded 'ư', glides through 'ơ', and ends with 'i'. Think of the double vowel 'ươ' (from 'ưa/ươ') plus a final 'i' glide. Uniquely Vietnamese — no English equivalent.",
+          "exampleSentence": {
+            "vietnamese": "tươi",
+            "english": "fresh",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l04-ươu",
+          "vietnamese": "ươu",
+          "english": "Combination ƯƠU",
+          "ipa": "/ɯəw/",
+          "audioFile": null,
+          "notes": "Starts with unrounded 'ư', glides through 'ơ', and ends with rounded 'u'. The rarest triple vowel. Lips go from spread to neutral to rounded.",
+          "exampleSentence": {
+            "vietnamese": "hươu",
+            "english": "deer",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "instruction",
+      "content": "**How to practice triple vowels:**\n\n1. **Break them down**: Start by saying each vowel separately, then speed up until they merge. For 'iêu': say 'i...ê...u', then 'i-ê-u', then 'iêu' as one smooth syllable.\n\n2. **Feel the mouth movement**: Your mouth should travel a clear path. For 'oai', it goes: rounded (o) -> wide open (a) -> spread (i). Three distinct positions, one smooth motion.\n\n3. **Tone goes on the nucleus**: In 'yêu', the tone mark goes on the 'ê'. In 'ngoài', the tone mark goes on the 'a'. The nucleus is always the most prominent vowel — the one you hold the longest.\n\n4. **Use real words**: The best way to internalize these is to practice the example words. Say 'yêu' (love), 'ngoài' (outside), 'tươi' (fresh) until they feel natural."
+    },
+    {
+      "type": "cultural_note",
+      "content": "The word 'yêu' (to love) is one of the first words many heritage speakers learn, and it contains one of the most complex vowel combinations in the language. Vietnamese pop music (nhạc Việt / V-pop) is full of songs with 'yêu' in the title — listening to these songs is a great way to practice hearing triple vowels in context. Try searching for 'bài hát yêu' (love songs) to find examples."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u1-l04-ex01",
+      "question": "How many triple vowel combinations does Vietnamese have?",
+      "options": ["3", "5", "7", "12"],
+      "correctAnswer": "7",
+      "explanation": "Vietnamese has 7 triple vowel combinations: iêu/yêu, oai, oay, uây, uôi, ươi, and ươu."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u1-l04-ex02",
+      "instruction": "Fill in the correct triple vowel to complete the word.",
+      "sentence": "y__  (to love)",
+      "english": "to love",
+      "correctAnswer": "êu",
+      "acceptableAnswers": ["êu"],
+      "explanation": "The word is 'yêu' (to love). The triple vowel 'yêu' /iəw/ starts with the 'y' (= i), glides through 'ê', and ends with 'u'."
+    },
+    {
+      "type": "tone_matching",
+      "key": "u1-l04-ex03",
+      "instruction": "Match each word containing a triple vowel to its meaning.",
+      "pairs": [
+        {
+          "word": "ngoài",
+          "options": ["outside", "fresh", "deer", "tail"],
+          "correct": "outside"
+        },
+        {
+          "word": "tươi",
+          "options": ["outside", "fresh", "deer", "tail"],
+          "correct": "fresh"
+        },
+        {
+          "word": "hươu",
+          "options": ["outside", "fresh", "deer", "tail"],
+          "correct": "deer"
+        },
+        {
+          "word": "đuôi",
+          "options": ["outside", "fresh", "deer", "tail"],
+          "correct": "tail"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l04-ex04",
+      "question": "In the triple vowel 'oai' (as in 'ngoài'), where does the tone mark go?",
+      "options": [
+        "On the 'o' because it comes first",
+        "On the 'a' because it is the nucleus (main vowel)",
+        "On the 'i' because it comes last",
+        "It can go on any of the three vowels"
+      ],
+      "correctAnswer": "On the 'a' because it is the nucleus (main vowel)",
+      "explanation": "The tone mark always goes on the nucleus — the main vowel of the syllable. In 'oai', the 'o' is an on-glide, 'a' is the nucleus, and 'i' is the off-glide. So the tone mark sits on the 'a': ngoài, ngoái, etc."
+    }
+  ]
+}

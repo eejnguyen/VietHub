@@ -1,0 +1,238 @@
+{
+  "slug": "lesson-01-family",
+  "unitSlug": "unit-2-basic-vocab",
+  "title": "Family Terms",
+  "titleVi": "Gia Đình",
+  "description": "Learn how to refer to family members the way your family does — Southern Vietnamese kinship terms.",
+  "order": 1,
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese family terms are far more specific than English. Instead of just 'uncle' or 'aunt', Vietnamese has different words depending on whether the person is on your mother's or father's side, and whether they're older or younger than your parent.\n\nThese are the words you hear at home. As a heritage speaker, you probably recognize many of these — now let's make sure you know exactly which term goes with which relationship."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u2-l01-ba",
+          "vietnamese": "ba",
+          "english": "father (Southern)",
+          "ipa": "/baː˧/",
+          "audioFile": null,
+          "notes": "Southern Vietnamese commonly uses 'ba' instead of Northern 'bố'. You might also hear 'tía' in some Southern families.",
+          "exampleSentence": {
+            "vietnamese": "Ba ơi, ba khỏe không?",
+            "english": "Dad, how are you?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l01-ma",
+          "vietnamese": "má",
+          "english": "mother (Southern)",
+          "ipa": "/maː˧˥/",
+          "audioFile": null,
+          "notes": "Southern prefers 'má'; Northern uses 'mẹ'. Some families use 'mẹ' even in the South.",
+          "exampleSentence": {
+            "vietnamese": "Má nấu cơm ngon lắm.",
+            "english": "Mom cooks very delicious rice.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l01-ong-noi",
+          "vietnamese": "ông nội",
+          "english": "grandfather (paternal)",
+          "ipa": "/ʔoŋ˧ nojˀ˧˩/",
+          "audioFile": null,
+          "notes": "'Nội' means 'internal/paternal side'. Your father's father.",
+          "exampleSentence": {
+            "vietnamese": "Ông nội kể chuyện hay lắm.",
+            "english": "Paternal grandfather tells great stories.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l01-ba-noi",
+          "vietnamese": "bà nội",
+          "english": "grandmother (paternal)",
+          "ipa": "/baː˧˩ nojˀ˧˩/",
+          "audioFile": null,
+          "notes": "Your father's mother."
+        },
+        {
+          "key": "u2-l01-ong-ngoai",
+          "vietnamese": "ông ngoại",
+          "english": "grandfather (maternal)",
+          "ipa": "/ʔoŋ˧ ŋwaːj˧˩/",
+          "audioFile": null,
+          "notes": "'Ngoại' means 'external/maternal side'. Your mother's father."
+        },
+        {
+          "key": "u2-l01-ba-ngoai",
+          "vietnamese": "bà ngoại",
+          "english": "grandmother (maternal)",
+          "ipa": "/baː˧˩ ŋwaːj˧˩/",
+          "audioFile": null,
+          "notes": "Your mother's mother."
+        },
+        {
+          "key": "u2-l01-anh",
+          "vietnamese": "anh",
+          "english": "older brother",
+          "ipa": "/aɲ˧/",
+          "audioFile": null,
+          "notes": "Also used as 'you' when speaking to a man slightly older than you.",
+          "exampleSentence": {
+            "vietnamese": "Anh đi đâu vậy?",
+            "english": "Where are you going, older brother?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l01-chi",
+          "vietnamese": "chị",
+          "english": "older sister",
+          "ipa": "/tɕi˧/",
+          "audioFile": null,
+          "notes": "Also used as 'you' when speaking to a woman slightly older than you."
+        },
+        {
+          "key": "u2-l01-em",
+          "vietnamese": "em",
+          "english": "younger sibling",
+          "ipa": "/ɛm˧/",
+          "audioFile": null,
+          "notes": "Used for both younger brother and younger sister. Also means 'you' for someone younger, or 'I' when speaking to an older person.",
+          "exampleSentence": {
+            "vietnamese": "Em tên gì?",
+            "english": "What's your name? (to someone younger)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l01-con",
+          "vietnamese": "con",
+          "english": "child / son / daughter",
+          "ipa": "/kɔn˧/",
+          "audioFile": null,
+          "notes": "Also means 'I' when a child speaks to a parent. 'Con' is how you refer to yourself when talking to your parents.",
+          "exampleSentence": {
+            "vietnamese": "Con đói bụng quá!",
+            "english": "I'm so hungry! (child to parent)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l01-chau",
+          "vietnamese": "cháu",
+          "english": "grandchild / niece / nephew",
+          "ipa": "/tɕaːw˧˥/",
+          "audioFile": null,
+          "notes": "Also means 'I' when speaking to grandparents or elderly people."
+        },
+        {
+          "key": "u2-l01-co",
+          "vietnamese": "cô",
+          "english": "aunt (father's sister)",
+          "ipa": "/ko˧/",
+          "audioFile": null,
+          "notes": "Also used as 'you/Ms.' for women of your parents' age. 'Cô giáo' = female teacher."
+        },
+        {
+          "key": "u2-l01-chu",
+          "vietnamese": "chú",
+          "english": "uncle (father's younger brother)",
+          "ipa": "/tɕu˧˥/",
+          "audioFile": null,
+          "notes": "Your father's YOUNGER brother specifically. Also 'you/Mr.' for men younger than your father."
+        },
+        {
+          "key": "u2-l01-bac",
+          "vietnamese": "bác",
+          "english": "uncle/aunt (father's older sibling)",
+          "ipa": "/baːk˧˥/",
+          "audioFile": null,
+          "notes": "Your father's OLDER brother or sister. Also used for anyone of your parents' generation who is older than your parent."
+        },
+        {
+          "key": "u2-l01-di",
+          "vietnamese": "dì",
+          "english": "aunt (mother's sister)",
+          "ipa": "/ji˧˩/",
+          "audioFile": null,
+          "notes": "In Southern speech, 'dì' is pronounced like 'yì' (since d = /j/ in Southern)."
+        },
+        {
+          "key": "u2-l01-cau",
+          "vietnamese": "cậu",
+          "english": "uncle (mother's brother)",
+          "ipa": "/kəw˧˩/",
+          "audioFile": null,
+          "notes": "Your mother's brother. Also used informally as 'you' between close male friends."
+        },
+        {
+          "key": "u2-l01-vo-chong",
+          "vietnamese": "vợ chồng",
+          "english": "husband and wife",
+          "ipa": "/və˧˥ tɕoŋ˧˩/",
+          "audioFile": null,
+          "notes": "Vợ = wife, chồng = husband. Together they mean 'married couple'."
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "In Southern Vietnamese families, you'll hear parents call each other 'anh' and 'em' rather than by name. Children address ALL adults using kinship terms — never by first name, as that's considered disrespectful. Even strangers are addressed as anh/chị/cô/chú based on their apparent age. This pronoun system IS Vietnamese politeness."
+    },
+    {
+      "type": "instruction",
+      "content": "Quick reference for the paternal vs maternal split:\n\n• Father's side (nội): bác (older sibling), chú (younger brother), cô (sister)\n• Mother's side (ngoại): cậu (brother), dì (sister)\n\nRemember: 'nội' = inside/paternal, 'ngoại' = outside/maternal."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u2-l01-ex01",
+      "question": "What do you call your father's older brother?",
+      "options": ["chú", "bác", "cậu", "dì"],
+      "correctAnswer": "bác",
+      "explanation": "'Bác' is used for your father's older sibling. 'Chú' is for father's younger brother."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u2-l01-ex02",
+      "question": "Your mother's brother is called:",
+      "options": ["chú", "bác", "cậu", "anh"],
+      "correctAnswer": "cậu",
+      "explanation": "'Cậu' specifically refers to your mother's brother (maternal uncle)."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u2-l01-ex03",
+      "question": "Fill in the blank:",
+      "sentence": "___ ơi, cho con xin tiền.",
+      "english": "Mom, can I have some money? (child to mother)",
+      "correctAnswer": "Má",
+      "acceptableAnswers": ["Má", "Mẹ", "má", "mẹ"],
+      "explanation": "In Southern Vietnamese, 'Má' is the most common word for mom."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u2-l01-ex04",
+      "question": "How do you say 'I' when speaking to your parents?",
+      "options": ["tôi", "con", "em", "cháu"],
+      "correctAnswer": "con",
+      "explanation": "'Con' is how children refer to themselves when talking to parents. 'Tôi' is too formal for family."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u2-l01-ex05",
+      "question": "What does 'ngoại' indicate in 'bà ngoại'?",
+      "options": ["Paternal (father's side)", "Maternal (mother's side)", "Great-grandmother", "Step-grandmother"],
+      "correctAnswer": "Maternal (mother's side)",
+      "explanation": "'Ngoại' means external/maternal side. 'Bà ngoại' = mother's mother."
+    }
+  ]
+}

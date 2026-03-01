@@ -1,0 +1,230 @@
+{
+  "slug": "lesson-04-colors",
+  "unitSlug": "unit-2-basic-vocab",
+  "title": "Colors",
+  "titleVi": "Màu Sắc",
+  "description": "Learn to name and describe colors in Vietnamese — and discover why 'xanh' is both blue and green.",
+  "order": 4,
+  "estimatedMinutes": 12,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese color words work a bit differently from English. The most important thing to know: the word 'xanh' covers BOTH blue and green. To specify which one, Vietnamese adds a clarifier: 'xanh dương' (blue, literally 'ocean blue') and 'xanh lá' or 'xanh lá cây' (green, literally 'leaf green').\n\nTo describe something's color, use the pattern: object + màu + color. For example: 'cái áo màu đỏ' (a red shirt). You can also drop 'màu' in casual speech: 'cái áo đỏ'."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u2-l04-do",
+          "vietnamese": "đỏ",
+          "english": "red",
+          "ipa": "/ɗɔ˧˥/",
+          "audioFile": null,
+          "notes": "Red is the luckiest color in Vietnamese culture. Used for Tết (Lunar New Year) decorations, weddings, and lucky money envelopes (bao lì xì).",
+          "exampleSentence": {
+            "vietnamese": "Cái áo dài màu đỏ đẹp quá.",
+            "english": "That red áo dài is so beautiful.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l04-xanh-duong",
+          "vietnamese": "xanh dương",
+          "english": "blue",
+          "ipa": "/saːɲ˧ jɨəŋ˧/",
+          "audioFile": null,
+          "notes": "Literally 'ocean xanh'. 'Xanh dương' or 'xanh da trời' (sky-skin blue) specifies blue. In Southern pronunciation, 'x' sounds like /s/. Without the qualifier, 'xanh' is ambiguous between blue and green.",
+          "exampleSentence": {
+            "vietnamese": "Trời hôm nay xanh dương lắm.",
+            "english": "The sky today is very blue.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l04-xanh-la",
+          "vietnamese": "xanh lá",
+          "english": "green",
+          "ipa": "/saːɲ˧ laː˧˥/",
+          "audioFile": null,
+          "notes": "Short for 'xanh lá cây' (tree-leaf green). This is how you specify green as opposed to blue. In everyday speech, 'xanh lá' is more common than the full form.",
+          "exampleSentence": {
+            "vietnamese": "Rau xanh lá tốt cho sức khỏe.",
+            "english": "Green vegetables are good for health.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l04-vang",
+          "vietnamese": "vàng",
+          "english": "yellow / gold",
+          "ipa": "/vaːŋ˧˩/",
+          "audioFile": null,
+          "notes": "'Vàng' means both 'yellow' (the color) and 'gold' (the metal/color). Gold is associated with wealth and prosperity.",
+          "exampleSentence": {
+            "vietnamese": "Hoa mai màu vàng.",
+            "english": "Mai blossoms are yellow.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l04-trang",
+          "vietnamese": "trắng",
+          "english": "white",
+          "ipa": "/tɕaːŋ˧˥/",
+          "audioFile": null,
+          "notes": "White is associated with mourning and funerals in Vietnamese culture — the opposite of Western tradition. White headbands are worn at funerals.",
+          "exampleSentence": {
+            "vietnamese": "Áo dài trắng là đồng phục của nữ sinh.",
+            "english": "The white áo dài is the school uniform for female students.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l04-den",
+          "vietnamese": "đen",
+          "english": "black",
+          "ipa": "/ɗɛn˧/",
+          "audioFile": null,
+          "notes": "Black can have negative connotations in Vietnamese ('đen' also means 'unlucky' in slang — 'xui đen' = bad luck). But it's also a stylish, neutral color for clothing.",
+          "exampleSentence": {
+            "vietnamese": "Con mèo đen dễ thương ghê.",
+            "english": "The black cat is so cute.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l04-hong",
+          "vietnamese": "hồng",
+          "english": "pink",
+          "ipa": "/hoŋ˧˩/",
+          "audioFile": null,
+          "notes": "'Hồng' also means 'rose' (hoa hồng = rose flower). Pink is generally seen as a feminine, gentle color.",
+          "exampleSentence": {
+            "vietnamese": "Em thích màu hồng.",
+            "english": "I like pink.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l04-tim",
+          "vietnamese": "tím",
+          "english": "purple",
+          "ipa": "/tim˧˥/",
+          "audioFile": null,
+          "notes": "Purple is associated with Huế (Central Vietnam) — the old imperial capital is known for its purple theme. 'Huế tím' is a common phrase.",
+          "exampleSentence": {
+            "vietnamese": "Bông hoa màu tím đẹp quá.",
+            "english": "That purple flower is so pretty.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l04-cam",
+          "vietnamese": "cam",
+          "english": "orange (color) / orange (fruit)",
+          "ipa": "/kaːm˧/",
+          "audioFile": null,
+          "notes": "'Cam' is both the color orange and the orange fruit — just like in English. 'Trái cam' or 'quả cam' = an orange fruit. 'Màu cam' = orange color.",
+          "exampleSentence": {
+            "vietnamese": "Nước cam tươi ngon lắm.",
+            "english": "Fresh orange juice is very delicious.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l04-nau",
+          "vietnamese": "nâu",
+          "english": "brown",
+          "ipa": "/nəw˧/",
+          "audioFile": null,
+          "notes": "Also used in 'cà phê nâu' (brown coffee), which is another way to say coffee with milk in some regions.",
+          "exampleSentence": {
+            "vietnamese": "Đôi giày màu nâu.",
+            "english": "A pair of brown shoes.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l04-xam",
+          "vietnamese": "xám",
+          "english": "gray",
+          "ipa": "/saːm˧˥/",
+          "audioFile": null,
+          "exampleSentence": {
+            "vietnamese": "Trời xám quá, chắc sắp mưa.",
+            "english": "The sky is so gray, it's probably about to rain.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l04-bac",
+          "vietnamese": "bạc",
+          "english": "silver",
+          "ipa": "/ɓaːk˧˩/",
+          "audioFile": null,
+          "notes": "'Bạc' means both the color silver and the metal silver. 'Tóc bạc' = gray/silver hair (a sign of aging). Also note: 'bạc' can mean 'ungrateful/disloyal' in some contexts.",
+          "exampleSentence": {
+            "vietnamese": "Ông nội tóc bạc rồi.",
+            "english": "Grandpa's hair has turned silver already.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "Colors carry deep meaning in Vietnamese culture:\n\n• Red (đỏ) — The luckiest color. Used for Tết, weddings, bao lì xì (lucky money envelopes). Brides often wear red.\n• Yellow/Gold (vàng) — Prosperity and royalty. Yellow was historically reserved for the emperor. Hoa mai (yellow apricot blossom) is THE Tết flower in the South.\n• White (trắng) — Mourning and funerals. Wearing all white to a Vietnamese celebration would be very inappropriate. White headbands and armbands are worn at funerals.\n• Black (đen) — Can mean bad luck in colloquial speech ('xui đen'). Not commonly worn to festive events.\n• Pink/Red (hồng/đỏ) — Romance and happiness.\n\nFor Tết specifically: red + yellow/gold are the dominant colors. You'll see these everywhere during Lunar New Year — on decorations, envelopes, flowers, and outfits."
+    },
+    {
+      "type": "instruction",
+      "content": "Describing colors — the patterns:\n\n• Full form: cái + noun + màu + color → 'cái áo màu đỏ' (a red shirt)\n• Casual: cái + noun + color → 'cái áo đỏ' (a red shirt)\n• Asking: 'Cái này màu gì?' (What color is this?)\n• Saying your favorite: 'Con thích màu ___' (I like the color ___)\n\nRemember: 'xanh' alone is ambiguous — always add 'dương' (blue) or 'lá' (green) to be specific."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u2-l04-ex01",
+      "question": "What is the difference between 'xanh dương' and 'xanh lá'?",
+      "options": [
+        "xanh dương = green, xanh lá = blue",
+        "xanh dương = blue, xanh lá = green",
+        "They both mean blue",
+        "They both mean green"
+      ],
+      "correctAnswer": "xanh dương = blue, xanh lá = green",
+      "explanation": "'Xanh dương' (ocean xanh) = blue. 'Xanh lá' (leaf xanh) = green. Vietnamese uses 'xanh' for both blue and green, so you need a qualifier to be specific."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u2-l04-ex02",
+      "question": "Which color is considered unlucky and associated with funerals in Vietnamese culture?",
+      "options": ["đỏ (red)", "vàng (yellow)", "trắng (white)", "hồng (pink)"],
+      "correctAnswer": "trắng (white)",
+      "explanation": "White is the color of mourning in Vietnamese culture. White headbands are worn at funerals. This is the opposite of Western culture, where black is the mourning color."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u2-l04-ex03",
+      "question": "How do you ask 'What color is this?' in Vietnamese? Type: Cái này màu gì?",
+      "correctAnswer": "Cái này màu gì?",
+      "acceptableAnswers": ["Cái này màu gì?", "Cái này màu gì", "cái này màu gì?", "cái này màu gì", "Cai nay mau gi?", "cai nay mau gi"],
+      "explanation": "'Cái này' = this thing, 'màu' = color, 'gì' = what. 'Cái này màu gì?' = What color is this?"
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u2-l04-ex04",
+      "question": "Which flower is yellow and represents Tết (Lunar New Year) in Southern Vietnam?",
+      "options": ["hoa hồng (rose)", "hoa mai (apricot blossom)", "hoa đào (peach blossom)", "hoa sen (lotus)"],
+      "correctAnswer": "hoa mai (apricot blossom)",
+      "explanation": "Hoa mai (yellow apricot blossom) is THE Tết flower in Southern Vietnam. In the North, hoa đào (pink peach blossom) is the Tết flower instead."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u2-l04-ex05",
+      "question": "Type 'I like the color red' in Vietnamese (speaking as a child to parents):",
+      "correctAnswer": "Con thích màu đỏ",
+      "acceptableAnswers": ["Con thích màu đỏ", "Con thích màu đỏ.", "con thích màu đỏ", "con thich mau do"],
+      "explanation": "'Con' = I (child to parent), 'thích' = like, 'màu' = color, 'đỏ' = red."
+    }
+  ]
+}

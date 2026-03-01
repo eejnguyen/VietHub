@@ -1,0 +1,255 @@
+{
+  "slug": "lesson-05-body-parts",
+  "unitSlug": "unit-2-basic-vocab",
+  "title": "Body Parts",
+  "titleVi": "Bộ Phận Cơ Thể",
+  "description": "Learn the Vietnamese words for parts of the body — essential vocabulary you've probably heard at home when someone tells you to wash your hands or cover your mouth.",
+  "order": 5,
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Body part vocabulary is some of the earliest language you pick up at home. Your parents probably told you 'rửa tay đi!' (go wash your hands) or 'đừng dụi mắt!' (don't rub your eyes) hundreds of times.\n\nAs a heritage speaker, you likely know several of these words already. This lesson will fill in any gaps and make sure you can name all the major body parts confidently. Southern pronunciation is noted where it differs from Northern speech."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u2-l05-dau",
+          "vietnamese": "đầu",
+          "english": "head",
+          "ipa": "/ɗəw˧˩/",
+          "audioFile": null,
+          "notes": "Also used in 'đau đầu' (headache). 'Đầu' can also mean 'beginning' or 'first' in other contexts.",
+          "exampleSentence": {
+            "vietnamese": "Con đau đầu quá.",
+            "english": "I have such a headache. (child to parent)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l05-toc",
+          "vietnamese": "tóc",
+          "english": "hair (head hair)",
+          "ipa": "/tok˧˥/",
+          "audioFile": null,
+          "notes": "'Tóc' specifically means hair on your head. Body hair is 'lông'.",
+          "exampleSentence": {
+            "vietnamese": "Tóc con dài quá rồi, đi cắt đi.",
+            "english": "Your hair is so long already, go get a haircut.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l05-mat",
+          "vietnamese": "mắt",
+          "english": "eye",
+          "ipa": "/mak˧˥/",
+          "audioFile": null,
+          "notes": "'Đôi mắt' = pair of eyes. 'Kính mắt' = glasses (eyeglasses).",
+          "exampleSentence": {
+            "vietnamese": "Đừng dụi mắt!",
+            "english": "Don't rub your eyes!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l05-mui",
+          "vietnamese": "mũi",
+          "english": "nose",
+          "ipa": "/muj˧˩/",
+          "audioFile": null,
+          "notes": "'Mũi' also means the 'tip' or 'point' of something (like a needle or a shoe).",
+          "exampleSentence": {
+            "vietnamese": "Mũi em bị nghẹt rồi.",
+            "english": "My nose is stuffy.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l05-mieng",
+          "vietnamese": "miệng",
+          "english": "mouth",
+          "ipa": "/miəŋ˧˩/",
+          "audioFile": null,
+          "notes": "In Southern speech, you'll often hear 'miệng' in phrases like 'che miệng lại' (cover your mouth).",
+          "exampleSentence": {
+            "vietnamese": "Ăn xong lau miệng đi.",
+            "english": "Wipe your mouth after eating.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l05-tai",
+          "vietnamese": "tai",
+          "english": "ear",
+          "ipa": "/taːj˧/",
+          "audioFile": null,
+          "notes": "'Tai' also appears in 'tai nạn' (accident). 'Đau tai' = earache.",
+          "exampleSentence": {
+            "vietnamese": "Nói lớn lên, tai tôi không nghe rõ.",
+            "english": "Speak louder, my ears can't hear clearly.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l05-co",
+          "vietnamese": "cổ",
+          "english": "neck",
+          "ipa": "/ko˧˥/",
+          "audioFile": null,
+          "notes": "'Cổ' also means 'ancient/old' in a different context. 'Cổ tay' = wrist (literally 'neck of the hand').",
+          "exampleSentence": {
+            "vietnamese": "Con bị đau cổ, không quay đầu được.",
+            "english": "My neck hurts, I can't turn my head.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l05-vai",
+          "vietnamese": "vai",
+          "english": "shoulder",
+          "ipa": "/vaːj˧/",
+          "audioFile": null,
+          "notes": "In Southern dialect, the 'v' is pronounced as /v/. 'Vai' also means 'role' (as in a role in a play).",
+          "exampleSentence": {
+            "vietnamese": "Ba vác đồ trên vai.",
+            "english": "Dad carries stuff on his shoulder.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l05-tay",
+          "vietnamese": "tay",
+          "english": "hand / arm",
+          "ipa": "/taːj˧/",
+          "audioFile": null,
+          "notes": "'Tay' covers both 'hand' and 'arm' in Vietnamese. Context tells you which. 'Rửa tay' = wash hands.",
+          "exampleSentence": {
+            "vietnamese": "Rửa tay trước khi ăn cơm!",
+            "english": "Wash your hands before eating!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l05-chan",
+          "vietnamese": "chân",
+          "english": "foot / leg",
+          "ipa": "/tɕən˧/",
+          "audioFile": null,
+          "notes": "'Chân' covers both 'foot' and 'leg', just like 'tay' covers both hand and arm. 'Rửa chân' = wash feet.",
+          "exampleSentence": {
+            "vietnamese": "Rửa chân rồi mới lên giường ngủ.",
+            "english": "Wash your feet before getting in bed to sleep.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l05-ngon-tay",
+          "vietnamese": "ngón tay",
+          "english": "finger",
+          "ipa": "/ŋɔn˧˥ taːj˧/",
+          "audioFile": null,
+          "notes": "'Ngón chân' = toe (literally 'toe of the foot'). 'Ngón cái' = thumb.",
+          "exampleSentence": {
+            "vietnamese": "Con bị đứt ngón tay rồi!",
+            "english": "I cut my finger!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l05-bung",
+          "vietnamese": "bụng",
+          "english": "stomach / belly",
+          "ipa": "/ɓuŋ˧˩/",
+          "audioFile": null,
+          "notes": "'Đói bụng' = hungry (stomach is hungry). 'Đau bụng' = stomachache. Very common in everyday speech.",
+          "exampleSentence": {
+            "vietnamese": "Con đói bụng quá, có gì ăn không?",
+            "english": "I'm so hungry, is there anything to eat?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l05-lung",
+          "vietnamese": "lưng",
+          "english": "back (body part)",
+          "ipa": "/lɨŋ˧/",
+          "audioFile": null,
+          "notes": "'Đau lưng' = backache. Very common complaint among Vietnamese parents and grandparents!",
+          "exampleSentence": {
+            "vietnamese": "Bà ngoại đau lưng hoài.",
+            "english": "Grandma always has back pain.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l05-da",
+          "vietnamese": "da",
+          "english": "skin",
+          "ipa": "/jaː˧/",
+          "audioFile": null,
+          "ttsText": "ya",
+          "notes": "In Southern dialect, 'd' is pronounced /j/ (like English 'y'). So 'da' sounds like 'ya'. 'Da' also means 'yes' (polite, Southern) and 'leather'.",
+          "exampleSentence": {
+            "vietnamese": "Da con trắng giống má.",
+            "english": "Your skin is fair like mom's.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "Vietnamese parents and grandparents are very direct about physical appearances and body parts — comments like 'con mập quá' (you're so chubby) or 'da con đen quá' (your skin is so dark) are extremely common and considered normal observations, not insults. This can be a culture shock for heritage speakers raised in Western environments. It's simply how Vietnamese families express concern and familiarity."
+    },
+    {
+      "type": "instruction",
+      "content": "Notice how Vietnamese uses the same word for both parts of a limb:\n\n• tay = hand AND arm\n• chân = foot AND leg\n\nTo be more specific, you can say 'bàn tay' (palm/hand specifically) vs 'cánh tay' (arm specifically), and 'bàn chân' (foot specifically) vs 'cẳng chân' (lower leg). But in everyday speech, 'tay' and 'chân' cover everything."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u2-l05-ex01",
+      "question": "What does 'đau đầu' mean?",
+      "options": ["headache", "toothache", "stomachache", "earache"],
+      "correctAnswer": "headache",
+      "explanation": "'Đầu' means 'head' and 'đau' means 'pain/hurt', so 'đau đầu' = headache."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u2-l05-ex02",
+      "question": "Which word covers both 'hand' and 'arm' in Vietnamese?",
+      "options": ["chân", "tay", "ngón tay", "vai"],
+      "correctAnswer": "tay",
+      "explanation": "'Tay' is used for both hand and arm in everyday Vietnamese. Similarly, 'chân' covers both foot and leg."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u2-l05-ex03",
+      "question": "Type the Vietnamese word for 'stomach/belly':",
+      "english": "stomach / belly",
+      "correctAnswer": "bụng",
+      "acceptableAnswers": ["bụng", "Bụng"],
+      "explanation": "'Bụng' means stomach or belly. 'Đói bụng' = hungry, 'đau bụng' = stomachache."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u2-l05-ex04",
+      "question": "Your mom says: 'Rửa ___ trước khi ăn!' (Wash your ___ before eating!). What body part goes in the blank?",
+      "english": "hand / hands",
+      "correctAnswer": "tay",
+      "acceptableAnswers": ["tay", "Tay"],
+      "explanation": "'Rửa tay' means 'wash hands' — something every Vietnamese parent says constantly!"
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u2-l05-ex05",
+      "question": "How is 'da' (skin) pronounced in Southern Vietnamese?",
+      "options": ["Like 'da' with a hard 'd'", "Like 'ya' with a /j/ sound", "Like 'za' with a /z/ sound", "Like 'na'"],
+      "correctAnswer": "Like 'ya' with a /j/ sound",
+      "explanation": "In Southern dialect, 'd' is pronounced as /j/ (like English 'y'). So 'da' sounds like 'ya'. This is a major North-South pronunciation difference."
+    }
+  ]
+}

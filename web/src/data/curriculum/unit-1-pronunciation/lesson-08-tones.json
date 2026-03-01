@@ -1,0 +1,191 @@
+{
+  "slug": "lesson-08-tones",
+  "unitSlug": "unit-1-pronunciation",
+  "title": "The 6 Vietnamese Tones",
+  "titleVi": "Thanh Điệu",
+  "description": "Discover the 6 tones that give Vietnamese its musical quality. Learn each tone's pitch contour, its diacritical mark, and how a single syllable like 'ma' can have 6 completely different meanings depending on tone.",
+  "order": 8,
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese is a **tonal language** — the pitch pattern you use when saying a syllable changes its meaning entirely. Vietnamese has **6 tones**, and every syllable carries one of them. This is arguably the most important aspect of Vietnamese pronunciation. Getting a tone wrong doesn't just give you an accent — it gives you a completely different word."
+    },
+    {
+      "type": "instruction",
+      "content": "Let's see this in action with the syllable **'ma'**, which has 6 different meanings depending on its tone:\n\n| Tone | Mark | Word | Meaning | Pitch |\n|------|------|------|---------|-------|\n| Ngang | (none) | ma | ghost | Mid-level, flat |\n| Sắc | ´ | má | cheek / mom | Rising from mid to high |\n| Huyền | ` | mà | but / that | Falling from mid to low |\n| Hỏi | ̉ | mả | grave / tomb | Dipping low then rising |\n| Ngã | ~ | mã | horse / code | Rising with a break/creak |\n| Nặng | ̣ | mạ | rice seedling | Dropping sharply, heavy |"
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u1-l08-ma",
+          "vietnamese": "ma",
+          "english": "ghost",
+          "ipa": "/ma˧/",
+          "audioFile": null,
+          "notes": "Tone 1 — NGANG (level/mid): No tone mark. Your voice stays flat at a comfortable mid pitch, like stating a fact in a monotone. Think of it as your 'default' pitch."
+        },
+        {
+          "key": "u1-l08-ma-sac",
+          "vietnamese": "má",
+          "english": "cheek / mom (Southern)",
+          "ipa": "/ma˧˥/",
+          "audioFile": null,
+          "notes": "Tone 2 — SẮC (rising/high): The acute accent ´ goes above the vowel. Your voice rises sharply from mid to high, like asking a surprised 'what?!' in English."
+        },
+        {
+          "key": "u1-l08-ma-huyen",
+          "vietnamese": "mà",
+          "english": "but / that",
+          "ipa": "/ma˨˩/",
+          "audioFile": null,
+          "notes": "Tone 3 — HUYỀN (falling/low): The grave accent ` goes above the vowel. Your voice falls from mid to low, like the sad trailing off in 'oh no...'"
+        },
+        {
+          "key": "u1-l08-ma-hoi",
+          "vietnamese": "mả",
+          "english": "grave / tomb",
+          "ipa": "/ma˧˩˧/",
+          "audioFile": null,
+          "notes": "Tone 4 — HỎI (dipping-rising): The hook ̉ goes above the vowel. Your voice dips down then curves back up, like asking a doubtful question. Imagine saying 'really?' with exaggerated doubt."
+        },
+        {
+          "key": "u1-l08-ma-nga",
+          "vietnamese": "mã",
+          "english": "horse / code",
+          "ipa": "/ma˧˥ˀ/",
+          "audioFile": null,
+          "notes": "Tone 5 — NGÃ (rising-broken/creaky): The tilde ~ goes above the vowel. Your voice rises but with a glottal break or creaky quality in the middle. This is the hardest tone for learners."
+        },
+        {
+          "key": "u1-l08-ma-nang",
+          "vietnamese": "mạ",
+          "english": "rice seedling",
+          "ipa": "/ma˧˩ˀ/",
+          "audioFile": null,
+          "notes": "Tone 6 — NẶNG (dropping/heavy): The dot ̣ goes below the vowel. Your voice drops sharply and cuts off abruptly, like a heavy stone dropping. Short and low."
+        }
+      ]
+    },
+    {
+      "type": "instruction",
+      "content": "**Where do tone marks go?** Tone marks are always placed on a vowel, never on a consonant. When a syllable has multiple vowels (a diphthong or triphthong), the tone mark goes on the **main vowel**. The general rules are:\n\n1. If there is only one vowel, the mark goes on it: **tá, mè, lộ**\n2. If there are two vowels and the syllable ends in a consonant, the mark goes on the **second-to-last** vowel from the right: **toán, miếng**\n3. If there are two vowels and no final consonant, the mark goes on the **last** vowel: **mùa, lửa** (exception: in combinations with 'ơ' and 'ê', rules may vary)\n4. The letters **ơ** and **ê** attract tone marks when present\n\nDon't worry about memorizing these rules perfectly now — you'll internalize them naturally as you read and write more Vietnamese."
+    },
+    {
+      "type": "instruction",
+      "content": "**Pitch Contour Descriptions:**\n\n🎵 **Ngang** (no mark): ——— flat, mid-level, like a steady hum\n📈 **Sắc** (´): ／ rising from mid to high, like a question\n📉 **Huyền** (`)): ＼ falling from mid to low, like a sigh\n🔄 **Hỏi** (̉): ＼／ dips down then curves back up\n〰️ **Ngã** (~): ／〜 rises, breaks/creaks, continues rising\n⬇️ **Nặng** (̣): ⬇ drops sharply and stops, heavy and short\n\nA helpful Vietnamese mnemonic to remember the tone names in order:\n**\"Không Sợ Huyền Hoặc Ngã Nặng\"**\n(Don't be afraid of the huyền, hỏi, ngã, or nặng tones)\n\nThis sentence itself uses the 6 tones in order: Không (ngang), Sợ (sắc), Huyền (huyền), Hoặc (hỏi-like), Ngã (ngã), Nặng (nặng)."
+    },
+    {
+      "type": "cultural_note",
+      "content": "Tones are not optional decoration — they are as fundamental to a word's identity as consonants and vowels are in English. Mixing up tones is like saying 'bat' when you mean 'bit' in English; the listener hears a completely different word. The good news for heritage speakers: even if you never learned to read Vietnamese, your ear has been absorbing these tonal patterns since childhood. You likely produce them correctly without even thinking about it. This lesson is about making that unconscious knowledge conscious and connecting it to the written marks."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "tone_matching",
+      "key": "u1-l08-ex01",
+      "instruction": "Match each word in the 'ma' set with its correct meaning.",
+      "pairs": [
+        {
+          "word": "ma",
+          "options": ["ghost", "cheek/mom", "but/that", "grave/tomb", "horse/code", "rice seedling"],
+          "correct": "ghost"
+        },
+        {
+          "word": "má",
+          "options": ["ghost", "cheek/mom", "but/that", "grave/tomb", "horse/code", "rice seedling"],
+          "correct": "cheek/mom"
+        },
+        {
+          "word": "mà",
+          "options": ["ghost", "cheek/mom", "but/that", "grave/tomb", "horse/code", "rice seedling"],
+          "correct": "but/that"
+        },
+        {
+          "word": "mả",
+          "options": ["ghost", "cheek/mom", "but/that", "grave/tomb", "horse/code", "rice seedling"],
+          "correct": "grave/tomb"
+        },
+        {
+          "word": "mã",
+          "options": ["ghost", "cheek/mom", "but/that", "grave/tomb", "horse/code", "rice seedling"],
+          "correct": "horse/code"
+        },
+        {
+          "word": "mạ",
+          "options": ["ghost", "cheek/mom", "but/that", "grave/tomb", "horse/code", "rice seedling"],
+          "correct": "rice seedling"
+        }
+      ],
+      "explanation": "Each tone completely changes the meaning: ma (ghost), má (cheek/mom), mà (but/that), mả (grave/tomb), mã (horse/code), mạ (rice seedling). This is why tones are essential in Vietnamese!"
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l08-ex02",
+      "question": "Which tone mark is placed BELOW the vowel instead of above it?",
+      "options": [
+        "Sắc (´)",
+        "Huyền (`)",
+        "Ngã (~)",
+        "Nặng (̣)"
+      ],
+      "correctAnswer": "Nặng (̣)",
+      "explanation": "The nặng tone is the only one with its mark (a dot) placed below the vowel: ạ, ọ, ụ, etc. All other tone marks sit above the vowel."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l08-ex03",
+      "question": "How many tones does Vietnamese have?",
+      "options": [
+        "4 tones",
+        "5 tones",
+        "6 tones",
+        "7 tones"
+      ],
+      "correctAnswer": "6 tones",
+      "explanation": "Vietnamese has 6 tones: ngang (level), sắc (rising), huyền (falling), hỏi (dipping-rising), ngã (rising-broken), and nặng (dropping). The ngang tone has no written mark, so some learners forget to count it!"
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l08-ex04",
+      "question": "Which tone is described as 'dipping low then rising back up'?",
+      "options": [
+        "Sắc — the rising tone",
+        "Huyền — the falling tone",
+        "Hỏi — the dipping-rising tone",
+        "Nặng — the heavy/dropping tone"
+      ],
+      "correctAnswer": "Hỏi — the dipping-rising tone",
+      "explanation": "The hỏi tone (marked with ̉) dips down from mid pitch to low, then curves back up. Think of the intonation when you ask a doubtful 'really?' in English."
+    },
+    {
+      "type": "tone_matching",
+      "key": "u1-l08-ex05",
+      "instruction": "Match each tone name with its pitch contour description.",
+      "pairs": [
+        {
+          "word": "Ngang",
+          "options": ["Flat, mid-level", "Rising from mid to high", "Falling from mid to low", "Drops sharply and stops"],
+          "correct": "Flat, mid-level"
+        },
+        {
+          "word": "Sắc",
+          "options": ["Flat, mid-level", "Rising from mid to high", "Falling from mid to low", "Drops sharply and stops"],
+          "correct": "Rising from mid to high"
+        },
+        {
+          "word": "Huyền",
+          "options": ["Flat, mid-level", "Rising from mid to high", "Falling from mid to low", "Drops sharply and stops"],
+          "correct": "Falling from mid to low"
+        },
+        {
+          "word": "Nặng",
+          "options": ["Flat, mid-level", "Rising from mid to high", "Falling from mid to low", "Drops sharply and stops"],
+          "correct": "Drops sharply and stops"
+        }
+      ],
+      "explanation": "Ngang = flat mid-level (no mark), Sắc = rising (´), Huyền = falling (`), Nặng = drops sharply and stops (dot below). The hỏi and ngã tones have more complex contours covered in the next lesson."
+    }
+  ]
+}

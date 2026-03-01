@@ -1,0 +1,303 @@
+{
+  "slug": "lesson-01-alphabet",
+  "unitSlug": "unit-1-pronunciation",
+  "title": "The Vietnamese Alphabet",
+  "titleVi": "Bảng Chữ Cái Tiếng Việt",
+  "description": "Learn the 29 letters of the Vietnamese alphabet. Vietnamese uses a Latin-based script introduced by Portuguese missionaries in the 17th century, with several unique letters you won't find in English.",
+  "order": 1,
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese uses a Latin-based alphabet called *chữ Quốc ngữ* (national language script). It was developed in the 17th century by Portuguese and French missionaries, most notably Alexandre de Rhodes. Unlike Chinese or Japanese, Vietnamese is fully phonetic — once you learn the letters and tone marks, you can read any word aloud.\n\nThe Vietnamese alphabet has **29 letters**. It includes all 26 English letters except **f**, **j**, **w**, and **z**, and adds 7 unique letters: **ă**, **â**, **đ**, **ê**, **ô**, **ơ**, and **ư**. The letter **đ** is the only consonant unique to Vietnamese; the other 6 are vowels with diacritical marks that change their sound."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u1-l01-a",
+          "vietnamese": "A a",
+          "english": "Letter A (ah)",
+          "ipa": "/aː/",
+          "audioFile": null,
+          "notes": "Like 'a' in 'father'. This is a long, open vowel."
+        },
+        {
+          "key": "u1-l01-ă",
+          "vietnamese": "Ă ă",
+          "english": "Letter Ă (á)",
+          "ipa": "/a/",
+          "audioFile": null,
+          "notes": "A short 'a', like in 'cut'. The breve (˘) means it is shorter than 'a'. This letter does not exist in English."
+        },
+        {
+          "key": "u1-l01-â",
+          "vietnamese": "Â â",
+          "english": "Letter  (ớ)",
+          "ipa": "/ə/",
+          "audioFile": null,
+          "notes": "Like the 'u' in 'but' or the schwa sound. The circumflex (^) changes the vowel quality. This letter does not exist in English."
+        },
+        {
+          "key": "u1-l01-b",
+          "vietnamese": "B b",
+          "english": "Letter B (bê)",
+          "ipa": "/ɓ/",
+          "audioFile": null,
+          "notes": "An implosive 'b' — your vocal cords vibrate as you close your lips, creating a slight inward airflow. Softer than English 'b'."
+        },
+        {
+          "key": "u1-l01-c",
+          "vietnamese": "C c",
+          "english": "Letter C (xê)",
+          "ipa": "/k/",
+          "audioFile": null,
+          "notes": "Always a hard 'k' sound. Vietnamese 'c' never sounds like English 's' (as in 'city')."
+        },
+        {
+          "key": "u1-l01-d",
+          "vietnamese": "D d",
+          "english": "Letter D (dê)",
+          "ipa": "/j/ (Southern), /z/ (Northern)",
+          "audioFile": null,
+          "ttsText": "yêu",
+          "notes": "In the Southern (Saigon) dialect, this sounds like English 'y' in 'yes' — hear the audio demo. In the Northern (Hanoi) dialect, it sounds like 'z'. This is one of the biggest North-South differences."
+        },
+        {
+          "key": "u1-l01-đ",
+          "vietnamese": "Đ đ",
+          "english": "Letter Đ (đê)",
+          "ipa": "/ɗ/",
+          "audioFile": null,
+          "notes": "An implosive 'd'. This is the sound English speakers expect when they see 'd'. The crossbar (đ) distinguishes it from plain 'd'. This letter does not exist in English."
+        },
+        {
+          "key": "u1-l01-e",
+          "vietnamese": "E e",
+          "english": "Letter E (e)",
+          "ipa": "/ɛ/",
+          "audioFile": null,
+          "notes": "Like 'e' in 'bed'. More open than English 'ay'."
+        },
+        {
+          "key": "u1-l01-ê",
+          "vietnamese": "Ê ê",
+          "english": "Letter Ê (ê)",
+          "ipa": "/e/",
+          "audioFile": null,
+          "notes": "Like 'ay' in 'say' but without the glide. A pure, closed 'e' sound. This letter does not exist in English."
+        },
+        {
+          "key": "u1-l01-g",
+          "vietnamese": "G g",
+          "english": "Letter G (giê)",
+          "ipa": "/ɣ/",
+          "audioFile": null,
+          "notes": "A voiced velar fricative — like a soft, breathy 'g'. Not quite like English 'g' in 'go'."
+        },
+        {
+          "key": "u1-l01-h",
+          "vietnamese": "H h",
+          "english": "Letter H (hát)",
+          "ipa": "/h/",
+          "audioFile": null,
+          "notes": "Same as English 'h' in 'hat'."
+        },
+        {
+          "key": "u1-l01-i",
+          "vietnamese": "I i",
+          "english": "Letter I (i ngắn)",
+          "ipa": "/i/",
+          "audioFile": null,
+          "notes": "Like 'ee' in 'see'. Called 'i ngắn' (short i) to distinguish from 'y'."
+        },
+        {
+          "key": "u1-l01-k",
+          "vietnamese": "K k",
+          "english": "Letter K (ca)",
+          "ipa": "/k/",
+          "audioFile": null,
+          "notes": "Same 'k' sound as 'c'. Used before 'e', 'ê', 'i', and 'y' where 'c' cannot appear."
+        },
+        {
+          "key": "u1-l01-l",
+          "vietnamese": "L l",
+          "english": "Letter L (e-lờ)",
+          "ipa": "/l/",
+          "audioFile": null,
+          "notes": "Similar to English 'l'. Only appears at the beginning of syllables in Vietnamese."
+        },
+        {
+          "key": "u1-l01-m",
+          "vietnamese": "M m",
+          "english": "Letter M (em-mờ)",
+          "ipa": "/m/",
+          "audioFile": null,
+          "notes": "Same as English 'm'."
+        },
+        {
+          "key": "u1-l01-n",
+          "vietnamese": "N n",
+          "english": "Letter N (en-nờ)",
+          "ipa": "/n/",
+          "audioFile": null,
+          "notes": "Same as English 'n'."
+        },
+        {
+          "key": "u1-l01-o",
+          "vietnamese": "O o",
+          "english": "Letter O (o)",
+          "ipa": "/ɔ/",
+          "audioFile": null,
+          "notes": "Like 'o' in 'hot' or 'law'. More open and rounded than English 'oh'."
+        },
+        {
+          "key": "u1-l01-ô",
+          "vietnamese": "Ô ô",
+          "english": "Letter Ô (ô)",
+          "ipa": "/o/",
+          "audioFile": null,
+          "notes": "Like 'o' in 'go' but without the glide. A pure, closed 'o'. This letter does not exist in English."
+        },
+        {
+          "key": "u1-l01-ơ",
+          "vietnamese": "Ơ ơ",
+          "english": "Letter Ơ (ơ)",
+          "ipa": "/əː/",
+          "audioFile": null,
+          "notes": "Like the 'u' in 'fur' but longer. One of the hardest sounds for English speakers. This letter does not exist in English."
+        },
+        {
+          "key": "u1-l01-p",
+          "vietnamese": "P p",
+          "english": "Letter P (pê)",
+          "ipa": "/p/",
+          "audioFile": null,
+          "notes": "Rarely appears at the start of native Vietnamese words. Mostly seen in loanwords like 'pin' (battery)."
+        },
+        {
+          "key": "u1-l01-q",
+          "vietnamese": "Q q",
+          "english": "Letter Q (cu/quy)",
+          "ipa": "/k/",
+          "audioFile": null,
+          "notes": "Always paired with 'u' as 'qu-'. Sounds like 'kw'. Example: 'quốc' (nation)."
+        },
+        {
+          "key": "u1-l01-r",
+          "vietnamese": "R r",
+          "english": "Letter R (e-rờ)",
+          "ipa": "/ɹ/ or /ʐ/ (Southern)",
+          "audioFile": null,
+          "notes": "In Southern Vietnamese, this is a retroflex sound — tongue curls back. Some Southern speakers use a sound similar to English 'r'. Northern speakers trill or tap."
+        },
+        {
+          "key": "u1-l01-s",
+          "vietnamese": "S s",
+          "english": "Letter S (ét-sì)",
+          "ipa": "/ʂ/ or /s/ (Southern)",
+          "audioFile": null,
+          "notes": "In Southern Vietnamese, this is often retroflex (tongue curled back), sounding like English 'sh'. In Northern Vietnamese, it is a flat 's'."
+        },
+        {
+          "key": "u1-l01-t",
+          "vietnamese": "T t",
+          "english": "Letter T (tê)",
+          "ipa": "/t/",
+          "audioFile": null,
+          "notes": "Unaspirated — no puff of air. More like the 't' in 'stop' than the 't' in 'top'."
+        },
+        {
+          "key": "u1-l01-u",
+          "vietnamese": "U u",
+          "english": "Letter U (u)",
+          "ipa": "/u/",
+          "audioFile": null,
+          "notes": "Like 'oo' in 'food'."
+        },
+        {
+          "key": "u1-l01-ư",
+          "vietnamese": "Ư ư",
+          "english": "Letter Ư (ư)",
+          "ipa": "/ɯ/",
+          "audioFile": null,
+          "notes": "An unrounded 'u' — say 'oo' but spread your lips as if smiling. This sound does not exist in English. This letter does not exist in English."
+        },
+        {
+          "key": "u1-l01-v",
+          "vietnamese": "V v",
+          "english": "Letter V (vê)",
+          "ipa": "/v/ or /j/ (Southern)",
+          "audioFile": null,
+          "notes": "In formal Southern speech this is /v/ like English. In casual Southern speech, many speakers pronounce it as /j/ (like 'y'). Northern speakers always use /v/."
+        },
+        {
+          "key": "u1-l01-x",
+          "vietnamese": "X x",
+          "english": "Letter X (ích-xì)",
+          "ipa": "/s/",
+          "audioFile": null,
+          "notes": "Sounds like English 's' in 'sun'. Not like English 'x' in 'box'. This trips up many beginners."
+        },
+        {
+          "key": "u1-l01-y",
+          "vietnamese": "Y y",
+          "english": "Letter Y (i dài)",
+          "ipa": "/i/",
+          "audioFile": null,
+          "notes": "Same sound as 'i'. Called 'i dài' (long i). Used in certain word positions and spellings."
+        }
+      ]
+    },
+    {
+      "type": "instruction",
+      "content": "**Key differences from the English alphabet:**\n\n1. **Missing letters**: Vietnamese does not use **f**, **j**, **w**, or **z**.\n2. **Added letters**: Vietnamese adds **ă**, **â**, **đ**, **ê**, **ô**, **ơ**, and **ư** — 7 letters with diacritical marks.\n3. **Different sounds**: Many letters sound different than you expect from English. The biggest surprises: **d** = 'y' sound (Southern), **x** = 's' sound, **c** = always hard 'k'.\n4. **Tone marks are separate**: The diacritical marks on ă, â, ê, ô, ơ, ư change the *vowel identity*. Tone marks (à, á, ả, ã, ạ) are a different system layered on top — we will cover those in a later lesson."
+    },
+    {
+      "type": "cultural_note",
+      "content": "The Vietnamese alphabet was created in the 17th century by Portuguese Jesuit missionaries working with Vietnamese scholars. Alexandre de Rhodes published the first Vietnamese-Portuguese-Latin dictionary in 1651. The script was originally used for Catholic religious texts, but it gradually replaced Chinese characters (chữ Hán) and the older Vietnamese demotic script (chữ Nôm) during French colonization. Today, chữ Quốc ngữ is a point of national pride — a fully phonetic writing system that gives Vietnamese one of the highest literacy rates in Southeast Asia."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u1-l01-ex01",
+      "question": "Which of these letters does NOT exist in the Vietnamese alphabet?",
+      "options": ["đ", "ư", "f", "ă"],
+      "correctAnswer": "f",
+      "explanation": "The Vietnamese alphabet does not include f, j, w, or z. The letters đ, ư, and ă are all unique Vietnamese letters."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l01-ex02",
+      "question": "How many letters are in the Vietnamese alphabet?",
+      "options": ["26", "29", "33", "24"],
+      "correctAnswer": "29",
+      "explanation": "The Vietnamese alphabet has 29 letters. It removes f, j, w, z from the English alphabet (−4) and adds ă, â, đ, ê, ô, ơ, ư (+7). So 26 − 4 + 7 = 29."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l01-ex03",
+      "question": "In the Southern (Saigon) dialect, the letter 'd' sounds most like which English letter?",
+      "options": ["d", "z", "y", "r"],
+      "correctAnswer": "y",
+      "explanation": "In Southern Vietnamese, 'd' is pronounced /j/, which sounds like English 'y' as in 'yes'. Northern Vietnamese pronounces it as /z/. The letter 'đ' is the one that sounds like English 'd'."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l01-ex04",
+      "question": "The Vietnamese letter 'x' is pronounced like which English sound?",
+      "options": ["'ks' as in 'box'", "'z' as in 'xylophone'", "'s' as in 'sun'", "'sh' as in 'ship'"],
+      "correctAnswer": "'s' as in 'sun'",
+      "explanation": "Vietnamese 'x' is pronounced /s/, like English 's' in 'sun'. This is one of the most common surprises for English speakers learning Vietnamese."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l01-ex05",
+      "question": "Which of these is a letter unique to Vietnamese that does not appear in the English alphabet?",
+      "options": ["b", "ơ", "g", "t"],
+      "correctAnswer": "ơ",
+      "explanation": "The letter ơ (with a horn diacritic) is unique to Vietnamese. It represents the sound /əː/, similar to the 'u' in English 'fur'. The letters b, g, and t all exist in the English alphabet as well."
+    }
+  ]
+}

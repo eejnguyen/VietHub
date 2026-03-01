@@ -1,0 +1,290 @@
+{
+  "slug": "lesson-07-common-verbs",
+  "unitSlug": "unit-2-basic-vocab",
+  "title": "Common Verbs",
+  "titleVi": "Động Từ Thông Dụng",
+  "description": "Learn 16 essential Vietnamese verbs that form the backbone of everyday conversation — and discover why Vietnamese verbs are simpler than you think.",
+  "order": 7,
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Here's the best news about Vietnamese grammar: verbs NEVER conjugate. There are no verb endings, no irregular forms, no tense changes. The verb stays the same no matter who does it or when it happened.\n\nCompare:\n• English: I eat, he eats, I ate, I have eaten, I will eat\n• Vietnamese: ăn, ăn, ăn, ăn, ăn\n\nThe verb 'ăn' never changes. Instead, Vietnamese uses time words to show when something happens:\n• Hôm qua tôi ăn phở. (Yesterday I eat pho.) = I ate pho yesterday.\n• Ngày mai tôi ăn phở. (Tomorrow I eat pho.) = I will eat pho tomorrow.\n• Tôi đang ăn phở. ('đang' = currently) = I am eating pho.\n\nAs a heritage speaker, you've been doing this naturally your whole life — now you know why it works."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u2-l07-an",
+          "vietnamese": "ăn",
+          "english": "to eat",
+          "ipa": "/ʔan˧/",
+          "audioFile": null,
+          "notes": "One of the first words any Vietnamese person learns. 'Ăn cơm' = eat rice (but really means 'eat a meal'). 'Ăn sáng' = eat breakfast.",
+          "exampleSentence": {
+            "vietnamese": "Con ăn cơm chưa?",
+            "english": "Have you eaten yet? (very common greeting)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l07-uong",
+          "vietnamese": "uống",
+          "english": "to drink",
+          "ipa": "/ʔuəŋ˧˥/",
+          "audioFile": null,
+          "notes": "'Uống nước' = drink water. 'Uống cà phê' = drink coffee. 'Uống thuốc' = take medicine (literally 'drink medicine').",
+          "exampleSentence": {
+            "vietnamese": "Uống nước đi, nóng lắm.",
+            "english": "Drink some water, it's very hot.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l07-ngu",
+          "vietnamese": "ngủ",
+          "english": "to sleep",
+          "ipa": "/ŋu˧˩/",
+          "audioFile": null,
+          "notes": "'Đi ngủ' = go to sleep. 'Buồn ngủ' = sleepy. 'Ngủ trưa' = take a nap (afternoon sleep — very common in Vietnam).",
+          "exampleSentence": {
+            "vietnamese": "Khuya rồi, đi ngủ đi con!",
+            "english": "It's late, go to sleep!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l07-di",
+          "vietnamese": "đi",
+          "english": "to go",
+          "ipa": "/ɗi˧/",
+          "audioFile": null,
+          "notes": "'Đi' is one of the most versatile words in Vietnamese. It means 'go' but also acts as a command particle: 'ăn đi!' = eat! (go ahead and eat). 'Đi chơi' = go out/hang out.",
+          "exampleSentence": {
+            "vietnamese": "Cuối tuần mình đi chơi nha.",
+            "english": "Let's go hang out this weekend.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l07-den",
+          "vietnamese": "đến",
+          "english": "to come / to arrive",
+          "ipa": "/ɗen˧˥/",
+          "audioFile": null,
+          "notes": "'Đến' indicates movement toward a destination. 'Đến rồi' = already arrived. Can also mean 'until' in time expressions.",
+          "exampleSentence": {
+            "vietnamese": "Mấy giờ đến?",
+            "english": "What time are you arriving?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l07-ve",
+          "vietnamese": "về",
+          "english": "to return / to go back (home)",
+          "ipa": "/ve˧˩/",
+          "audioFile": null,
+          "notes": "'Về nhà' = go home. 'Về' implies returning to where you belong, especially home. 'Về Việt Nam' = go back to Vietnam.",
+          "exampleSentence": {
+            "vietnamese": "Mấy giờ ba về?",
+            "english": "What time is dad coming home?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l07-noi",
+          "vietnamese": "nói",
+          "english": "to say / to speak",
+          "ipa": "/nɔj˧˥/",
+          "audioFile": null,
+          "notes": "'Nói tiếng Việt' = speak Vietnamese. 'Nói chuyện' = talk/chat. Heritage speakers often hear 'nói tiếng Việt đi!' from their parents.",
+          "exampleSentence": {
+            "vietnamese": "Nói tiếng Việt đi con, đừng nói tiếng Anh!",
+            "english": "Speak Vietnamese, don't speak English!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l07-nghe",
+          "vietnamese": "nghe",
+          "english": "to listen / to hear",
+          "ipa": "/ŋɛ˧/",
+          "audioFile": null,
+          "notes": "Southern Vietnamese uses 'nghe' where Northern uses 'nghe thấy' for 'to hear'. 'Nghe nè' = listen here (Southern, informal).",
+          "exampleSentence": {
+            "vietnamese": "Nghe má nói nè!",
+            "english": "Listen to what mom is saying!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l07-nhin-thay",
+          "vietnamese": "nhìn / thấy",
+          "english": "to look / to see",
+          "ipa": "/ɲin˧˩/ /tʰəj˧˥/",
+          "audioFile": null,
+          "notes": "'Nhìn' = to look (active). 'Thấy' = to see (perception). 'Nhìn thấy' = to catch sight of. In Southern speech, 'thấy' is extremely common as a general 'see/perceive'.",
+          "exampleSentence": {
+            "vietnamese": "Con có thấy chìa khóa của ba không?",
+            "english": "Do you see dad's keys?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l07-biet",
+          "vietnamese": "biết",
+          "english": "to know (a fact)",
+          "ipa": "/ɓiət˧˥/",
+          "audioFile": null,
+          "notes": "'Biết' = know a fact or how to do something. 'Biết nấu ăn' = know how to cook. 'Không biết' = don't know. Different from 'quen biết' (to be acquainted with someone).",
+          "exampleSentence": {
+            "vietnamese": "Con biết nấu cơm không?",
+            "english": "Do you know how to cook rice?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l07-hieu",
+          "vietnamese": "hiểu",
+          "english": "to understand",
+          "ipa": "/hiəw˧˩˧/",
+          "audioFile": null,
+          "notes": "'Hiểu không?' = Do you understand? 'Không hiểu' = don't understand. Heritage speakers often understand more than they can speak — 'nghe hiểu nhưng không nói được'.",
+          "exampleSentence": {
+            "vietnamese": "Con hiểu không? Hiểu rồi thì làm đi.",
+            "english": "Do you understand? If you understand, then do it.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l07-lam",
+          "vietnamese": "làm",
+          "english": "to do / to make / to work",
+          "ipa": "/laːm˧˩/",
+          "audioFile": null,
+          "notes": "Extremely versatile. 'Làm gì?' = what are you doing? 'Làm việc' = to work. 'Làm ơn' = please (literally 'do a favor'). 'Làm bài' = do homework.",
+          "exampleSentence": {
+            "vietnamese": "Con đang làm gì vậy?",
+            "english": "What are you doing?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l07-muon",
+          "vietnamese": "muốn",
+          "english": "to want",
+          "ipa": "/muən˧˥/",
+          "audioFile": null,
+          "notes": "'Muốn' expresses desire. 'Muốn ăn gì?' = What do you want to eat? Politely, you might say 'Con muốn xin...' (I would like to ask for...).",
+          "exampleSentence": {
+            "vietnamese": "Con muốn ăn gì?",
+            "english": "What do you want to eat?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l07-co",
+          "vietnamese": "có",
+          "english": "to have / there is",
+          "ipa": "/kɔ˧˥/",
+          "audioFile": null,
+          "notes": "'Có' is one of the most important words in Vietnamese. It means 'to have', 'there is/are', and also marks yes/no questions: 'Có...không?' = Is there...? 'Có' alone = yes (to a 'có...không' question).",
+          "exampleSentence": {
+            "vietnamese": "Nhà có gì ăn không?",
+            "english": "Is there anything to eat at home?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l07-cho",
+          "vietnamese": "cho",
+          "english": "to give / to let / for",
+          "ipa": "/tɕɔ˧/",
+          "audioFile": null,
+          "notes": "'Cho' has many uses: give (cho con tiền = give the child money), let/allow (cho con đi = let me go), for (mua cho con = buy for the child). Context is everything.",
+          "exampleSentence": {
+            "vietnamese": "Má cho con tiền đi mua đồ.",
+            "english": "Mom, give me money to go buy things.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l07-lay",
+          "vietnamese": "lấy",
+          "english": "to take / to get / to grab",
+          "ipa": "/ləj˧˥/",
+          "audioFile": null,
+          "notes": "'Lấy' = take/grab/get. 'Lấy nước' = get water. 'Lấy vợ/chồng' = get married (literally 'take a wife/husband'). Very common in daily Southern speech.",
+          "exampleSentence": {
+            "vietnamese": "Lấy cho ba ly nước đi con.",
+            "english": "Get dad a glass of water.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "'Con ăn cơm chưa?' (Have you eaten yet?) is one of the most common Vietnamese greetings — it's the equivalent of 'How are you?' You don't need to answer with what you ate; a simple 'Dạ, ăn rồi' (Yes, I've eaten) or 'Chưa' (Not yet) is fine. This greeting reflects Vietnamese culture's deep connection between food, care, and family."
+    },
+    {
+      "type": "instruction",
+      "content": "Quick guide to Vietnamese time markers (since verbs don't change):\n\n• đã / rồi = already happened (past): 'Tôi đã ăn rồi' = I already ate\n• đang = happening now (present): 'Tôi đang ăn' = I am eating\n• sẽ = will happen (future): 'Tôi sẽ ăn' = I will eat\n• chưa = not yet: 'Tôi chưa ăn' = I haven't eaten yet\n\nIn casual Southern speech, 'đã' is often dropped — people just use 'rồi' at the end: 'Ăn rồi' = Already ate."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u2-l07-ex01",
+      "question": "Why does the Vietnamese verb 'ăn' stay the same in 'Hôm qua tôi ăn phở' and 'Ngày mai tôi ăn phở'?",
+      "options": [
+        "It's an irregular verb",
+        "Vietnamese verbs never conjugate — time words show tense",
+        "Both sentences are present tense",
+        "'Ăn' is a special exception"
+      ],
+      "correctAnswer": "Vietnamese verbs never conjugate — time words show tense",
+      "explanation": "Vietnamese verbs NEVER change form. Instead, time words like 'hôm qua' (yesterday), 'đang' (currently), and 'sẽ' (will) indicate when something happens."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u2-l07-ex02",
+      "question": "What does 'Con ăn cơm chưa?' mean, and when would someone say it?",
+      "options": [
+        "'What are you cooking?' — asked when planning dinner",
+        "'Have you eaten yet?' — a common greeting",
+        "'Do you want to eat rice?' — an invitation to dinner",
+        "'Are you hungry?' — asked when someone looks tired"
+      ],
+      "correctAnswer": "'Have you eaten yet?' — a common greeting",
+      "explanation": "'Con ăn cơm chưa?' literally means 'Have you eaten rice yet?' and is one of the most common Vietnamese greetings, equivalent to 'How are you?'"
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u2-l07-ex03",
+      "question": "Your parent asks: 'Con đang ___ gì vậy?' (What are you doing?). Type the missing verb:",
+      "english": "to do / to make",
+      "correctAnswer": "làm",
+      "acceptableAnswers": ["làm", "Làm", "lam"],
+      "explanation": "'Làm' means 'to do' or 'to make'. 'Con đang làm gì vậy?' = 'What are you doing?' — a phrase every Vietnamese kid has heard a thousand times."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u2-l07-ex04",
+      "question": "Which word marks that something is happening RIGHT NOW?",
+      "options": ["đã", "đang", "sẽ", "rồi"],
+      "correctAnswer": "đang",
+      "explanation": "'Đang' indicates a current, ongoing action (like English '-ing'). 'Tôi đang ăn' = I am eating (right now)."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u2-l07-ex05",
+      "question": "How do you say 'I don't understand' in Vietnamese? Type just the two words:",
+      "english": "don't understand",
+      "correctAnswer": "không hiểu",
+      "acceptableAnswers": ["không hiểu", "Không hiểu", "khong hieu"],
+      "explanation": "'Không hiểu' = don't understand. 'Không' negates any verb. Heritage speakers know this phrase well — it's what you say when relatives speak too fast!"
+    }
+  ]
+}

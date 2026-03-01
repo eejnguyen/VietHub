@@ -1,0 +1,227 @@
+{
+  "slug": "lesson-01-greetings",
+  "unitSlug": "unit-3-basic-phrases",
+  "title": "Greetings",
+  "titleVi": "Chào Hỏi",
+  "description": "Learn how Vietnamese greetings work — they change based on who you're talking to. You'll master the pronoun-based greeting system, polite and casual responses, and common ways to say goodbye in the Southern dialect.",
+  "order": 1,
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese greetings are built around **pronouns**, not a single universal word like English \"hello.\" The most neutral greeting is **xin chào**, but in everyday Southern Vietnamese, people almost always say **chào** + a pronoun that reflects the other person's age and relationship to you.\n\nHere's the core idea: you pick the right pronoun for the person, then attach it to **chào**. For example:\n- **Chào anh** — greeting an older male (brother-aged)\n- **Chào chị** — greeting an older female (sister-aged)\n- **Chào em** — greeting someone younger\n- **Chào cô** — greeting an aunt-aged woman or a female teacher\n- **Chào chú** — greeting an uncle-aged man\n- **Chào bác** — greeting someone your parent's age or older\n\nThe pronoun system is one of the most important things in Vietnamese. It signals respect, intimacy, and social awareness. Getting it right matters more than perfect grammar."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u3-l01-xinchao",
+          "vietnamese": "xin chào",
+          "english": "hello (formal/generic)",
+          "ipa": "/sin˧ t͡ɕaːw˨˩/",
+          "audioFile": null,
+          "notes": "The textbook greeting. Safe in formal situations, but sounds stiff in casual conversation. Think of it like saying 'greetings' in English — technically correct but not how people actually talk.",
+          "exampleSentence": {
+            "vietnamese": "Xin chào, tôi tên là Mai.",
+            "english": "Hello, my name is Mai.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l01-chaoanh",
+          "vietnamese": "chào anh",
+          "english": "hello (to an older male / brother figure)",
+          "ipa": "/t͡ɕaːw˨˩ ʔaɲ˧/",
+          "audioFile": null,
+          "notes": "'Anh' means older brother but is used broadly for any male who is a bit older than you or of similar age in a respectful context. This is the greeting you'd use with a male coworker, a male friend's older brother, or a young male stranger.",
+          "exampleSentence": {
+            "vietnamese": "Chào anh, anh khỏe không?",
+            "english": "Hi (older brother), how are you?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l01-chaochi",
+          "vietnamese": "chào chị",
+          "english": "hello (to an older female / sister figure)",
+          "ipa": "/t͡ɕaːw˨˩ t͡ɕi˧˥/",
+          "audioFile": null,
+          "notes": "'Chị' means older sister. Used for any female who appears somewhat older than you. A safe, respectful default for women you don't know well.",
+          "exampleSentence": {
+            "vietnamese": "Chào chị, chị đi đâu vậy?",
+            "english": "Hi (older sister), where are you going?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l01-chaoem",
+          "vietnamese": "chào em",
+          "english": "hello (to someone younger)",
+          "ipa": "/t͡ɕaːw˨˩ ɛm˧/",
+          "audioFile": null,
+          "notes": "'Em' means younger sibling. Used for anyone clearly younger than you. Also used between romantic partners regardless of age.",
+          "exampleSentence": {
+            "vietnamese": "Chào em, em ăn cơm chưa?",
+            "english": "Hi (younger one), have you eaten yet?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l01-khokhong",
+          "vietnamese": "khỏe không?",
+          "english": "are you well? / how are you?",
+          "ipa": "/kʰwɛ˧˩˧ xoŋ˧/",
+          "audioFile": null,
+          "notes": "Literally 'well or not?' The structure X + không is a yes/no question pattern. You can attach the appropriate pronoun: 'Anh khỏe không?' or 'Chị khỏe không?'",
+          "exampleSentence": {
+            "vietnamese": "Dạ, chị khỏe không?",
+            "english": "Hi, are you well (older sister)?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l01-dakhoe",
+          "vietnamese": "dạ khỏe",
+          "english": "yes, I'm well (polite)",
+          "ipa": "/jaː˧˩ kʰwɛ˧˩˧/",
+          "audioFile": null,
+          "ttsText": "dạ khỏe",
+          "notes": "The polite Southern response. 'Dạ' at the front signals respect. You might hear 'Dạ khỏe, cảm ơn anh/chị' (Yes well, thank you) as a fuller response.",
+          "exampleSentence": {
+            "vietnamese": "Dạ khỏe, cảm ơn chị.",
+            "english": "Yes I'm well, thank you (older sister).",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l01-da",
+          "vietnamese": "dạ",
+          "english": "yes (polite, Southern)",
+          "ipa": "/jaː˧˩/",
+          "audioFile": null,
+          "ttsText": "dạ",
+          "notes": "The Southern Vietnamese polite 'yes.' Used when speaking to elders, strangers, or anyone you want to show respect to. Northern Vietnamese uses 'vâng' instead. As a heritage speaker, this is probably one of the first words you learned — it's deeply ingrained in Southern culture.",
+          "exampleSentence": {
+            "vietnamese": "Dạ, con hiểu rồi.",
+            "english": "Yes, I understand (speaking to a parent/elder).",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l01-u",
+          "vietnamese": "ừ",
+          "english": "yeah / yep (casual)",
+          "ipa": "/ɯ˨˩/",
+          "audioFile": null,
+          "notes": "Casual 'yes' used only with people your age or younger, or close friends and family of similar status. Never use this with elders or in formal settings — it would sound rude.",
+          "exampleSentence": {
+            "vietnamese": "Ừ, đi luôn đi!",
+            "english": "Yeah, let's go now!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l01-tambiet",
+          "vietnamese": "tạm biệt",
+          "english": "goodbye (formal)",
+          "ipa": "/taːm˧˩ biət˧˩/",
+          "audioFile": null,
+          "notes": "The formal, textbook goodbye. Like 'xin chào,' it's correct but sounds stiff in daily conversation. More common in written Vietnamese or very formal situations.",
+          "exampleSentence": {
+            "vietnamese": "Tạm biệt, hẹn gặp lại nhé.",
+            "english": "Goodbye, see you again.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l01-hengaplai",
+          "vietnamese": "hẹn gặp lại",
+          "english": "see you again / until we meet again",
+          "ipa": "/hɛn˧˩ ɣap˧˩ laːj˧˩/",
+          "audioFile": null,
+          "notes": "A warm way to say goodbye that implies you expect to see the person again. More natural than 'tạm biệt' in most everyday situations.",
+          "exampleSentence": {
+            "vietnamese": "Hẹn gặp lại anh ngày mai!",
+            "english": "See you again tomorrow (older brother)!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l01-dinhe",
+          "vietnamese": "đi nhé",
+          "english": "I'm heading out / bye (casual)",
+          "ipa": "/ɗi˧ ɲɛ˧˥/",
+          "audioFile": null,
+          "notes": "Very common casual goodbye. Literally 'going, okay?' Used when leaving a gathering or someone's house. You might also hear 'đi nha' — same meaning, slightly softer.",
+          "exampleSentence": {
+            "vietnamese": "Thôi, em đi nhé!",
+            "english": "Alright, I'm heading out!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l01-bye",
+          "vietnamese": "bye / bai",
+          "english": "bye (informal, from English)",
+          "ipa": "/ɓaj˧/",
+          "audioFile": null,
+          "notes": "English loanword. Very common among younger Vietnamese speakers, especially in Saigon. Often spelled 'bai bai' in texting. Only use with friends and peers, never with elders.",
+          "exampleSentence": {
+            "vietnamese": "Bye nha, nhắn tin cho tui!",
+            "english": "Bye, text me!",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "instruction",
+      "content": "**The Pronoun System — A Quick Reference**\n\nVietnamese has no single word for 'you' or 'I.' Instead, you choose a pronoun based on the other person's relative age, gender, and your relationship. Here are the most common ones:\n\n| Pronoun | Who it refers to | Literal meaning |\n|---------|-----------------|----------------|\n| **anh** | Older male | older brother |\n| **chị** | Older female | older sister |\n| **em** | Younger person (any gender) | younger sibling |\n| **cô** | Woman (aunt-aged), female teacher | paternal aunt |\n| **chú** | Man (uncle-aged) | paternal uncle (younger than father) |\n| **bác** | Person older than your parents | uncle/aunt (older than parents) |\n| **ông** | Elderly man, grandfather | grandfather |\n| **bà** | Elderly woman, grandmother | grandmother |\n| **con** | You (as a child to parents/elders) | child |\n| **tui/tao** | I/me (casual Southern) | — |\n| **mình** | I/me (friendly) or 'we' | self |\n\n**Tip for heritage speakers:** You probably already use these instinctively with family. The challenge is applying them correctly with strangers. When in doubt, go more formal — it's always better to show too much respect than too little."
+    },
+    {
+      "type": "cultural_note",
+      "content": "Vietnamese people don't typically greet each other with 'How are you?' the way Westerners do. Instead, common greetings revolve around daily activities:\n\n- **Ăn cơm chưa?** — 'Have you eaten rice yet?' (the most classic Vietnamese greeting)\n- **Đi đâu vậy?** — 'Where are you going?' (not nosy — just a greeting)\n- **Làm gì đó?** — 'What are you doing?'\n\nThese questions aren't meant to be intrusive. They show care and connection. You don't need to give a detailed answer — a vague 'Dạ, đi chơi' (Just going out) or 'Dạ, ăn rồi' (Already ate) is perfectly fine.\n\nAlso note: Vietnamese people often don't say 'goodbye' explicitly. When leaving a family gathering, you might just say 'Con đi' (I'm going) to the elders, and they'll respond with something like 'Ừ, đi đi' (Okay, go ahead) or 'Đi cẩn thận nha' (Go carefully). This feels abrupt by Western standards but is completely normal and warm in Vietnamese culture."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u3-l01-ex01",
+      "question": "You walk into a shop and the woman behind the counter looks about 10 years older than you. How should you greet her?",
+      "options": ["Xin chào", "Chào em", "Chào chị", "Hey"],
+      "correctAnswer": "Chào chị",
+      "explanation": "'Chào chị' is correct because 'chị' is used for a woman who appears older than you. 'Xin chào' is technically correct but sounds overly formal/stiff. 'Chào em' would be rude — it implies she's younger. In everyday Southern Vietnamese, pronoun-based greetings are the norm."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u3-l01-ex02",
+      "question": "What is the polite Southern Vietnamese way to say 'yes'?",
+      "options": ["Vâng", "Ừ", "Dạ", "Ờ"],
+      "correctAnswer": "Dạ",
+      "explanation": "'Dạ' is the polite 'yes' in Southern Vietnamese. 'Vâng' is the Northern equivalent. 'Ừ' is casual and only appropriate with friends or people younger than you. 'Ờ' is even more casual and noncommittal."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u3-l01-ex03",
+      "question": "Your Vietnamese grandmother asks if you've eaten. You politely respond: '_____ , con ăn rồi.' (Yes, I already ate.)",
+      "correctAnswer": "Dạ",
+      "explanation": "When speaking to an elder like your grandmother, you always start with 'Dạ' to show respect. 'Ừ' would be disrespectful to a grandmother. 'Con' is the pronoun you use for yourself when speaking to parents and grandparents."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u3-l01-ex04",
+      "question": "Which of these is a common Vietnamese greeting that might surprise a Westerner?",
+      "options": ["Bạn khỏe không?", "Ăn cơm chưa?", "Xin chào bạn!", "Chào buổi sáng!"],
+      "correctAnswer": "Ăn cơm chưa?",
+      "explanation": "'Ăn cơm chưa?' (Have you eaten rice yet?) is a classic Vietnamese greeting. It's not actually asking for a food report — it's showing care, like 'How are you?' in English. This cultural difference often surprises Westerners who think they're being asked a literal question."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u3-l01-ex05",
+      "question": "Type the casual way to say goodbye when leaving a friend's house. (Hint: 'I'm heading out, okay?')",
+      "correctAnswer": "đi nhé",
+      "acceptableAnswers": ["đi nhé", "đi nha", "Đi nhé", "Đi nha"],
+      "explanation": "'Đi nhé' or 'đi nha' is the natural, casual way to say bye when leaving. It literally means 'going, okay?' Much more natural than the formal 'tạm biệt' in everyday conversation."
+    }
+  ]
+}

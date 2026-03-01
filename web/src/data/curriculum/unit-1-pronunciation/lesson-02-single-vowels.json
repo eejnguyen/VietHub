@@ -1,0 +1,252 @@
+{
+  "slug": "lesson-02-single-vowels",
+  "unitSlug": "unit-1-pronunciation",
+  "title": "Single Vowels",
+  "titleVi": "Nguyên Âm Đơn",
+  "description": "Master the 12 single vowels of Vietnamese. These are the building blocks of every syllable. Pay close attention to mouth shape and lip rounding — Vietnamese distinguishes vowels that English treats as the same sound.",
+  "order": 2,
+  "estimatedMinutes": 25,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese has **12 single vowels** (nguyên âm đơn). That is more than twice as many as the 5 vowel letters in English. The key to mastering them is understanding two things:\n\n1. **Mouth openness** — how wide your jaw drops (open vs. closed)\n2. **Lip shape** — rounded (like blowing a kiss) vs. unrounded (spread or neutral)\n\nSome vowel pairs differ only by length (a vs. ă) or by a subtle shift in tongue position (o vs. ô). Train your ear first, then your mouth will follow.\n\nAll examples in this lesson use the **Southern (Saigon) dialect** pronunciation."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u1-l02-a",
+          "vietnamese": "a",
+          "english": "Vowel A",
+          "ipa": "/aː/",
+          "audioFile": null,
+          "notes": "Long, open 'ah'. Like 'a' in 'father'. Mouth wide open, tongue flat. This is the most open Vietnamese vowel.",
+          "exampleSentence": {
+            "vietnamese": "ba",
+            "english": "three / dad",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l02-ă",
+          "vietnamese": "ă",
+          "english": "Vowel Ă",
+          "ipa": "/a/",
+          "audioFile": null,
+          "notes": "Short 'ah'. Same mouth position as 'a' but cut short — about half the duration. Like the 'u' in English 'cut'. The breve mark (˘) signals shortness.",
+          "exampleSentence": {
+            "vietnamese": "ăn",
+            "english": "to eat",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l02-â",
+          "vietnamese": "â",
+          "english": "Vowel Â",
+          "ipa": "/ə/",
+          "audioFile": null,
+          "notes": "Short schwa. Like the 'u' in 'but' or the 'a' in 'about'. Mouth barely open, tongue in a neutral central position. Always short.",
+          "exampleSentence": {
+            "vietnamese": "cân",
+            "english": "to weigh / kilogram",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l02-e",
+          "vietnamese": "e",
+          "english": "Vowel E",
+          "ipa": "/ɛ/",
+          "audioFile": null,
+          "notes": "Open 'eh'. Like 'e' in 'bed' or 'pet'. Mouth moderately open, lips spread slightly. More open than ê.",
+          "exampleSentence": {
+            "vietnamese": "xe",
+            "english": "vehicle",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l02-ê",
+          "vietnamese": "ê",
+          "english": "Vowel Ê",
+          "ipa": "/e/",
+          "audioFile": null,
+          "notes": "Closed 'ay'. Like the 'ay' in 'say' but without the glide — hold the first part and stop. Lips more closed than for 'e'.",
+          "exampleSentence": {
+            "vietnamese": "mê",
+            "english": "to be enchanted / passionate about",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l02-i",
+          "vietnamese": "i",
+          "english": "Vowel I",
+          "ipa": "/i/",
+          "audioFile": null,
+          "notes": "Like 'ee' in 'see'. Lips spread wide, tongue high and forward. The highest front vowel.",
+          "exampleSentence": {
+            "vietnamese": "đi",
+            "english": "to go",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l02-o",
+          "vietnamese": "o",
+          "english": "Vowel O",
+          "ipa": "/ɔ/",
+          "audioFile": null,
+          "notes": "Open 'aw'. Like 'o' in 'hot' or 'aw' in 'law'. Mouth open, lips rounded. More open than ô.",
+          "exampleSentence": {
+            "vietnamese": "lo",
+            "english": "to worry",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l02-ô",
+          "vietnamese": "ô",
+          "english": "Vowel Ô",
+          "ipa": "/o/",
+          "audioFile": null,
+          "notes": "Closed 'oh'. Like 'o' in 'go' but without the glide. Pure rounded vowel. Lips more closed and rounded than for 'o'.",
+          "exampleSentence": {
+            "vietnamese": "cô",
+            "english": "aunt / Miss (title for women)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l02-ơ",
+          "vietnamese": "ơ",
+          "english": "Vowel Ơ",
+          "ipa": "/əː/",
+          "audioFile": null,
+          "notes": "Long schwa. Like the 'u' in 'fur' or 'bird' (without the 'r' sound). Mouth slightly open, lips unrounded, tongue in the center. This is the long version of â. One of the hardest sounds for English speakers.",
+          "exampleSentence": {
+            "vietnamese": "mơ",
+            "english": "to dream",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l02-u",
+          "vietnamese": "u",
+          "english": "Vowel U",
+          "ipa": "/u/",
+          "audioFile": null,
+          "notes": "Like 'oo' in 'food'. Lips tightly rounded, tongue high and pulled back.",
+          "exampleSentence": {
+            "vietnamese": "mù",
+            "english": "blind",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l02-ư",
+          "vietnamese": "ư",
+          "english": "Vowel Ư",
+          "ipa": "/ɯ/",
+          "audioFile": null,
+          "notes": "Unrounded 'oo'. Say 'oo' as in 'food', then spread your lips into a smile while keeping your tongue in the same position. This sound does not exist in English. It is one of the most distinctive Vietnamese sounds.",
+          "exampleSentence": {
+            "vietnamese": "từ",
+            "english": "word / from",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l02-y",
+          "vietnamese": "y",
+          "english": "Vowel Y",
+          "ipa": "/i/",
+          "audioFile": null,
+          "notes": "Identical sound to 'i' (/i/). Called 'i dài' (long i). Used in specific spelling contexts: after 'qu-' (quy), at the start of some Sino-Vietnamese words (y sĩ = doctor), and in certain syllable structures.",
+          "exampleSentence": {
+            "vietnamese": "ý",
+            "english": "idea / meaning",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "instruction",
+      "content": "**Vowel pairs to watch out for:**\n\n| Pair | Difference |\n|------|------------|\n| **a** /aː/ vs. **ă** /a/ | Same sound, but **a** is long and **ă** is short |\n| **a** /aː/ vs. **â** /ə/ | **a** is open, **â** is centralized and short |\n| **e** /ɛ/ vs. **ê** /e/ | **e** is more open (like 'bed'), **ê** is more closed (like 'bay') |\n| **o** /ɔ/ vs. **ô** /o/ | **o** is more open (like 'law'), **ô** is more closed (like 'go') |\n| **ơ** /əː/ vs. **â** /ə/ | Same basic quality, but **ơ** is long and **â** is short |\n| **u** /u/ vs. **ư** /ɯ/ | Same tongue position, but **u** has rounded lips and **ư** has spread lips |\n| **i** vs. **y** | Same sound /i/. Spelling difference only. |\n\nPractice these pairs back-to-back to train your ear."
+    },
+    {
+      "type": "cultural_note",
+      "content": "In Southern Vietnamese, vowel pronunciation tends to be slightly more relaxed and open compared to the Northern dialect. Southern speakers may also merge certain vowel distinctions that Northerners keep separate. When watching Vietnamese media, you will notice that news anchors often use Northern pronunciation (the 'standard' broadcast accent), while Southern speech dominates in everyday conversation across Ho Chi Minh City and the Mekong Delta. Both are equally valid — this course teaches the Southern system because it is what you will hear most from the Vietnamese diaspora community."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u1-l02-ex01",
+      "question": "Which Vietnamese vowel sounds like the 'oo' in 'food' but with spread (unrounded) lips?",
+      "options": ["u", "ư", "ơ", "ô"],
+      "correctAnswer": "ư",
+      "explanation": "The vowel 'ư' /ɯ/ has the same tongue position as 'u' /u/ (high, back), but the lips are spread instead of rounded. This is one of the most distinctive Vietnamese sounds and does not exist in English."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l02-ex02",
+      "question": "What is the difference between 'a' and 'ă' in Vietnamese?",
+      "options": [
+        "They are completely different sounds",
+        "'a' is long and 'ă' is short — same basic sound",
+        "'ă' is rounded and 'a' is not",
+        "'a' is higher and 'ă' is lower"
+      ],
+      "correctAnswer": "'a' is long and 'ă' is short — same basic sound",
+      "explanation": "Both 'a' /aː/ and 'ă' /a/ are open central vowels. The only difference is duration: 'a' is long and 'ă' is short. The breve mark (˘) on ă signals this shortness."
+    },
+    {
+      "type": "tone_matching",
+      "key": "u1-l02-ex03",
+      "instruction": "Match each vowel to its closest English equivalent sound.",
+      "pairs": [
+        {
+          "word": "ê",
+          "options": ["'ee' in see", "'ay' in say (no glide)", "'a' in father", "'aw' in law"],
+          "correct": "'ay' in say (no glide)"
+        },
+        {
+          "word": "ơ",
+          "options": ["'oo' in food", "'u' in fur (no r)", "'o' in go", "'a' in about"],
+          "correct": "'u' in fur (no r)"
+        },
+        {
+          "word": "â",
+          "options": ["'a' in father", "'u' in but", "'ee' in see", "'ay' in say"],
+          "correct": "'u' in but"
+        },
+        {
+          "word": "o",
+          "options": ["'o' in go", "'oo' in food", "'aw' in law", "'u' in fur"],
+          "correct": "'aw' in law"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "key": "u1-l02-ex04",
+      "instruction": "Fill in the missing vowel to complete the Vietnamese word.",
+      "sentence": "đ_ (to go)",
+      "english": "to go",
+      "correctAnswer": "i",
+      "acceptableAnswers": ["i"],
+      "explanation": "The word is 'đi' (to go). The vowel 'i' /i/ sounds like 'ee' in 'see'."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l02-ex05",
+      "question": "How many single vowels does Vietnamese have?",
+      "options": ["5", "7", "10", "12"],
+      "correctAnswer": "12",
+      "explanation": "Vietnamese has 12 single vowels: a, ă, â, e, ê, i, o, ô, ơ, u, ư, and y. This is more than double the 5 vowel letters used in English."
+    }
+  ]
+}

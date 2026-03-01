@@ -1,0 +1,214 @@
+{
+  "slug": "lesson-02-polite-expressions",
+  "unitSlug": "unit-3-basic-phrases",
+  "title": "Polite Expressions",
+  "titleVi": "Lịch Sự",
+  "description": "Master the essential polite phrases that make you sound respectful and culturally aware. Learn how Southern Vietnamese speakers use 'dạ' to soften everything, and understand the respect hierarchy that shapes every interaction.",
+  "order": 2,
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Politeness in Vietnamese isn't just about saying 'please' and 'thank you' — it's woven into every sentence through **pronoun choice**, **softening words**, and **word order**. The single most important politeness marker in Southern Vietnamese is **dạ**.\n\nIn the South, you prefix almost anything with **dạ** when talking to someone older or of higher status:\n- **Dạ, cảm ơn** — Yes, thank you\n- **Dạ, xin lỗi** — Yes, sorry / Excuse me\n- **Dạ, không sao** — It's okay (polite)\n- **Dạ, con hiểu** — I understand (to an elder)\n\nThis **dạ-prefix pattern** is so deeply ingrained in Southern culture that omitting it when speaking to elders can come across as rude, even if the rest of your sentence is perfectly polite. Heritage speakers often pick this up naturally from family — if you already say 'dạ' to your parents and grandparents, you're ahead of the curve."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u3-l02-camon",
+          "vietnamese": "cảm ơn",
+          "english": "thank you",
+          "ipa": "/kaːm˧˩˧ əːn˧/",
+          "audioFile": null,
+          "notes": "The standard 'thank you.' Often followed by the appropriate pronoun: 'Cảm ơn anh' (thank you, older brother), 'Cảm ơn chị' (thank you, older sister). Adding the pronoun makes it warmer and more personal.",
+          "exampleSentence": {
+            "vietnamese": "Cảm ơn chị nhiều lắm!",
+            "english": "Thank you so much (older sister)!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l02-dacamon",
+          "vietnamese": "dạ cảm ơn",
+          "english": "thank you (polite, Southern)",
+          "ipa": "/jaː˧˩ kaːm˧˩˧ əːn˧/",
+          "audioFile": null,
+          "ttsText": "dạ cảm ơn",
+          "notes": "The polite Southern form. The 'dạ' at the start signals respect. Use this with anyone older than you, with strangers, or in any situation where you want to be properly polite.",
+          "exampleSentence": {
+            "vietnamese": "Dạ cảm ơn bác, con về trước nha.",
+            "english": "Thank you (uncle/aunt), I'll head home first.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l02-khongcogi",
+          "vietnamese": "không có gì",
+          "english": "you're welcome / it's nothing",
+          "ipa": "/xoŋ˧ kɔ˧˥ ji˨˩/",
+          "audioFile": null,
+          "notes": "Literally 'there isn't anything' — the Vietnamese way of saying 'it was nothing' or 'you're welcome.' Very common and natural. In casual speech you might hear it shortened to 'hông có gì' (Southern pronunciation of 'không').",
+          "exampleSentence": {
+            "vietnamese": "Không có gì đâu, chuyện nhỏ mà.",
+            "english": "It's nothing, no big deal.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l02-xinloi",
+          "vietnamese": "xin lỗi",
+          "english": "sorry / excuse me",
+          "ipa": "/sin˧ loj˧˥/",
+          "audioFile": null,
+          "notes": "Used both as an apology ('I'm sorry') and to get someone's attention ('excuse me'). Like 'cảm ơn,' it's strengthened by adding a pronoun: 'Xin lỗi anh' sounds more sincere than bare 'xin lỗi.'",
+          "exampleSentence": {
+            "vietnamese": "Xin lỗi chị, cho tôi hỏi một chút.",
+            "english": "Excuse me (older sister), let me ask you something.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l02-khongsao",
+          "vietnamese": "không sao",
+          "english": "it's okay / no problem",
+          "ipa": "/xoŋ˧ saːw˧/",
+          "audioFile": null,
+          "notes": "The standard response when someone apologizes or worries about something. Literally 'not how' — meaning 'nothing happened, no issue.' Very versatile.",
+          "exampleSentence": {
+            "vietnamese": "Không sao đâu, đừng lo.",
+            "english": "It's okay, don't worry.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l02-davang",
+          "vietnamese": "dạ / vâng",
+          "english": "yes (polite Southern / polite Northern)",
+          "ipa": "/jaː˧˩/ (Southern) /vəŋ˧/ (Northern)",
+          "audioFile": null,
+          "ttsText": "dạ",
+          "notes": "'Dạ' is Southern, 'vâng' is Northern. Both are the polite 'yes.' As a Southern heritage speaker, 'dạ' is your word. You'll hear 'vâng' in Northern media and from Northern speakers — just know they mean the same thing.",
+          "exampleSentence": {
+            "vietnamese": "Dạ, con nghe.",
+            "english": "Yes, I'm listening (to an elder).",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l02-chotoixin",
+          "vietnamese": "cho tôi xin",
+          "english": "may I have / please give me",
+          "ipa": "/t͡ɕɔ˧ toj˧ sin˧/",
+          "audioFile": null,
+          "notes": "Literally 'give me please.' This is the polite way to request something. 'Cho' (give) + 'tôi' (me) + 'xin' (request). You can swap 'tôi' for the appropriate pronoun: 'cho em xin' (let me have — when you're the younger one).",
+          "exampleSentence": {
+            "vietnamese": "Cho tôi xin một ly cà phê sữa đá.",
+            "english": "May I have an iced milk coffee, please.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l02-lamon",
+          "vietnamese": "làm ơn",
+          "english": "please (formal request)",
+          "ipa": "/laːm˨˩ əːn˧/",
+          "audioFile": null,
+          "notes": "Literally 'do a favor.' Used for formal or emphatic requests. Placed before or after the request: 'Làm ơn giúp tôi' (Please help me) or 'Giúp tôi, làm ơn' (Help me, please). More formal than 'cho tôi xin.'",
+          "exampleSentence": {
+            "vietnamese": "Làm ơn nói chậm lại một chút.",
+            "english": "Please speak a little slower.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l02-xinphep",
+          "vietnamese": "xin phép",
+          "english": "to ask permission / excuse me (I'd like to...)",
+          "ipa": "/sin˧ fɛp˧˥/",
+          "audioFile": null,
+          "notes": "Used when you're asking permission to do something, especially from an elder. 'Con xin phép đi trước' (I ask permission to leave first). Shows a high level of respect. Common at family gatherings when younger people leave before elders.",
+          "exampleSentence": {
+            "vietnamese": "Dạ con xin phép về trước ạ.",
+            "english": "I'd like to ask permission to go home first (respectful).",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l02-moi",
+          "vietnamese": "mời",
+          "english": "to invite / please (offering)",
+          "ipa": "/mɤj˨˩/",
+          "audioFile": null,
+          "notes": "'Mời' is used when inviting someone to do something or offering something. 'Mời anh ngồi' (Please sit down), 'Mời anh ăn' (Please eat — said when serving food). It's a gesture of hospitality and respect.",
+          "exampleSentence": {
+            "vietnamese": "Mời bác uống nước.",
+            "english": "Please have some water (offering to an elder).",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l02-moivao",
+          "vietnamese": "mời vào",
+          "english": "please come in",
+          "ipa": "/mɤj˨˩ vaːw˨˩/",
+          "audioFile": null,
+          "notes": "Said when welcoming someone into your home or space. A core hospitality phrase. You'll hear this constantly at Vietnamese households. Often preceded by 'Dạ' for extra politeness: 'Dạ, mời vào.'",
+          "exampleSentence": {
+            "vietnamese": "Dạ, mời cô vào nhà.",
+            "english": "Please come into the house (to an aunt-aged woman).",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "instruction",
+      "content": "**The 'Dạ' Rule for Southern Speakers**\n\nHere's a simple rule that will immediately make your Vietnamese sound more natural and respectful:\n\n**When talking to anyone older or of higher status, start your response with 'dạ.'**\n\nIt doesn't matter what comes after — 'dạ' is like a politeness switch that you flip on:\n- Someone calls your name → **Dạ?** (Yes?)\n- Someone asks you a question → **Dạ, ...** (Yes, ...)\n- You hand something to an elder → **Dạ, đây ạ.** (Here you go.)\n- You receive something → **Dạ, cảm ơn.** (Thank you.)\n\nThe word **ạ** at the end of sentences serves a similar purpose — it softens and adds respect. Think of 'dạ' as the respectful opener and 'ạ' as the respectful closer. Using both together is peak Southern politeness: **Dạ, con hiểu rồi ạ.** (Yes, I understand.)"
+    },
+    {
+      "type": "cultural_note",
+      "content": "Vietnamese culture has a deeply embedded **respect hierarchy** based on age and social position. This isn't just a language thing — it shapes body language, seating arrangements, eating order, and more.\n\nSome practical examples:\n- **At meals**, elders eat first. Younger people say 'Mời ba/mẹ/ông/bà ăn cơm' (Please eat, father/mother/grandfather/grandmother) before picking up their own chopsticks.\n- **When receiving something** from an elder, you receive it with both hands. One hand is considered casual or disrespectful.\n- **When drinking**, younger people turn slightly away from elders when taking a sip — especially with alcohol.\n- **When passing in front of** an elder, you bow slightly and say 'Xin phép' or 'Dạ, xin phép.'\n\nAs a heritage speaker, you may already practice some of these without thinking about it. Understanding the 'why' behind them helps you navigate situations where you're unsure — the core principle is always: **show awareness of the other person's status and make them feel respected.**"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u3-l02-ex01",
+      "question": "Your aunt gives you a plate of food at a family gathering. What's the most appropriate response?",
+      "options": ["Cảm ơn", "Dạ cảm ơn cô", "Ừ, cảm ơn", "OK thanks"],
+      "correctAnswer": "Dạ cảm ơn cô",
+      "explanation": "'Dạ cảm ơn cô' is the most appropriate — it has the polite 'dạ' opener, the thanks, and the correct pronoun 'cô' (aunt). Just 'cảm ơn' lacks the respect markers. 'Ừ' is too casual for an elder."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u3-l02-ex02",
+      "question": "You accidentally bump into an older man at the market. You say: '_____ anh, xin lỗi anh.' (Excuse me, I'm sorry.)",
+      "correctAnswer": "Dạ",
+      "explanation": "Starting with 'Dạ' shows immediate respect and politeness in the Southern dialect. Even when apologizing, the 'dạ' prefix is important when addressing someone older."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u3-l02-ex03",
+      "question": "What does 'không có gì' literally mean?",
+      "options": ["Thank you very much", "There isn't anything / It's nothing", "I'm sorry about that", "Please don't worry"],
+      "correctAnswer": "There isn't anything / It's nothing",
+      "explanation": "'Không' (not) + 'có' (have) + 'gì' (anything) = 'there isn't anything.' This is the Vietnamese equivalent of 'you're welcome' or 'don't mention it.' It downplays the favor, which is a common politeness strategy."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u3-l02-ex04",
+      "question": "Type the phrase you'd use to politely ask for something at a restaurant. (Hint: 'May I have...' / 'Please give me...')",
+      "correctAnswer": "cho tôi xin",
+      "acceptableAnswers": ["cho tôi xin", "Cho tôi xin", "cho em xin", "Cho em xin"],
+      "explanation": "'Cho tôi xin' (give me please) is the standard polite request phrase. 'Cho em xin' also works if you're younger than the person you're talking to. This is the phrase you'll use most at restaurants and shops."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u3-l02-ex05",
+      "question": "You're leaving your grandparents' house before everyone else. What should you say?",
+      "options": ["Tạm biệt!", "Bye ông bà!", "Dạ, con xin phép về trước ạ.", "Tui đi nha."],
+      "correctAnswer": "Dạ, con xin phép về trước ạ.",
+      "explanation": "'Dạ, con xin phép về trước ạ' (I respectfully ask permission to go home first) is the proper way to leave before your elders. It uses 'dạ' (polite yes), 'con' (I, as a grandchild), 'xin phép' (ask permission), and 'ạ' (respectful sentence ender). 'Tạm biệt' is too formal/stiff, and 'Bye' or 'Tui đi nha' are too casual for grandparents."
+    }
+  ]
+}

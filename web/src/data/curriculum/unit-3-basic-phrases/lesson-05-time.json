@@ -1,0 +1,265 @@
+{
+  "slug": "lesson-05-time",
+  "unitSlug": "unit-3-basic-phrases",
+  "title": "Time & Schedule",
+  "titleVi": "Thời Gian",
+  "description": "Learn how to tell time, talk about days, and understand the Vietnamese way of dividing the day — no AM/PM needed.",
+  "order": 5,
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese tells time differently from English. Instead of AM and PM, Vietnamese divides the day into natural periods: sáng (morning), trưa (midday), chiều (afternoon), and tối (evening/night).\n\nTo ask the time, you say 'Mấy giờ rồi?' (What time is it?). To say a specific time, use the number + 'giờ': 'ba giờ' = 3 o'clock. For half past, add 'rưỡi': 'ba giờ rưỡi' = 3:30.\n\nAs a heritage speaker, you've probably heard your parents say things like 'bảy giờ sáng' (7 in the morning) or 'tám giờ tối' (8 at night). Let's make sure you can use these confidently."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u3-l05-gio",
+          "vietnamese": "giờ",
+          "english": "hour / o'clock",
+          "ipa": "/jɤː˧˩/",
+          "audioFile": null,
+          "notes": "The core time word. 'Một giờ' = 1 o'clock, 'hai giờ' = 2 o'clock.",
+          "exampleSentence": {
+            "vietnamese": "Bây giờ là mấy giờ?",
+            "english": "What time is it now?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l05-phut",
+          "vietnamese": "phút",
+          "english": "minute",
+          "ipa": "/fut˧˥/",
+          "audioFile": null,
+          "notes": "Used after 'giờ' for specific minutes: 'ba giờ mười lăm phút' = 3:15.",
+          "exampleSentence": {
+            "vietnamese": "Còn năm phút nữa.",
+            "english": "Five more minutes.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l05-sang",
+          "vietnamese": "sáng",
+          "english": "morning (roughly 5am-11am)",
+          "ipa": "/ʂaːŋ˧˥/",
+          "audioFile": null,
+          "notes": "Used after the time to indicate morning: 'bảy giờ sáng' = 7 in the morning.",
+          "exampleSentence": {
+            "vietnamese": "Sáng mai gặp nhé!",
+            "english": "See you tomorrow morning!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l05-trua",
+          "vietnamese": "trưa",
+          "english": "noon / midday (roughly 11am-1pm)",
+          "ipa": "/tɕɨə˧/",
+          "audioFile": null,
+          "notes": "The hottest part of the day. 'Ăn trưa' = eat lunch.",
+          "exampleSentence": {
+            "vietnamese": "Trưa nay ăn gì?",
+            "english": "What are we eating for lunch today?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l05-chieu",
+          "vietnamese": "chiều",
+          "english": "afternoon (roughly 1pm-6pm)",
+          "ipa": "/tɕiəw˧˩/",
+          "audioFile": null,
+          "notes": "'Chiều nay' = this afternoon.",
+          "exampleSentence": {
+            "vietnamese": "Ba giờ chiều con về nhà.",
+            "english": "I'll come home at 3 in the afternoon.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l05-toi",
+          "vietnamese": "tối",
+          "english": "evening / night (roughly 6pm onward)",
+          "ipa": "/toj˧˥/",
+          "audioFile": null,
+          "notes": "'Tối nay' = tonight. Also means 'dark'.",
+          "exampleSentence": {
+            "vietnamese": "Tám giờ tối mình đi ăn.",
+            "english": "At 8 in the evening we'll go eat.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l05-homnay",
+          "vietnamese": "hôm nay",
+          "english": "today",
+          "ipa": "/hom˧ naːj˧/",
+          "audioFile": null,
+          "exampleSentence": {
+            "vietnamese": "Hôm nay là thứ mấy?",
+            "english": "What day is it today?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l05-ngaymai",
+          "vietnamese": "ngày mai",
+          "english": "tomorrow",
+          "ipa": "/ŋaːj˧˩ maːj˧/",
+          "audioFile": null,
+          "exampleSentence": {
+            "vietnamese": "Ngày mai tôi bận.",
+            "english": "I'm busy tomorrow.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l05-homqua",
+          "vietnamese": "hôm qua",
+          "english": "yesterday",
+          "ipa": "/hom˧ kwaː˧/",
+          "audioFile": null,
+          "exampleSentence": {
+            "vietnamese": "Hôm qua con đi đâu?",
+            "english": "Where did you go yesterday? (parent to child)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l05-tuan",
+          "vietnamese": "tuần",
+          "english": "week",
+          "ipa": "/twən˧˩/",
+          "audioFile": null,
+          "notes": "'Tuần này' = this week, 'tuần sau' = next week, 'tuần trước' = last week."
+        },
+        {
+          "key": "u3-l05-thang",
+          "vietnamese": "tháng",
+          "english": "month",
+          "ipa": "/tʰaːŋ˧˥/",
+          "audioFile": null,
+          "notes": "Months use numbers: 'tháng một' = January (month one), 'tháng hai' = February."
+        },
+        {
+          "key": "u3-l05-nam",
+          "vietnamese": "năm",
+          "english": "year",
+          "ipa": "/nam˧/",
+          "audioFile": null,
+          "notes": "Also means the number 5. Context makes it clear: 'năm nay' = this year, 'năm giờ' = 5 o'clock."
+        },
+        {
+          "key": "u3-l05-baygio",
+          "vietnamese": "bây giờ",
+          "english": "now / right now",
+          "ipa": "/bəj˧ jɤː˧˩/",
+          "audioFile": null,
+          "exampleSentence": {
+            "vietnamese": "Bây giờ mình đi!",
+            "english": "Let's go now!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l05-lucnao",
+          "vietnamese": "lúc nào",
+          "english": "when / what time",
+          "ipa": "/luk˧˥ naːw˧˩/",
+          "audioFile": null,
+          "notes": "Used to ask 'when' for general timing. For specific clock time, use 'mấy giờ'.",
+          "exampleSentence": {
+            "vietnamese": "Lúc nào rảnh thì gọi cho tôi.",
+            "english": "When you're free, call me.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u3-l05-maygio",
+          "vietnamese": "mấy giờ",
+          "english": "what time / what hour",
+          "ipa": "/məj˧˥ jɤː˧˩/",
+          "audioFile": null,
+          "notes": "'Mấy' = how many (for small numbers). 'Mấy giờ rồi?' is the standard way to ask the time.",
+          "exampleSentence": {
+            "vietnamese": "Mấy giờ rồi?",
+            "english": "What time is it?",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "Vietnamese doesn't use AM/PM. Instead, time of day is expressed with context words: 'sáng' (morning), 'trưa' (noon), 'chiều' (afternoon), 'tối' (evening). So '3 PM' becomes 'ba giờ chiều' (3 o'clock afternoon) and '3 AM' would be 'ba giờ sáng' (3 o'clock morning).\n\nAlso, Vietnamese people tend to be flexible with time in social settings. 'Đến lúc 7 giờ' (come at 7) might realistically mean 7:15-7:30. But for work and school, punctuality is expected. This is sometimes jokingly called 'giờ cao su' — 'rubber time'."
+    },
+    {
+      "type": "instruction",
+      "content": "How to tell time — quick patterns:\n\n• On the hour: number + 'giờ' → 'ba giờ' (3:00)\n• Half past: number + 'giờ rưỡi' → 'ba giờ rưỡi' (3:30)\n• With minutes: number + 'giờ' + number + 'phút' → 'ba giờ mười lăm phút' (3:15)\n• Quarter past: 'ba giờ mười lăm' (3:15) — you can drop 'phút'\n• With time of day: 'ba giờ chiều' (3 PM), 'mười giờ sáng' (10 AM)\n\nNote: 'rưỡi' only means :30. For other minutes, just say the number."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u3-l05-ex01",
+      "question": "How do you ask 'What time is it?' in Vietnamese?",
+      "options": [
+        "Lúc nào rồi?",
+        "Mấy giờ rồi?",
+        "Bây giờ là gì?",
+        "Giờ nào rồi?"
+      ],
+      "correctAnswer": "Mấy giờ rồi?",
+      "explanation": "'Mấy giờ rồi?' is the standard way to ask the time. 'Mấy' = how many, 'giờ' = hour, 'rồi' = already."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u3-l05-ex02",
+      "question": "How do you say '3:30' in Vietnamese?",
+      "options": [
+        "ba giờ ba mươi",
+        "ba giờ rưỡi",
+        "ba giờ nửa",
+        "ba rưỡi giờ"
+      ],
+      "correctAnswer": "ba giờ rưỡi",
+      "explanation": "'Rưỡi' means 'half' and is placed after 'giờ' to indicate :30. 'Ba giờ rưỡi' = 3:30."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u3-l05-ex03",
+      "question": "Fill in the blank:",
+      "sentence": "Tám giờ ___ mình đi ăn.",
+      "english": "At 8 in the evening we'll go eat.",
+      "correctAnswer": "tối",
+      "acceptableAnswers": ["tối", "Tối"],
+      "explanation": "'Tối' means evening/night, used for times from roughly 6 PM onward. 'Tám giờ tối' = 8 PM."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u3-l05-ex04",
+      "question": "Fill in the blank:",
+      "sentence": "___ rồi? — Ba giờ chiều.",
+      "english": "What time is it? — 3 in the afternoon.",
+      "correctAnswer": "Mấy giờ",
+      "acceptableAnswers": ["Mấy giờ", "mấy giờ"],
+      "explanation": "'Mấy giờ' means 'what time/what hour'. It's how you ask for the specific clock time."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u3-l05-ex05",
+      "question": "What does 'sáng mai' mean?",
+      "options": [
+        "last night",
+        "this morning",
+        "tomorrow morning",
+        "every morning"
+      ],
+      "correctAnswer": "tomorrow morning",
+      "explanation": "'Sáng' = morning, 'mai' = tomorrow. Together, 'sáng mai' = tomorrow morning."
+    }
+  ]
+}

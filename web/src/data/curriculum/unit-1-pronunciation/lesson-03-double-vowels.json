@@ -1,0 +1,343 @@
+{
+  "slug": "lesson-03-double-vowels",
+  "unitSlug": "unit-1-pronunciation",
+  "title": "Double Vowels",
+  "titleVi": "Nguyên Âm Đôi",
+  "description": "Learn the common double vowel combinations (diphthongs) of Vietnamese. These pairs of vowels glide from one sound to another within a single syllable, and they are essential for natural-sounding speech.",
+  "order": 3,
+  "estimatedMinutes": 30,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese has many **double vowel** combinations (nguyên âm đôi). These are two vowels that blend together in a single syllable, creating a gliding sound from one vowel to the next.\n\nUnlike English diphthongs (which are somewhat loose), Vietnamese double vowels follow strict rules:\n\n1. **The first vowel is the nucleus** — it carries the tone mark and gets the most emphasis.\n2. **The second vowel is the glide** — your mouth moves toward it but does not fully land on it.\n3. Some double vowels change their spelling depending on whether a final consonant follows (e.g., **ia** becomes **iê** before a final consonant).\n\nWe will group them by their starting vowel to make them easier to learn."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u1-l03-ai",
+          "vietnamese": "ai",
+          "english": "Combination AI",
+          "ipa": "/aːj/",
+          "audioFile": null,
+          "notes": "Starts with open 'a' and glides to 'i'. Like 'eye' in English but starting more open. Very common.",
+          "exampleSentence": {
+            "vietnamese": "hai",
+            "english": "two",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-ao",
+          "vietnamese": "ao",
+          "english": "Combination AO",
+          "ipa": "/aːw/",
+          "audioFile": null,
+          "notes": "Starts with open 'a' and glides to 'o'. Like 'ow' in 'cow' but smoother.",
+          "exampleSentence": {
+            "vietnamese": "cao",
+            "english": "tall / high",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-au",
+          "vietnamese": "au",
+          "english": "Combination AU",
+          "ipa": "/aːw/",
+          "audioFile": null,
+          "notes": "Very similar to 'ao'. Starts with 'a' and glides toward 'u'. In Southern speech, 'au' and 'ao' can sound almost identical.",
+          "exampleSentence": {
+            "vietnamese": "đau",
+            "english": "pain / to hurt",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-ay",
+          "vietnamese": "ay",
+          "english": "Combination AY",
+          "ipa": "/aj/",
+          "audioFile": null,
+          "notes": "Uses the SHORT 'a' (ă sound) plus a glide to 'i'. Shorter than 'ai'. Compare: 'tai' (ear) vs. 'tay' (hand).",
+          "exampleSentence": {
+            "vietnamese": "tay",
+            "english": "hand / arm",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-âu",
+          "vietnamese": "âu",
+          "english": "Combination ÂU",
+          "ipa": "/əw/",
+          "audioFile": null,
+          "notes": "Starts with the short schwa 'â' and glides to 'u'. A centralized, rounded glide.",
+          "exampleSentence": {
+            "vietnamese": "câu",
+            "english": "sentence / to fish",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-ây",
+          "vietnamese": "ây",
+          "english": "Combination ÂY",
+          "ipa": "/əj/",
+          "audioFile": null,
+          "notes": "Starts with the short schwa 'â' and glides to 'i'. Compare 'ay' vs. 'ây' — different starting vowel.",
+          "exampleSentence": {
+            "vietnamese": "đây",
+            "english": "here",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-eo",
+          "vietnamese": "eo",
+          "english": "Combination EO",
+          "ipa": "/ɛw/",
+          "audioFile": null,
+          "notes": "Starts with open 'e' and glides to rounded 'o'. Less common but appears in everyday words.",
+          "exampleSentence": {
+            "vietnamese": "keo",
+            "english": "glue / candy",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-êu",
+          "vietnamese": "êu",
+          "english": "Combination ÊU",
+          "ipa": "/ew/",
+          "audioFile": null,
+          "notes": "Starts with closed 'ê' and glides to 'u'. The mouth starts in a smile and rounds at the end.",
+          "exampleSentence": {
+            "vietnamese": "kêu",
+            "english": "to call / to cry out",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-ia",
+          "vietnamese": "ia / iê",
+          "english": "Combination IA / IÊ",
+          "ipa": "/iə/",
+          "audioFile": null,
+          "notes": "Starts with 'i' and glides toward a central vowel. Spelled 'ia' at the end of a syllable (mía) but 'iê' when followed by a final consonant (tiên). This is one of three vowel pairs with alternate spellings.",
+          "exampleSentence": {
+            "vietnamese": "mía",
+            "english": "sugarcane",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-iu",
+          "vietnamese": "iu",
+          "english": "Combination IU",
+          "ipa": "/iw/",
+          "audioFile": null,
+          "notes": "Starts with 'i' and glides to rounded 'u'. The mouth starts spread and rounds at the end.",
+          "exampleSentence": {
+            "vietnamese": "dịu",
+            "english": "gentle / mild",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-oa",
+          "vietnamese": "oa",
+          "english": "Combination OA",
+          "ipa": "/waː/",
+          "audioFile": null,
+          "notes": "Starts with a 'w' glide into open 'a'. The 'o' here acts as a consonantal glide, not a full vowel.",
+          "exampleSentence": {
+            "vietnamese": "hoa",
+            "english": "flower",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-oi",
+          "vietnamese": "oi",
+          "english": "Combination OI",
+          "ipa": "/ɔj/",
+          "audioFile": null,
+          "notes": "Starts with open 'o' and glides to 'i'. Similar to 'oy' in English 'boy'.",
+          "exampleSentence": {
+            "vietnamese": "nói",
+            "english": "to speak",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-ôi",
+          "vietnamese": "ôi",
+          "english": "Combination ÔI",
+          "ipa": "/oj/",
+          "audioFile": null,
+          "notes": "Starts with closed 'ô' and glides to 'i'. More closed starting point than 'oi'. Compare: 'nói' (to speak) vs. 'tôi' (I/me).",
+          "exampleSentence": {
+            "vietnamese": "tôi",
+            "english": "I / me",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-ơi",
+          "vietnamese": "ơi",
+          "english": "Combination ƠI",
+          "ipa": "/əːj/",
+          "audioFile": null,
+          "notes": "Starts with the long central vowel 'ơ' and glides to 'i'. Used in the common exclamation 'ơi' (hey!).",
+          "exampleSentence": {
+            "vietnamese": "ơi",
+            "english": "hey! (calling someone)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-ua",
+          "vietnamese": "ua / uô",
+          "english": "Combination UA / UÔ",
+          "ipa": "/uə/",
+          "audioFile": null,
+          "notes": "Starts with 'u' and glides toward a central vowel. Spelled 'ua' at end of syllable (mua) but 'uô' before a final consonant (muốn). Second of three vowel pairs with alternate spellings.",
+          "exampleSentence": {
+            "vietnamese": "mua",
+            "english": "to buy",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-ui",
+          "vietnamese": "ui",
+          "english": "Combination UI",
+          "ipa": "/uj/",
+          "audioFile": null,
+          "notes": "Starts with rounded 'u' and glides to 'i'. Like 'ooey' said quickly.",
+          "exampleSentence": {
+            "vietnamese": "núi",
+            "english": "mountain",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-ưa",
+          "vietnamese": "ưa / ươ",
+          "english": "Combination ƯA / ƯƠ",
+          "ipa": "/ɯə/",
+          "audioFile": null,
+          "notes": "Starts with unrounded 'ư' and glides to a central vowel. Spelled 'ưa' at end of syllable (mưa) but 'ươ' before a final consonant (mương). Third of three vowel pairs with alternate spellings. This combination is uniquely Vietnamese.",
+          "exampleSentence": {
+            "vietnamese": "mưa",
+            "english": "rain",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-ưi",
+          "vietnamese": "ưi",
+          "english": "Combination ƯI",
+          "ipa": "/ɯj/",
+          "audioFile": null,
+          "notes": "Starts with unrounded 'ư' and glides to 'i'. Less common. Appears in words like 'gửi'.",
+          "exampleSentence": {
+            "vietnamese": "gửi",
+            "english": "to send",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u1-l03-ưu",
+          "vietnamese": "ưu",
+          "english": "Combination ƯU",
+          "ipa": "/ɯw/",
+          "audioFile": null,
+          "notes": "Starts with unrounded 'ư' and glides to rounded 'u'. Lips go from spread to rounded. Appears in words like 'ưu tiên' (priority).",
+          "exampleSentence": {
+            "vietnamese": "lưu",
+            "english": "to save / to keep",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "instruction",
+      "content": "**The three shape-shifting vowels:**\n\nThree double vowels change their spelling depending on whether a final consonant follows:\n\n| Open syllable (no final consonant) | Closed syllable (with final consonant) | Sound |\n|---|---|---|\n| **ia** (mía = sugarcane) | **iê** (tiên = fairy) | /iə/ |\n| **ua** (mua = to buy) | **uô** (muốn = to want) | /uə/ |\n| **ưa** (mưa = rain) | **ươ** (mương = ditch) | /ɯə/ |\n\nThe sound is the same — only the spelling changes. This is one of the most important spelling rules in Vietnamese."
+    },
+    {
+      "type": "cultural_note",
+      "content": "In Southern Vietnamese, some double vowel distinctions can blur together in fast speech. For example, 'ai' and 'ay' may sound very similar, and 'au' and 'ao' can be nearly identical. This is perfectly normal and does not cause confusion for native speakers because context and tones provide enough information. If you are a heritage speaker, you likely already produce these sounds naturally — this lesson helps you map what you hear to what you see on the page."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u1-l03-ex01",
+      "question": "The double vowel 'ia' changes to which spelling when a final consonant follows?",
+      "options": ["ie", "iê", "iơ", "iă"],
+      "correctAnswer": "iê",
+      "explanation": "'ia' becomes 'iê' before a final consonant. For example: mía (sugarcane, no final consonant) vs. tiên (fairy, final -n). The sound /iə/ stays the same."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u1-l03-ex02",
+      "instruction": "Fill in the correct double vowel to complete the word.",
+      "sentence": "m__  (rain)",
+      "english": "rain",
+      "correctAnswer": "ưa",
+      "acceptableAnswers": ["ưa"],
+      "explanation": "The word is 'mưa' (rain). The double vowel 'ưa' /ɯə/ starts with the unrounded 'ư' and glides to a central vowel."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l03-ex03",
+      "question": "Which double vowel sounds most like 'oy' in English 'boy'?",
+      "options": ["oi", "ôi", "ơi", "ui"],
+      "correctAnswer": "oi",
+      "explanation": "The combination 'oi' /ɔj/ starts with the open rounded 'o' and glides to 'i', making it the closest match to English 'oy'. 'ôi' starts from a more closed 'o' position."
+    },
+    {
+      "type": "tone_matching",
+      "key": "u1-l03-ex04",
+      "instruction": "Match each word to its correct meaning using your knowledge of double vowels.",
+      "pairs": [
+        {
+          "word": "hai",
+          "options": ["two", "flower", "to buy", "hand"],
+          "correct": "two"
+        },
+        {
+          "word": "hoa",
+          "options": ["two", "flower", "to buy", "hand"],
+          "correct": "flower"
+        },
+        {
+          "word": "mua",
+          "options": ["two", "flower", "to buy", "hand"],
+          "correct": "to buy"
+        },
+        {
+          "word": "tay",
+          "options": ["two", "flower", "to buy", "hand"],
+          "correct": "hand"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u1-l03-ex05",
+      "question": "What is the key difference between 'ai' and 'ay'?",
+      "options": [
+        "They are completely different sounds",
+        "'ai' uses the long 'a' and 'ay' uses the short 'a' (ă sound)",
+        "'ai' is rounded and 'ay' is unrounded",
+        "'ay' is only used in loanwords"
+      ],
+      "correctAnswer": "'ai' uses the long 'a' and 'ay' uses the short 'a' (ă sound)",
+      "explanation": "In 'ai', the starting vowel is the long 'a' /aː/. In 'ay', the starting vowel is the short 'a' (ă) /a/. Both glide to 'i', but the duration of the first vowel differs. Compare: 'tai' (ear) vs. 'tay' (hand)."
+    }
+  ]
+}

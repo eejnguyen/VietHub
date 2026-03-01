@@ -1,0 +1,264 @@
+{
+  "slug": "lesson-03-numbers",
+  "unitSlug": "unit-2-basic-vocab",
+  "title": "Numbers",
+  "titleVi": "Số Đếm",
+  "description": "Learn to count in Vietnamese with Southern pronunciation — from zero to thousands.",
+  "order": 3,
+  "estimatedMinutes": 15,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese numbers are highly regular — once you learn 0-10 and a few rules, you can count to millions. The good news for heritage speakers: you've probably heard these at home, especially when your parents talk about money or your age.\n\nSouthern Vietnamese has a few key differences from Northern Vietnamese when it comes to numbers. The biggest one: Southerners say 'ngàn' for thousand, while Northerners say 'nghìn'. We'll focus on the Southern forms."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u2-l03-khong",
+          "vietnamese": "không",
+          "english": "zero / no / not",
+          "ipa": "/xoŋ˧/",
+          "audioFile": null,
+          "notes": "'Không' means both 'zero' and 'no/not'. Context makes it clear. When reading phone numbers, you say 'không' for each 0.",
+          "exampleSentence": {
+            "vietnamese": "Số không.",
+            "english": "The number zero.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l03-mot",
+          "vietnamese": "một",
+          "english": "one",
+          "ipa": "/mot˧˩/",
+          "audioFile": null,
+          "notes": "When 'một' appears as the last digit in a compound number (21, 31, etc.), it changes to 'mốt'. Example: 21 = hai mươi mốt.",
+          "exampleSentence": {
+            "vietnamese": "Cho con một cái.",
+            "english": "Give me one (of those).",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l03-hai",
+          "vietnamese": "hai",
+          "english": "two",
+          "ipa": "/haːj˧/",
+          "audioFile": null,
+          "notes": "Straightforward. 'Hai' stays the same in all positions.",
+          "exampleSentence": {
+            "vietnamese": "Con có hai anh.",
+            "english": "I have two older brothers.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l03-ba",
+          "vietnamese": "ba",
+          "english": "three",
+          "ipa": "/baː˧/",
+          "audioFile": null,
+          "notes": "Same word as 'ba' (father) — tone and context distinguish them. As a number, 'ba' is mid-level tone.",
+          "exampleSentence": {
+            "vietnamese": "Ba người.",
+            "english": "Three people.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l03-bon",
+          "vietnamese": "bốn",
+          "english": "four",
+          "ipa": "/ɓon˧˥/",
+          "audioFile": null,
+          "notes": "When 'bốn' is the last digit in a compound number (14, 24, etc.), it often becomes 'tư' in Southern speech. Example: 14 = mười tư, 24 = hai mươi tư.",
+          "exampleSentence": {
+            "vietnamese": "Bốn cái bánh.",
+            "english": "Four cakes.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l03-nam",
+          "vietnamese": "năm",
+          "english": "five / year",
+          "ipa": "/nam˧/",
+          "audioFile": null,
+          "notes": "'Năm' means both 'five' and 'year'. When 'năm' is the last digit in a compound number (15, 25, etc.), it changes to 'lăm'. Example: 15 = mười lăm.",
+          "exampleSentence": {
+            "vietnamese": "Con năm tuổi.",
+            "english": "I am five years old.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l03-sau",
+          "vietnamese": "sáu",
+          "english": "six",
+          "ipa": "/saːw˧˥/",
+          "audioFile": null,
+          "exampleSentence": {
+            "vietnamese": "Sáu giờ rồi.",
+            "english": "It's six o'clock already.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l03-bay",
+          "vietnamese": "bảy",
+          "english": "seven",
+          "ipa": "/ɓaːj˧˥/",
+          "audioFile": null,
+          "exampleSentence": {
+            "vietnamese": "Tuần có bảy ngày.",
+            "english": "A week has seven days.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l03-tam",
+          "vietnamese": "tám",
+          "english": "eight",
+          "ipa": "/taːm˧˥/",
+          "audioFile": null,
+          "notes": "Eight is a lucky number in Vietnamese culture (similar to Chinese culture) because it sounds like 'phát' (prosperity).",
+          "exampleSentence": {
+            "vietnamese": "Tám giờ sáng.",
+            "english": "Eight o'clock in the morning.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l03-chin",
+          "vietnamese": "chín",
+          "english": "nine / ripe",
+          "ipa": "/tɕin˧˥/",
+          "audioFile": null,
+          "notes": "'Chín' also means 'ripe' (for fruit) or 'well-cooked'. Context makes the meaning clear.",
+          "exampleSentence": {
+            "vietnamese": "Chín giờ tối.",
+            "english": "Nine o'clock at night.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l03-muoi",
+          "vietnamese": "mười",
+          "english": "ten",
+          "ipa": "/mɨəj˧˩/",
+          "audioFile": null,
+          "notes": "'Mười' is ten. For teens (11-19), just add the digit after: mười một (11), mười hai (12), etc. Note: 'mười' becomes 'mươi' when used in compounds (hai mươi = 20).",
+          "exampleSentence": {
+            "vietnamese": "Mười phút nữa.",
+            "english": "Ten more minutes.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l03-hai-muoi",
+          "vietnamese": "hai mươi",
+          "english": "twenty",
+          "ipa": "/haːj˧ mɨəj˧/",
+          "audioFile": null,
+          "notes": "Pattern for tens: number + mươi. Hai mươi (20), ba mươi (30), bốn mươi (40), etc. Note the spelling change from 'mười' (10) to 'mươi' (in compounds).",
+          "exampleSentence": {
+            "vietnamese": "Con hai mươi tuổi.",
+            "english": "I am twenty years old.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l03-mot-tram",
+          "vietnamese": "một trăm",
+          "english": "one hundred",
+          "ipa": "/mot˧˩ tɕam˧/",
+          "audioFile": null,
+          "notes": "'Trăm' = hundred. Pattern: number + trăm. Hai trăm (200), ba trăm (300), etc.",
+          "exampleSentence": {
+            "vietnamese": "Một trăm ngàn đồng.",
+            "english": "One hundred thousand dong.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l03-mot-ngan",
+          "vietnamese": "một ngàn",
+          "english": "one thousand",
+          "ipa": "/mot˧˩ ŋaːn˧˩/",
+          "audioFile": null,
+          "ttsText": "một ngàn",
+          "notes": "SOUTHERN: 'ngàn'. NORTHERN: 'nghìn'. This is one of the biggest North-South differences in numbers. Always use 'ngàn' in Southern speech. 'Hai ngàn' (2,000), 'ba ngàn' (3,000), etc.",
+          "exampleSentence": {
+            "vietnamese": "Ly trà đá hai ngàn đồng.",
+            "english": "A glass of iced tea is two thousand dong.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u2-l03-mot-trieu",
+          "vietnamese": "một triệu",
+          "english": "one million",
+          "ipa": "/mot˧˩ tɕiew˧˩/",
+          "audioFile": null,
+          "notes": "'Triệu' = million. Very common in daily life because Vietnamese dong has high denominations. A bowl of phở might cost 50,000-80,000 đồng.",
+          "exampleSentence": {
+            "vietnamese": "Cái điện thoại này hai triệu.",
+            "english": "This phone is two million (dong).",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "Vietnamese currency (đồng) uses very large numbers in daily life, so you'll hear 'ngàn' and 'triệu' constantly. In casual speech, people often drop the zeros — 'hai chục' (20,000 đồng) instead of 'hai mươi ngàn'. Market vendors and family members often quote prices in 'ngàn': 'năm chục' = 50,000đ, 'một trăm' can mean 100,000đ depending on context.\n\nNumbers are also important in Vietnamese superstition: 8 is lucky (prosperity), 9 is lucky (longevity), but 4 can be unlucky (sounds like 'tử' = death in Sino-Vietnamese). Phone numbers and license plates with lucky numbers cost more."
+    },
+    {
+      "type": "instruction",
+      "content": "Key Southern number rules to remember:\n\n• 'ngàn' (not 'nghìn') for thousand\n• 'mốt' replaces 'một' as last digit: 21 = hai mươi mốt\n• 'lăm' replaces 'năm' as last digit: 25 = hai mươi lăm\n• 'tư' often replaces 'bốn' as last digit: 24 = hai mươi tư\n• Tens use 'mươi' (not 'mười'): 30 = ba mươi\n• 15 = mười lăm (but 25 = hai mươi lăm)"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u2-l03-ex01",
+      "question": "What is the Southern Vietnamese word for 'one thousand'?",
+      "options": ["một nghìn", "một ngàn", "một trăm", "một chục"],
+      "correctAnswer": "một ngàn",
+      "explanation": "Southern Vietnamese uses 'ngàn' for thousand. 'Nghìn' is the Northern form. 'Trăm' = hundred, 'chục' = ten."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u2-l03-ex02",
+      "question": "How do you say '25' in Vietnamese?",
+      "options": ["hai mươi năm", "hai mươi lăm", "hai mười năm", "hai mươi nhăm"],
+      "correctAnswer": "hai mươi lăm",
+      "explanation": "When 'năm' (5) is the last digit in a compound number, it changes to 'lăm'. So 25 = hai mươi lăm, not hai mươi năm."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u2-l03-ex03",
+      "question": "Type the number 21 in Vietnamese words:",
+      "correctAnswer": "hai mươi mốt",
+      "acceptableAnswers": ["hai mươi mốt", "hai muoi mot"],
+      "explanation": "'Một' changes to 'mốt' when it's the last digit in a compound number. 21 = hai mươi mốt."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u2-l03-ex04",
+      "question": "What does 'mười lăm' mean?",
+      "options": ["50", "5", "15", "25"],
+      "correctAnswer": "15",
+      "explanation": "'Mười' = 10, 'lăm' = 5 (in compound position). 10 + 5 = 15. Remember: 'năm' becomes 'lăm' when it's the last digit."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u2-l03-ex05",
+      "question": "A bowl of phở costs 50,000 dong. Type 'năm mươi ngàn đồng':",
+      "correctAnswer": "năm mươi ngàn đồng",
+      "acceptableAnswers": ["năm mươi ngàn đồng", "nam muoi ngan dong", "năm mươi ngàn"],
+      "explanation": "'Năm mươi' = 50, 'ngàn' = thousand (Southern), 'đồng' = Vietnamese currency unit."
+    }
+  ]
+}
