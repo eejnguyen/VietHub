@@ -1,0 +1,256 @@
+{
+  "slug": "lesson-02-formal-informal",
+  "unitSlug": "unit-7-advanced",
+  "title": "Formal vs. Informal Register",
+  "titleVi": "Ngôn Ngữ Trang Trọng & Thân Mật",
+  "description": "Vietnamese shifts dramatically between formal and informal speech. Learn to navigate business Vietnamese, polite forms, and the casual Southern slang you use with friends and family.",
+  "order": 2,
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "As a heritage speaker, you probably speak Vietnamese in one register: casual family talk. But Vietnamese has a *huge* gap between formal and informal language — much bigger than in English. Using casual speech in the wrong context sounds uneducated, while being overly formal with family sounds cold and distant.\n\nThis lesson maps out the spectrum so you know exactly when to switch. Think of it as code-switching within Vietnamese itself.\n\n**The spectrum:**\n- **Formal written** (văn viết trang trọng): government documents, academic papers, news broadcasts\n- **Polite spoken** (lịch sự): talking to elders you don't know well, business meetings, ceremonies\n- **Neutral** (bình thường): everyday conversation with acquaintances\n- **Casual** (thân mật): family, close friends — this is where you live\n- **Slang** (tiếng lóng): texting, youth speech, internet Vietnamese"
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u7-l02-thua",
+          "vietnamese": "thưa",
+          "english": "respectful address particle (formal 'dear' / 'to respectfully say')",
+          "ipa": "/tʰɨa˧/",
+          "audioFile": null,
+          "notes": "Placed before the listener's title to show deep respect. 'Thưa ba' (respectfully, father), 'thưa thầy' (respectfully, teacher). Used at ceremonies, formal events, and when addressing elders formally. You'll hear this at Vietnamese weddings and funerals constantly.",
+          "exampleSentence": {
+            "vietnamese": "Thưa quý vị, hôm nay chúng tôi rất hân hạnh được đón tiếp quý khách.",
+            "english": "Dear distinguished guests, today we are very honored to welcome you.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l02-kinh",
+          "vietnamese": "kính",
+          "english": "respectfully (used in formal writing and greetings)",
+          "ipa": "/kiŋ˧˥/",
+          "audioFile": null,
+          "notes": "Formal respect marker. 'Kính chào' = respectful greeting, 'kính gửi' = respectfully sending (used to open formal letters like 'Dear Sir/Madam'). 'Kính mời' = respectfully invite. You won't use this casually, but you'll see it on every Vietnamese invitation and official letter.",
+          "exampleSentence": {
+            "vietnamese": "Kính gửi Ban Giám Đốc, tôi viết thư này để xin phép nghỉ việc.",
+            "english": "Dear Board of Directors, I am writing this letter to request leave from work.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l02-quy",
+          "vietnamese": "quý",
+          "english": "distinguished, esteemed (formal address)",
+          "ipa": "/kwi˧˥/",
+          "audioFile": null,
+          "notes": "'Quý vị' = distinguished guests/audience, 'quý khách' = esteemed customers. Used on signs in Vietnamese businesses, on TV news, and at formal events. The everyday equivalent is just 'mọi người' (everyone).",
+          "exampleSentence": {
+            "vietnamese": "Quý khách vui lòng giữ trật tự.",
+            "english": "Esteemed customers, please maintain order.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l02-xinphep",
+          "vietnamese": "xin phép",
+          "english": "to ask permission / excuse me (polite)",
+          "ipa": "/sin˧ fep˧˥/",
+          "audioFile": null,
+          "notes": "Polite way to ask permission or excuse yourself. 'Xin phép' is appropriate in most situations. More formal than just 'cho' (let me). In casual Southern speech, people often just say 'cho em/con hỏi...' instead.",
+          "exampleSentence": {
+            "vietnamese": "Xin phép anh, cho em hỏi đường đi tới bưu điện.",
+            "english": "Excuse me sir, may I ask for directions to the post office.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l02-nha",
+          "vietnamese": "nha",
+          "english": "okay? / alright? (Southern casual sentence-ender)",
+          "ipa": "/ɲaː˧/",
+          "audioFile": null,
+          "notes": "Quintessential Southern Vietnamese particle. Softens statements and turns them into gentle confirmations. 'Đi nha' = let's go, okay? 'Ăn đi nha' = eat up, alright? Northern equivalent is 'nhé'. Using 'nha' immediately marks you as Southern.",
+          "exampleSentence": {
+            "vietnamese": "Tui đi trước nha, gặp lại sau!",
+            "english": "I'll go ahead okay, see you later!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l02-hen",
+          "vietnamese": "hén",
+          "english": "right? / isn't it? (Southern tag question)",
+          "ipa": "/hen˧˥/",
+          "audioFile": null,
+          "notes": "Southern Vietnamese tag question, similar to 'right?' or 'yeah?' at the end of a sentence. Very casual and warm. Northern equivalent might be 'nhỉ'. Some Southern speakers also use 'hả' or 'ha' similarly.",
+          "exampleSentence": {
+            "vietnamese": "Hôm nay trời nóng quá hén?",
+            "english": "It's so hot today, right?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l02-dzay",
+          "vietnamese": "vậy",
+          "english": "so / like that (Southern pronunciation: 'dzậy')",
+          "ipa": "/jəj˧˩/",
+          "audioFile": null,
+          "notes": "In Southern speech, 'v' is often pronounced as /j/ (like 'y') or /z/. So 'vậy' sounds like 'dzậy' or 'yậy.' This is one of the most recognizable Southern markers. 'Vậy hả?' = oh, really? 'Vậy thôi' = that's all.",
+          "exampleSentence": {
+            "vietnamese": "À vậy hả? Tui không biết!",
+            "english": "Oh really? I didn't know!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l02-a",
+          "vietnamese": "á",
+          "english": "exclamation particle (surprise, emphasis)",
+          "ipa": "/aː˧˥/",
+          "audioFile": null,
+          "notes": "Casual sentence-final particle expressing mild surprise or emphasis. Very Southern. 'Đẹp quá á!' = so pretty! 'Hết rồi á!' = it's all gone! You'll hear this constantly in casual Southern conversation. Would never appear in formal speech.",
+          "exampleSentence": {
+            "vietnamese": "Trời ơi, mắc quá á! Không mua đâu.",
+            "english": "Oh my god, it's so expensive! Not buying it.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l02-ne",
+          "vietnamese": "nè",
+          "english": "hey / look / here (Southern attention-getter)",
+          "ipa": "/nɛ˧˩/",
+          "audioFile": null,
+          "notes": "Southern Vietnamese way to get someone's attention or present something. 'Nè, coi nè!' = Hey, look at this! Northern equivalent is 'này.' Very casual, used with friends and family only.",
+          "exampleSentence": {
+            "vietnamese": "Nè, coi cái này hay lắm nè!",
+            "english": "Hey, look at this — it's really cool!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l02-tui",
+          "vietnamese": "tui",
+          "english": "I/me (Southern casual)",
+          "ipa": "/tuj˧/",
+          "audioFile": null,
+          "notes": "'Tui' is the Southern casual form of 'tôi' (I/me). 'Tôi' is neutral/formal; 'tui' is warm and casual. Using 'tôi' with family sounds stiff. Using 'tui' in a business meeting sounds too casual. Know your context.",
+          "exampleSentence": {
+            "vietnamese": "Tui nói thiệt nha — tui không thích đồ đó.",
+            "english": "I'm being honest okay — I don't like that thing.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l02-trangtrong",
+          "vietnamese": "trang trọng",
+          "english": "formal, solemn, dignified",
+          "ipa": "/tɕaːŋ˧ tɕoŋ˧˩/",
+          "audioFile": null,
+          "notes": "The word for 'formal' itself. 'Lễ trang trọng' = solemn ceremony. 'Ăn mặc trang trọng' = dress formally. Useful for understanding when Vietnamese people describe events or speech as 'trang trọng.'",
+          "exampleSentence": {
+            "vietnamese": "Đám cưới rất trang trọng — ai cũng mặc đồ đẹp.",
+            "english": "The wedding was very formal — everyone dressed up nicely.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l02-suotngay",
+          "vietnamese": "suốt ngày",
+          "english": "all day long (casual emphasis/exaggeration)",
+          "ipa": "/ʂuət˧˥ ŋaj˧˩/",
+          "audioFile": null,
+          "notes": "Literally 'throughout the day,' but in casual speech it means 'always/constantly' as an exaggeration. 'Nó suốt ngày chơi game' = he's always playing games (not literally all day). Very common in casual complaints and storytelling.",
+          "exampleSentence": {
+            "vietnamese": "Con nhỏ đó suốt ngày khóc, mệt quá!",
+            "english": "That kid is crying all the time, so exhausting!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l02-kinhthu",
+          "vietnamese": "kính thư",
+          "english": "respectfully yours (formal letter closing)",
+          "ipa": "/kiŋ˧˥ tʰɨ˧/",
+          "audioFile": null,
+          "notes": "Formal letter sign-off, equivalent to 'Sincerely' or 'Respectfully yours.' Used in business correspondence, official requests, and formal emails. The casual equivalent for people you know might just be 'Thân' (warmly) or 'Thân mến' (with affection).",
+          "exampleSentence": {
+            "vietnamese": "Kính thư, Nguyễn Văn An.",
+            "english": "Respectfully yours, Nguyen Van An.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "Register-switching in Vietnamese isn't optional — it's a social requirement. Using the wrong register can be genuinely offensive.\n\n**Getting it wrong:**\n- Saying 'tui' to your boss = disrespectful, sounds uneducated\n- Saying 'tôi' to your mom = cold, distant, like you're angry at her\n- Using 'thưa' with your friends = weird, sarcastic, or mocking\n- Texting your crush with formal language = robotic, no personality\n\n**Heritage speaker trap:** Many heritage speakers only know casual register because that's all they heard at home. This means they can chat with family perfectly but freeze up at a Vietnamese business event or feel lost reading a formal Vietnamese document. Building your formal register is the key to being taken seriously as a Vietnamese adult."
+    },
+    {
+      "type": "instruction",
+      "content": "**Quick register cheat sheet:**\n\n| Situation | Pronoun for 'I' | Pronoun for 'you' | Sentence ending |\n|---|---|---|---|\n| Business meeting | tôi | anh/chị/quý vị | ạ, thưa |\n| Talking to parents | con | ba/má | dạ, nha |\n| With close friends | tui/mình/tao | bạn/mày/ên | nha, hén, á |\n| Formal letter | tôi/chúng tôi | quý ông/bà | kính |\n| With grandparents | con/cháu | ông/bà | dạ |\n\n**Southern tip:** 'Dạ' is your Swiss Army knife. It works in almost any polite context — answering a question, acknowledging someone, showing respect. Just saying 'dạ' before your response instantly makes you sound polite. In the North, 'vâng' serves the same function."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u7-l02-ex01",
+      "question": "You're writing a formal email to a Vietnamese company. How do you open it?",
+      "options": [
+        "Nè, tui muốn hỏi...",
+        "Kính gửi quý công ty...",
+        "Ê, cho hỏi cái nha...",
+        "Thưa bạn..."
+      ],
+      "correctAnswer": "Kính gửi quý công ty...",
+      "explanation": "'Kính gửi' is the standard formal letter opening, equivalent to 'Dear [recipient].' Using casual language like 'nè' or 'ê' in a business email would be inappropriate and unprofessional."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u7-l02-ex02",
+      "question": "Which sentence-ending particle is distinctly Southern Vietnamese and softens a statement into a gentle confirmation?",
+      "options": [
+        "nhé (Northern)",
+        "nha (Southern)",
+        "ạ (polite/formal)",
+        "thưa (respect marker)"
+      ],
+      "correctAnswer": "nha (Southern)",
+      "explanation": "'Nha' is the quintessential Southern particle. It softens commands and statements — 'Đi nha' sounds much warmer than just 'Đi.' The Northern equivalent is 'nhé.'"
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u7-l02-ex03",
+      "question": "At a Vietnamese wedding, the MC addresses the audience. Which form of address is appropriate?",
+      "options": [
+        "Tụi bây ơi!",
+        "Thưa quý vị!",
+        "Nè mọi người!",
+        "Ê, bà con!"
+      ],
+      "correctAnswer": "Thưa quý vị!",
+      "explanation": "'Thưa quý vị' is the proper formal address for a distinguished audience at a ceremony. 'Tụi bây' and 'Ê' are far too casual, and 'Nè mọi người' is informal."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u7-l02-ex04",
+      "question": "Complete this casual Southern sentence: 'Hôm nay trời nóng quá _____?'",
+      "sentence": "Hôm nay trời nóng quá _____?",
+      "english": "It's so hot today, right?",
+      "correctAnswer": "hén",
+      "acceptableAnswers": ["hén", "Hén", "hen", "hả"],
+      "explanation": "'Hén' is a Southern tag question meaning 'right?' or 'isn't it?' It's casual and warm, used among friends and family."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u7-l02-ex05",
+      "question": "How would you say 'I' in casual Southern Vietnamese speech (not the formal 'tôi')?",
+      "correctAnswer": "tui",
+      "acceptableAnswers": ["tui", "Tui"],
+      "explanation": "'Tui' is the Southern casual variant of 'tôi.' It's warm and familiar — perfect for friends and family, but too casual for business or formal settings."
+    }
+  ]
+}

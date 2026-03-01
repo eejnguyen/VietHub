@@ -1,0 +1,267 @@
+{
+  "slug": "lesson-01-emotions",
+  "unitSlug": "unit-5-intermediate",
+  "title": "Emotions & Feelings",
+  "titleVi": "Cảm Xúc",
+  "description": "Express how you feel in Vietnamese — the way your family does. Learn emotional vocabulary rooted in Southern dialect, from everyday feelings to the deep 'nhớ nhà' that heritage speakers know well.",
+  "order": 1,
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese expresses emotions differently than English. Many feelings that take a whole phrase in English are captured in a single word in Vietnamese. You probably already know some of these from hearing family conversations — 'buồn quá!' or 'sợ ghê!' — but now we'll build out your full emotional vocabulary.\n\nIn Southern Vietnamese, emotions are often amplified with words like 'quá', 'lắm', 'ghê', and 'dữ lắm'. You'll hear 'Tui buồn quá' (I'm so sad) much more naturally than the formal 'Tôi rất buồn'."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u5-l01-vui",
+          "vietnamese": "vui",
+          "english": "happy, joyful",
+          "ipa": "/vuj˧/",
+          "audioFile": null,
+          "notes": "The most common word for 'happy'. Often paired with 'vui vẻ' for a lighter, cheerful feeling. 'Vui ghê!' = 'So fun/happy!' in Southern casual speech.",
+          "exampleSentence": {
+            "vietnamese": "Tui vui quá khi gặp lại bà ngoại.",
+            "english": "I'm so happy to see grandma again.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l01-buon",
+          "vietnamese": "buồn",
+          "english": "sad",
+          "ipa": "/buən˧˩/",
+          "audioFile": null,
+          "notes": "A very common word you've likely heard at home. 'Buồn ngủ' means sleepy (literally 'sad-sleep'), not emotionally sad. Context matters!",
+          "exampleSentence": {
+            "vietnamese": "Sao mặt buồn vậy? Có chuyện gì không?",
+            "english": "Why the sad face? Is something wrong?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l01-gian",
+          "vietnamese": "giận",
+          "english": "angry, mad",
+          "ipa": "/jən˧˩ˀ/",
+          "audioFile": null,
+          "notes": "Southern pronunciation: 'giận' sounds like 'yận'. In the North, 'giận' has a /z/ sound. 'Tức' is another word for angry, often used for frustration. 'Giận dữ' = furious.",
+          "exampleSentence": {
+            "vietnamese": "Đừng có giận tui mà, tui xin lỗi rồi.",
+            "english": "Don't be mad at me, I already apologized.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l01-tuc",
+          "vietnamese": "tức",
+          "english": "frustrated, irritated, angry",
+          "ipa": "/tɨk˧˥/",
+          "audioFile": null,
+          "notes": "'Tức' carries a sense of frustration or indignation, slightly different from 'giận'. 'Tức cười' = funny (literally 'frustratingly laughable'). 'Tức giận' combines both for intense anger.",
+          "exampleSentence": {
+            "vietnamese": "Tui tức ghê, nói hoài mà không ai nghe.",
+            "english": "I'm so frustrated — I keep saying it but nobody listens.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l01-so",
+          "vietnamese": "sợ",
+          "english": "scared, afraid",
+          "ipa": "/ʂəː˧˥/",
+          "audioFile": null,
+          "notes": "'Sợ' is used very broadly — from real fear to mild worry. 'Sợ hãi' is a stronger, literary form. Southern speakers often say 'sợ quá trời!' (so scary!).",
+          "exampleSentence": {
+            "vietnamese": "Hồi nhỏ tui sợ ma lắm.",
+            "english": "When I was little, I was really scared of ghosts.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l01-lo",
+          "vietnamese": "lo lắng",
+          "english": "worried, anxious",
+          "ipa": "/lɔ˧ laŋ˧˥/",
+          "audioFile": null,
+          "notes": "'Lo' alone also works and is more casual. Vietnamese parents are famous for 'lo' — worrying about everything. 'Lo xa' = worry about things far in the future.",
+          "exampleSentence": {
+            "vietnamese": "Má lo lắng dữ lắm khi con về trễ.",
+            "english": "Mom worries a lot when I come home late.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l01-hanh-phuc",
+          "vietnamese": "hạnh phúc",
+          "english": "happiness, blissful",
+          "ipa": "/haɲ˧˩ˀ fuk˧˥/",
+          "audioFile": null,
+          "notes": "A deeper, more profound happiness than 'vui'. Used for life satisfaction, marriage, family. This is the word on wedding banners and New Year wishes.",
+          "exampleSentence": {
+            "vietnamese": "Gia đình mình hạnh phúc là được rồi.",
+            "english": "As long as our family is happy, that's enough.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l01-nho",
+          "vietnamese": "nhớ",
+          "english": "to miss (someone/something), to remember",
+          "ipa": "/ɲəː˧˥/",
+          "audioFile": null,
+          "notes": "'Nhớ' does double duty: it means both 'to miss' and 'to remember'. Context tells you which. 'Nhớ nhà' (homesickness) is deeply felt in the Vietnamese diaspora.",
+          "exampleSentence": {
+            "vietnamese": "Tui nhớ Việt Nam quá, nhớ đồ ăn, nhớ bà con.",
+            "english": "I miss Vietnam so much — miss the food, miss the relatives.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l01-thuong",
+          "vietnamese": "thương",
+          "english": "to love (with compassion/tenderness), to feel for",
+          "ipa": "/tʰɨəŋ˧/",
+          "audioFile": null,
+          "notes": "Different from 'yêu' (romantic love). 'Thương' is the love parents feel for children, the tenderness for someone who's struggling. 'Tội nghiệp' (pitiful) often accompanies it. This is a very Vietnamese emotion.",
+          "exampleSentence": {
+            "vietnamese": "Ba thương con lắm, con biết không?",
+            "english": "Dad loves you so much, you know that?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l01-ghet",
+          "vietnamese": "ghét",
+          "english": "to hate, to dislike",
+          "ipa": "/ɣɛt˧˥/",
+          "audioFile": null,
+          "notes": "Can range from mild dislike to strong hatred depending on context. 'Ghét cay ghét đắng' = to deeply despise. In casual speech: 'Ghét ghê!' = 'So annoying!'",
+          "exampleSentence": {
+            "vietnamese": "Tui ghét ăn mướp lắm.",
+            "english": "I really hate eating loofah gourd.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l01-chan",
+          "vietnamese": "chán",
+          "english": "bored, fed up",
+          "ipa": "/tɕaːn˧˥/",
+          "audioFile": null,
+          "notes": "'Chán' means bored but also 'fed up' or 'tired of'. 'Chán quá!' is what you say when nothing's interesting. 'Chán đời' = tired of life (dramatic but common expression).",
+          "exampleSentence": {
+            "vietnamese": "Ở nhà hoài chán quá, đi đâu chơi đi.",
+            "english": "Staying home all the time is so boring — let's go out.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l01-met",
+          "vietnamese": "mệt",
+          "english": "tired, exhausted",
+          "ipa": "/mɛt˧˩ˀ/",
+          "audioFile": null,
+          "notes": "Physical tiredness primarily, but also mental exhaustion. 'Mệt mỏi' is the fuller form. Southern speakers often say 'mệt muốn chết' (tired to death) as exaggeration.",
+          "exampleSentence": {
+            "vietnamese": "Đi làm về mệt muốn xỉu.",
+            "english": "Coming home from work, I'm so tired I could faint.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l01-xau-ho",
+          "vietnamese": "xấu hổ",
+          "english": "embarrassed, ashamed",
+          "ipa": "/səw˧˥ ho˧˥/",
+          "audioFile": null,
+          "notes": "'Mắc cỡ' is the more Southern way to say embarrassed/shy — you'll hear this more in Saigon than 'xấu hổ'. Both are understood everywhere.",
+          "exampleSentence": {
+            "vietnamese": "Nói tiếng Việt sai mà mắc cỡ ghê.",
+            "english": "Speaking Vietnamese wrong is so embarrassing.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l01-tu-hao",
+          "vietnamese": "tự hào",
+          "english": "proud",
+          "ipa": "/tɨ˧˩ haːw˧˩/",
+          "audioFile": null,
+          "notes": "Used for genuine pride — in family, achievements, heritage. 'Ba má tự hào về con' (Mom and Dad are proud of you) is something every Vietnamese kid wants to hear.",
+          "exampleSentence": {
+            "vietnamese": "Tui tự hào là người Việt Nam.",
+            "english": "I'm proud to be Vietnamese.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l01-nho-nha",
+          "vietnamese": "nhớ nhà",
+          "english": "homesick",
+          "ipa": "/ɲəː˧˥ ɲaː˧˩/",
+          "audioFile": null,
+          "notes": "Literally 'miss home'. For Vietnamese diaspora families, this carries deep weight — it can mean missing the physical home, or missing Vietnam itself. A central emotion in the heritage speaker experience.",
+          "exampleSentence": {
+            "vietnamese": "Bà ngoại hay nhớ nhà lắm, nhớ quê cũ.",
+            "english": "Grandma is often homesick — she misses the old homeland.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "Vietnamese culture values emotional restraint in public but is deeply expressive within family. You'll hear 'thương' far more than 'yêu' at home — 'thương' carries warmth, pity, and protective love all at once. It's the word a mother uses when she sees her child struggle.\n\nHeritage speakers often recognize 'nhớ nhà' as a feeling that runs through their family's story. For the older generation, it's tied to leaving Vietnam. For the younger generation, it might mean missing the feeling of a Vietnamese household — the sounds, smells, and rhythms of family life.\n\nAlso note: Vietnamese people often express care through worry ('lo'). When your parents worry excessively, that IS their way of saying 'I love you'."
+    },
+    {
+      "type": "instruction",
+      "content": "**Amplifying emotions — Southern style:**\n\n| Intensifier | Meaning | Example |\n|---|---|---|\n| quá | so/too much | Buồn quá! (So sad!) |\n| lắm | very/a lot | Vui lắm! (Very happy!) |\n| ghê | intensely (Southern) | Sợ ghê! (So scary!) |\n| dữ lắm | really intensely | Lo dữ lắm (Worrying really hard) |\n| muốn chết | 'to death' (exaggeration) | Mệt muốn chết (Tired to death) |\n\nSouthern speakers love stacking intensifiers: 'Vui quá trời luôn!' (Happy beyond the sky!). This dramatic flair is perfectly normal in casual speech."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u5-l01-ex01",
+      "question": "Which word describes the tender, protective love a parent feels for their child?",
+      "options": ["yêu", "thương", "nhớ", "ghét"],
+      "correctAnswer": "thương",
+      "explanation": "'Thương' is the compassionate, tender love — different from 'yêu' (romantic love). It's the word parents most often use with their children."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u5-l01-ex02",
+      "question": "What does 'nhớ nhà' mean?",
+      "options": ["Remember the house rules", "Homesick", "Forget home", "New home"],
+      "correctAnswer": "Homesick",
+      "explanation": "'Nhớ' means both 'to miss' and 'to remember'. 'Nhớ nhà' literally means 'miss home' — homesick. It carries deep emotional weight in Vietnamese diaspora families."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u5-l01-ex03",
+      "question": "What is the more Southern way to say 'embarrassed' or 'shy'?",
+      "options": ["xấu hổ", "mắc cỡ", "chán", "sợ"],
+      "correctAnswer": "mắc cỡ",
+      "explanation": "'Mắc cỡ' is the distinctly Southern expression for embarrassed/shy. 'Xấu hổ' is understood everywhere but sounds more Northern/formal."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u5-l01-ex04",
+      "question": "Complete what a tired Southern Vietnamese speaker might say after work:",
+      "sentence": "Đi làm về _____ muốn xỉu.",
+      "english": "Coming home from work, I'm so tired I could faint.",
+      "correctAnswer": "mệt",
+      "acceptableAnswers": ["mệt", "Mệt"],
+      "explanation": "'Mệt' means tired/exhausted. 'Mệt muốn xỉu' (tired enough to faint) is a common Southern exaggeration."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u5-l01-ex05",
+      "question": "Type 'I'm so happy' in casual Southern Vietnamese (using 'tui' for I):",
+      "correctAnswer": "Tui vui quá",
+      "acceptableAnswers": ["Tui vui quá", "tui vui quá", "Tui vui quá!", "tui vui quá!"],
+      "explanation": "'Tui' is the Southern casual 'I' (vs. formal 'tôi'). 'Vui quá' = so happy. Together: 'Tui vui quá!'"
+    }
+  ]
+}

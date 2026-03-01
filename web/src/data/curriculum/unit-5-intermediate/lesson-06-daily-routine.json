@@ -1,0 +1,254 @@
+{
+  "slug": "lesson-06-daily-routine",
+  "unitSlug": "unit-5-intermediate",
+  "title": "Daily Routine",
+  "titleVi": "Sinh Hoạt Hàng Ngày",
+  "description": "Describe your daily life in Vietnamese — from waking up to going to bed. Learn the everyday verbs your family uses and how Southern Vietnamese daily rhythms shape the language.",
+  "order": 6,
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Daily routine vocabulary is some of the most practical Vietnamese you can learn. These are the words your family uses every single day — 'Dậy đi con!' (Wake up!), 'Ăn cơm chưa?' (Have you eaten yet?), 'Đi ngủ đi!' (Go to sleep!).\n\nVietnamese daily life is family-centered. Meals are shared, not individual. Someone is always 'nấu cơm' (cooking rice = preparing dinner). And 'Ăn cơm chưa?' is less a question about food and more a greeting — the Vietnamese way of asking 'How are you?'"
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u5-l06-thuc-day",
+          "vietnamese": "thức dậy",
+          "english": "to wake up",
+          "ipa": "/tʰɨk˧˥ dəj˧˩/",
+          "audioFile": null,
+          "notes": "'Dậy đi!' is the short command form — what your parents yelled every morning. 'Dậy sớm' = wake up early. Southern Vietnamese families often wake up very early (5-6 AM).",
+          "exampleSentence": {
+            "vietnamese": "Má kêu thức dậy từ sáu giờ mà tui ngủ nướng.",
+            "english": "Mom called me to wake up at six but I slept in.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l06-ngu-nuong",
+          "vietnamese": "ngủ nướng",
+          "english": "to sleep in, oversleep (Southern)",
+          "ipa": "/ŋu˧˩ nɨəŋ˧˥/",
+          "audioFile": null,
+          "notes": "A wonderfully Southern expression. 'Nướng' literally means 'to grill/roast' — so 'ngủ nướng' is like 'roasting in sleep'. The Northern equivalent is 'ngủ dậy muộn'. Very casual and playful.",
+          "exampleSentence": {
+            "vietnamese": "Cuối tuần cho tui ngủ nướng chút đi.",
+            "english": "Let me sleep in a bit on the weekend.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l06-danh-rang",
+          "vietnamese": "đánh răng",
+          "english": "to brush teeth",
+          "ipa": "/daɲ˧˥ zaŋ˧/",
+          "audioFile": null,
+          "notes": "'Đánh' literally means 'to hit/strike'. 'Đánh răng' = strike teeth = brush teeth. Vietnamese is wonderfully literal sometimes. Southern pronunciation of 'răng': /ɹaŋ/.",
+          "exampleSentence": {
+            "vietnamese": "Đánh răng rồi mới được ăn sáng.",
+            "english": "Brush your teeth first, then you can eat breakfast.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l06-tam",
+          "vietnamese": "tắm",
+          "english": "to bathe, shower",
+          "ipa": "/tam˧˥/",
+          "audioFile": null,
+          "notes": "'Tắm' covers both bathing and showering. 'Tắm rửa' = wash up (more thorough). In Vietnam, many people shower twice a day because of the heat. 'Đi tắm đi!' = Go shower!",
+          "exampleSentence": {
+            "vietnamese": "Nóng quá, tui đi tắm trước nha.",
+            "english": "It's so hot — I'm going to shower first, okay?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l06-an-sang",
+          "vietnamese": "ăn sáng",
+          "english": "to eat breakfast",
+          "ipa": "/an˧ ʂaːŋ˧˥/",
+          "audioFile": null,
+          "notes": "'Ăn' = eat, 'sáng' = morning. Similarly: 'ăn trưa' (lunch), 'ăn chiều/ăn tối' (dinner). Vietnamese breakfast is often savory — phở, bánh mì, cháo (congee), xôi (sticky rice).",
+          "exampleSentence": {
+            "vietnamese": "Sáng nay ăn sáng gì? Có bánh mì không?",
+            "english": "What's for breakfast today? Is there bánh mì?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l06-di-lam",
+          "vietnamese": "đi làm",
+          "english": "to go to work",
+          "ipa": "/di˧ laːm˧˩/",
+          "audioFile": null,
+          "notes": "'Đi' = to go + activity is a common pattern: 'đi làm' (go to work), 'đi học' (go to school), 'đi chợ' (go to the market), 'đi chơi' (go out for fun).",
+          "exampleSentence": {
+            "vietnamese": "Ba đi làm rồi, tối mới về.",
+            "english": "Dad already went to work — he won't be back until tonight.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l06-di-hoc",
+          "vietnamese": "đi học",
+          "english": "to go to school, to study",
+          "ipa": "/di˧ hɔk˧˩ˀ/",
+          "audioFile": null,
+          "notes": "'Đi học' = go to school. 'Học bài' = study/do homework. Vietnamese parents famously emphasize education: 'Học đi!' (Go study!) is heard in every household.",
+          "exampleSentence": {
+            "vietnamese": "Con đi học về rồi thì học bài liền nha.",
+            "english": "After you get home from school, do your homework right away.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l06-ve-nha",
+          "vietnamese": "về nhà",
+          "english": "to go/come home",
+          "ipa": "/ve˧˩ ɲaː˧˩/",
+          "audioFile": null,
+          "notes": "'Về' = to return. 'Về nhà' = return home. 'Về Việt Nam' = go back to Vietnam. 'Bao giờ về?' = When are you coming home? (Every Vietnamese parent's question.)",
+          "exampleSentence": {
+            "vietnamese": "Về nhà sớm nha con, đừng đi chơi khuya.",
+            "english": "Come home early, okay? Don't stay out late.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l06-nau-com",
+          "vietnamese": "nấu cơm",
+          "english": "to cook rice / to prepare a meal",
+          "ipa": "/nəw˧˥ kəːm˧/",
+          "audioFile": null,
+          "notes": "'Nấu cơm' literally means 'cook rice' but really means 'prepare dinner/a meal'. Rice is so central to Vietnamese meals that cooking rice = cooking the whole meal. 'Nấu ăn' = to cook (general).",
+          "exampleSentence": {
+            "vietnamese": "Hôm nay ai nấu cơm? Má đi làm về trễ.",
+            "english": "Who's cooking today? Mom is coming home from work late.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l06-an-com",
+          "vietnamese": "ăn cơm",
+          "english": "to eat a meal (literally: eat rice)",
+          "ipa": "/an˧ kəːm˧/",
+          "audioFile": null,
+          "notes": "'Ăn cơm chưa?' (Have you eaten yet?) is the quintessential Vietnamese greeting — it shows care by asking about your most basic need. The answer is 'Ăn rồi' (already ate) or 'Chưa' (not yet).",
+          "exampleSentence": {
+            "vietnamese": "Ăn cơm chưa con? Vô ăn đi!",
+            "english": "Have you eaten yet? Come eat!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l06-rua-chen",
+          "vietnamese": "rửa chén",
+          "english": "to wash dishes (Southern)",
+          "ipa": "/ɹɨə˧˩ tɕɛn˧˥/",
+          "audioFile": null,
+          "notes": "'Chén' is the Southern word for bowl/dish. Northern speakers say 'rửa bát'. 'Rửa chén' is one of those markers that instantly identifies Southern speech.",
+          "exampleSentence": {
+            "vietnamese": "Ăn xong rồi đi rửa chén đi con.",
+            "english": "You're done eating — go wash the dishes.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l06-coi-ti-vi",
+          "vietnamese": "coi ti vi",
+          "english": "to watch TV (Southern)",
+          "ipa": "/kɔj˧ ti˧ vi˧/",
+          "audioFile": null,
+          "notes": "'Coi' is Southern for 'to watch/look'. Northern uses 'xem'. 'Ti vi' comes from French 'télévision'. So 'coi ti vi' = Southern, 'xem ti vi' = Northern. 'Coi phim' = watch a movie.",
+          "exampleSentence": {
+            "vietnamese": "Ba coi ti vi hoài, không chịu đi ngủ.",
+            "english": "Dad keeps watching TV and won't go to sleep.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l06-di-ngu",
+          "vietnamese": "đi ngủ",
+          "english": "to go to sleep",
+          "ipa": "/di˧ ŋu˧˩/",
+          "audioFile": null,
+          "notes": "'Đi ngủ đi!' = Go to sleep! 'Ngủ sớm' = sleep early. 'Ngủ trưa' = afternoon nap (common in Vietnam due to the heat). 'Buồn ngủ' = sleepy.",
+          "exampleSentence": {
+            "vietnamese": "Khuya rồi, đi ngủ đi con.",
+            "english": "It's late — go to sleep, child.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l06-di-cho",
+          "vietnamese": "đi chợ",
+          "english": "to go to the market / go grocery shopping",
+          "ipa": "/di˧ tɕəː˧˥/",
+          "audioFile": null,
+          "notes": "In Vietnam, 'đi chợ' means going to an open-air market, not a supermarket. Even in the diaspora, Vietnamese families may still say 'đi chợ' for any grocery shopping. The market is a social hub.",
+          "exampleSentence": {
+            "vietnamese": "Sáng nào má cũng đi chợ mua đồ nấu ăn.",
+            "english": "Every morning Mom goes to the market to buy ingredients for cooking.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "Vietnamese daily life revolves around family meals. 'Ăn cơm chưa?' (Have you eaten yet?) isn't really about food — it's the Vietnamese 'How are you?', expressing care and connection. Refusing food in a Vietnamese home is borderline offensive — even if you're full, at least try a little.\n\nThe rhythm of a Southern Vietnamese day typically follows:\n- **5-6 AM:** Wake up (dậy sớm), especially for the older generation\n- **Morning:** Breakfast outside (phở, bánh mì, cà phê sữa đá)\n- **Midday:** Lunch at home, then a nap (ngủ trưa) during the hottest hours\n- **Afternoon:** Work or errands, then evening market\n- **Evening:** Family dinner together (the most important meal), then TV or chatting\n- **9-10 PM:** Sleep (earlier than Western habits)\n\nFor heritage speakers, understanding this daily rhythm helps explain why your grandparents wake up at 5 AM and why dinner together is non-negotiable."
+    },
+    {
+      "type": "instruction",
+      "content": "**The 'đi + activity' pattern:**\n\nVietnamese uses 'đi' (to go) before activities to indicate going somewhere to do them:\n\n| Vietnamese | Literal | Meaning |\n|---|---|---|\n| đi làm | go + work | go to work |\n| đi học | go + study | go to school |\n| đi chợ | go + market | go grocery shopping |\n| đi chơi | go + play | go out for fun |\n| đi ngủ | go + sleep | go to bed |\n| đi tắm | go + bathe | go take a shower |\n\nThis pattern is extremely productive — you can combine 'đi' with almost any activity verb."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u5-l06-ex01",
+      "question": "What does 'Ăn cơm chưa?' really mean in Vietnamese culture?",
+      "options": ["Do you want rice?", "Is dinner ready?", "It's a greeting meaning 'How are you?' / showing care", "Are you cooking?"],
+      "correctAnswer": "It's a greeting meaning 'How are you?' / showing care",
+      "explanation": "'Ăn cơm chưa?' (Have you eaten yet?) is the quintessential Vietnamese greeting. It's not really asking about food — it's showing care and concern, equivalent to 'How are you?'"
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u5-l06-ex02",
+      "question": "What is 'ngủ nướng' and which dialect is it from?",
+      "options": ["To sleep early (Northern)", "To sleep in/oversleep (Southern)", "To have a nightmare (Central)", "To nap in the afternoon (formal)"],
+      "correctAnswer": "To sleep in/oversleep (Southern)",
+      "explanation": "'Ngủ nướng' is a playful Southern expression meaning to sleep in. 'Nướng' literally means 'to grill/roast' — so you're 'roasting in bed'. It's distinctly Southern Vietnamese."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u5-l06-ex03",
+      "question": "What is the Southern Vietnamese way to say 'wash dishes'?",
+      "options": ["rửa bát", "rửa chén", "rửa đĩa", "lau chén"],
+      "correctAnswer": "rửa chén",
+      "explanation": "'Rửa chén' is Southern; 'rửa bát' is Northern. 'Chén' vs 'bát' (both meaning bowl) is one of the classic North-South vocabulary differences."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u5-l06-ex04",
+      "question": "Complete what a Vietnamese parent says at night:",
+      "sentence": "Khuya rồi, đi _____ đi con.",
+      "english": "It's late — go to sleep, child.",
+      "correctAnswer": "ngủ",
+      "acceptableAnswers": ["ngủ", "Ngủ"],
+      "explanation": "'Đi ngủ đi!' = Go to sleep! Following the 'đi + activity' pattern. The final 'đi' is a command particle that softens the order."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u5-l06-ex05",
+      "question": "Type 'Have you eaten yet?' in Vietnamese (the classic greeting):",
+      "correctAnswer": "Ăn cơm chưa?",
+      "acceptableAnswers": ["Ăn cơm chưa?", "ăn cơm chưa?", "Ăn cơm chưa", "ăn cơm chưa"],
+      "explanation": "'Ăn cơm chưa?' literally means 'Eat rice yet?' — the most iconic Vietnamese greeting-as-care expression. 'Chưa' = yet/not yet."
+    }
+  ]
+}

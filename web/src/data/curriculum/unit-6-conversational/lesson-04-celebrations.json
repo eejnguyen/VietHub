@@ -1,0 +1,243 @@
+{
+  "slug": "lesson-04-celebrations",
+  "unitSlug": "unit-6-conversational",
+  "title": "Celebrations",
+  "titleVi": "Lễ Hội & Kỷ Niệm",
+  "description": "From Tết to đám giỗ to birthdays, learn the vocabulary and customs for Vietnamese celebrations. Know exactly what to say, what to bring, and how to navigate the traditions your family keeps alive overseas.",
+  "order": 4,
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese celebrations are where language, culture, and family all come together. Whether your family goes all-out for Tết or keeps things simple, knowing the right words to say at celebrations marks you as someone who understands the culture — not just the language.\n\nThe most important celebration phrases:\n\n**Chúc mừng + [occasion]** — Congratulations on / Happy [occasion]\n- **Chúc mừng năm mới!** — Happy New Year! (Tết greeting)\n- **Chúc mừng sinh nhật!** — Happy birthday!\n- **Chúc mừng đám cưới!** — Congratulations on the wedding!\n\n**Tết greetings follow a formula:**\n- **Chúc + [person] + [good thing]**\n- Chúc ba má năm mới mạnh khỏe, nhiều tài lộc. *(Wishing Dad and Mom a new year of good health and prosperity.)*\n- Chúc bà ngoại sống lâu trăm tuổi. *(Wishing Grandma to live to be 100.)*\n\nThese aren't just polite phrases — saying the right chúc at the right time to the right person shows deep cultural fluency. Elders especially appreciate when heritage speakers keep these traditions alive.\n\nSouthern dialect note: Southerners say **lì xì** for lucky money envelopes (from Chinese). Northerners say **mừng tuổi**. Both refer to the red envelopes stuffed with cash given to children (and unmarried adults) during Tết."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u6-l04-tet",
+          "vietnamese": "Tết",
+          "english": "Vietnamese Lunar New Year",
+          "ipa": "/tet˧˥/",
+          "audioFile": null,
+          "notes": "The biggest, most important holiday in Vietnamese culture. Tết Nguyên Đán (full name) falls in January or February. Families clean the house, cook special foods, visit relatives, and give lì xì. Even Việt kiều families who've been abroad for decades celebrate Tết. 'Về nhà ăn Tết' = go home for Tết.",
+          "exampleSentence": {
+            "vietnamese": "Năm nay Tết rơi vào tháng hai.",
+            "english": "This year Tết falls in February.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l04-sinhnhat",
+          "vietnamese": "sinh nhật",
+          "english": "birthday",
+          "ipa": "/siɲ˧ ɲət˧˩/",
+          "audioFile": null,
+          "notes": "Vietnamese birthdays are increasingly celebrated Western-style (cake, candles, party), but traditionally, your birthday was less important than Tết — everyone got a year older together at Tết. Some older relatives might not even know their exact birthday. 'Sinh nhật vui vẻ!' = Happy birthday!",
+          "exampleSentence": {
+            "vietnamese": "Sinh nhật bà ngoại tháng tới, mua quà gì đây?",
+            "english": "Grandma's birthday is next month, what gift should we buy?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l04-damcuoi",
+          "vietnamese": "đám cưới",
+          "english": "wedding",
+          "ipa": "/ɗam˧˥ kɯəj˧˥/",
+          "audioFile": null,
+          "notes": "Vietnamese weddings are big, loud, and joyful. The traditional ceremony involves the groom's family bringing gifts (mâm quả) to the bride's family. At the reception, guests give cash in red envelopes. 'Đi đám cưới' = to attend a wedding. 'Mời đám cưới' = to invite someone to a wedding.",
+          "exampleSentence": {
+            "vietnamese": "Tháng sau đi đám cưới con chị Hai nha.",
+            "english": "Next month we're going to the eldest sister's child's wedding, okay?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l04-damgio",
+          "vietnamese": "đám giỗ",
+          "english": "death anniversary ceremony",
+          "ipa": "/ɗam˧˥ jɤː˧˩/",
+          "audioFile": null,
+          "notes": "An annual ceremony to honor a deceased family member on the anniversary of their death. The family prepares an elaborate meal, burns incense, and prays at the altar. 'Ngày giỗ' = death anniversary day. This is deeply important in Vietnamese culture — attending đám giỗ shows you respect your ancestors.",
+          "exampleSentence": {
+            "vietnamese": "Chủ nhật này đám giỗ ông nội, phải về nhà bác.",
+            "english": "This Sunday is Grandpa's death anniversary, we have to go to Uncle's house.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l04-lixi",
+          "vietnamese": "lì xì",
+          "english": "lucky money (red envelope)",
+          "ipa": "/li˧˩ si˧˩/",
+          "audioFile": null,
+          "notes": "Red envelopes containing cash, given during Tết and sometimes weddings. Southern term — Northerners say 'mừng tuổi.' Children receive lì xì from parents, grandparents, aunts, uncles, and family friends. The amount is less important than the gesture. Always receive with both hands and say 'Cảm ơn.'",
+          "exampleSentence": {
+            "vietnamese": "Tết này bà lì xì cho mấy đứa nhỏ.",
+            "english": "This Tết, Grandma gives lucky money to the kids.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l04-baolixi",
+          "vietnamese": "bao lì xì",
+          "english": "red envelope (for lucky money)",
+          "ipa": "/baːw˧ li˧˩ si˧˩/",
+          "audioFile": null,
+          "notes": "'Bao' means envelope/packet. The red color symbolizes luck and prosperity. You can buy bao lì xì at Asian grocery stores before Tết — they come printed with auspicious words and images of the zodiac animal for that year. 'Bỏ tiền vô bao lì xì' = put money in the red envelope.",
+          "exampleSentence": {
+            "vietnamese": "Mua bao lì xì con rồng cho năm nay.",
+            "english": "Buy dragon red envelopes for this year.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l04-chucmung",
+          "vietnamese": "chúc mừng",
+          "english": "congratulations / to wish (someone well)",
+          "ipa": "/t͡ɕuk˧˥ mɯŋ˧˩/",
+          "audioFile": null,
+          "notes": "The universal celebration phrase. 'Chúc mừng' alone means 'congratulations.' Add the occasion: 'Chúc mừng năm mới' (Happy New Year), 'Chúc mừng sinh nhật' (Happy Birthday). For Tết, you follow with specific wishes for health, wealth, or happiness.",
+          "exampleSentence": {
+            "vietnamese": "Chúc mừng năm mới! Chúc mạnh khỏe, phát tài!",
+            "english": "Happy New Year! Wishing good health and prosperity!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l04-cung",
+          "vietnamese": "cúng",
+          "english": "to make offerings / to pray (at an altar)",
+          "ipa": "/kuŋ˧˥/",
+          "audioFile": null,
+          "notes": "The act of making offerings (food, incense, paper money) to ancestors or deities at a family altar. 'Cúng ông bà' = make offerings to grandparents/ancestors. Done on đám giỗ, Tết, Rằm (full moon), and other occasions. Even non-religious Vietnamese families often maintain this practice.",
+          "exampleSentence": {
+            "vietnamese": "Má cúng xong rồi, xuống ăn cơm đi con.",
+            "english": "Mom finished making offerings, come down and eat, child.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l04-manhkhoe",
+          "vietnamese": "mạnh khỏe",
+          "english": "good health / healthy",
+          "ipa": "/maɲ˧˩ xɔɛ˧˩/",
+          "audioFile": null,
+          "notes": "The number one Tết wish, especially for elders. 'Chúc bà mạnh khỏe' (Wishing Grandma good health). Health is valued above wealth in Vietnamese culture — when greeting elders during Tết, always wish health first. 'Sức khỏe' is another word for health.",
+          "exampleSentence": {
+            "vietnamese": "Con chúc ba má năm mới mạnh khỏe, vui vẻ.",
+            "english": "I wish Dad and Mom a new year of good health and happiness.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l04-phattai",
+          "vietnamese": "phát tài",
+          "english": "to prosper / to get rich",
+          "ipa": "/faːt˧˥ taːj˧˩/",
+          "audioFile": null,
+          "notes": "A common Tết wish meaning 'prosper' or 'get wealthy.' 'Chúc phát tài!' (Wishing you prosperity!). Often paired with other wishes: 'Phát tài phát lộc' (prosperity and fortune). From Sino-Vietnamese, similar to the Cantonese 'gong hei fat choy.'",
+          "exampleSentence": {
+            "vietnamese": "Năm mới chúc anh chị phát tài phát lộc.",
+            "english": "New Year, wishing you both prosperity and fortune.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l04-banhtrungthu",
+          "vietnamese": "bánh trung thu",
+          "english": "mooncake",
+          "ipa": "/baɲ˧˥ t͡ɕuŋ˧ tʰu˧/",
+          "audioFile": null,
+          "notes": "Mooncakes eaten during Tết Trung Thu (Mid-Autumn Festival). Round cakes symbolizing the full moon, filled with lotus seed paste, mung bean, or mixed ingredients. Vietnamese mooncakes are distinct from Chinese ones. Kids carry lanterns (lồng đèn) and eat mooncakes during this festival.",
+          "exampleSentence": {
+            "vietnamese": "Năm nay mua bánh trung thu nhân thập cẩm.",
+            "english": "This year let's buy mixed-filling mooncakes.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l04-thapnhang",
+          "vietnamese": "thắp nhang",
+          "english": "to light incense",
+          "ipa": "/tʰap˧˥ ɲaŋ˧/",
+          "audioFile": null,
+          "notes": "Southern term. Northerners say 'thắp hương.' Incense is lit at the family altar for ancestors, during cúng, and at temples. 'Thắp nhang cho ông bà' = light incense for grandparents/ancestors. Even in overseas Vietnamese homes, many families maintain a small altar with incense.",
+          "exampleSentence": {
+            "vietnamese": "Con thắp nhang cho ông bà đi.",
+            "english": "Go light incense for the grandparents (ancestors), child.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "**Vietnamese Celebration Traditions Heritage Speakers Should Know**\n\n**Tết (Lunar New Year):**\n- **Before Tết:** Deep clean the house (dọn nhà), buy new clothes, prepare special foods (bánh tét in the South, bánh chưng in the North), decorate with mai vàng (yellow apricot blossoms — Southern) or hoa đào (peach blossoms — Northern).\n- **Tết Eve:** Family dinner together. Many families stay up to midnight. At midnight, firecrackers used to be set off (now banned in Vietnam but still done overseas).\n- **Tết Day 1 (Mùng Một):** Visit paternal grandparents. Give and receive lì xì. Say Tết greetings. No sweeping the floor (you'll sweep away luck). No arguing or saying negative things.\n- **Tết Day 2 (Mùng Hai):** Visit maternal grandparents.\n- **Tết Day 3 (Mùng Ba):** Visit teachers and friends.\n\n**Đám giỗ (Death Anniversary):**\nFamilies gather annually on the anniversary of a loved one's passing. A large feast is prepared — the deceased's favorite foods are placed on the altar first. After incense burns and prayers, the family eats together. It's both solemn and communal. Declining a đám giỗ invitation without a strong reason is considered disrespectful.\n\n**Đám cưới (Weddings):**\nVietnamese weddings involve a formal 'asking' ceremony (lễ hỏi) where the groom's family brings gifts to the bride's family, followed by the reception (tiệc cưới). Guests give cash in envelopes — the amount should at least cover your plate cost plus a gift. At Southern weddings, expect karaoke, lots of beer, and late-night revelry.\n\n**Gift-giving etiquette:** At celebrations, cash in an envelope is almost always appropriate. For Tết, use red envelopes (bao lì xì). For weddings, a regular envelope with congratulations written on it works. Never give an odd amount — even numbers are preferred for happy occasions."
+    },
+    {
+      "type": "instruction",
+      "content": "**Tết Greeting Formulas**\n\nTết greetings follow a predictable pattern. Here's your cheat sheet:\n\n**For elders (grandparents, parents, aunts/uncles):**\n- Con chúc ông bà năm mới **mạnh khỏe**, **sống lâu trăm tuổi**.\n  *(I wish Grandpa and Grandma good health, to live to 100.)*\n- Con chúc ba má năm mới **mạnh khỏe**, **vui vẻ**, **nhiều tài lộc**.\n  *(I wish Dad and Mom good health, happiness, and prosperity.)*\n\n**For peers and younger people:**\n- Chúc anh/chị năm mới **phát tài**, **vạn sự như ý**.\n  *(Wishing you prosperity and everything as you wish.)*\n- Chúc em năm mới **học giỏi**, **vui vẻ**.\n  *(Wishing you to study well and be happy.)*\n\n**After giving the greeting, you receive lì xì.** The standard response:\n- **Dạ, con cảm ơn [ông bà / ba má / cô chú].** *(Thank you, [Grandpa-Grandma / Dad-Mom / Auntie-Uncle].)*\n- Receive the envelope with **both hands** — never one hand.\n- Don't open the envelope in front of the giver.\n\n**Common Tết wishes vocabulary:**\n- mạnh khỏe = good health\n- phát tài = prosperity\n- vạn sự như ý = everything as you wish\n- an khang thịnh vượng = peace and prosperity\n- sống lâu trăm tuổi = live to 100 (for elders only)"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u6-l04-ex01",
+      "question": "What is 'lì xì' in Vietnamese culture?",
+      "options": [
+        "A type of Tết food",
+        "Lucky money in red envelopes",
+        "A traditional dance",
+        "A greeting phrase for elders"
+      ],
+      "correctAnswer": "Lucky money in red envelopes",
+      "explanation": "'Lì xì' (Southern term; Northern: 'mừng tuổi') refers to the red envelopes containing cash given during Tết. Children and unmarried adults receive lì xì from elders as a wish for good luck in the new year. The red color of the envelope symbolizes luck and prosperity."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u6-l04-ex02",
+      "question": "When wishing a grandparent well during Tết, which wish is most appropriate and culturally expected?",
+      "options": [
+        "Chúc bà phát tài, làm giàu.",
+        "Chúc bà mạnh khỏe, sống lâu trăm tuổi.",
+        "Chúc bà năm mới vui vẻ, đi du lịch nhiều.",
+        "Chúc bà mua nhà mới."
+      ],
+      "correctAnswer": "Chúc bà mạnh khỏe, sống lâu trăm tuổi.",
+      "explanation": "'Chúc bà mạnh khỏe, sống lâu trăm tuổi' (Wishing Grandma good health, to live to 100) is the most traditional and respectful Tết wish for an elderly person. Health and longevity are the top priorities for elders. Wishing them to 'get rich' or 'buy a new house' would be culturally tone-deaf."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u6-l04-ex03",
+      "question": "What is a 'đám giỗ'?",
+      "options": [
+        "A birthday party",
+        "A wedding ceremony",
+        "A death anniversary ceremony for a deceased family member",
+        "A housewarming party"
+      ],
+      "correctAnswer": "A death anniversary ceremony for a deceased family member",
+      "explanation": "A 'đám giỗ' is an annual ceremony held on the anniversary of a family member's death. The family prepares the deceased's favorite foods, places offerings on the altar, lights incense (thắp nhang), and prays. Afterward, the family eats together. This is one of the most important traditions in Vietnamese ancestor worship."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u6-l04-ex04",
+      "question": "Complete this Tết greeting: 'Chúc mừng _____ ! Chúc mạnh khỏe, phát tài!'",
+      "sentence": "Chúc mừng _____ ! Chúc mạnh khỏe, phát tài!",
+      "english": "Happy New Year! Wishing good health and prosperity!",
+      "correctAnswer": "năm mới",
+      "acceptableAnswers": ["năm mới"],
+      "explanation": "'Chúc mừng năm mới' means 'Happy New Year.' 'Năm mới' = new year. This is the standard Tết greeting, followed by specific wishes like 'mạnh khỏe' (good health) and 'phát tài' (prosperity). It's the Vietnamese equivalent of 'Happy New Year' but carries much more cultural weight during Tết."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u6-l04-ex05",
+      "question": "Type the Southern Vietnamese phrase for 'to light incense' (at a family altar for ancestors).",
+      "correctAnswer": "thắp nhang",
+      "acceptableAnswers": ["thắp nhang", "Thắp nhang", "thắp hương", "Thắp hương"],
+      "explanation": "'Thắp nhang' is the Southern term for lighting incense. 'Thắp' = to light, 'nhang' = incense (Southern). The Northern equivalent is 'thắp hương.' Incense is lit at the family altar during đám giỗ, Tết, and other occasions to honor ancestors. Both 'nhang' and 'hương' are accepted."
+    }
+  ]
+}

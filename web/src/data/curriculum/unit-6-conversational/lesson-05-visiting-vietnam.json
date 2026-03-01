@@ -1,0 +1,256 @@
+{
+  "slug": "lesson-05-visiting-vietnam",
+  "unitSlug": "unit-6-conversational",
+  "title": "Visiting Vietnam",
+  "titleVi": "Về Việt Nam",
+  "description": "Prepare for the trip 'back' to Vietnam with essential travel vocabulary and cultural know-how. From airports to xe ôm to handling the 'Are you Việt kiều?' question, this lesson covers what heritage speakers actually need to navigate the motherland.",
+  "order": 5,
+  "estimatedMinutes": 19,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "For heritage speakers, visiting Vietnam is a unique experience. It's not quite 'traveling abroad' and it's not quite 'going home' — it's something in between. You might understand conversations around you but struggle to respond. You'll recognize the food but not know how to order it. People might clock you as Việt kiều within seconds.\n\nThe phrase for this experience:\n\n**Về Việt Nam** — To go back to Vietnam\n\nNote: Vietnamese people say 'về' (return/go back) rather than 'đi' (go to) when talking about Vietnam — even if you've never been. The assumption is that Vietnam is home, and you're returning to it. 'Khi nào về Việt Nam?' (When are you going back to Vietnam?) is a question you'll hear constantly from relatives.\n\nKey survival phrases for your trip:\n- **Cho tôi đi [destination].** — Take me to [destination]. (For taxis/xe ôm)\n- **Bao nhiêu tiền?** — How much? (For everything)\n- **Tôi là Việt kiều.** — I'm an overseas Vietnamese.\n- **Nóng quá!** — So hot! (You will say this 50 times a day.)\n- **Ở đây có wifi không?** — Does this place have wifi?\n\nSouthern dialect note: In Saigon, you'll use Grab (ride-hailing app) instead of flagging taxis. 'Đặt Grab' = book a Grab. The traditional 'xe ôm' (motorbike taxi) still exists but is declining. For travel within the city, motorbike is king."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u6-l05-veVN",
+          "vietnamese": "về Việt Nam",
+          "english": "to go back to / return to Vietnam",
+          "ipa": "/ve˨˩ viət˧˩ naːm˧/",
+          "audioFile": null,
+          "notes": "'Về' means 'to return' and implies going back to a place of origin. Vietnamese people always use 'về' (not 'đi' = go to) when talking about going to Vietnam, even for first-time visitors of Vietnamese descent. It carries emotional weight — Vietnam is always 'home' in the language.",
+          "exampleSentence": {
+            "vietnamese": "Hè này gia đình tui về Việt Nam thăm bà ngoại.",
+            "english": "This summer my family is going back to Vietnam to visit Grandma.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l05-vietkieu",
+          "vietnamese": "Việt kiều",
+          "english": "overseas Vietnamese",
+          "ipa": "/viət˧˩ kiəw˨˩/",
+          "audioFile": null,
+          "notes": "A term for Vietnamese people living abroad. It can be neutral or carry mixed connotations — some locals see Việt kiều as wealthy and disconnected, others as family who made it overseas. People will identify you as Việt kiều from your clothes, accent, mannerisms, or even your skin. 'Mày là Việt kiều hả?' is the blunt version.",
+          "exampleSentence": {
+            "vietnamese": "Ở Việt Nam ai cũng biết tui là Việt kiều.",
+            "english": "In Vietnam everyone knows I'm an overseas Vietnamese.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l05-hochieu",
+          "vietnamese": "hộ chiếu",
+          "english": "passport",
+          "ipa": "/ho˧˩ t͡ɕiəw˧˥/",
+          "audioFile": null,
+          "notes": "Essential travel document. 'Hộ chiếu Mỹ' = American passport. At Vietnamese immigration, Việt kiều with foreign passports go through the 'Foreigner' line, which can feel strange. Some Việt kiều also apply for a visa exemption (miễn thị thực) if they have Vietnamese heritage documentation.",
+          "exampleSentence": {
+            "vietnamese": "Nhớ mang hộ chiếu theo nghe con.",
+            "english": "Remember to bring your passport, okay child.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l05-sanbay",
+          "vietnamese": "sân bay",
+          "english": "airport",
+          "ipa": "/sən˧ baːj˧/",
+          "audioFile": null,
+          "notes": "Saigon's airport is Tân Sơn Nhất (SGN). When you land, the heat hits you immediately. 'Ra sân bay' = go to the airport. 'Đón ở sân bay' = pick up at the airport. Family members will often come in large groups to pick you up — expect an emotional welcome.",
+          "exampleSentence": {
+            "vietnamese": "Cả nhà ra sân bay đón con nha!",
+            "english": "The whole family is going to the airport to pick you up!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l05-xeom",
+          "vietnamese": "xe ôm",
+          "english": "motorbike taxi",
+          "ipa": "/sɛ˧ om˧/",
+          "audioFile": null,
+          "notes": "Literally 'hugging vehicle' — because you hold onto the driver. Traditional motorbike taxis where you negotiate the price before getting on. Being replaced by Grab bikes but still found at street corners. 'Đi xe ôm' = take a motorbike taxi. Always agree on the price first: 'Đi tới ... bao nhiêu?'",
+          "exampleSentence": {
+            "vietnamese": "Hồi xưa đi xe ôm, bây giờ đặt Grab.",
+            "english": "Back in the day we took xe ôm, now we book Grab.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l05-grab",
+          "vietnamese": "Grab",
+          "english": "Grab (ride-hailing app)",
+          "ipa": "/ɡɹæb˧/",
+          "audioFile": null,
+          "notes": "The dominant ride-hailing app in Vietnam (like Uber, which was bought out by Grab in Southeast Asia). 'Đặt Grab' = book a Grab. Options include GrabBike (motorbike), GrabCar, and GrabFood (delivery). Download the app before you go — it works with international credit cards and is much safer than negotiating with random xe ôm.",
+          "exampleSentence": {
+            "vietnamese": "Đặt Grab đi, xe ôm ngoài đường mắc lắm.",
+            "english": "Book a Grab, street xe ôm are really expensive.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l05-nong",
+          "vietnamese": "nóng",
+          "english": "hot (weather/temperature)",
+          "ipa": "/nɔŋ˧˥/",
+          "audioFile": null,
+          "notes": "Saigon is hot year-round (28-35°C / 82-95°F). 'Nóng quá!' (So hot!) will be your most-used phrase. 'Nóng bức' = hot and humid/stuffy. The combination of heat and humidity is what gets you. Drink lots of water and stay hydrated: 'Uống nước đi, nóng lắm.'",
+          "exampleSentence": {
+            "vietnamese": "Trời ơi nóng quá! Mới ra khỏi sân bay là đổ mồ hôi rồi.",
+            "english": "Oh my god it's so hot! Just stepped out of the airport and I'm already sweating.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l05-am",
+          "vietnamese": "ẩm",
+          "english": "humid / damp",
+          "ipa": "/əm˧˩/",
+          "audioFile": null,
+          "notes": "Vietnam's humidity is legendary. 'Ẩm quá' (so humid). 'Nóng ẩm' = hot and humid — this describes Saigon's weather 10 months of the year. The rainy season (mùa mưa, roughly May-November) makes it even more humid. Your hair will be a disaster — accept it.",
+          "exampleSentence": {
+            "vietnamese": "Saigon nóng ẩm quanh năm, quen rồi.",
+            "english": "Saigon is hot and humid year-round, you get used to it.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l05-datgrab",
+          "vietnamese": "đặt Grab",
+          "english": "to book a Grab (ride)",
+          "ipa": "/ɗat˧˩ ɡɹæb˧/",
+          "audioFile": null,
+          "notes": "'Đặt' means 'to book/order.' This is how most people get around in Vietnamese cities now. 'Đặt GrabBike' for a motorbike ride (cheaper, faster in traffic), 'đặt GrabCar' for a car. You can also 'đặt Grab giao đồ ăn' (order Grab food delivery).",
+          "exampleSentence": {
+            "vietnamese": "Đặt Grab đi chợ Bến Thành coi.",
+            "english": "Let's book a Grab to go check out Bến Thành Market.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l05-doitien",
+          "vietnamese": "đổi tiền",
+          "english": "to exchange money / to change currency",
+          "ipa": "/ɗoj˧˩ tiən˨˩/",
+          "audioFile": null,
+          "notes": "'Đổi' = to exchange/change, 'tiền' = money. Vietnam uses đồng (VND). As of recent years, $1 USD is roughly 24,000-25,000 VND. 'Đổi tiền ở đâu?' = Where can I exchange money? Gold shops (tiệm vàng) often give better rates than banks or airport counters.",
+          "exampleSentence": {
+            "vietnamese": "Đổi tiền ở tiệm vàng lời hơn ở sân bay.",
+            "english": "Exchanging money at gold shops gets a better rate than at the airport.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l05-ketxe",
+          "vietnamese": "kẹt xe",
+          "english": "traffic jam (Southern)",
+          "ipa": "/kɛt˧˥ sɛ˧/",
+          "audioFile": null,
+          "notes": "The Southern term for traffic jam. Northerners say 'tắc đường.' Saigon traffic is legendary — millions of motorbikes weaving through intersections with seemingly no rules. Rush hour (giờ cao điểm) from 7-9 AM and 4-7 PM is intense. 'Kẹt xe kinh khủng' = terrible traffic jam.",
+          "exampleSentence": {
+            "vietnamese": "Giờ này đi ra đường kẹt xe chết luôn.",
+            "english": "Going out at this hour, the traffic will kill you.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l05-thambarcon",
+          "vietnamese": "thăm bà con",
+          "english": "to visit relatives",
+          "ipa": "/tʰam˧ baː˧˩ kɔn˧/",
+          "audioFile": null,
+          "notes": "'Thăm' = to visit, 'bà con' = relatives/extended family. When you visit Vietnam, much of your time will be spent visiting relatives. 'Đi thăm bà con' is a major part of any Việt kiều trip — expect lots of eating, catching up, and being told you're too skinny.",
+          "exampleSentence": {
+            "vietnamese": "Về Việt Nam phải đi thăm bà con khắp nơi.",
+            "english": "When going back to Vietnam you have to visit relatives everywhere.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l05-quave",
+          "vietnamese": "quà về",
+          "english": "gifts brought back (from a trip)",
+          "ipa": "/kwaː˧˩ ve˨˩/",
+          "audioFile": null,
+          "notes": "When Việt kiều visit Vietnam, they're expected to bring gifts (quà) from abroad. Coming empty-handed is a faux pas. Common gifts: vitamins, chocolate, skincare products, brand-name items. When returning from Vietnam, you bring back quà for people in the US: dried foods, coffee, snacks.",
+          "exampleSentence": {
+            "vietnamese": "Phải mua quà về cho mấy đứa nhỏ ở nhà.",
+            "english": "Need to buy gifts to bring back for the kids at home.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "**The Việt Kiều Experience: Navigating Vietnam as a Heritage Speaker**\n\nVisiting Vietnam as a heritage speaker comes with unique social dynamics:\n\n**They'll know you're Việt kiều immediately.** Your clothes (often more casual/sporty than locals), your skin (possibly lighter from less sun), your accent (mixing Southern tones with English-influenced pronunciation), even the way you walk — all of it signals 'overseas.' Don't fight it. Embrace it.\n\n**The 'Việt kiều tax.'** Some vendors, taxi drivers, and service providers quote higher prices to perceived foreigners and Việt kiều. This isn't malicious — it's just business. Use Grab to avoid taxi scams, bargain at markets, and ask local relatives for fair-price references.\n\n**Family expectations.** Relatives may expect financial generosity from Việt kiều visitors. It's customary to give cash gifts (called 'biếu' — a respectful term for gifting to elders) to older relatives, and small gifts or cash to children. This can add up. Budget for it.\n\n**Crossing the street.** Saigon's traffic seems chaotic but follows invisible rules. The trick to crossing: walk at a steady, predictable pace. Don't stop, don't run, don't make sudden movements. The motorbikes will flow around you. Look confident even if you're terrified.\n\n**The food is better.** Everything you've eaten at Vietnamese restaurants overseas is a shadow of what you'll eat in Vietnam. A bowl of phở from a street stall in Saigon at 6 AM will change your life. 'Ăn gì cũng ngon' (Everything you eat is delicious) is the Việt kiều mantra.\n\n**Language mix.** Don't stress about your Vietnamese being imperfect. Most locals are thrilled that you speak any Vietnamese at all. If you get stuck, mix in some English — younger Vietnamese people often speak some English. The effort matters more than the fluency."
+    },
+    {
+      "type": "instruction",
+      "content": "**Travel Scenario: Arriving in Saigon**\n\nHere's what your first few hours might sound like:\n\n**At immigration:**\n- **Officer:** Hộ chiếu. *(Passport.)*\n- **You:** Dạ. *(hands over passport)*\n- **Officer:** Về thăm gia đình hả? *(Coming back to visit family?)*\n- **You:** Dạ đúng rồi. *(Yes, that's right.)*\n\n**Walking out of the airport:**\n- **You:** Trời ơi, nóng quá! *(Oh my god, it's so hot!)*\n- **Family member:** Con ơi! Bà đây nè! Nhớ con quá! *(Child! Grandma is here! I missed you so much!)*\n- **You:** Bà ngoại! Con nhớ bà quá! *(Grandma! I missed you so much!)*\n\n**Getting to the house:**\n- **Uncle:** Lên xe đi, đồ để phía sau. *(Get in the car, put your stuff in the back.)*\n- **You:** Kẹt xe dữ vậy? *(Traffic is this bad?)*\n- **Uncle:** Giờ cao điểm mà, quen rồi. *(It's rush hour, you get used to it.)*\n\n**Arriving at the family home:**\n- **Bà ngoại:** Vô nhà đi con, ăn cơm chưa? Má con nấu sẵn rồi. *(Come inside, child, have you eaten? Your mom already cooked.)*\n- **You:** Dạ chưa ăn, con đói quá! *(I haven't eaten, I'm so hungry!)*\n- **Bà ngoại:** Ốm quá, phải ăn nhiều vô! *(You're too skinny, you need to eat more!)*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u6-l05-ex01",
+      "question": "Why do Vietnamese people say 'về Việt Nam' (return to Vietnam) instead of 'đi Việt Nam' (go to Vietnam), even for someone who has never been?",
+      "options": [
+        "It's a grammatical rule with no cultural meaning.",
+        "Because 'đi' is only used for short trips.",
+        "Because Vietnam is considered 'home' — you always 'return' to it.",
+        "Because 'về' is more formal than 'đi.'"
+      ],
+      "correctAnswer": "Because Vietnam is considered 'home' — you always 'return' to it.",
+      "explanation": "'Về' (to return) is used instead of 'đi' (to go) because in Vietnamese culture, Vietnam is always considered home, regardless of where you were born or raised. Using 'về' carries the emotional implication that you belong there and are returning to your roots. This is deeply meaningful in the language."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u6-l05-ex02",
+      "question": "What is the Southern Vietnamese term for a traffic jam?",
+      "options": [
+        "tắc đường",
+        "kẹt xe",
+        "đông xe",
+        "chậm xe"
+      ],
+      "correctAnswer": "kẹt xe",
+      "explanation": "'Kẹt xe' is the Southern Vietnamese term for traffic jam. 'Tắc đường' is the Northern equivalent. 'Kẹt' means stuck/jammed and 'xe' means vehicle. Saigon traffic is legendary, so this phrase will come in handy frequently."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u6-l05-ex03",
+      "question": "What does 'Việt kiều' mean?",
+      "options": [
+        "A Vietnamese tourist",
+        "A Vietnamese citizen",
+        "An overseas Vietnamese person",
+        "A Vietnamese language student"
+      ],
+      "correctAnswer": "An overseas Vietnamese person",
+      "explanation": "'Việt kiều' refers to Vietnamese people living abroad (the diaspora). 'Kiều' comes from Sino-Vietnamese meaning 'to sojourn/live abroad.' The term covers anyone of Vietnamese descent living in another country — whether they emigrated themselves or were born overseas. It can be neutral or carry various connotations depending on context."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u6-l05-ex04",
+      "question": "You need to get to Bến Thành Market. Complete: '_____ đi chợ Bến Thành coi.'",
+      "sentence": "_____ đi chợ Bến Thành coi.",
+      "english": "Let's book a Grab to go check out Bến Thành Market.",
+      "correctAnswer": "Đặt Grab",
+      "acceptableAnswers": ["Đặt Grab", "đặt Grab", "Đặt grab", "đặt grab"],
+      "explanation": "'Đặt Grab' means 'book a Grab' (ride-hailing service). 'Đặt' = to book/order. Grab is the dominant ride-hailing app in Vietnam, replacing both traditional taxis and xe ôm for most urban transportation. 'Coi' at the end is a Southern particle meaning 'let's see / let's check it out.'"
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u6-l05-ex05",
+      "question": "It's scorching in Saigon. Type the exclamation meaning 'So hot!' that you'll be saying constantly.",
+      "correctAnswer": "nóng quá",
+      "acceptableAnswers": ["nóng quá", "Nóng quá", "nóng quá!", "Nóng quá!", "nong qua", "Nong qua"],
+      "explanation": "'Nóng quá!' means 'So hot!' — 'nóng' = hot, 'quá' = too much/so. This will likely be your most frequently used phrase in Saigon, where temperatures regularly reach 33-35°C (91-95°F) with high humidity. You'll say it stepping off the plane, walking to lunch, and basically every hour of the day."
+    }
+  ]
+}

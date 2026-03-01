@@ -1,0 +1,228 @@
+{
+  "slug": "lesson-03-occupations",
+  "unitSlug": "unit-5-intermediate",
+  "title": "Occupations & Careers",
+  "titleVi": "Nghề Nghiệp",
+  "description": "Learn how Vietnamese families talk about jobs and careers — from the classic 'be a doctor or engineer' pressure to respectful titles for every profession.",
+  "order": 3,
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Careers are a big deal in Vietnamese families. If you're a heritage speaker, you've almost certainly heard the question 'Lớn lên con muốn làm gì?' (What do you want to be when you grow up?) — with the unspoken expectation that the answer involves bác sĩ, kỹ sư, or luật sư.\n\nVietnamese has specific titles for professions, and people are often addressed by their professional title rather than their name. A doctor is 'bác sĩ' whether you're at the hospital or at a family gathering."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u5-l03-bac-si",
+          "vietnamese": "bác sĩ",
+          "english": "doctor",
+          "ipa": "/baːk˧˥ ʂi˧/",
+          "audioFile": null,
+          "notes": "The #1 dream career in Vietnamese families. 'Bác sĩ' is used as both a title and a noun. You call a doctor 'bác sĩ' directly, like a pronoun. 'Bác sĩ ơi!' = Doctor!",
+          "exampleSentence": {
+            "vietnamese": "Ba má muốn con làm bác sĩ, nhưng con thích vẽ.",
+            "english": "Mom and Dad want me to be a doctor, but I like drawing.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l03-giao-vien",
+          "vietnamese": "giáo viên",
+          "english": "teacher (formal)",
+          "ipa": "/jaːw˧˥ viən˧/",
+          "audioFile": null,
+          "notes": "'Giáo viên' is the formal term. In daily speech, people say 'thầy' (male teacher) or 'cô' (female teacher). 'Cô giáo' = female teacher. Teachers are highly respected in Vietnamese culture.",
+          "exampleSentence": {
+            "vietnamese": "Cô giáo dạy tui hồi nhỏ giờ nghỉ hưu rồi.",
+            "english": "The teacher who taught me as a kid is retired now.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l03-ky-su",
+          "vietnamese": "kỹ sư",
+          "english": "engineer",
+          "ipa": "/ki˧˩ ʂɨ˧/",
+          "audioFile": null,
+          "notes": "The second most desired career in Vietnamese families. 'Kỹ sư phần mềm' = software engineer, 'kỹ sư xây dựng' = civil engineer. Used as a title: 'Kỹ sư Minh'.",
+          "exampleSentence": {
+            "vietnamese": "Anh tui là kỹ sư, làm bên công nghệ.",
+            "english": "My older brother is an engineer — he works in tech.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l03-luat-su",
+          "vietnamese": "luật sư",
+          "english": "lawyer",
+          "ipa": "/lwət˧˩ˀ ʂɨ˧/",
+          "audioFile": null,
+          "notes": "Completes the holy trinity of Vietnamese parent dreams: bác sĩ, kỹ sư, luật sư. Used as a title in professional settings.",
+          "exampleSentence": {
+            "vietnamese": "Học luật khó lắm, nhưng làm luật sư lương cao.",
+            "english": "Studying law is hard, but lawyers earn good money.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l03-tho",
+          "vietnamese": "thợ",
+          "english": "skilled worker, tradesperson",
+          "ipa": "/tʰəː˧˥/",
+          "audioFile": null,
+          "notes": "'Thợ' is combined with the trade: 'thợ điện' (electrician), 'thợ sửa xe' (mechanic), 'thợ hớt tóc' (barber — Southern; North says 'cắt tóc'), 'thợ may' (tailor).",
+          "exampleSentence": {
+            "vietnamese": "Kêu thợ sửa máy lạnh đi, nóng quá rồi.",
+            "english": "Call the AC repair guy — it's way too hot.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l03-buon-ban",
+          "vietnamese": "buôn bán",
+          "english": "to do business, trade",
+          "ipa": "/buən˧ baːn˧˥/",
+          "audioFile": null,
+          "notes": "Many Vietnamese families are involved in small business. 'Đi buôn bán' = to go do business/trade. A person who does business is 'người buôn bán' or more formally 'thương nhân'.",
+          "exampleSentence": {
+            "vietnamese": "Má tui buôn bán ở chợ từ hồi trẻ.",
+            "english": "My mom has been doing business at the market since she was young.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l03-nong-dan",
+          "vietnamese": "nông dân",
+          "english": "farmer",
+          "ipa": "/noŋ˧ jən˧/",
+          "audioFile": null,
+          "notes": "Many Vietnamese families have farming roots, especially in the Mekong Delta. 'Làm ruộng' = to farm rice paddies. Southern pronunciation of 'dân': /jən/.",
+          "exampleSentence": {
+            "vietnamese": "Ông bà ngoại tui làm nông dân ở miền Tây.",
+            "english": "My maternal grandparents were farmers in the Mekong Delta.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l03-duoc-si",
+          "vietnamese": "dược sĩ",
+          "english": "pharmacist",
+          "ipa": "/jɨək˧˩ˀ ʂi˧/",
+          "audioFile": null,
+          "notes": "Another respected medical profession. In Vietnam, pharmacists have significant authority — you can get many medicines without a prescription. 'Nhà thuốc' = pharmacy.",
+          "exampleSentence": {
+            "vietnamese": "Chị tui làm dược sĩ, mỗi lần bệnh là kêu chị.",
+            "english": "My older sister is a pharmacist — every time someone's sick, we call her.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l03-nha-si",
+          "vietnamese": "nha sĩ",
+          "english": "dentist",
+          "ipa": "/ɲaː˧ ʂi˧/",
+          "audioFile": null,
+          "notes": "'Nha' relates to teeth/dental. 'Đi nha sĩ' = go to the dentist. Like bác sĩ, 'nha sĩ' is used as a direct address title.",
+          "exampleSentence": {
+            "vietnamese": "Tui sợ đi nha sĩ lắm, từ hồi nhỏ tới giờ.",
+            "english": "I've been scared of going to the dentist since I was little.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l03-co-giao",
+          "vietnamese": "cô giáo",
+          "english": "female teacher",
+          "ipa": "/ko˧ jaːw˧˥/",
+          "audioFile": null,
+          "notes": "The everyday way to refer to a female teacher. 'Cô' is the kinship term (aunt/Ms.) + 'giáo' (teaching). Male teacher = 'thầy giáo' or just 'thầy'.",
+          "exampleSentence": {
+            "vietnamese": "Cô giáo nói tui học giỏi lắm.",
+            "english": "The teacher said I study very well.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l03-di-lam",
+          "vietnamese": "đi làm",
+          "english": "to go to work",
+          "ipa": "/di˧ laːm˧˩/",
+          "audioFile": null,
+          "notes": "The everyday phrase for going to work. 'Ba đi làm' = Dad goes to work. 'Chỗ làm' or 'chỗ làm việc' = workplace.",
+          "exampleSentence": {
+            "vietnamese": "Ba đi làm từ sáng sớm tới tối mới về.",
+            "english": "Dad goes to work early in the morning and doesn't come home until evening.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l03-nghi-huu",
+          "vietnamese": "nghỉ hưu",
+          "english": "to retire",
+          "ipa": "/ŋi˧˩ hɨːw˧/",
+          "audioFile": null,
+          "notes": "'Nghỉ' = to rest/stop, 'hưu' = retirement. 'Về hưu' is also used. In Vietnamese culture, retirement often means helping raise grandchildren.",
+          "exampleSentence": {
+            "vietnamese": "Ông nội nghỉ hưu rồi, giờ ở nhà trông cháu.",
+            "english": "Grandpa retired — now he stays home watching the grandkids.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "The Vietnamese obsession with prestigious careers isn't just about money — it's about 'có tiếng' (having a reputation) and 'nở mặt' (literally 'blooming face' = making the family proud). When parents say 'Học đi để sau này đỡ khổ' (Study so you won't suffer later), they're speaking from the experience of hardship — many immigrant parents sacrificed everything so their children could have stable careers.\n\nThat said, attitudes are shifting. Younger Vietnamese are increasingly pursuing creative and entrepreneurial paths. But at family gatherings, 'Con làm nghề gì?' (What do you do for work?) remains one of the first questions asked — right after 'Có người yêu chưa?' (Do you have a significant other yet?)."
+    },
+    {
+      "type": "instruction",
+      "content": "**Asking and answering about careers:**\n\n| Vietnamese | English |\n|---|---|\n| Con làm nghề gì? | What do you do for work? (to younger person) |\n| Anh/Chị làm gì? | What do you do? (to peer) |\n| Tui làm bác sĩ | I'm a doctor |\n| Tui làm bên công nghệ | I work in tech |\n| Tui đang đi học | I'm still studying |\n| Tui chưa đi làm | I'm not working yet |\n\nNote: Vietnamese doesn't use articles (a/an/the), so 'Tui làm bác sĩ' directly translates to 'I work doctor' — no 'a' needed."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u5-l03-ex01",
+      "question": "What are the three careers Vietnamese parents stereotypically want for their children?",
+      "options": ["bác sĩ, cô giáo, nông dân", "bác sĩ, kỹ sư, luật sư", "thợ, dược sĩ, kỹ sư", "luật sư, nha sĩ, thầy giáo"],
+      "correctAnswer": "bác sĩ, kỹ sư, luật sư",
+      "explanation": "Doctor, engineer, lawyer — the 'holy trinity' of Vietnamese parent career dreams. This cultural expectation is widely recognized and often joked about."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u5-l03-ex02",
+      "question": "How do you say 'female teacher' in everyday Vietnamese?",
+      "options": ["giáo viên", "cô giáo", "thầy giáo", "bà giáo"],
+      "correctAnswer": "cô giáo",
+      "explanation": "'Cô giáo' is the everyday term for a female teacher. 'Giáo viên' is the formal/official term. 'Thầy giáo' is a male teacher."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u5-l03-ex03",
+      "question": "What does 'thợ hớt tóc' mean?",
+      "options": ["Tailor", "Electrician", "Barber (Southern)", "Mechanic"],
+      "correctAnswer": "Barber (Southern)",
+      "explanation": "'Thợ' = tradesperson, 'hớt tóc' = cut hair (Southern). In the North, they say 'thợ cắt tóc'. 'Hớt' is distinctly Southern Vietnamese."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u5-l03-ex04",
+      "question": "Complete the sentence about your brother's job:",
+      "sentence": "Anh tui là _____, làm bên công nghệ.",
+      "english": "My older brother is an engineer — he works in tech.",
+      "correctAnswer": "kỹ sư",
+      "acceptableAnswers": ["kỹ sư", "Kỹ sư"],
+      "explanation": "'Kỹ sư' = engineer. 'Làm bên công nghệ' = works in technology. This is a very natural way to describe someone's career in Vietnamese."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u5-l03-ex05",
+      "question": "Type 'I'm a doctor' in casual Southern Vietnamese:",
+      "correctAnswer": "Tui làm bác sĩ",
+      "acceptableAnswers": ["Tui làm bác sĩ", "tui làm bác sĩ", "Tui là bác sĩ", "tui là bác sĩ"],
+      "explanation": "'Tui làm bác sĩ' is the natural Southern way — 'làm' (to do/work as) is more common than 'là' (to be) when talking about professions."
+    }
+  ]
+}

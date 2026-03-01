@@ -1,0 +1,256 @@
+{
+  "slug": "lesson-02-family-dinner",
+  "unitSlug": "unit-6-conversational",
+  "title": "Family Dinner",
+  "titleVi": "Bữa Cơm Gia Đình",
+  "description": "Navigate a Vietnamese family dinner with confidence — from inviting everyone to eat, to passing dishes, to the unspoken rules of the table. If you've ever frozen up when Bà told you to 'gắp thêm đi con,' this lesson is for you.",
+  "order": 2,
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "The Vietnamese family dinner (bữa cơm gia đình) is more than just eating — it's where family hierarchy, respect, and love all show up on the table. If you grew up in a Vietnamese household, you know the drill: someone yells 'Ăn cơm!' from the kitchen, everyone gathers, and the eldest gets served first.\n\nThe core phrases you need:\n\n**Mời ... ăn cơm** — Invite [someone] to eat rice (i.e., to eat dinner)\n\nThis is the essential ritual. Before anyone eats, the youngest person at the table invites the eldest:\n- **Mời ba má ăn cơm.** — I invite Dad and Mom to eat.\n- **Mời bà ngoại ăn cơm.** — I invite Grandma (maternal) to eat.\n\nYou go in order of seniority. Only after inviting everyone older than you do you start eating. This is non-negotiable in traditional families — skipping it is considered very rude.\n\n**Gắp thức ăn** — To pick up food (with chopsticks) and place it in someone's bowl\n\nThis is how Vietnamese people show love at the table. Your má will pile food into your bowl whether you want it or not. When someone gắps food for you, the correct response is 'Dạ, cảm ơn' and you eat it — even if you're already full.\n\nSouthern dialect note: In the South, 'ăn cơm' specifically means to eat a meal (literally 'eat rice'). 'Cơm' is both 'rice' and 'meal.' A common Southern greeting is 'Ăn cơm chưa?' (Have you eaten yet?) — it's not really about food, it's just a way of saying 'how are you?'"
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u6-l02-ancom",
+          "vietnamese": "ăn cơm",
+          "english": "to eat (a meal) / to eat rice",
+          "ipa": "/an˧ kɤm˧/",
+          "audioFile": null,
+          "notes": "Literally 'eat rice,' but it means 'to have a meal.' Vietnamese culture equates eating with eating rice — a meal without rice isn't really a meal. 'Ăn cơm chưa?' (Have you eaten yet?) is a common Southern greeting equivalent to 'How are you?'",
+          "exampleSentence": {
+            "vietnamese": "Mọi người ơi, ăn cơm!",
+            "english": "Everyone, dinner time!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l02-moiancom",
+          "vietnamese": "mời ăn cơm",
+          "english": "to invite (someone) to eat",
+          "ipa": "/mɤːj˨˩ an˧ kɤm˧/",
+          "audioFile": null,
+          "notes": "The ritual invitation before every family meal. The youngest person invites the eldest first, then works down in age. 'Con mời ba má ăn cơm' (I [child] invite Dad and Mom to eat). Skipping this is a major faux pas in traditional families.",
+          "exampleSentence": {
+            "vietnamese": "Con mời bà ngoại ăn cơm.",
+            "english": "I invite Grandma to eat. (Said by grandchild before the meal.)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l02-donban",
+          "vietnamese": "dọn bàn",
+          "english": "to set the table / to clear the table",
+          "ipa": "/jɔn˧ baːn˧˩/",
+          "audioFile": null,
+          "notes": "This means both 'set the table' (before eating) and 'clear the table' (after eating) depending on context. 'Dọn bàn ăn cơm đi con' = 'Set the table for dinner, child.' After the meal: 'Dọn bàn đi' = 'Clear the table.'",
+          "exampleSentence": {
+            "vietnamese": "Con dọn bàn giùm má đi.",
+            "english": "Set the table for Mom, please.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l02-gap",
+          "vietnamese": "gắp",
+          "english": "to pick up food (with chopsticks)",
+          "ipa": "/ɡap˧˥/",
+          "audioFile": null,
+          "notes": "Specifically means using chopsticks to pick up food. 'Gắp thức ăn' = pick up food. When your family gắps food into your bowl, it's an act of love and care. 'Gắp cho con/em' means to pick up food for someone younger.",
+          "exampleSentence": {
+            "vietnamese": "Má gắp thêm cá cho con nè.",
+            "english": "Mom picks up more fish for you (the child), here.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l02-themcom",
+          "vietnamese": "thêm cơm",
+          "english": "more rice / another serving of rice",
+          "ipa": "/tʰem˧ kɤm˧/",
+          "audioFile": null,
+          "notes": "When your bowl is empty and you want more rice. 'Thêm cơm không con?' (More rice, child?) is what your parents ask. You can say 'Dạ, cho con thêm cơm' (Yes, give me more rice) or 'Dạ, con no rồi' (No, I'm full already).",
+          "exampleSentence": {
+            "vietnamese": "Ba ơi, cho con thêm cơm.",
+            "english": "Dad, give me more rice.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l02-canh",
+          "vietnamese": "canh",
+          "english": "soup / broth dish",
+          "ipa": "/kaɲ˧/",
+          "audioFile": null,
+          "notes": "A soup dish that accompanies every Vietnamese meal. Common types: canh chua (sour soup, a Southern specialty), canh rau (vegetable soup), canh khổ qua (bitter melon soup). Every proper Vietnamese dinner has at least one canh on the table.",
+          "exampleSentence": {
+            "vietnamese": "Hôm nay má nấu canh chua cá lóc.",
+            "english": "Today Mom cooked sour soup with snakehead fish.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l02-kho",
+          "vietnamese": "kho",
+          "english": "braised / simmered (cooking method)",
+          "ipa": "/xɔ˧/",
+          "audioFile": null,
+          "notes": "A slow-cooking method in caramelized fish sauce. Iconic Southern dishes: cá kho tộ (clay-pot braised fish), thịt kho trứng (braised pork belly with eggs — a Tết staple), tôm kho tàu (braised shrimp). The Southern style uses more coconut water and sugar than Northern kho.",
+          "exampleSentence": {
+            "vietnamese": "Thịt kho trứng của bà ngoại ngon nhứt!",
+            "english": "Grandma's braised pork with eggs is the most delicious!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l02-xao",
+          "vietnamese": "xào",
+          "english": "stir-fried",
+          "ipa": "/saːw˧˩/",
+          "audioFile": null,
+          "notes": "Stir-frying, the most common cooking method for vegetables. 'Rau xào' (stir-fried vegetables), 'bò xào' (stir-fried beef), 'mì xào' (stir-fried noodles). Quick, hot wok cooking that keeps vegetables crisp.",
+          "exampleSentence": {
+            "vietnamese": "Tối nay ăn rau muống xào tỏi nha.",
+            "english": "Tonight we'll have water spinach stir-fried with garlic, okay?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l02-chien",
+          "vietnamese": "chiên",
+          "english": "fried / deep-fried (Southern)",
+          "ipa": "/t͡ɕiən˧/",
+          "audioFile": null,
+          "notes": "Southern word for deep-frying. Northerners say 'rán' instead. 'Cá chiên' (fried fish), 'trứng chiên' (fried egg — Southerners say this; Northerners say 'trứng rán'), 'đậu hủ chiên' (fried tofu). This is one of the clearest North-South differences.",
+          "exampleSentence": {
+            "vietnamese": "Chiên cá giòn giòn đi má.",
+            "english": "Fry the fish nice and crispy, Mom.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l02-no",
+          "vietnamese": "no",
+          "english": "full (stomach)",
+          "ipa": "/nɔ˧/",
+          "audioFile": null,
+          "notes": "Your defense against the endless gắp-ing. 'Con no rồi' (I'm full already) is what you say when your parents keep putting food in your bowl. Warning: they probably won't believe you the first time. 'No quá' = so full, 'no bụng' = belly full.",
+          "exampleSentence": {
+            "vietnamese": "Dạ con no rồi, cảm ơn má.",
+            "english": "I'm full already, thank you Mom.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l02-ngon",
+          "vietnamese": "ngon",
+          "english": "delicious / tasty",
+          "ipa": "/ŋɔn˧/",
+          "audioFile": null,
+          "notes": "The most important compliment at the dinner table. 'Ngon quá!' (So delicious!), 'Ngon lắm!' (Very tasty!). Telling the cook their food is 'ngon' makes their day. 'Ngon miệng' literally means 'tasty mouth' and is used to wish someone a good meal.",
+          "exampleSentence": {
+            "vietnamese": "Canh chua ngon quá má ơi!",
+            "english": "The sour soup is so delicious, Mom!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l02-nuocmam",
+          "vietnamese": "nước mắm",
+          "english": "fish sauce",
+          "ipa": "/nɯək˧˥ mam˧˥/",
+          "audioFile": null,
+          "notes": "The soul of Vietnamese cuisine. Every dinner table has a small dish of nước mắm for dipping, often mixed with lime, sugar, chili, and garlic (nước mắm pha). Southerners tend to make their dipping sauce sweeter than Northerners. 'Lấy nước mắm' = get the fish sauce.",
+          "exampleSentence": {
+            "vietnamese": "Lấy nước mắm ra bàn giùm má.",
+            "english": "Bring the fish sauce to the table for Mom.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l02-dua",
+          "vietnamese": "đũa",
+          "english": "chopsticks",
+          "ipa": "/ɗuə˧˩/",
+          "audioFile": null,
+          "notes": "Chopsticks — the primary eating utensil. 'Đôi đũa' = a pair of chopsticks. Table etiquette: never stick chopsticks straight up in a bowl of rice (it resembles incense for the dead). Never point with chopsticks or tap them on the bowl.",
+          "exampleSentence": {
+            "vietnamese": "Lấy thêm mấy đôi đũa nữa đi.",
+            "english": "Get a few more pairs of chopsticks.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "**Vietnamese Table Manners and Family Dinner Etiquette**\n\nVietnamese family dinners follow unwritten rules that every heritage speaker should know:\n\n**The 'mời' ritual:** Before eating, the youngest person says 'mời' to everyone older. The order goes: grandparents first, then parents, then aunts/uncles, then older siblings. Example: 'Con mời bà ngoại ăn cơm. Con mời ba má ăn cơm. Con mời anh Hai ăn cơm.' Only after this does anyone pick up their chopsticks.\n\n**Shared dishes, individual bowls:** Vietnamese meals are communal. Dishes go in the center of the table, and everyone picks from them with their chopsticks into their own rice bowl. Use the serving spoon (muỗng) or the clean end of your chopsticks to take from shared dishes — reaching across the table with your eating-end chopsticks is considered impolite in formal settings, though families are often more relaxed.\n\n**The rice bowl hold:** Hold your rice bowl in one hand, close to your mouth. Eating with the bowl on the table while you bend down to it is considered sloppy. Lift the bowl up.\n\n**The endless feeding:** Parents and grandparents will gắp food into your bowl constantly. This is love language. Accept graciously. Saying 'con no rồi' (I'm full) three or four times before they believe you is normal.\n\n**Never waste rice:** Leaving rice in your bowl is frowned upon. Finish every grain. This comes from deep respect for the labor of growing rice — the saying goes 'Ai ơi bưng bát cơm đầy, dẻo thơm một hạt, đắng cay muôn phần' (Whoever holds a full bowl of rice, each sweet grain cost a thousand bitter efforts).\n\n**Wait for elders:** Don't start eating before the eldest person at the table has begun. Don't leave the table before they're done (or at least ask permission: 'Con xin phép')."
+    },
+    {
+      "type": "instruction",
+      "content": "**Full Family Dinner Conversation**\n\nHere's how a typical Southern Vietnamese family dinner flows:\n\n**Setting up:**\n- **Má:** Con ơi, dọn bàn giùm má đi. Lấy chén đũa ra. *(Child, set the table for Mom. Get the bowls and chopsticks out.)*\n- **You:** Dạ, mấy người ăn hôm nay má? *(Yes, how many people eating today, Mom?)*\n- **Má:** Sáu người. Bà ngoại qua ăn cơm nữa. *(Six people. Grandma is coming over for dinner too.)*\n\n**Sitting down:**\n- **Má:** Ăn cơm! Kêu ba với mấy đứa nhỏ ra ăn! *(Dinner! Call Dad and the kids to eat!)*\n- **You:** Ba ơi! Ăn cơm! *(Dad! Dinner!)*\n\n**The mời ritual:**\n- **You:** Con mời bà ngoại ăn cơm. Con mời ba má ăn cơm. *(I invite Grandma to eat. I invite Dad and Mom to eat.)*\n- **Bà ngoại:** Ừ, ăn đi con. *(Okay, eat up, child.)*\n\n**During the meal:**\n- **Bà ngoại:** Ăn thêm đi con, ốm quá! *(Eat more, child, you're too skinny!)*\n- **Bà ngoại:** *(gắps a big piece of fish into your bowl)*\n- **You:** Dạ, cảm ơn bà. Canh chua ngon quá bà ơi! *(Thank you, Grandma. The sour soup is so delicious, Grandma!)*\n- **Má:** Thêm cơm không con? *(More rice, child?)*\n- **You:** Dạ, cho con thêm chút. *(Yes, give me a little more.)*\n\n**Wrapping up:**\n- **You:** Dạ con no rồi. Con xin phép. *(I'm full. May I be excused.)*\n- **Má:** Ừ, bỏ chén vô bồn rửa đi con. *(Okay, put your bowl in the sink, child.)*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u6-l02-ex01",
+      "question": "Before a family meal, who performs the 'mời ăn cơm' ritual first?",
+      "options": [
+        "The oldest person at the table",
+        "The person who cooked the meal",
+        "The youngest person at the table",
+        "Everyone says it at the same time"
+      ],
+      "correctAnswer": "The youngest person at the table",
+      "explanation": "In Vietnamese family dinner tradition, the youngest person at the table invites the eldest to eat first, then works down in seniority. This shows respect for elders (kính trên nhường dưới). The youngest might say 'Con mời bà ngoại ăn cơm, con mời ba má ăn cơm' before anyone starts eating."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u6-l02-ex02",
+      "question": "What is the Southern Vietnamese word for 'fried' (as in deep-fried)?",
+      "options": [
+        "rán",
+        "chiên",
+        "xào",
+        "kho"
+      ],
+      "correctAnswer": "chiên",
+      "explanation": "'Chiên' is the Southern word for deep-frying. Northerners say 'rán' instead. So a fried egg is 'trứng chiên' in the South and 'trứng rán' in the North. 'Xào' means stir-fried, and 'kho' means braised/simmered — both are different cooking methods."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u6-l02-ex03",
+      "question": "Your grandmother keeps putting food in your bowl, but you're completely full. What's the most appropriate response?",
+      "options": [
+        "Bà ơi, ngừng đi!",
+        "Dạ con no rồi, cảm ơn bà.",
+        "Con không thích ăn cái này.",
+        "No response — just stop eating."
+      ],
+      "correctAnswer": "Dạ con no rồi, cảm ơn bà.",
+      "explanation": "'Dạ con no rồi, cảm ơn bà' (I'm full already, thank you Grandma) is the respectful and proper way to decline. Starting with 'dạ' shows respect to an elder. Telling grandma to stop (ngừng đi) is too blunt. Saying you don't like the food is rude. And just silently stopping eating without acknowledgment is impolite."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u6-l02-ex04",
+      "question": "Your mom asks you to set the table. Complete her sentence: 'Con _____ giùm má đi.'",
+      "sentence": "Con _____ giùm má đi.",
+      "english": "Set the table for Mom, please.",
+      "correctAnswer": "dọn bàn",
+      "acceptableAnswers": ["dọn bàn"],
+      "explanation": "'Dọn bàn' means 'to set the table' (or 'to clear the table' depending on context). The full sentence 'Con dọn bàn giùm má đi' uses 'giùm' (for/on behalf of) and 'đi' (softening particle) to make it a gentle request from mother to child."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u6-l02-ex05",
+      "question": "Type the phrase you'd say to invite your parents to eat at the beginning of a family meal. (You are the child speaking.)",
+      "correctAnswer": "con mời ba má ăn cơm",
+      "acceptableAnswers": ["con mời ba má ăn cơm", "Con mời ba má ăn cơm", "Con mời ba má ăn cơm.", "con mời ba má ăn cơm."],
+      "explanation": "'Con mời ba má ăn cơm' means 'I (child) invite Dad and Mom to eat.' 'Con' = I (used by a child speaking to parents), 'mời' = invite, 'ba má' = dad and mom (Southern — Northerners say 'bố mẹ'), 'ăn cơm' = eat rice/eat a meal. This is the essential pre-meal ritual in Vietnamese families."
+    }
+  ]
+}

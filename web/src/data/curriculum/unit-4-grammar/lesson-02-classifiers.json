@@ -1,0 +1,254 @@
+{
+  "slug": "lesson-02-classifiers",
+  "unitSlug": "unit-4-grammar",
+  "title": "Classifiers (Measure Words)",
+  "titleVi": "Loại Từ",
+  "description": "Vietnamese uses classifiers (measure words) before nouns — similar to how English says 'a piece of paper' or 'a head of lettuce,' but for almost everything. Master the most common classifiers and which nouns they pair with.",
+  "order": 2,
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "In English, you can just say 'a cat' or 'two books.' In Vietnamese, you need a **classifier** (loại từ) between the number and the noun. Think of it like a label that categorizes what kind of thing you're talking about.\n\nThe pattern is: **Number + Classifier + Noun**\n- một **con** mèo = one (animal) cat\n- hai **cuốn** sách = two (volume) books\n- ba **cái** áo = three (thing) shirts\n\nYou also use classifiers when pointing at things:\n- **con** chó đó = that dog\n- **cái** bàn này = this table\n\n**The good news for heritage speakers:** You probably already use classifiers instinctively. You'd never say 'một mèo' — it sounds completely wrong to your ear. This lesson will help you formalize what you already feel and fill in gaps for classifiers you might not use often.\n\n**The most important classifier is 'cái.'** It's the default/general classifier for inanimate objects. When in doubt, 'cái' is usually safe (though not always technically correct, people will understand you)."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u4-l02-cai",
+          "vietnamese": "cái",
+          "english": "general classifier for objects/things",
+          "ipa": "/kaːj˧˥/",
+          "audioFile": null,
+          "notes": "The most common classifier. Used for most inanimate objects: cái bàn (table), cái ghế (chair), cái áo (shirt), cái ly (glass), cái điện thoại (phone). When in doubt, use 'cái' — it's the safest default.",
+          "exampleSentence": {
+            "vietnamese": "Cho tui cái muỗng đi.",
+            "english": "Give me the spoon.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l02-con",
+          "vietnamese": "con",
+          "english": "classifier for animals and some objects",
+          "ipa": "/kɔn˧/",
+          "audioFile": null,
+          "notes": "Primary classifier for animals: con chó (dog), con mèo (cat), con gà (chicken). Also used for some non-animal things: con dao (knife), con đường (road), con mắt (eye), con sông (river). These are often long, winding, or animate-seeming things.",
+          "exampleSentence": {
+            "vietnamese": "Con heo đó mập quá!",
+            "english": "That pig is so fat!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l02-nguoi",
+          "vietnamese": "người",
+          "english": "classifier for people",
+          "ipa": "/ŋɨəj˧˩/",
+          "audioFile": null,
+          "notes": "Used specifically for people: một người bạn (a friend), hai người đàn ông (two men), ba người phụ nữ (three women). Also doubles as the word for 'person' or 'people.'",
+          "exampleSentence": {
+            "vietnamese": "Có mấy người tới vậy?",
+            "english": "How many people are coming?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l02-chiec",
+          "vietnamese": "chiếc",
+          "english": "classifier for vehicles, single items of a pair",
+          "ipa": "/t͡ɕiək˧˥/",
+          "audioFile": null,
+          "notes": "Used for vehicles: chiếc xe (car/vehicle), chiếc tàu (ship). Also for single items from a pair: chiếc giày (one shoe), chiếc đũa (one chopstick). And for some objects: chiếc nón (hat), chiếc cầu (bridge). Can sometimes overlap with 'cái.'",
+          "exampleSentence": {
+            "vietnamese": "Chiếc xe này của ai vậy?",
+            "english": "Whose car is this?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l02-cuon",
+          "vietnamese": "cuốn",
+          "english": "classifier for books and bound volumes",
+          "ipa": "/kuən˧˥/",
+          "audioFile": null,
+          "notes": "Used for books, notebooks, and anything bound: cuốn sách (book), cuốn vở (notebook), cuốn từ điển (dictionary). Also spelled/said as 'quyển' — both are correct and interchangeable. Southern speakers tend to use 'cuốn' more.",
+          "exampleSentence": {
+            "vietnamese": "Tui mới mua cuốn sách này.",
+            "english": "I just bought this book.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l02-to",
+          "vietnamese": "tờ",
+          "english": "classifier for flat sheets (paper, bills)",
+          "ipa": "/təː˧˩/",
+          "audioFile": null,
+          "notes": "Used for flat, sheet-like things: tờ giấy (sheet of paper), tờ báo (newspaper), tờ tiền (banknote). Think of it as the classifier for anything thin and flat.",
+          "exampleSentence": {
+            "vietnamese": "Cho tui mượn tờ giấy đi.",
+            "english": "Let me borrow a sheet of paper.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l02-ly",
+          "vietnamese": "ly",
+          "english": "classifier for glasses/cups (Southern)",
+          "ipa": "/li˧/",
+          "audioFile": null,
+          "notes": "Southern Vietnamese uses 'ly' for drinking glasses and cups: ly nước (glass of water), ly cà phê (cup of coffee). Northern Vietnamese uses 'cốc' instead. This is a classic North/South split — if someone says 'cốc,' they're from the North.",
+          "exampleSentence": {
+            "vietnamese": "Cho tui một ly trà đá.",
+            "english": "Give me one glass of iced tea.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l02-to-bowl",
+          "vietnamese": "tô",
+          "english": "classifier for bowls (Southern)",
+          "ipa": "/to˧/",
+          "audioFile": null,
+          "notes": "Southern word for 'bowl' — used as both a classifier and the noun itself: tô phở (bowl of pho), tô bún (bowl of vermicelli). In Northern Vietnamese, the word is 'bát.' Another easy tell for North vs South dialect.",
+          "exampleSentence": {
+            "vietnamese": "Tui muốn một tô phở bò.",
+            "english": "I want one bowl of beef pho.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l02-trai",
+          "vietnamese": "trái",
+          "english": "classifier for fruits (Southern)",
+          "ipa": "/tɕaːj˧˥/",
+          "audioFile": null,
+          "notes": "Southern classifier for fruits: trái cam (orange), trái xoài (mango), trái dừa (coconut). Northern Vietnamese uses 'quả' instead. Both 'trái' and 'quả' also mean 'fruit' as a standalone noun.",
+          "exampleSentence": {
+            "vietnamese": "Mua cho tui mấy trái xoài đi.",
+            "english": "Buy me some mangoes.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l02-chai",
+          "vietnamese": "chai",
+          "english": "classifier for bottles",
+          "ipa": "/t͡ɕaːj˧/",
+          "audioFile": null,
+          "notes": "Used for bottles: chai nước (bottle of water), chai bia (bottle of beer), chai nước mắm (bottle of fish sauce). Simple and consistent — if it's in a bottle, use 'chai.'",
+          "exampleSentence": {
+            "vietnamese": "Mua cho ba chai bia đi con.",
+            "english": "Buy dad a bottle of beer, child.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l02-dia",
+          "vietnamese": "dĩa",
+          "english": "classifier for plates/servings (Southern)",
+          "ipa": "/jiə˧˥/",
+          "audioFile": null,
+          "notes": "Southern term for 'plate' — doubles as a classifier: dĩa cơm (plate of rice), dĩa gỏi cuốn (plate of spring rolls). Northern says 'đĩa' with a different pronunciation. Also functions as the word for the plate itself.",
+          "exampleSentence": {
+            "vietnamese": "Cho tui thêm một dĩa rau nha.",
+            "english": "Give me one more plate of vegetables.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l02-doi",
+          "vietnamese": "đôi",
+          "english": "classifier for pairs",
+          "ipa": "/ɗoj˧/",
+          "audioFile": null,
+          "notes": "Used for things that come in pairs: đôi giày (pair of shoes), đôi đũa (pair of chopsticks), đôi mắt (pair of eyes). Think of 'đôi' whenever you'd say 'a pair of' in English.",
+          "exampleSentence": {
+            "vietnamese": "Đôi giày này mắc quá!",
+            "english": "This pair of shoes is too expensive!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l02-bai",
+          "vietnamese": "bài",
+          "english": "classifier for songs, lessons, articles",
+          "ipa": "/baːj˧˩/",
+          "audioFile": null,
+          "notes": "Used for composed/written pieces: bài hát (song), bài học (lesson), bài báo (article), bài thi (exam). If it was written or composed, 'bài' is your classifier.",
+          "exampleSentence": {
+            "vietnamese": "Bài hát này hay quá!",
+            "english": "This song is so good!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l02-cay",
+          "vietnamese": "cây",
+          "english": "classifier for trees, stick-like objects",
+          "ipa": "/kəj˧/",
+          "audioFile": null,
+          "notes": "Used for trees and long, stick-like objects: cây viết (pen), cây kem (popsicle — Southern), cây cầu (bridge, sometimes). Also the standalone word for 'tree.' If the object is long and narrow, 'cây' often works.",
+          "exampleSentence": {
+            "vietnamese": "Cho tui mượn cây viết đi.",
+            "english": "Let me borrow a pen.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "**Classifiers reveal where you're from.**\n\nSome of the biggest North-South dialect differences are in classifiers and measure words:\n\n| Southern | Northern | English |\n|----------|----------|---------|\n| **ly** | cốc | glass/cup |\n| **tô** | bát | bowl |\n| **trái** | quả | fruit/classifier for fruit |\n| **dĩa** | đĩa | plate |\n| **cây kem** | que kem | popsicle |\n\nIf you grew up in a Southern Vietnamese household, you probably use the Southern set instinctively. Don't second-guess yourself — both are correct, they're just regional. But be aware of the Northern versions so you understand speakers from Hanoi or textbooks that use Northern Vietnamese."
+    },
+    {
+      "type": "instruction",
+      "content": "**Classifier Cheat Sheet:**\n\n| Classifier | Used for | Examples |\n|-----------|----------|----------|\n| **cái** | General objects | cái bàn, cái ghế, cái áo |\n| **con** | Animals + some objects | con chó, con dao, con đường |\n| **người** | People | người bạn, người yêu |\n| **chiếc** | Vehicles, single items | chiếc xe, chiếc giày |\n| **cuốn** | Books, bound items | cuốn sách, cuốn vở |\n| **tờ** | Flat sheets | tờ giấy, tờ tiền |\n| **ly** | Glasses (Southern) | ly nước, ly cà phê |\n| **tô** | Bowls (Southern) | tô phở, tô bún |\n| **trái** | Fruits (Southern) | trái cam, trái xoài |\n| **chai** | Bottles | chai nước, chai bia |\n| **đôi** | Pairs | đôi giày, đôi đũa |\n| **bài** | Songs, lessons, articles | bài hát, bài học |\n| **cây** | Trees, stick-like items | cây viết, cây cầu |\n\n**Pro tip:** When you can't remember the right classifier, use **'cái'** as a fallback. Vietnamese people do this in casual speech all the time. 'Cái' is the duct tape of classifiers."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u4-l02-ex01",
+      "question": "Which classifier would you use for 'con mèo' (cat)?",
+      "options": ["cái", "con", "người", "chiếc"],
+      "correctAnswer": "con",
+      "explanation": "'Con' is the classifier for animals. 'Con mèo' = cat, 'con chó' = dog, 'con gà' = chicken. Remember: 'con' is for living creatures (and a few special non-living things like knives and roads)."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u4-l02-ex02",
+      "question": "In Southern Vietnamese, how do you say 'a glass of water'?",
+      "options": ["cốc nước", "ly nước", "tô nước", "chai nước"],
+      "correctAnswer": "ly nước",
+      "explanation": "'Ly nước' is the Southern way to say 'a glass of water.' 'Cốc' is the Northern equivalent. 'Tô' is for bowls, and 'chai' is for bottles. This is one of the classic North-South vocabulary differences."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u4-l02-ex03",
+      "question": "Which is the correct way to say 'two books' in Vietnamese?",
+      "options": ["hai sách", "hai cái sách", "hai cuốn sách", "sách hai cuốn"],
+      "correctAnswer": "hai cuốn sách",
+      "explanation": "'Hai cuốn sách' is correct. 'Cuốn' (or 'quyển') is the classifier for books and bound volumes. The pattern is: number + classifier + noun. 'Hai sách' (without a classifier) sounds incomplete and unnatural."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u4-l02-ex04",
+      "question": "Complete the sentence: 'Cho tui một _____ phở bò.' (Give me one bowl of beef pho.)",
+      "sentence": "Cho tui một _____ phở bò.",
+      "english": "Give me one bowl of beef pho.",
+      "correctAnswer": "tô",
+      "acceptableAnswers": ["tô"],
+      "explanation": "'Tô' is the Southern Vietnamese classifier/word for 'bowl.' 'Một tô phở bò' = one bowl of beef pho. Northern Vietnamese would say 'bát' instead."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u4-l02-ex05",
+      "question": "Type 'a pair of chopsticks' in Vietnamese.",
+      "correctAnswer": "đôi đũa",
+      "acceptableAnswers": ["đôi đũa", "một đôi đũa", "Đôi đũa", "Một đôi đũa"],
+      "explanation": "'Đôi đũa' — 'đôi' is the classifier for pairs, and 'đũa' means chopsticks. You can also say 'một đôi đũa' (one pair of chopsticks) for emphasis."
+    }
+  ]
+}

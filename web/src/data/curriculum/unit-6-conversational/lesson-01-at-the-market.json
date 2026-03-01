@@ -1,0 +1,269 @@
+{
+  "slug": "lesson-01-at-the-market",
+  "unitSlug": "unit-6-conversational",
+  "title": "At the Market",
+  "titleVi": "Đi Chợ",
+  "description": "Master the art of bargaining and buying at Vietnamese wet markets. You probably remember going to chợ with your parents — now learn to navigate it yourself with the Southern phrases and haggling strategies locals use every day.",
+  "order": 1,
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Going to the market (đi chợ) is one of the most quintessentially Vietnamese experiences. If you grew up in a Vietnamese household, you probably remember tagging along with your má or bà to the local Asian grocery store — or if you were lucky, an actual chợ. In Vietnam, the wet market is where daily life happens: people buy fresh produce every morning, gossip with vendors, and bargain over everything.\n\nThe core pattern for buying at a market is:\n\n**Bán ... bao nhiêu một ký?** — How much is ... per kilogram?\n\nOr simply point and ask:\n- **Cái này bao nhiêu?** — How much is this?\n- **Bớt chút đi!** — Lower the price a bit!\n\nBargaining (trả giá) is expected at markets — it's not rude, it's part of the social interaction. Vendors often quote a higher starting price, especially if they suspect you're Việt kiều. A good rule: counter with about 60-70% of the asking price and meet somewhere in the middle.\n\nSouthern dialect note: In the South, you'll hear **ký** for kilogram (from the French *kilo*), while Northerners say **cân**. Similarly, Southerners say **trái** for fruit/classifier while Northerners say **quả**."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u6-l01-cho",
+          "vietnamese": "chợ",
+          "english": "market / wet market",
+          "ipa": "/t͡ɕɤː˧˥/",
+          "audioFile": null,
+          "notes": "The traditional open-air market where Vietnamese people buy fresh food daily. Famous ones include chợ Bến Thành (Saigon), chợ Bà Chiểu, chợ Tân Định. 'Đi chợ' means 'to go to the market' and is used broadly to mean grocery shopping, even at a supermarket.",
+          "exampleSentence": {
+            "vietnamese": "Sáng nào má tui cũng đi chợ.",
+            "english": "Every morning my mom goes to the market.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l01-mua",
+          "vietnamese": "mua",
+          "english": "to buy",
+          "ipa": "/muə˧/",
+          "audioFile": null,
+          "notes": "Basic verb for buying. 'Mua gì?' (What are you buying?). At the market, vendors might call out 'Mua đi em!' (Buy it, younger sibling!) to entice customers.",
+          "exampleSentence": {
+            "vietnamese": "Hôm nay tui mua cá với rau.",
+            "english": "Today I'm buying fish and vegetables.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l01-ban",
+          "vietnamese": "bán",
+          "english": "to sell",
+          "ipa": "/baːn˧˥/",
+          "audioFile": null,
+          "notes": "The counterpart to 'mua.' Note the rising tone — don't confuse with 'bàn' (table, falling tone). 'Bán bao nhiêu?' is a quick way to ask the price.",
+          "exampleSentence": {
+            "vietnamese": "Chị ơi, heo bán bao nhiêu một ký?",
+            "english": "Excuse me (older sister), how much is pork per kilogram?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l01-tragia",
+          "vietnamese": "trả giá",
+          "english": "to bargain / to haggle",
+          "ipa": "/t͡ɕaː˧˩ jaː˧˥/",
+          "audioFile": null,
+          "notes": "Literally 'return the price.' This is the art of negotiating at the market. It's a normal part of market culture — not doing it might mean you're overpaying. 'Trả giá đi!' means 'Bargain!' or 'Make an offer!'",
+          "exampleSentence": {
+            "vietnamese": "Mua ở chợ phải biết trả giá chớ.",
+            "english": "When buying at the market you have to know how to bargain.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l01-ky",
+          "vietnamese": "ký / kí",
+          "english": "kilogram",
+          "ipa": "/ki˧˥/",
+          "audioFile": null,
+          "notes": "Southern Vietnamese term for kilogram, borrowed from French 'kilo.' Northern speakers say 'cân' instead. At the market everything is sold by the ký: meat, fruit, vegetables, fish. 'Một ký' = one kilogram, 'nửa ký' = half a kilogram.",
+          "exampleSentence": {
+            "vietnamese": "Cho tui hai ký xoài.",
+            "english": "Give me two kilograms of mango.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l01-baonhieu",
+          "vietnamese": "bao nhiêu",
+          "english": "how much / how many",
+          "ipa": "/baːw˧ ɲiəw˧/",
+          "audioFile": null,
+          "notes": "The essential price-asking phrase at the market. 'Bao nhiêu một ký?' (How much per kilo?), 'Bao nhiêu hết?' (How much total?). You'll use this constantly while shopping.",
+          "exampleSentence": {
+            "vietnamese": "Tôm bao nhiêu một ký vậy chị?",
+            "english": "How much are the shrimp per kilo, sis?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l01-dat",
+          "vietnamese": "đắt",
+          "english": "expensive",
+          "ipa": "/ɗak˧˥/",
+          "audioFile": null,
+          "notes": "Your most important bargaining word. 'Đắt quá!' (Too expensive!) is what you say to start negotiating. Even if the price is fair, saying this is part of the ritual. 'Mắc' is a Southern synonym that you'll hear a lot — 'Mắc quá!' means the same thing.",
+          "exampleSentence": {
+            "vietnamese": "Trời ơi, đắt quá! Bớt chút đi chị.",
+            "english": "Oh my, too expensive! Lower it a bit, sis.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l01-re",
+          "vietnamese": "rẻ",
+          "english": "cheap / inexpensive",
+          "ipa": "/ɹɛ˧˩/",
+          "audioFile": null,
+          "notes": "The opposite of đắt. 'Rẻ quá!' (So cheap!). If a vendor gives a good price, you might say 'Vậy được rồi, rẻ rồi' (That's fine, that's cheap enough). The vendor wants to hear you say this!",
+          "exampleSentence": {
+            "vietnamese": "Chỗ này bán rẻ hơn chỗ kia.",
+            "english": "This place sells cheaper than that place.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l01-tuoi",
+          "vietnamese": "tươi",
+          "english": "fresh",
+          "ipa": "/tɯəj˧/",
+          "audioFile": null,
+          "notes": "Essential quality word at the market. 'Tươi không?' (Is it fresh?) is what you ask about fish, meat, and vegetables. 'Tươi lắm!' (Very fresh!) is what vendors always say back. 'Hải sản tươi sống' means 'live fresh seafood.'",
+          "exampleSentence": {
+            "vietnamese": "Cá này tươi không chị?",
+            "english": "Is this fish fresh, sis?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l01-heo",
+          "vietnamese": "héo",
+          "english": "wilted / withered",
+          "ipa": "/hɛw˧˥/",
+          "audioFile": null,
+          "notes": "The opposite of 'tươi' for vegetables and herbs. 'Rau héo rồi' (The vegetables are wilted already). If you see wilted produce, you can use this to negotiate a lower price: 'Héo rồi mà đắt quá!' (It's wilted but so expensive!).",
+          "exampleSentence": {
+            "vietnamese": "Rau này héo rồi, bớt đi chị.",
+            "english": "These vegetables are wilted, lower the price sis.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l01-bot",
+          "vietnamese": "bớt",
+          "english": "to reduce / to lower (price)",
+          "ipa": "/bɤt˧˥/",
+          "audioFile": null,
+          "notes": "The key bargaining verb. 'Bớt chút đi!' (Lower it a bit!), 'Bớt được không?' (Can you lower it?). This is your go-to when the price is too high. Often combined with a smile and friendly persistence.",
+          "exampleSentence": {
+            "vietnamese": "Bớt cho tui đi, tui mua nhiều mà.",
+            "english": "Lower the price for me, I'm buying a lot.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l01-trai",
+          "vietnamese": "trái",
+          "english": "fruit (classifier)",
+          "ipa": "/t͡ɕaːj˧˥/",
+          "audioFile": null,
+          "notes": "Southern classifier for fruit. Northerners say 'quả' instead. 'Trái xoài' (mango), 'trái sầu riêng' (durian), 'trái măng cụt' (mangosteen). Also used as a general word meaning 'fruit': 'mua trái cây' (buy fruit).",
+          "exampleSentence": {
+            "vietnamese": "Cho tui mấy trái dừa tươi.",
+            "english": "Give me a few fresh coconuts.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l01-mac",
+          "vietnamese": "mắc",
+          "english": "expensive (Southern)",
+          "ipa": "/mak˧˥/",
+          "audioFile": null,
+          "notes": "A distinctly Southern synonym for 'đắt' (expensive). In the South, people use 'mắc' and 'đắt' interchangeably. Northerners only use 'đắt.' If you say 'mắc quá,' people will know you speak Southern Vietnamese.",
+          "exampleSentence": {
+            "vietnamese": "Sầu riêng năm nay mắc quá trời!",
+            "english": "Durian is so incredibly expensive this year!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l01-nua",
+          "vietnamese": "nửa ký",
+          "english": "half a kilogram",
+          "ipa": "/nɯə˧˩ ki˧˥/",
+          "audioFile": null,
+          "notes": "'Nửa' means 'half.' Useful when you don't need a whole kilogram. 'Nửa ký thịt heo' (half a kilo of pork). For even smaller amounts, say 'hai trăm gram' (200 grams) or 'một phần tư ký' (a quarter kilo).",
+          "exampleSentence": {
+            "vietnamese": "Cho tui nửa ký tôm thôi.",
+            "english": "Give me just half a kilo of shrimp.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "**Market Culture in Southern Vietnam**\n\nThe wet market (chợ) is the heartbeat of daily life in Vietnam. Here's what heritage speakers should know:\n\n**Morning is prime time:** The best produce arrives between 5-7 AM. By mid-morning, the freshest items are gone. Your bà ngoại probably wakes up at 5 AM to hit the market — now you know why.\n\n**Relationships matter:** Regular customers (khách quen) get better prices and the freshest picks. Vendors remember faces. If your family has a 'chị bán cá' (fish lady) or 'cô bán rau' (vegetable auntie), that relationship is valuable. They'll set aside the good stuff for loyal customers.\n\n**The bargaining dance:** Bargaining isn't confrontational — it's social. The vendor quotes high, you say 'Đắt quá!' or 'Mắc quá!', they lower a bit, you counter, and you meet somewhere in the middle. Always smile. If you buy multiple items from the same vendor, ask for a bundle discount: 'Mua nhiều bớt cho tui đi.' (I'm buying a lot, give me a discount.)\n\n**Don't bargain at these places:** Supermarkets, convenience stores, and places with printed price tags. Also, some market stalls have fixed prices posted — respect those.\n\n**Famous markets:**\n- **Chợ Bến Thành** (Saigon) — The iconic tourist market, but locals shop here too. Higher prices for tourists.\n- **Chợ Bà Chiểu** — A more local Saigon market with better prices.\n- **Chợ An Đông** — The Chinese-Vietnamese market in Chợ Lớn, great for wholesale.\n\n**Việt kiều tip:** Vendors can often tell you're from overseas (your clothes, your accent, your hesitation). They might quote higher prices. Don't take it personally — just bargain confidently and use your Vietnamese. The more natural your Southern accent sounds, the better prices you'll get."
+    },
+    {
+      "type": "instruction",
+      "content": "**Sample Market Conversation**\n\nHere's a realistic exchange at a fruit stall:\n\n- **You:** Chị ơi, xoài bao nhiêu một ký? *(Sis, how much are mangoes per kilo?)*\n- **Vendor:** Bốn mươi ngàn một ký em. *(40,000 per kilo.)*\n- **You:** Ui, mắc quá! Bớt chút đi chị. *(Wow, too expensive! Lower it a bit, sis.)*\n- **Vendor:** Xoài cát Hòa Lộc nha em, ngọt lắm. Ba mươi lăm đi. *(These are Hòa Lộc sugar mangoes, very sweet. 35,000.)*\n- **You:** Ba mươi đi chị, tui mua hai ký luôn. *(30,000, sis, I'll buy two kilos.)*\n- **Vendor:** Ừ được rồi, lựa đi em. *(Okay fine, go ahead and pick them.)*\n- **You:** Cảm ơn chị! *(Thanks sis!)*\n\n**Key phrases from this exchange:**\n- **Bớt chút đi** — Lower it a bit (the magic bargaining phrase)\n- **Mắc quá** — Too expensive (Southern style)\n- **Lựa đi** — Go ahead and pick/choose (vendors let you select your own fruit)\n- **Luôn** — Right away / also / while I'm at it (adds emphasis)"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u6-l01-ex01",
+      "question": "You're at a market and want to ask the price of pork per kilogram, Southern style. What do you say?",
+      "options": [
+        "Heo bán bao nhiêu một ký?",
+        "Lợn bán bao nhiêu một cân?",
+        "Thịt heo giá bao nhiêu một pound?",
+        "Cho tôi thịt heo."
+      ],
+      "correctAnswer": "Heo bán bao nhiêu một ký?",
+      "explanation": "In Southern Vietnamese, 'heo' is used for pork (not 'lợn' which is Northern), and 'ký' is the Southern term for kilogram (not 'cân' which is Northern). The second option uses entirely Northern vocabulary. The fourth option is just 'give me pork' without asking the price."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u6-l01-ex02",
+      "question": "A vendor quotes you 50,000 đồng per kilogram for shrimp. You think that's too expensive. What's the most natural Southern response to start bargaining?",
+      "options": [
+        "Không, tôi không muốn mua.",
+        "Mắc quá! Bớt chút đi chị.",
+        "Tôi sẽ trả 10,000 đồng.",
+        "Cảm ơn, tôi đi chỗ khác."
+      ],
+      "correctAnswer": "Mắc quá! Bớt chút đi chị.",
+      "explanation": "'Mắc quá! Bớt chút đi chị' (Too expensive! Lower it a bit, sis) is the natural way to start bargaining in Southern Vietnamese. 'Mắc' is the distinctly Southern word for expensive. Simply refusing or walking away doesn't engage in the bargaining process, and offering 10,000 for 50,000 shrimp would be insulting."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u6-l01-ex03",
+      "question": "Which word is the Southern Vietnamese classifier for fruit?",
+      "options": [
+        "quả",
+        "trái",
+        "cái",
+        "con"
+      ],
+      "correctAnswer": "trái",
+      "explanation": "'Trái' is the Southern classifier for fruit (trái xoài, trái dừa, trái sầu riêng). 'Quả' is the Northern equivalent. 'Cái' is a general classifier for objects, and 'con' is the classifier for animals."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u6-l01-ex04",
+      "question": "You want half a kilo of shrimp. Complete the sentence: 'Cho tui _____ tôm thôi.'",
+      "sentence": "Cho tui _____ tôm thôi.",
+      "english": "Give me just half a kilo of shrimp.",
+      "correctAnswer": "nửa ký",
+      "acceptableAnswers": ["nửa ký", "nửa kí"],
+      "explanation": "'Nửa ký' means 'half a kilogram.' 'Nửa' = half, 'ký' = kilogram (Southern). The full sentence 'Cho tui nửa ký tôm thôi' means 'Give me just half a kilo of shrimp.' The word 'thôi' at the end means 'just/only,' softening the request."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u6-l01-ex05",
+      "question": "Type the Southern Vietnamese phrase meaning 'too expensive' that you'd use to start bargaining at a market.",
+      "correctAnswer": "mắc quá",
+      "acceptableAnswers": ["mắc quá", "Mắc quá", "mắc quá!", "Mắc quá!", "đắt quá", "Đắt quá", "đắt quá!", "Đắt quá!"],
+      "explanation": "'Mắc quá' is the distinctly Southern way to say 'too expensive.' 'Đắt quá' is also acceptable and understood everywhere, but 'mắc' marks you as a Southern speaker. Both are correct — 'quá' means 'too much' and intensifies the adjective."
+    }
+  ]
+}

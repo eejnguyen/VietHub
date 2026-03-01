@@ -1,0 +1,254 @@
+{
+  "slug": "lesson-04-describing",
+  "unitSlug": "unit-5-intermediate",
+  "title": "Describing People & Things",
+  "titleVi": "Miêu Tả",
+  "description": "Master Vietnamese adjectives and descriptions — from how your family describes people at gatherings to Southern-style intensifiers that make everything more expressive.",
+  "order": 4,
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "In Vietnamese, adjectives come AFTER the noun — the opposite of English. You say 'người cao' (person tall) not 'tall person'. This might already feel natural if you've grown up hearing Vietnamese at home.\n\nSouthern Vietnamese speakers love intensifiers. Instead of just 'đẹp' (beautiful), you'll hear 'đẹp lắm', 'đẹp quá', 'đẹp ghê', or even 'đẹp dữ lắm'. Each one adds a different shade of emphasis. We'll cover the most important adjectives AND how to amplify them."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u5-l04-dep",
+          "vietnamese": "đẹp",
+          "english": "beautiful, pretty, handsome",
+          "ipa": "/dɛp˧˥/",
+          "audioFile": null,
+          "notes": "'Đẹp' works for people, places, and things — more versatile than English 'beautiful'. 'Đẹp trai' = handsome (for men). 'Đẹp gái' = pretty (for women, though 'xinh' is more common for women).",
+          "exampleSentence": {
+            "vietnamese": "Con gái bác đẹp quá, giống má hồi trẻ.",
+            "english": "Your daughter is so pretty — she looks like her mom when she was young.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l04-xau",
+          "vietnamese": "xấu",
+          "english": "ugly, bad",
+          "ipa": "/səw˧˥/",
+          "audioFile": null,
+          "notes": "'Xấu' means both ugly (appearance) and bad (character/quality). 'Xấu tính' = bad personality. 'Xấu hổ' = embarrassed. Vietnamese people might say 'xấu' more bluntly than English speakers expect.",
+          "exampleSentence": {
+            "vietnamese": "Cái áo đó xấu lắm, đừng mặc nữa.",
+            "english": "That shirt is really ugly — don't wear it anymore.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l04-cao",
+          "vietnamese": "cao",
+          "english": "tall, high",
+          "ipa": "/kaːw˧/",
+          "audioFile": null,
+          "notes": "Used for height of people and things. Vietnamese families often comment on height: 'Lớn nhanh quá, cao dữ!' (Growing so fast, so tall!). Heritage speakers tend to be taller than relatives in Vietnam.",
+          "exampleSentence": {
+            "vietnamese": "Con cao hơn ba rồi đó, lớn nhanh ghê.",
+            "english": "You're taller than Dad already — you grew up so fast.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l04-thap",
+          "vietnamese": "thấp",
+          "english": "short (height), low",
+          "ipa": "/tʰəp˧˥/",
+          "audioFile": null,
+          "notes": "For height only — not for length. 'Lùn' is a more casual/blunt way to say short (can be rude). Vietnamese speakers are generally direct about physical descriptions.",
+          "exampleSentence": {
+            "vietnamese": "Má tui thấp mà mạnh dữ lắm.",
+            "english": "My mom is short but really strong.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l04-map",
+          "vietnamese": "mập",
+          "english": "fat, chubby (Southern)",
+          "ipa": "/məp˧˩ˀ/",
+          "audioFile": null,
+          "notes": "'Mập' is the Southern word; the North uses 'béo'. In Vietnamese culture, commenting on weight is normal and not considered rude. 'Mập ra rồi!' (You've gained weight!) is practically a greeting at family gatherings.",
+          "exampleSentence": {
+            "vietnamese": "Ăn nhiều quá nên mập ra rồi nè.",
+            "english": "I ate too much so I've gotten fatter.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l04-om",
+          "vietnamese": "ốm",
+          "english": "thin/skinny (Southern) OR sick (Northern)",
+          "ipa": "/ʔom˧˥/",
+          "audioFile": null,
+          "notes": "IMPORTANT dialect difference: In the South, 'ốm' means thin/skinny. In the North, 'ốm' means SICK. Southerners say 'bệnh' for sick. 'Gầy' means thin everywhere and is safer to use.",
+          "exampleSentence": {
+            "vietnamese": "Sao ốm vậy? Có ăn uống gì không?",
+            "english": "Why are you so skinny? Are you eating anything? (Southern meaning)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l04-tre",
+          "vietnamese": "trẻ",
+          "english": "young",
+          "ipa": "/tɕɛ˧˩/",
+          "audioFile": null,
+          "notes": "'Trẻ' is young. 'Trẻ trung' = youthful-looking. Vietnamese culture values looking young — 'Trông trẻ quá!' (You look so young!) is a top compliment, especially for women.",
+          "exampleSentence": {
+            "vietnamese": "Dì trông trẻ quá, không ai biết có con lớn rồi.",
+            "english": "Auntie looks so young — nobody knows she has grown children.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l04-gia",
+          "vietnamese": "già",
+          "english": "old (for people and things)",
+          "ipa": "/jaː˧˩/",
+          "audioFile": null,
+          "notes": "Southern pronunciation: /jaː/. Northern: /zaː/. 'Già rồi' = getting old. Unlike English, calling someone 'già' isn't always negative — it can imply wisdom and respect.",
+          "exampleSentence": {
+            "vietnamese": "Già rồi mà ba còn làm việc siêng lắm.",
+            "english": "Even though he's old, Dad still works very hard.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l04-nhanh",
+          "vietnamese": "nhanh",
+          "english": "fast, quick",
+          "ipa": "/ɲaɲ˧/",
+          "audioFile": null,
+          "notes": "'Nhanh lên!' = Hurry up! (You've definitely heard this from your parents.) 'Nhanh chóng' = quickly, swiftly.",
+          "exampleSentence": {
+            "vietnamese": "Nhanh lên đi, trễ rồi!",
+            "english": "Hurry up, we're late!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l04-cham",
+          "vietnamese": "chậm",
+          "english": "slow",
+          "ipa": "/tɕəm˧˩ˀ/",
+          "audioFile": null,
+          "notes": "'Chậm rãi' = slowly, at a leisurely pace (more positive). 'Chậm chạp' = sluggishly slow (more negative).",
+          "exampleSentence": {
+            "vietnamese": "Ăn chậm lại đi, nuốt không kịp.",
+            "english": "Eat more slowly — you can't even swallow in time.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l04-rat",
+          "vietnamese": "rất",
+          "english": "very (before adjective)",
+          "ipa": "/zət˧˥/",
+          "audioFile": null,
+          "notes": "'Rất' goes BEFORE the adjective: 'rất đẹp' (very beautiful). More formal than 'lắm'. Written/formal Vietnamese prefers 'rất'; spoken Southern prefers 'lắm' or 'quá'.",
+          "exampleSentence": {
+            "vietnamese": "Món này rất ngon.",
+            "english": "This dish is very delicious.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l04-lam",
+          "vietnamese": "lắm",
+          "english": "very, a lot (after adjective)",
+          "ipa": "/laːm˧˥/",
+          "audioFile": null,
+          "notes": "'Lắm' goes AFTER the adjective: 'đẹp lắm' (very beautiful). More natural in spoken Southern Vietnamese. 'Lắm' feels warmer and more conversational than 'rất'.",
+          "exampleSentence": {
+            "vietnamese": "Con bé dễ thương lắm!",
+            "english": "That little girl is so cute!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l04-qua",
+          "vietnamese": "quá",
+          "english": "too much, so (after adjective, exclamatory)",
+          "ipa": "/kwaː˧˥/",
+          "audioFile": null,
+          "notes": "'Quá' goes AFTER the adjective and adds exclamation: 'nóng quá!' (so hot!). It implies excess or strong feeling. This is the most common intensifier in casual Southern speech.",
+          "exampleSentence": {
+            "vietnamese": "Đẹp quá! Mua đi!",
+            "english": "So beautiful! Buy it!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l04-cuc-ky",
+          "vietnamese": "cực kỳ",
+          "english": "extremely",
+          "ipa": "/kɨk˧˩ˀ ki˧˩/",
+          "audioFile": null,
+          "notes": "The strongest common intensifier. Goes BEFORE the adjective like 'rất': 'cực kỳ quan trọng' (extremely important). Sounds more emphatic and slightly more formal.",
+          "exampleSentence": {
+            "vietnamese": "Bài thi này cực kỳ khó.",
+            "english": "This exam is extremely difficult.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "Vietnamese people are famously direct about physical appearances. At family gatherings, expect comments like 'Mập ra rồi!' (You've gained weight!), 'Ốm quá, ăn gì đi!' (So skinny, eat something!), or 'Đen quá, đi nắng hả?' (So dark, were you in the sun?). This isn't considered rude in Vietnamese culture — it's a form of care and acknowledgment.\n\nFor heritage speakers, this cultural directness can feel jarring if you've grown up in Western culture where commenting on someone's body is taboo. Understanding this difference helps you navigate family interactions without taking offense. They're not being mean — they're being Vietnamese."
+    },
+    {
+      "type": "instruction",
+      "content": "**Intensifier placement — the key rule:**\n\n| Position | Intensifier | Example | Feel |\n|---|---|---|---|\n| BEFORE adjective | rất | rất đẹp | Formal, written |\n| BEFORE adjective | cực kỳ | cực kỳ đẹp | Very emphatic |\n| AFTER adjective | lắm | đẹp lắm | Casual, warm |\n| AFTER adjective | quá | đẹp quá | Exclamatory, Southern |\n| AFTER adjective | ghê | đẹp ghê | Intensely (Southern) |\n\nYou can even stack them: 'Đẹp quá trời luôn!' (Beautiful beyond the heavens!). Southern Vietnamese loves expressive exaggeration."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u5-l04-ex01",
+      "question": "In Vietnamese, where does the adjective go in relation to the noun?",
+      "options": ["Before the noun (like English)", "After the noun", "Either position works", "It replaces the noun"],
+      "correctAnswer": "After the noun",
+      "explanation": "Vietnamese adjectives come AFTER the noun: 'người cao' (person tall), not 'tall person'. This is the opposite of English word order."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u5-l04-ex02",
+      "question": "What is the Southern Vietnamese word for 'fat/chubby'?",
+      "options": ["béo", "mập", "ốm", "gầy"],
+      "correctAnswer": "mập",
+      "explanation": "'Mập' is the Southern word for fat/chubby. 'Béo' is the Northern equivalent. Both are understood everywhere, but 'mập' marks you as a Southern speaker."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u5-l04-ex03",
+      "question": "TRICKY: What does 'ốm' mean in Southern Vietnamese vs. Northern Vietnamese?",
+      "options": ["Thin (South) vs. Sick (North)", "Sick (South) vs. Thin (North)", "Old (South) vs. Young (North)", "Same meaning in both dialects"],
+      "correctAnswer": "Thin (South) vs. Sick (North)",
+      "explanation": "Major dialect difference! In the South, 'ốm' = thin/skinny. In the North, 'ốm' = sick/ill. Southerners say 'bệnh' for sick. This causes confusion between dialects!"
+    },
+    {
+      "type": "fill_blank",
+      "key": "u5-l04-ex04",
+      "question": "Complete this common family gathering comment (Southern style):",
+      "sentence": "Con cao hơn ba rồi đó, lớn nhanh _____.",
+      "english": "You're taller than Dad already — you grew up so fast.",
+      "correctAnswer": "ghê",
+      "acceptableAnswers": ["ghê", "Ghê", "quá", "lắm"],
+      "explanation": "'Ghê' is a distinctly Southern intensifier meaning 'intensely/so much'. 'Lớn nhanh ghê' = grew up so fast. 'Quá' and 'lắm' also work in this position."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u5-l04-ex05",
+      "question": "Type 'very delicious' using the casual Southern intensifier that goes AFTER the adjective:",
+      "correctAnswer": "ngon lắm",
+      "acceptableAnswers": ["ngon lắm", "Ngon lắm", "ngon lắm!", "Ngon lắm!"],
+      "explanation": "'Ngon' = delicious, 'lắm' = very (placed after adjective). 'Ngon lắm' is the natural, warm way Southern speakers say 'very delicious' in conversation."
+    }
+  ]
+}

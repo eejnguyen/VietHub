@@ -1,0 +1,228 @@
+{
+  "slug": "lesson-05-opinions",
+  "unitSlug": "unit-5-intermediate",
+  "title": "Expressing Opinions",
+  "titleVi": "Ý Kiến",
+  "description": "Learn to share what you think, agree, and (politely) disagree in Vietnamese — navigating the indirect communication style that keeps family harmony intact.",
+  "order": 5,
+  "estimatedMinutes": 17,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese communication tends to be more indirect than English, especially when disagreeing. Saving face ('giữ thể diện') is deeply important — you don't want to embarrass someone or create conflict openly. This doesn't mean Vietnamese people are passive; they're just strategic about HOW they express opinions.\n\nAs a heritage speaker, you might notice that your family avoids saying 'no' directly. Instead, they'll say 'cũng được' (it's okay/acceptable) when they're lukewarm, or change the subject when they disagree. Understanding these patterns helps you communicate naturally."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u5-l05-nghi",
+          "vietnamese": "nghĩ",
+          "english": "to think",
+          "ipa": "/ŋi˧˩/",
+          "audioFile": null,
+          "notes": "The most basic way to express a thought. 'Tui nghĩ...' = I think... Straightforward and commonly used in casual speech.",
+          "exampleSentence": {
+            "vietnamese": "Tui nghĩ mình nên đi sớm hơn.",
+            "english": "I think we should leave earlier.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l05-cho-rang",
+          "vietnamese": "cho rằng",
+          "english": "to consider that, to hold the opinion that",
+          "ipa": "/tɕɔ˧ zaŋ˧˩/",
+          "audioFile": null,
+          "notes": "More formal than 'nghĩ'. Used in serious discussions or debates. 'Tui cho rằng...' = I hold the opinion that... Southern pronunciation of 'rằng': /ɹaŋ/.",
+          "exampleSentence": {
+            "vietnamese": "Tui cho rằng chuyện đó không đúng.",
+            "english": "I hold the opinion that that's not right.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l05-theo-tui",
+          "vietnamese": "theo tui",
+          "english": "in my opinion (Southern casual)",
+          "ipa": "/tʰɛːw˧ tuj˧/",
+          "audioFile": null,
+          "notes": "'Theo' literally means 'to follow/according to'. 'Theo tui' = according to me. More formal: 'theo tôi'. 'Theo ý tui' = in my opinion (slightly more elaborate).",
+          "exampleSentence": {
+            "vietnamese": "Theo tui thì nên đợi thêm chút nữa.",
+            "english": "In my opinion, we should wait a bit longer.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l05-thay",
+          "vietnamese": "thấy",
+          "english": "to feel/find (opinion), to see",
+          "ipa": "/tʰəj˧˥/",
+          "audioFile": null,
+          "notes": "'Thấy' literally means 'to see' but is commonly used for opinions: 'Tui thấy...' = I feel/find that... It's softer than 'nghĩ' — more like sharing a feeling than making a claim.",
+          "exampleSentence": {
+            "vietnamese": "Tui thấy quán này ngon hơn quán kia.",
+            "english": "I find this restaurant better than that one.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l05-dong-y",
+          "vietnamese": "đồng ý",
+          "english": "to agree",
+          "ipa": "/doŋ˧˩ i˧˥/",
+          "audioFile": null,
+          "notes": "Direct agreement. 'Tui đồng ý' = I agree. Can also be used as a question: 'Đồng ý không?' = Do you agree? / Deal?",
+          "exampleSentence": {
+            "vietnamese": "Tui đồng ý với anh, làm vậy đi.",
+            "english": "I agree with you — let's do it that way.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l05-khong-dong-y",
+          "vietnamese": "không đồng ý",
+          "english": "to disagree",
+          "ipa": "/xoŋ˧ doŋ˧˩ i˧˥/",
+          "audioFile": null,
+          "notes": "Direct disagreement — used when you need to be clear. In casual Southern speech, people often soften this: 'Tui hổng đồng ý' ('hổng' = Southern casual 'không').",
+          "exampleSentence": {
+            "vietnamese": "Tui hổng đồng ý, cách đó không hay.",
+            "english": "I disagree — that approach isn't good.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l05-dung",
+          "vietnamese": "đúng",
+          "english": "correct, right, true",
+          "ipa": "/duŋ˧˥/",
+          "audioFile": null,
+          "notes": "A strong affirmation. 'Đúng rồi!' = That's right! 'Đúng vậy' = Exactly so. It's the Vietnamese equivalent of nodding vigorously.",
+          "exampleSentence": {
+            "vietnamese": "Đúng rồi! Tui cũng nghĩ vậy.",
+            "english": "That's right! I think so too.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l05-sai",
+          "vietnamese": "sai",
+          "english": "wrong, incorrect",
+          "ipa": "/ʂaj˧/",
+          "audioFile": null,
+          "notes": "Blunt — be careful using this about someone's opinion. 'Sai rồi' = That's wrong. It's fine for factual errors but can be face-threatening in opinion discussions.",
+          "exampleSentence": {
+            "vietnamese": "Cái đó sai rồi, để tui chỉ lại cho.",
+            "english": "That's wrong — let me show you again.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l05-cung-duoc",
+          "vietnamese": "cũng được",
+          "english": "it's okay, it's acceptable, sure/fine",
+          "ipa": "/kuŋ˧˩ dɨək˧˥/",
+          "audioFile": null,
+          "notes": "The ultimate Vietnamese non-committal response. Can mean anything from 'I'm fine with it' to 'I don't love it but won't argue'. Read the tone carefully — enthusiastic 'cũng được' vs flat 'cũng được' are very different.",
+          "exampleSentence": {
+            "vietnamese": "Ăn phở hả? Cũng được.",
+            "english": "Eat pho? Sure, that's fine. (Could be enthusiastic or lukewarm)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l05-hay",
+          "vietnamese": "hay",
+          "english": "good, interesting, or (conjunction)",
+          "ipa": "/haj˧/",
+          "audioFile": null,
+          "notes": "As an opinion word, 'hay' means good/interesting/engaging. 'Hay lắm!' = Very good!/Interesting! 'Hay ghê!' (Southern) = So good! Also means 'or' in questions: 'Đi hay ở?' (Go or stay?).",
+          "exampleSentence": {
+            "vietnamese": "Ý kiến đó hay lắm, thử đi!",
+            "english": "That idea is really good — let's try it!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l05-hong-biet",
+          "vietnamese": "hổng biết",
+          "english": "don't know (Southern casual)",
+          "ipa": "/hoŋ˧˩ˀ biət˧˥/",
+          "audioFile": null,
+          "notes": "'Hổng' is the Southern contraction of 'không' (not). 'Hổng biết' = don't know. It's very casual — you'd use 'không biết' in formal settings. You'll hear 'hổng' constantly in Saigon speech.",
+          "exampleSentence": {
+            "vietnamese": "Hổng biết nữa, để tui suy nghĩ thêm.",
+            "english": "I don't know anymore — let me think about it more.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l05-chac",
+          "vietnamese": "chắc",
+          "english": "probably, I think, sure/certain",
+          "ipa": "/tɕaːk˧˥/",
+          "audioFile": null,
+          "notes": "A hedging word that softens statements. 'Chắc vậy' = Probably so. 'Chắc là...' = I think/probably... 'Chắc chắn' = definitely/for certain (when you ARE sure).",
+          "exampleSentence": {
+            "vietnamese": "Chắc là anh đó không tới đâu.",
+            "english": "He's probably not going to come.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "Vietnamese communication has a strong concept of 'giữ thể diện' (saving face). This means:\n\n- **Disagreeing indirectly:** Instead of 'You're wrong', say 'Cũng có lý, nhưng...' (That has some logic, but...)\n- **Saying no without saying no:** 'Để tui coi lại' (Let me look at it again) often means no.\n- **Using hedging language:** 'Chắc', 'hình như' (seems like), 'có lẽ' (perhaps) soften opinions.\n- **Silence as disagreement:** If someone goes quiet after your suggestion, they probably disagree.\n\nFor heritage speakers raised in Western cultures where directness is valued, this indirectness can be confusing. But in Vietnamese family dynamics, maintaining harmony ('hòa thuận') often matters more than being right."
+    },
+    {
+      "type": "instruction",
+      "content": "**Polite disagreement toolkit — from softest to most direct:**\n\n| Vietnamese | English | Directness |\n|---|---|---|\n| Cũng được, nhưng... | That's okay, but... | Very soft |\n| Tui thấy hơi khác... | I see it a bit differently... | Soft |\n| Chắc không phải vậy đâu | I don't think it's like that | Medium |\n| Tui hổng đồng ý | I don't agree | Direct |\n| Sai rồi! | That's wrong! | Very direct (use with caution) |\n\nPro tip: Starting with agreement before disagreeing ('Đúng, nhưng...' — Right, but...) is the safest approach in most Vietnamese conversations."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u5-l05-ex01",
+      "question": "What does 'cũng được' typically convey?",
+      "options": ["Strong enthusiasm", "Non-committal acceptance (okay/fine)", "Strong disagreement", "I don't understand"],
+      "correctAnswer": "Non-committal acceptance (okay/fine)",
+      "explanation": "'Cũng được' is the classic Vietnamese non-committal response — it means 'it's acceptable/fine' but often hides lukewarm feelings. The tone of voice determines how positive it actually is."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u5-l05-ex02",
+      "question": "What is 'hổng' in Southern Vietnamese?",
+      "options": ["A greeting", "A casual contraction of 'không' (not)", "A formal title", "A type of food"],
+      "correctAnswer": "A casual contraction of 'không' (not)",
+      "explanation": "'Hổng' is the distinctly Southern casual form of 'không'. You'll hear 'hổng biết' (don't know), 'hổng có' (don't have), 'hổng đồng ý' (disagree) constantly in Saigon."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u5-l05-ex03",
+      "question": "Which phrase is the SOFTEST way to disagree?",
+      "options": ["Sai rồi!", "Tui hổng đồng ý", "Cũng được, nhưng...", "Không phải vậy"],
+      "correctAnswer": "Cũng được, nhưng...",
+      "explanation": "'Cũng được, nhưng...' (That's okay, but...) starts with acceptance before introducing the disagreement — the gentlest approach in Vietnamese's face-saving communication style."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u5-l05-ex04",
+      "question": "Complete this opinion using Southern casual Vietnamese:",
+      "sentence": "_____ tui thì nên đợi thêm chút nữa.",
+      "english": "In my opinion, we should wait a bit longer.",
+      "correctAnswer": "Theo",
+      "acceptableAnswers": ["Theo", "theo"],
+      "explanation": "'Theo tui' = according to me / in my opinion. 'Theo' literally means 'to follow/according to'. It's a natural way to introduce your opinion."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u5-l05-ex05",
+      "question": "Type 'That's right! I think so too.' in Vietnamese:",
+      "correctAnswer": "Đúng rồi! Tui cũng nghĩ vậy.",
+      "acceptableAnswers": ["Đúng rồi! Tui cũng nghĩ vậy.", "Đúng rồi! Tui cũng nghĩ vậy", "đúng rồi! tui cũng nghĩ vậy", "Đúng rồi! tui cũng nghĩ vậy.", "Đúng rồi, tui cũng nghĩ vậy"],
+      "explanation": "'Đúng rồi' = That's right. 'Tui cũng nghĩ vậy' = I also think so. 'Cũng' = also, 'vậy' = so/like that."
+    }
+  ]
+}

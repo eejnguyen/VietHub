@@ -1,0 +1,282 @@
+{
+  "slug": "lesson-04-extended-listening",
+  "unitSlug": "unit-7-advanced",
+  "title": "Extended Listening & Comprehension",
+  "titleVi": "Nghe Hiểu Nâng Cao",
+  "description": "Decode real-world Vietnamese as it's actually spoken: rapid Southern speech patterns, internet slang, texting abbreviations, song lyrics, and the colloquialisms you hear in Vietnamese media.",
+  "order": 4,
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Real Vietnamese doesn't sound like a textbook. When Vietnamese people talk fast, words blend together, tones shift, and whole syllables get swallowed. When they text, they use abbreviations that look like a foreign language. When they sing, they use poetic forms you won't find in everyday speech.\n\nThis lesson prepares you for the Vietnamese you'll actually encounter: YouTube videos, TikTok, Viet music, group chats with cousins, and rapid-fire conversations at phở restaurants.\n\nAs a heritage speaker, you have a huge advantage — your ear is already tuned to natural Vietnamese rhythm. Now let's make sure your brain can keep up with what your ears are hearing."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u7-l04-ko",
+          "vietnamese": "ko / hông / hem",
+          "english": "không (no / not) — texting and casual abbreviations",
+          "ipa": "/xoŋ˧/ → /hoŋ˧/ → /hɛm˧/",
+          "audioFile": null,
+          "notes": "'Ko' is the standard texting abbreviation for 'không.' In Southern casual speech, 'không' often becomes 'hông' (dropping the 'kh') or 'hem' (very casual, almost childish). You'll see 'ko' in every Vietnamese text message. 'Hông' is distinctly Southern spoken shortening.",
+          "exampleSentence": {
+            "vietnamese": "Đi ko? — Hông, tui bận. / Hem, tui hông đi.",
+            "english": "You going? — No, I'm busy. / Nah, I'm not going.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l04-dc",
+          "vietnamese": "dc / đc",
+          "english": "được (can / okay / able to) — texting abbreviation",
+          "ipa": "/dɨək˧˩/",
+          "audioFile": null,
+          "notes": "One of the most common Vietnamese text abbreviations. 'Dc' = được. 'Ok dc' = okay, can do. 'Ko dc' = can't / not okay. You'll see this in literally every Vietnamese group chat.",
+          "exampleSentence": {
+            "vietnamese": "Mai gặp dc ko? — Dc, 7 giờ nha.",
+            "english": "Can we meet tomorrow? — Sure, 7 o'clock okay.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l04-bik",
+          "vietnamese": "bik / bit",
+          "english": "biết (to know) — texting abbreviation",
+          "ipa": "/biət˧˥/",
+          "audioFile": null,
+          "notes": "'Bik' or 'bit' = biết in texting. 'Ko bik' = không biết = don't know. The abbreviation strips the tone mark and vowel — very common in young Vietnamese internet culture.",
+          "exampleSentence": {
+            "vietnamese": "Bik chỗ nào ăn ngon ko? — Ko bik, hỏi thử Google đi.",
+            "english": "Know anywhere good to eat? — Don't know, try asking Google.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l04-ntn",
+          "vietnamese": "ntn",
+          "english": "như thế nào (how / in what way) — texting abbreviation",
+          "ipa": "/ɲɨ˧ tʰe˧˥ naːw˧˩/",
+          "audioFile": null,
+          "notes": "Abbreviation of 'như thế nào.' In Southern speech, people often say 'làm sao' or 'sao' instead of the full 'như thế nào,' but in texting 'ntn' is universal across regions.",
+          "exampleSentence": {
+            "vietnamese": "Làm ntn bây giờ? — Từ từ tui tính.",
+            "english": "What do we do now? — Hold on, let me think.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l04-trc",
+          "vietnamese": "trc / trk",
+          "english": "trước (before) — texting abbreviation",
+          "ipa": "/tɕɨək˧˥/",
+          "audioFile": null,
+          "notes": "Short for 'trước.' Vietnamese texting strips vowels aggressively, keeping just the consonant skeleton. 'Trc đó' = trước đó (before that). You need to rebuild the word from consonants alone.",
+          "exampleSentence": {
+            "vietnamese": "Tui nói trc rồi mà — ko nghe tui hả?",
+            "english": "I said it before already — you didn't listen to me?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l04-nghe",
+          "vietnamese": "ngheng / nghen",
+          "english": "nhe / nghe (okay? / you hear?) — Southern casual ending",
+          "ipa": "/ŋɛn˧/ → /ŋɛŋ˧/",
+          "audioFile": null,
+          "notes": "Southern variant of 'nghe nha' (hear me? / okay?). Often contracted to 'nghen' or 'ngheng.' Used to close a statement with warmth. 'Đi nghen!' = I'm going now, okay! 'Nhớ ăn cơm ngheng!' = Remember to eat, okay! Very affectionate.",
+          "exampleSentence": {
+            "vietnamese": "Nhớ uống nước nhiều nghen, trời nóng lắm!",
+            "english": "Remember to drink lots of water okay, it's so hot out!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l04-oi-troi",
+          "vietnamese": "ối trời ơi / trời đất ơi",
+          "english": "oh my God! / oh heavens! (exclamations)",
+          "ipa": "/ʔoj˧˥ tɕəj˧˩ ʔəj˧/ /tɕəj˧˩ ɗat˧˥ ʔəj˧/",
+          "audioFile": null,
+          "notes": "These exclamations come rapid-fire in emotional speech. 'Trời ơi' is the standard 'oh my God.' 'Ối trời ơi' adds more drama. 'Trời đất ơi' (heaven and earth!) is the full dramatic version. In fast Southern speech, 'trời ơi' often sounds like 'chời ơi' or 'trừi ơi.'",
+          "exampleSentence": {
+            "vietnamese": "Ối trời ơi, sao mà đắt dữ vậy!",
+            "english": "Oh my God, why is it so ridiculously expensive!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l04-henchi",
+          "vietnamese": "hèn chi / hèn gì",
+          "english": "no wonder / that explains it",
+          "ipa": "/hɛn˧˩ tɕi˧/ /hɛn˧˩ ji˧˩/",
+          "audioFile": null,
+          "notes": "Very common Southern expression meaning 'no wonder!' or 'that explains it.' 'Hèn chi nó giỏi — ba nó là giáo sư!' = No wonder she's smart — her dad is a professor! You'll hear this constantly in conversation when someone connects the dots.",
+          "exampleSentence": {
+            "vietnamese": "Hèn chi tui gọi hoài không bắt máy — điện thoại hết pin!",
+            "english": "No wonder I kept calling and nobody picked up — the phone was dead!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l04-duduoc",
+          "vietnamese": "dữ / dữ vậy / dữ hông",
+          "english": "intense / seriously? / that much? (Southern intensifier)",
+          "ipa": "/jɨ˧˩/",
+          "audioFile": null,
+          "notes": "'Dữ' in Southern speech is an intensifier meaning 'intense, fierce, a lot.' 'Nóng dữ' = intensely hot. 'Đông dữ' = super crowded. 'Dữ vậy?' = really, that much? 'Dữ hông?' = intense right? In Northern speech, you'd hear 'ghê' or 'kinh' instead.",
+          "exampleSentence": {
+            "vietnamese": "Mưa dữ quá — ở nhà đi, đừng ra ngoài!",
+            "english": "It's raining so hard — stay home, don't go out!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l04-lun",
+          "vietnamese": "luôn / lun",
+          "english": "immediately / right away / even (emphatic)",
+          "ipa": "/luən˧/",
+          "audioFile": null,
+          "notes": "'Luôn' in casual Southern speech means 'right away' or adds emphasis. 'Đi luôn' = go right now. 'Đẹp luôn' = straight up beautiful. 'Lun' is the texting abbreviation. In rapid speech it becomes an all-purpose intensifier. 'Xong luôn' = already done, just like that.",
+          "exampleSentence": {
+            "vietnamese": "Ăn xong là đi luôn nha — không chờ đâu!",
+            "english": "As soon as we finish eating we're going right away — not waiting!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l04-troi-oi",
+          "vietnamese": "quá trời / quá xá",
+          "english": "extremely / ridiculously (Southern intensifiers)",
+          "ipa": "/kwaː˧˥ tɕəj˧˩/ /kwaː˧˥ saː˧˥/",
+          "audioFile": null,
+          "notes": "'Quá trời' (more than the sky) and 'quá xá' (excessively far) are Southern intensifiers stronger than just 'quá.' 'Đẹp quá trời' = ridiculously beautiful. 'Nhiều quá xá' = an absurd amount. These give your Vietnamese real Southern flavor.",
+          "exampleSentence": {
+            "vietnamese": "Nhớ nhà quá trời — muốn về Việt Nam liền!",
+            "english": "I miss home so incredibly much — I want to go back to Vietnam right now!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l04-mottram",
+          "vietnamese": "một trăm phần trăm",
+          "english": "100% / absolutely / totally (slang emphasis)",
+          "ipa": "/mot˧˩ tɕam˧ fən˧˩ tɕam˧/",
+          "audioFile": null,
+          "notes": "Used as emphatic agreement or confirmation, just like English '100%' or 'absolutely.' 'Đẹp không?' — 'Một trăm phần trăm!' Younger Vietnamese speakers use this constantly. Sometimes shortened to just 'một trăm' in casual speech.",
+          "exampleSentence": {
+            "vietnamese": "Tin tui đi — một trăm phần trăm nó thích bạn!",
+            "english": "Trust me — 100% that person likes you!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l04-saovay",
+          "vietnamese": "sao vậy / sao dzậy",
+          "english": "what happened? / why? / what's wrong?",
+          "ipa": "/saːw˧ jəj˧˩/",
+          "audioFile": null,
+          "notes": "The universal Southern Vietnamese reaction to anything unexpected. 'Sao vậy?' can mean 'what happened?', 'why?', or 'what's going on?' all depending on tone and context. In Southern pronunciation, 'vậy' sounds like 'dzậy' or 'yậy.' You'll hear this dozens of times in any Vietnamese conversation.",
+          "exampleSentence": {
+            "vietnamese": "Ủa, sao vậy? Mặt buồn quá — có chuyện gì không?",
+            "english": "Wait, what's wrong? You look so sad — did something happen?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l04-oida",
+          "vietnamese": "ủa",
+          "english": "wait / huh / what? (Southern surprise particle)",
+          "ipa": "/ʔuə˧˩/",
+          "audioFile": null,
+          "notes": "'Ủa' is the Southern Vietnamese surprise interjection. It expresses mild confusion or surprise, like 'wait, what?' or 'huh?' 'Ủa, sao kỳ vậy?' = Wait, that's weird? Northern speakers use 'ơ' or 'ô' instead. Hearing 'ủa' is an instant Southern identifier.",
+          "exampleSentence": {
+            "vietnamese": "Ủa, bạn đó là ai vậy? Tui chưa gặp bao giờ!",
+            "english": "Wait, who is that? I've never met them!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l04-bietma",
+          "vietnamese": "biết mà / biết rồi",
+          "english": "I already know / yeah yeah I know",
+          "ipa": "/biət˧˥ maː˧˩/ /biət˧˥ ɾoj˧˩/",
+          "audioFile": null,
+          "notes": "The response every Vietnamese parent has heard a thousand times from their kids. 'Biết rồi' = I already know (slightly annoyed). 'Biết mà' = I know, I know (reassuring or dismissive depending on tone). 'Biết rồi mà nói hoài!' = I already know but you keep saying it!",
+          "exampleSentence": {
+            "vietnamese": "Biết rồi má ơi — má nói cả trăm lần rồi!",
+            "english": "I know already, Mom — you've said it a hundred times!",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "Vietnamese internet and texting culture has its own language. Here's a quick decoder ring for common abbreviations you'll see in Vietnamese group chats:\n\n- **ko/k** = không (no/not)\n- **dc/đc** = được (can/okay)\n- **bik/bit** = biết (know)\n- **ntn** = như thế nào (how)\n- **trc/trk** = trước (before)\n- **ns** = nói (say/said)\n- **lun** = luôn (right away/even)\n- **r** = rồi (already)\n- **mk/mik** = mình (I/me, casual)\n- **bn** = bạn (you/friend) or bao nhiêu (how much)\n- **đag/đg** = đang (currently -ing)\n- **vs** = với (with)\n- **nc** = nói chuyện (to chat)\n\nDon't be thrown off when your Vietnamese cousins text you and it looks like an alien language. It's just compressed Vietnamese. Once you learn the consonant skeletons, you can decode almost anything."
+    },
+    {
+      "type": "instruction",
+      "content": "**Rapid Southern speech patterns to listen for:**\n\n1. **Tone flattening:** In fast speech, the hỏi (˧˩˧) and ngã (˧˩˥) tones merge in Southern dialect. Both sound like a low drop. This is why Southerners are sometimes said to 'only have 5 tones.'\n\n2. **Final consonant softening:** '-t' endings often soften to a glottal stop. 'Biết' → 'biế(ʔ)'. '-n' and '-ng' endings can blur together.\n\n3. **'V' to 'y/z' shift:** Southern speakers pronounce 'v' as /j/ or /z/. 'Vậy' → 'dzậy/yậy', 'về' → 'dzề/yề', 'vui' → 'dzui/yui'.\n\n4. **Swallowed syllables:** 'Không có' → 'hông có' → 'hổng có'. 'Không biết' → 'hông biết' → 'hổng bít'.\n\n5. **Filler sounds:** 'À', 'ờ', 'ừ', 'ủa', 'ậy' — these fill pauses and express reactions. They're not random noise; each has a meaning.\n\nYour heritage ear already processes most of this unconsciously. Making it conscious helps you understand even the fastest speakers."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u7-l04-ex01",
+      "question": "Your cousin texts you: 'mai gặp dc ko? trc 7h nha'. What are they asking?",
+      "options": [
+        "Can we meet tomorrow? Before 7, okay.",
+        "Did you go to the DC area yesterday at 7?",
+        "I'm going to a meeting tomorrow. Are you free?",
+        "Tomorrow I'll call you at 7, is that okay?"
+      ],
+      "correctAnswer": "Can we meet tomorrow? Before 7, okay.",
+      "explanation": "Decoded: 'mai' = tomorrow, 'gặp' = meet, 'dc' = được (can), 'ko' = không (not/question marker), 'trc' = trước (before), '7h' = 7 giờ (7 o'clock), 'nha' = okay? The full sentence: 'Mai gặp được không? Trước 7 giờ nha.'"
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u7-l04-ex02",
+      "question": "In rapid Southern speech, 'không biết' often gets shortened to:",
+      "options": [
+        "kông biết",
+        "hông bít / hổng bít",
+        "khôn biết",
+        "kẹt biết"
+      ],
+      "correctAnswer": "hông bít / hổng bít",
+      "explanation": "Southern speakers shift 'kh' to 'h' and soften final consonants. 'Không' becomes 'hông' or 'hổng,' and 'biết' can shorten to 'bít.' So 'không biết' (don't know) becomes 'hông bít' or 'hổng bít' in rapid casual speech."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u7-l04-ex03",
+      "question": "Which interjection immediately marks the speaker as Southern Vietnamese?",
+      "options": [
+        "Ơ (Northern surprise)",
+        "Ủa (Southern surprise)",
+        "Ô (formal surprise)",
+        "À (neutral acknowledgment)"
+      ],
+      "correctAnswer": "Ủa (Southern surprise)",
+      "explanation": "'Ủa' is the distinctively Southern Vietnamese surprise particle, meaning 'wait, what?' or 'huh?' Northern speakers use 'ơ' or 'ô' instead. Hearing someone say 'ủa' immediately identifies them as Southern."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u7-l04-ex04",
+      "question": "Decode this texting abbreviation: 'tui _____ bik chỗ đó' (I don't know that place)",
+      "sentence": "Tui _____ bik chỗ đó.",
+      "english": "I don't know that place.",
+      "correctAnswer": "ko",
+      "acceptableAnswers": ["ko", "Ko", "k", "hông", "hổng"],
+      "explanation": "'Ko' is the texting abbreviation for 'không' (not/no). 'Bik' = biết (know). The full sentence: 'Tui không biết chỗ đó' = I don't know that place."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u7-l04-ex05",
+      "question": "Type the Southern Vietnamese expression that means 'no wonder' or 'that explains it' (two words):",
+      "correctAnswer": "hèn chi",
+      "acceptableAnswers": ["hèn chi", "Hèn chi", "hen chi", "hèn gì", "Hèn gì", "hen gi"],
+      "explanation": "'Hèn chi' (or 'hèn gì') means 'no wonder' or 'that explains it.' It's a very common Southern expression used when you finally understand why something happened. Example: 'Hèn chi nó mập — suốt ngày ăn vặt!' = No wonder they're chubby — always snacking!"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "slug": "lesson-05-tense-markers",
+  "unitSlug": "unit-4-grammar",
+  "title": "Tense Markers",
+  "titleVi": "Từ Chỉ Thời Gian",
+  "description": "Vietnamese verbs never change form — no conjugation, no -ed, no -ing. Instead, time markers like 'đã,' 'đang,' and 'sẽ' sit before the verb to signal past, present, or future. Learn how this elegant system works.",
+  "order": 5,
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "One of the most beautiful things about Vietnamese grammar: **verbs never conjugate.** 'Ăn' means eat, ate, eating, will eat, have eaten — all the same word. Vietnamese handles time through **context** and **optional time markers** placed before or after the verb.\n\nHere's the system:\n\n**Past:**\n- **đã** — marks a completed action (like English past tense)\n- **rồi** — 'already' (placed at the end of the sentence)\n- **mới** — 'just' (something that happened recently)\n- **vừa** — 'just now' (even more recent than 'mới')\n\n**Present:**\n- **đang** — marks an ongoing action (like English -ing)\n\n**Future:**\n- **sẽ** — marks a future action (like English 'will')\n- **sắp** — 'about to' (imminent future)\n\n**The secret heritage speakers need to know:** In everyday Southern Vietnamese, people often **drop the tense marker entirely** and rely on context. 'Hôm qua tui ăn phở' (Yesterday I ate pho) — the word 'hôm qua' (yesterday) already tells you it's past tense, so 'đã' is optional. Formal/written Vietnamese uses tense markers more consistently, but in conversation, context does most of the work."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u4-l05-da",
+          "vietnamese": "đã",
+          "english": "already / past tense marker",
+          "ipa": "/ɗaː˧˥/",
+          "audioFile": null,
+          "notes": "Placed before the verb to indicate past tense: 'Tui đã ăn' (I already ate / I have eaten). Often dropped in casual speech when context is clear. More common in written Vietnamese and formal speech. If you include it, it adds emphasis: 'I DID eat.'",
+          "exampleSentence": {
+            "vietnamese": "Tui đã nói rồi mà.",
+            "english": "I already said it! (exasperated)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l05-dang",
+          "vietnamese": "đang",
+          "english": "currently / present progressive marker",
+          "ipa": "/ɗaːŋ˧/",
+          "audioFile": null,
+          "notes": "Placed before the verb to show an action in progress: 'Tui đang ăn' (I'm eating right now). Unlike 'đã,' this one is regularly used in both speech and writing because it genuinely adds meaning — it tells the listener the action is happening RIGHT NOW.",
+          "exampleSentence": {
+            "vietnamese": "Em đang làm gì vậy?",
+            "english": "What are you doing right now?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l05-se",
+          "vietnamese": "sẽ",
+          "english": "will / future tense marker",
+          "ipa": "/sɛ˧˥/",
+          "audioFile": null,
+          "notes": "Placed before the verb for future actions: 'Tui sẽ đi' (I will go). Like 'đã,' it can be dropped when context is clear: 'Ngày mai tui đi' (Tomorrow I go) is perfectly natural. 'Sẽ' adds certainty or promise: 'Tui sẽ về' = I WILL come back.",
+          "exampleSentence": {
+            "vietnamese": "Tui sẽ gọi cho em sau nha.",
+            "english": "I'll call you later, okay.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l05-roi",
+          "vietnamese": "rồi",
+          "english": "already (sentence-final completion marker)",
+          "ipa": "/zoj˧˩/",
+          "audioFile": null,
+          "notes": "Placed at the END of a sentence to indicate something is done: 'Ăn rồi' (Already ate). This is probably the tense marker you hear most in Southern Vietnamese families. 'Xong rồi' (Done already), 'Biết rồi' (I already know). Very versatile and very common.",
+          "exampleSentence": {
+            "vietnamese": "Con làm bài tập xong rồi.",
+            "english": "I've finished the homework already.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l05-chua",
+          "vietnamese": "chưa",
+          "english": "not yet / yet? (negative + question)",
+          "ipa": "/t͡ɕɨə˧/",
+          "audioFile": null,
+          "notes": "The companion to 'rồi.' 'Rồi' = already done; 'chưa' = not yet done. As a question: 'Ăn chưa?' (Eaten yet?). As an answer: 'Chưa' (Not yet). This pair — rồi/chưa — is one of the most important in everyday Vietnamese.",
+          "exampleSentence": {
+            "vietnamese": "Anh tắm chưa? — Chưa.",
+            "english": "Have you showered yet? — Not yet.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l05-moi",
+          "vietnamese": "mới",
+          "english": "just (recently completed action)",
+          "ipa": "/məːj˧˥/",
+          "audioFile": null,
+          "notes": "Indicates something happened recently: 'Tui mới tới' (I just arrived). Implies the action was completed not long ago. Different from 'vừa' in that 'mới' can cover a slightly wider time range — anywhere from minutes to days ago.",
+          "exampleSentence": {
+            "vietnamese": "Tui mới mua điện thoại mới.",
+            "english": "I just bought a new phone.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l05-vua",
+          "vietnamese": "vừa",
+          "english": "just now (very recently completed)",
+          "ipa": "/vɨə˧˩/",
+          "audioFile": null,
+          "notes": "Even more immediate than 'mới.' 'Tui vừa ăn xong' (I just finished eating — like, moments ago). Often combined: 'vừa mới' for emphasis: 'Tui vừa mới tới' (I literally just got here). In Southern speech, 'vừa' and 'mới' are sometimes interchangeable.",
+          "exampleSentence": {
+            "vietnamese": "Tui vừa nói chuyện với má.",
+            "english": "I just spoke with mom (moments ago).",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l05-sap",
+          "vietnamese": "sắp",
+          "english": "about to / almost (imminent future)",
+          "ipa": "/sap˧˥/",
+          "audioFile": null,
+          "notes": "Indicates something is about to happen very soon: 'Sắp mưa rồi' (It's about to rain). Closer in time than 'sẽ.' 'Sẽ' = will (general future), 'sắp' = about to (imminent). 'Sắp tới' = coming soon.",
+          "exampleSentence": {
+            "vietnamese": "Sắp tới giờ ăn rồi.",
+            "english": "It's almost time to eat.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l05-xong",
+          "vietnamese": "xong",
+          "english": "finished / done (completion marker)",
+          "ipa": "/sɔŋ˧/",
+          "audioFile": null,
+          "notes": "Placed after the verb to indicate completion: 'Ăn xong' (finished eating), 'Làm xong' (finished doing/working). Often paired with 'rồi': 'Ăn xong rồi' (Done eating already). Very common in everyday speech. 'Xong chưa?' = Finished yet?",
+          "exampleSentence": {
+            "vietnamese": "Ăn xong rồi mình đi nha.",
+            "english": "After we finish eating, let's go.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l05-chua-baogio",
+          "vietnamese": "chưa bao giờ",
+          "english": "never (have never)",
+          "ipa": "/t͡ɕɨə˧ ɓaːw˧ jəː˧˩/",
+          "audioFile": null,
+          "notes": "'Chưa bao giờ' means 'have never (done something)': 'Tui chưa bao giờ đi Việt Nam' (I've never been to Vietnam). It implies there's still a possibility in the future. For absolute 'never,' you'd use 'không bao giờ' (will never).",
+          "exampleSentence": {
+            "vietnamese": "Tui chưa bao giờ ăn sầu riêng.",
+            "english": "I've never eaten durian.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l05-luon",
+          "vietnamese": "luôn",
+          "english": "always / right away / immediately",
+          "ipa": "/luən˧/",
+          "audioFile": null,
+          "notes": "Two key meanings: (1) 'always': 'Tui luôn nhớ' (I always remember). (2) 'right away/immediately' in Southern speech: 'Đi luôn!' (Let's go right now!), 'Ăn luôn đi!' (Eat it now!). The second meaning is very Southern.",
+          "exampleSentence": {
+            "vietnamese": "Làm luôn đi, đừng để mai.",
+            "english": "Do it right now, don't leave it for tomorrow.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "**Why Vietnamese doesn't need conjugation:**\n\nEnglish speakers often wonder: without verb conjugation, isn't Vietnamese ambiguous? Not really. Vietnamese uses **context** more than English does. The time word in a sentence usually makes tense obvious:\n\n- **Hôm qua** tui ăn phở. (**Yesterday** I ate pho.) — past is clear\n- **Hôm nay** tui ăn phở. (**Today** I eat pho.) — present is clear\n- **Ngày mai** tui ăn phở. (**Tomorrow** I'll eat pho.) — future is clear\n\nTime markers (đã, đang, sẽ) are only needed when context alone isn't enough. This is actually more efficient — why conjugate a verb when 'yesterday' already tells you it's past tense?\n\nHeritage speakers have an advantage here: you've been processing Vietnamese without conjugation your whole life. Your brain already handles this naturally. The formal terms (đã, đang, sẽ) are just labels for what you already intuitively understand."
+    },
+    {
+      "type": "instruction",
+      "content": "**Tense Marker Quick Reference:**\n\n| Marker | Position | Meaning | Example |\n|--------|----------|---------|--------|\n| **đã** | before verb | past (completed) | Tui đã ăn. (I ate.) |\n| **đang** | before verb | present (ongoing) | Tui đang ăn. (I'm eating.) |\n| **sẽ** | before verb | future (will) | Tui sẽ ăn. (I will eat.) |\n| **sắp** | before verb | about to | Sắp mưa. (About to rain.) |\n| **mới** | before verb | just (recently) | Tui mới ăn. (I just ate.) |\n| **vừa** | before verb | just now | Tui vừa ăn. (I just ate — moments ago.) |\n| **rồi** | end of sentence | already | Ăn rồi. (Already ate.) |\n| **xong** | after verb | finished | Ăn xong. (Finished eating.) |\n| **chưa** | before verb / end | not yet | Chưa ăn. / Ăn chưa? |\n\n**Combo moves:**\n- 'vừa mới' = just now (emphatic recent past)\n- 'xong rồi' = done already\n- 'sắp...rồi' = almost (about to be done)\n- 'chưa bao giờ' = never (have never)"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u4-l05-ex01",
+      "question": "How do you say 'I'm eating right now' in Vietnamese?",
+      "options": ["Tui đã ăn.", "Tui đang ăn.", "Tui sẽ ăn.", "Tui mới ăn."],
+      "correctAnswer": "Tui đang ăn.",
+      "explanation": "'Đang' marks an action in progress — something happening right now. 'Tui đang ăn' = I'm eating (right now). 'Đã' = past, 'sẽ' = future, 'mới' = just recently."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u4-l05-ex02",
+      "question": "What's the difference between 'sẽ' and 'sắp'?",
+      "options": ["'Sẽ' is Southern, 'sắp' is Northern", "'Sẽ' is general future, 'sắp' is imminent future (about to)", "'Sẽ' is formal, 'sắp' is casual", "They are identical in meaning"],
+      "correctAnswer": "'Sẽ' is general future, 'sắp' is imminent future (about to)",
+      "explanation": "'Sẽ' marks general future actions (I will go tomorrow). 'Sắp' means something is about to happen very soon — it's imminent. 'Sắp mưa' = It's about to rain (any second). 'Sẽ mưa' = It will rain (at some point)."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u4-l05-ex03",
+      "question": "How would you answer 'Ăn chưa?' if you already ate?",
+      "options": ["Đã.", "Xong.", "Rồi.", "Không."],
+      "correctAnswer": "Rồi.",
+      "explanation": "'Rồi' (already) is the natural answer to a 'chưa' question when the action is done. 'Ăn chưa?' — 'Rồi.' (Already / Yes, already ate.) The 'rồi/chưa' pair works together: 'chưa' asks, 'rồi' confirms completion."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u4-l05-ex04",
+      "question": "Complete the sentence: 'Tui _____ tới, đợi tui chút.' (I just arrived, wait for me a moment.)",
+      "sentence": "Tui _____ tới, đợi tui chút.",
+      "english": "I just arrived, wait for me a moment.",
+      "correctAnswer": "mới",
+      "acceptableAnswers": ["mới", "vừa", "vừa mới"],
+      "explanation": "'Mới' or 'vừa' both mean 'just' (recently completed). 'Tui mới tới' = I just arrived. 'Vừa mới' combines both for extra emphasis on how recent the action is. All three answers are natural."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u4-l05-ex05",
+      "question": "Type 'I've never been to Vietnam' in Vietnamese. (Hint: chưa bao giờ + đi + Việt Nam)",
+      "correctAnswer": "Tui chưa bao giờ đi Việt Nam.",
+      "acceptableAnswers": ["Tui chưa bao giờ đi Việt Nam.", "Tui chưa bao giờ đi Việt Nam", "tui chưa bao giờ đi Việt Nam", "Tôi chưa bao giờ đi Việt Nam"],
+      "explanation": "'Chưa bao giờ' means 'have never.' 'Tui chưa bao giờ đi Việt Nam' = I have never gone to Vietnam. Using 'chưa' (not yet) instead of 'không' (never/won't) implies there's still a possibility you might go someday."
+    }
+  ]
+}

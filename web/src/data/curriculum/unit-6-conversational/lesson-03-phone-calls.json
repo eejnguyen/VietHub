@@ -1,0 +1,243 @@
+{
+  "slug": "lesson-03-phone-calls",
+  "unitSlug": "unit-6-conversational",
+  "title": "Phone Calls",
+  "titleVi": "Gọi Điện Thoại",
+  "description": "Learn how Vietnamese phone calls actually sound — from the classic 'A-lô?' opening to navigating video calls with relatives back in Vietnam. Essential for heritage speakers who call family across time zones.",
+  "order": 3,
+  "estimatedMinutes": 17,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese phone conversations have their own rhythm and etiquette. If you've ever answered a call from a Vietnamese relative and panicked because you didn't know what to say after 'A-lô,' this lesson is for you.\n\nThe basics:\n\n**A-lô?** — Hello? (phone greeting only)\n\nThis is how every Vietnamese phone call starts. It comes from the French 'allô' and is used exclusively for phone calls — never face-to-face. After 'A-lô,' the caller usually identifies themselves or asks for the person they want to reach.\n\n**Common phone call openers:**\n- **A-lô, ai đó?** — Hello, who is this?\n- **A-lô, cho con hỏi, ba có ở nhà không?** — Hello, may I ask, is Dad home?\n- **A-lô, dạ con nè, con gọi thăm ba má.** — Hello, it's me (your child), I'm calling to check on you.\n\n**Ending a call:**\n- **Thôi con cúp máy nha.** — Okay, I'm hanging up now.\n- **Dạ, tạm biệt ba/má.** — Goodbye, Dad/Mom.\n- **Rồi, nói chuyện sau nha.** — Okay, talk later.\n\nSouthern dialect note: Southerners often say 'gọi điện' or just 'gọi' for making a phone call. The full formal phrase 'gọi điện thoại' exists but feels overly formal in daily speech. For texting, Southerners commonly say 'nhắn tin' (send a message)."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u6-l03-alo",
+          "vietnamese": "a-lô",
+          "english": "hello (on the phone)",
+          "ipa": "/aː˧ lo˧/",
+          "audioFile": null,
+          "notes": "From French 'allô.' Used ONLY when answering or making phone calls — never as a face-to-face greeting. Both the caller and the receiver say 'A-lô?' to start. Sometimes you'll hear people say it twice: 'A-lô? A-lô?'",
+          "exampleSentence": {
+            "vietnamese": "A-lô? Ai đó?",
+            "english": "Hello? Who is this?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l03-aido",
+          "vietnamese": "ai đó",
+          "english": "who is that / who is this",
+          "ipa": "/aːj˧ ɗo˧˥/",
+          "audioFile": null,
+          "notes": "Used on the phone to ask who's calling. 'Ai đó?' (Who is that?). The more polite version is 'Xin lỗi, ai gọi vậy?' (Sorry, who is calling?). Older relatives often answer the phone with 'A-lô, ai đó?' without checking caller ID.",
+          "exampleSentence": {
+            "vietnamese": "A-lô, ai đó? Bà không thấy số này.",
+            "english": "Hello, who is this? Grandma doesn't recognize this number.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l03-goidien",
+          "vietnamese": "gọi điện",
+          "english": "to make a phone call",
+          "ipa": "/ɡɔːj˧ ɗiən˧˩/",
+          "audioFile": null,
+          "notes": "Short for 'gọi điện thoại' (to call telephone). In everyday Southern speech, people just say 'gọi' — 'Gọi cho má đi' (Call Mom). 'Gọi lại' means 'call back.' 'Gọi nhỡ' is a missed call.",
+          "exampleSentence": {
+            "vietnamese": "Tui gọi điện cho bà ngoại mỗi tuần.",
+            "english": "I call Grandma every week.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l03-nhantin",
+          "vietnamese": "nhắn tin",
+          "english": "to text / to send a message",
+          "ipa": "/ɲan˧˥ tin˧/",
+          "audioFile": null,
+          "notes": "Covers texting, messaging on Zalo, Viber, WhatsApp, etc. 'Nhắn' = to leave a message, 'tin' = message/news. 'Nhắn tin cho tui' = 'Text me.' In Vietnam, Zalo is the dominant messaging app — more popular than WhatsApp or Facebook Messenger for family communication.",
+          "exampleSentence": {
+            "vietnamese": "Nhắn tin cho má nói con tới trễ.",
+            "english": "Text Mom and tell her I'll arrive late.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l03-goivideo",
+          "vietnamese": "gọi video",
+          "english": "video call",
+          "ipa": "/ɡɔːj˧ vi˧ ɗe˧ o˧/",
+          "audioFile": null,
+          "notes": "Video calling is how most Việt kiều families stay connected with relatives in Vietnam. Zalo video calls are the standard. Your bà might hold the phone too close to her face or accidentally mute herself — be patient. 'Gọi video cho bà đi' = 'Video call Grandma.'",
+          "exampleSentence": {
+            "vietnamese": "Tối nay gọi video cho bà ngoại nha.",
+            "english": "Let's video call Grandma tonight.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l03-ban",
+          "vietnamese": "bận",
+          "english": "busy",
+          "ipa": "/bən˧˩/",
+          "audioFile": null,
+          "notes": "Used to say you can't talk right now. 'Tui đang bận' (I'm busy right now). 'Máy bận' means 'the line is busy.' If someone calls at a bad time: 'Tui đang bận, gọi lại sau nha' (I'm busy, call back later okay).",
+          "exampleSentence": {
+            "vietnamese": "Má đang bận, gọi lại sau nha con.",
+            "english": "Mom is busy, call back later okay child.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l03-ranh",
+          "vietnamese": "rảnh",
+          "english": "free / available / not busy",
+          "ipa": "/ɹaɲ˧˩/",
+          "audioFile": null,
+          "notes": "The opposite of 'bận.' 'Rảnh không?' (Are you free?). 'Khi nào rảnh gọi cho tui' (When you're free, call me). Checking if someone is 'rảnh' before launching into a long conversation is polite phone etiquette.",
+          "exampleSentence": {
+            "vietnamese": "Bây giờ rảnh không? Tui muốn nói chuyện.",
+            "english": "Are you free right now? I want to talk.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l03-gap",
+          "vietnamese": "gặp",
+          "english": "to meet / to see / to reach (someone)",
+          "ipa": "/ɡap˧˩/",
+          "audioFile": null,
+          "notes": "In phone contexts, 'gặp' means reaching someone. 'Gọi mà không gặp' (Called but couldn't reach them). In person, it means to meet or see. 'Khi nào gặp lại?' (When will we meet again?). 'Hẹn gặp' = see you / let's meet.",
+          "exampleSentence": {
+            "vietnamese": "Tui gọi ba hoài mà hổng gặp.",
+            "english": "I keep calling Dad but can't reach him.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l03-hen",
+          "vietnamese": "hẹn",
+          "english": "to make an appointment / to arrange to meet",
+          "ipa": "/hɛn˧˩/",
+          "audioFile": null,
+          "notes": "'Hẹn gặp' = make plans to meet. 'Hẹn gọi lại' = arrange to call back. 'Hẹn nhau' = make plans with each other. Often used at the end of calls: 'Hẹn nói chuyện sau' (Let's talk later / We'll chat another time).",
+          "exampleSentence": {
+            "vietnamese": "Hẹn gặp cuối tuần nha.",
+            "english": "Let's meet up this weekend, okay?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l03-cupmay",
+          "vietnamese": "cúp máy",
+          "english": "to hang up (the phone)",
+          "ipa": "/kup˧˥ maːj˧˥/",
+          "audioFile": null,
+          "notes": "Literally 'cut the machine.' This is the standard Southern phrase for hanging up. Northerners sometimes say 'tắt máy' (turn off the machine) or 'dập máy.' To politely end: 'Thôi con cúp máy nha' (Okay, I'm hanging up now).",
+          "exampleSentence": {
+            "vietnamese": "Thôi con cúp máy nha ba, con thương ba.",
+            "english": "Okay, I'm hanging up now Dad, I love you Dad.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l03-goilai",
+          "vietnamese": "gọi lại",
+          "english": "to call back",
+          "ipa": "/ɡɔːj˧ laːj˧˩/",
+          "audioFile": null,
+          "notes": "'Lại' here means 'back/again.' 'Gọi lại sau' (call back later), 'gọi lại nghe' (call back, okay?). If you miss a call: 'Tui sẽ gọi lại' (I'll call back). Vietnamese relatives might call multiple times if you don't answer — don't be surprised by 5 missed calls.",
+          "exampleSentence": {
+            "vietnamese": "Tui đang lái xe, gọi lại sau nha.",
+            "english": "I'm driving, I'll call back later okay.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u6-l03-nghe",
+          "vietnamese": "nghe",
+          "english": "to hear / to listen / to answer (the phone)",
+          "ipa": "/ŋɛ˧/",
+          "audioFile": null,
+          "notes": "In phone contexts, 'nghe máy' = answer the phone. 'Sao không nghe máy?' (Why didn't you answer the phone?). Also used as a conversation filler: 'Nghe không?' (Can you hear me?). In Southern Vietnamese, 'nghe' is also used as a softening particle at the end of sentences: 'Gọi cho má nghe' (Call Mom, okay?).",
+          "exampleSentence": {
+            "vietnamese": "Sao gọi hoài mà không nghe máy vậy?",
+            "english": "Why do I keep calling but you don't answer?",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "**Phone Culture: Calling Family in Vietnam**\n\nFor heritage speakers, phone calls to Vietnam are a lifeline to family. Here's what you should know:\n\n**Time zones matter:** Vietnam is UTC+7. If you're in California (PST), Vietnam is 15 hours ahead. When it's 7 PM Saturday for you, it's 10 AM Sunday in Saigon. Prime calling hours to Vietnam from the US West Coast: 5-8 PM your time (8-11 AM Vietnam time). Avoid calling super late Vietnam time — your bà goes to bed early.\n\n**Zalo is king:** While you might use WhatsApp or iMessage, Vietnamese people overwhelmingly use Zalo for messaging and video calls. If you want to stay connected with family in Vietnam, download Zalo. It's like their WhatsApp + Venmo + Instagram combined.\n\n**The 'guilt call' pattern:** Vietnamese parents and grandparents might open with 'Sao lâu quá hổng gọi cho má?' (Why haven't you called Mom in so long?) — don't take it as criticism. It's how they say 'I miss you.' The expected response is something like 'Dạ con bận quá, con xin lỗi má' (I was so busy, I'm sorry Mom).\n\n**Video call challenges:** Older relatives might not be tech-savvy. Be patient with bà holding the phone at her chin, accidental muting, or walking around showing you everything in the house. This is actually wonderful — embrace it.\n\n**Phone call sign-offs:** Vietnamese phone calls with family tend to end with multiple 'goodbye' rounds. Don't just hang up abruptly. The standard pattern is: express that you need to go, say something affectionate, promise to call again, then hang up. 'Thôi con cúp máy nha, con thương ba má, cuối tuần con gọi lại.'"
+    },
+    {
+      "type": "instruction",
+      "content": "**Sample Phone Conversation: Calling Grandma in Vietnam**\n\n- **Bà:** A-lô? *(Hello?)*\n- **You:** A-lô, dạ bà ngoại hả? Con nè, con gọi thăm bà. *(Hello, is that Grandma? It's me, I'm calling to check on you.)*\n- **Bà:** Ơi con, lâu quá hổng nghe tiếng con! Khỏe không con? *(Oh child, it's been so long since I've heard your voice! Are you doing well?)*\n- **You:** Dạ con khỏe. Bà có khỏe không? *(I'm well. Are you well?)*\n- **Bà:** Bà khỏe, bà nhớ con quá! Bao giờ về Việt Nam thăm bà? *(Grandma's well, I miss you so much! When are you coming to Vietnam to visit?)*\n- **You:** Dạ chắc năm sau con về. Bà ăn uống đầy đủ nha bà. *(Probably next year I'll come back. Make sure you eat well, Grandma.)*\n- **Bà:** Ừ, con cũng vậy. Ăn cơm đi, đừng ăn đồ Mỹ hoài! *(Yes, you too. Eat rice, don't eat American food all the time!)*\n- **You:** Dạ, con biết rồi. Thôi con cúp máy nha bà. Con thương bà. *(Yes, I know. Okay, I'm hanging up now Grandma. I love you Grandma.)*\n- **Bà:** Ừ, bà thương con. Nhớ gọi cho bà hoài nghe con. *(Yes, Grandma loves you. Remember to call Grandma often, okay child.)*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u6-l03-ex01",
+      "question": "How do you say 'hello' when answering the phone in Vietnamese?",
+      "options": [
+        "Xin chào",
+        "A-lô",
+        "Chào bạn",
+        "Dạ"
+      ],
+      "correctAnswer": "A-lô",
+      "explanation": "'A-lô' (from French 'allô') is the standard phone greeting in Vietnamese. 'Xin chào' and 'Chào bạn' are face-to-face greetings, never used on the phone. 'Dạ' is a respectful response word but not a phone greeting on its own."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u6-l03-ex02",
+      "question": "Your mom calls and you're driving. What's the most natural thing to say?",
+      "options": [
+        "Con không muốn nói chuyện.",
+        "Tui đang lái xe, gọi lại sau nha.",
+        "A-lô? Ai đó?",
+        "Cúp máy đi."
+      ],
+      "correctAnswer": "Tui đang lái xe, gọi lại sau nha.",
+      "explanation": "'Tui đang lái xe, gọi lại sau nha' (I'm driving, I'll call back later okay) is natural and polite. It explains why you can't talk and promises to call back. Saying 'I don't want to talk' is rude to a parent. 'Who is this?' doesn't make sense if you know it's Mom. 'Hang up' is abrupt and rude."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u6-l03-ex03",
+      "question": "Which messaging app is most commonly used by Vietnamese people in Vietnam for family communication?",
+      "options": [
+        "WhatsApp",
+        "iMessage",
+        "Zalo",
+        "Facebook Messenger"
+      ],
+      "correctAnswer": "Zalo",
+      "explanation": "Zalo is by far the most popular messaging app in Vietnam, used for texting, voice calls, video calls, and even payments. While Facebook Messenger is also common, Zalo is the go-to for family communication. WhatsApp and iMessage are rarely used in Vietnam."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u6-l03-ex04",
+      "question": "You want to tell your grandma you're hanging up now. Complete: 'Thôi con _____ nha bà.'",
+      "sentence": "Thôi con _____ nha bà.",
+      "english": "Okay, I'm hanging up now, Grandma.",
+      "correctAnswer": "cúp máy",
+      "acceptableAnswers": ["cúp máy"],
+      "explanation": "'Cúp máy' means 'to hang up the phone' (literally 'cut the machine'). It's the standard Southern Vietnamese phrase. The full sentence 'Thôi con cúp máy nha bà' is a gentle, respectful way to end a call with your grandmother — 'thôi' signals wrapping up, and 'nha' softens it."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u6-l03-ex05",
+      "question": "Type the Vietnamese phrase for 'to send a text message.'",
+      "correctAnswer": "nhắn tin",
+      "acceptableAnswers": ["nhắn tin", "Nhắn tin", "nhan tin", "Nhan tin"],
+      "explanation": "'Nhắn tin' means 'to text / to send a message.' 'Nhắn' = to leave a message/to relay, 'tin' = message/news. This covers SMS, Zalo messages, and any text-based messaging. 'Nhắn tin cho tui' = 'Text me.'"
+    }
+  ]
+}

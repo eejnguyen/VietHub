@@ -1,0 +1,280 @@
+{
+  "slug": "lesson-06-pronouns",
+  "unitSlug": "unit-4-grammar",
+  "title": "The Pronoun System",
+  "titleVi": "Đại Từ Nhân Xưng",
+  "description": "Vietnamese pronouns are one of the most complex and culturally rich parts of the language. There's no single word for 'I' or 'you' — instead, you choose based on age, relationship, and social context. This lesson maps out the system for heritage speakers who know it by feel but want to understand the full picture.",
+  "order": 6,
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "If there's one thing that makes Vietnamese fundamentally different from English, it's the pronoun system. English has a fixed set: I, you, he, she, they. Vietnamese has **dozens of pronouns**, and the one you choose tells the listener:\n\n1. **Your relative age** to the person you're speaking to\n2. **Your relationship** (family, stranger, romantic, professional)\n3. **Your level of respect or intimacy**\n4. **Your regional dialect** (North vs South)\n\nAs a heritage speaker, you already navigate this instinctively with family. You call your parents 'ba/má,' you refer to yourself as 'con,' and you'd never dream of using 'tao' with your grandmother. But outside the family context — with strangers, coworkers, or new Vietnamese acquaintances — the system can feel overwhelming.\n\n**The core principle:** Vietnamese pronouns are based on **kinship terms.** Even with strangers, you're essentially assigning them a family role (older brother, aunt, grandfather) based on how old they look relative to you. This isn't weird in Vietnamese culture — it's how everyone communicates.\n\n**Southern vs Northern differences:**\n- 'I' (casual): Southern = **tui**, Northern = **tớ**\n- 'I' (to parents/elders): Both = **con**\n- 'You' (casual): Southern = **mày/bạn**, Northern = **cậu**\n- Polite 'yes': Southern = **dạ**, Northern = **vâng**\n- 'Mom': Southern = **má**, Northern = **mẹ**\n- 'Dad': Southern = **ba**, Northern = **bố**"
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u4-l06-tui",
+          "vietnamese": "tui",
+          "english": "I / me (casual, Southern)",
+          "ipa": "/tuj˧/",
+          "audioFile": null,
+          "notes": "The default casual 'I' in Southern Vietnamese. Used with friends, peers, and in relaxed settings. Northern equivalent is 'tớ.' More polite than 'tao' but less formal than 'tôi.' This is probably what you use most in daily speech.",
+          "exampleSentence": {
+            "vietnamese": "Tui đi chợ nha.",
+            "english": "I'm going to the market, okay.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l06-toi",
+          "vietnamese": "tôi",
+          "english": "I / me (neutral, formal)",
+          "ipa": "/toj˧/",
+          "audioFile": null,
+          "notes": "The formal, neutral 'I.' Used in professional settings, with strangers, in writing, and in textbooks. Sounds stiff in casual conversation among Southern speakers — you'd use 'tui' or 'mình' instead. But essential for formal Vietnamese.",
+          "exampleSentence": {
+            "vietnamese": "Tôi tên là Minh.",
+            "english": "My name is Minh. (formal)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l06-minh",
+          "vietnamese": "mình",
+          "english": "I (friendly) / we (inclusive) / you (between spouses)",
+          "ipa": "/miɲ˧˩/",
+          "audioFile": null,
+          "notes": "One of the most versatile pronouns. (1) 'I' in a friendly, humble way: 'Mình không biết' (I don't know). (2) 'We' inclusively: 'Mình đi đi!' (Let's go!). (3) Between married couples or lovers: 'Mình ơi' (Honey). Context determines meaning.",
+          "exampleSentence": {
+            "vietnamese": "Mình đi ăn đi!",
+            "english": "Let's go eat!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l06-con",
+          "vietnamese": "con",
+          "english": "I/me (child speaking to parents/elders)",
+          "ipa": "/kɔn˧/",
+          "audioFile": null,
+          "notes": "How you refer to yourself when speaking to parents, grandparents, aunts, uncles, and teachers. Literally means 'child.' 'Con đi học' (I'm going to school — said to a parent). This is non-negotiable — using 'tui' or 'tôi' with your parents sounds cold and disrespectful.",
+          "exampleSentence": {
+            "vietnamese": "Dạ, con hiểu rồi.",
+            "english": "Yes, I understand. (to a parent/elder)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l06-anh",
+          "vietnamese": "anh",
+          "english": "you (older male) / older brother / I (older male to younger)",
+          "ipa": "/aɲ˧/",
+          "audioFile": null,
+          "notes": "Used to address a male who is somewhat older than you or of similar age in a respectful context. Also how an older male refers to himself when speaking to someone younger: 'Anh sẽ giúp em' (I'll help you — older male to younger person). In romantic relationships, the male partner is usually 'anh.'",
+          "exampleSentence": {
+            "vietnamese": "Anh ơi, giúp em cái này đi.",
+            "english": "Hey (older brother), help me with this.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l06-chi",
+          "vietnamese": "chị",
+          "english": "you (older female) / older sister / I (older female to younger)",
+          "ipa": "/t͡ɕi˧˥/",
+          "audioFile": null,
+          "notes": "Female equivalent of 'anh.' Used for a woman who appears somewhat older than you. Also how an older female refers to herself when talking to younger people. 'Chị' implies warmth and familiarity — it's a compliment to be called 'chị' rather than 'cô' or 'bà.'",
+          "exampleSentence": {
+            "vietnamese": "Chị tên gì vậy?",
+            "english": "What's your name? (to an older female)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l06-em",
+          "vietnamese": "em",
+          "english": "you (younger person) / I (younger person to older) / younger sibling",
+          "ipa": "/ɛm˧/",
+          "audioFile": null,
+          "notes": "Used for someone clearly younger than you. Also how a younger person refers to themselves when talking to an 'anh' or 'chị': 'Em không biết' (I don't know — said by a younger person to an older one). In romantic relationships, the female partner or younger partner is often 'em.'",
+          "exampleSentence": {
+            "vietnamese": "Em muốn uống gì?",
+            "english": "What do you want to drink? (to a younger person)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l06-ba",
+          "vietnamese": "ba",
+          "english": "dad / father (Southern)",
+          "ipa": "/ɓaː˧/",
+          "audioFile": null,
+          "notes": "Southern Vietnamese for 'dad.' Northern says 'bố.' Also used as a pronoun: 'Ba đi làm' (Dad goes to work). You address your father as 'ba' and refer to yourself as 'con.' Some Southern families use 'bố' too due to Northern influence, but 'ba' is the classic Southern term.",
+          "exampleSentence": {
+            "vietnamese": "Ba ơi, ba về chưa?",
+            "english": "Dad, are you home yet?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l06-ma",
+          "vietnamese": "má",
+          "english": "mom / mother (Southern)",
+          "ipa": "/maː˧˥/",
+          "audioFile": null,
+          "notes": "Southern Vietnamese for 'mom.' Northern says 'mẹ.' Like 'ba,' it doubles as a pronoun: 'Má nấu cơm' (Mom cooks rice). Deeply Southern — hearing someone say 'má' vs 'mẹ' instantly tells you their dialect background. Some families use 'mẹ' even in the South.",
+          "exampleSentence": {
+            "vietnamese": "Má nấu gì hôm nay vậy má?",
+            "english": "What are you cooking today, mom?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l06-ong",
+          "vietnamese": "ông",
+          "english": "grandfather / you (elderly man) / he (elderly man)",
+          "ipa": "/oŋ˧/",
+          "audioFile": null,
+          "notes": "Used for your grandfather or any elderly man. Also a formal/respectful way to address an older man: 'Ông ơi' (Sir/Grandfather). In formal contexts, 'ông' can mean 'Mr.': 'Ông Nguyễn' (Mr. Nguyen). When speaking to 'ông,' you refer to yourself as 'con' or 'cháu.'",
+          "exampleSentence": {
+            "vietnamese": "Ông ngoại khỏe không?",
+            "english": "How is maternal grandfather?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l06-ba-grandmother",
+          "vietnamese": "bà",
+          "english": "grandmother / you (elderly woman) / she (elderly woman)",
+          "ipa": "/ɓaː˧˩/",
+          "audioFile": null,
+          "notes": "Used for your grandmother or any elderly woman. 'Bà nội' = paternal grandmother, 'bà ngoại' = maternal grandmother. Also means 'Mrs.' in formal contexts. When speaking to 'bà,' you call yourself 'con' or 'cháu' (grandchild).",
+          "exampleSentence": {
+            "vietnamese": "Bà nội kể chuyện cho con nghe đi.",
+            "english": "Grandma, tell me a story.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l06-chau",
+          "vietnamese": "cháu",
+          "english": "I (to grandparent-aged people) / grandchild / niece / nephew",
+          "ipa": "/t͡ɕaːw˧˥/",
+          "audioFile": null,
+          "notes": "How you refer to yourself when speaking to someone your grandparents' age who is NOT your actual grandparent: 'Dạ, cháu khỏe' (I'm well — to an elderly stranger). With your own grandparents, you'd typically use 'con' instead. Also the word for grandchild, niece, or nephew.",
+          "exampleSentence": {
+            "vietnamese": "Dạ, cháu tên Lan.",
+            "english": "My name is Lan. (to an elderly stranger)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l06-co",
+          "vietnamese": "cô",
+          "english": "aunt (father's sister) / you (woman, teacher-aged) / Ms.",
+          "ipa": "/ko˧/",
+          "audioFile": null,
+          "notes": "Used for your father's younger sister, a female teacher, or any woman who is notably older than you (parent's generation). 'Cô giáo' = female teacher. In the South, 'cô' is very common for addressing women in shops and restaurants who are your parents' age.",
+          "exampleSentence": {
+            "vietnamese": "Cô giáo ơi, con hỏi câu này được không?",
+            "english": "Teacher, may I ask this question?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l06-chu",
+          "vietnamese": "chú",
+          "english": "uncle (father's younger brother) / you (man, younger than parents)",
+          "ipa": "/t͡ɕu˧˥/",
+          "audioFile": null,
+          "notes": "Used for your father's younger brother or any man slightly younger than your parents. 'Chú' is younger than 'bác': if a man looks older than your parents, use 'bác'; if younger, use 'chú.' This distinction matters in Vietnamese culture.",
+          "exampleSentence": {
+            "vietnamese": "Chú ơi, cho con hỏi đường.",
+            "english": "Excuse me sir, can I ask for directions?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l06-tao",
+          "vietnamese": "tao",
+          "english": "I / me (very casual, can be rude)",
+          "ipa": "/taːw˧/",
+          "audioFile": null,
+          "notes": "'Tao' is the blunt, casual 'I' used between very close friends or when angry. The pair 'tao/mày' (I/you) is either very intimate (close friends joking around) or very aggressive (in a fight). NEVER use with elders or in formal settings. Heritage speakers: your parents probably told you 'Đừng xưng tao!'",
+          "exampleSentence": {
+            "vietnamese": "Tao nói rồi mà mày không nghe.",
+            "english": "I told you already but you didn't listen. (very casual/blunt)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l06-may",
+          "vietnamese": "mày",
+          "english": "you (very casual, can be rude)",
+          "ipa": "/maːj˧˩/",
+          "audioFile": null,
+          "notes": "The partner to 'tao.' 'Mày' is blunt 'you' — either between very close friends or in confrontation. In Southern Vietnamese, you'll also hear 'mi' as a variant. Parents sometimes use 'mày' when scolding children: 'Mày đi đâu vậy?' Context determines if it's friendly or angry.",
+          "exampleSentence": {
+            "vietnamese": "Mày muốn ăn gì?",
+            "english": "What do you wanna eat? (very casual between close friends)",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "**The pronoun minefield — and how to navigate it:**\n\nThe hardest part for heritage speakers isn't learning the pronouns — it's choosing the right one in real time. Here's a practical guide:\n\n**When you meet a Vietnamese stranger:**\n1. Estimate their age relative to yours\n2. Note their gender\n3. Pick the closest kinship term:\n   - Looks your age or a bit older (male): **anh**\n   - Looks your age or a bit older (female): **chị**\n   - Clearly younger: **em**\n   - Your parents' age (female): **cô**\n   - Your parents' age (male): **chú** (if younger than your parents) or **bác** (if older)\n   - Elderly: **ông** (male) or **bà** (female)\n\n**Refer to yourself as:**\n- **em** (if they're anh/chị/cô/chú)\n- **con** (if they're ông/bà or your parents' age in some contexts)\n- **cháu** (if they're ông/bà-aged and not your actual grandparents)\n\n**When in doubt:** err on the side of MORE respect. Calling a 35-year-old woman 'chị' when she's actually your age is a compliment. Calling her 'em' when she's older is an insult. Better to over-respect than under-respect.\n\n**Southern tip:** In Saigon, younger people increasingly use 'bạn' (friend) as a gender-neutral peer pronoun, especially in professional or modern settings. It's a safe fallback when age is ambiguous."
+    },
+    {
+      "type": "instruction",
+      "content": "**Pronoun Quick Reference:**\n\n| Pronoun | Meaning | Use when... |\n|---------|---------|-------------|\n| **tui** | I (casual, Southern) | Talking to friends, peers |\n| **tôi** | I (formal) | Professional, strangers, writing |\n| **mình** | I (friendly) / we | Among friends, inclusive 'we' |\n| **con** | I (to elders) | Speaking to parents, grandparents, teachers |\n| **cháu** | I (to elderly strangers) | Speaking to ông/bà-aged non-relatives |\n| **anh** | you/I (older male) | With/as a slightly older male |\n| **chị** | you/I (older female) | With/as a slightly older female |\n| **em** | you/I (younger person) | With/as a younger person |\n| **ba** | dad (Southern) | Your father (Northern: bố) |\n| **má** | mom (Southern) | Your mother (Northern: mẹ) |\n| **ông** | grandfather / sir | Elderly men |\n| **bà** | grandmother / ma'am | Elderly women |\n| **cô** | aunt / Ms. / teacher | Parent-generation women |\n| **chú** | uncle | Men younger than your parents |\n| **tao/mày** | I/you (blunt) | Very close friends or confrontation |\n\n**Golden rule:** When in doubt, go more formal and more respectful. You can always relax later once the relationship is established."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u4-l06-ex01",
+      "question": "You're talking to your mom. How should you refer to yourself?",
+      "options": ["Tui", "Tôi", "Con", "Mình"],
+      "correctAnswer": "Con",
+      "explanation": "When speaking to parents and elders, you always refer to yourself as 'con' (child). Using 'tui' or 'tôi' with your own parents would sound distant and disrespectful in Vietnamese culture. 'Con' shows the proper family relationship."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u4-l06-ex02",
+      "question": "You meet a woman at a Vietnamese event who looks about 10 years older than you. What pronoun should you use to address her?",
+      "options": ["Em", "Bà", "Chị", "Cô"],
+      "correctAnswer": "Chị",
+      "explanation": "'Chị' is correct for a woman who is somewhat older than you (sister-aged). 'Em' would be rude — it implies she's younger. 'Bà' is for elderly women (grandmother-aged). 'Cô' is for women your parents' age. When she's just a bit older, 'chị' is the safe, respectful choice."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u4-l06-ex03",
+      "question": "What is the Southern Vietnamese word for 'mom'?",
+      "options": ["Mẹ", "Má", "Bà", "Cô"],
+      "correctAnswer": "Má",
+      "explanation": "'Má' is the Southern Vietnamese word for mom. 'Mẹ' is the Northern equivalent. Both are correct, but 'má' is the distinctly Southern term. Hearing someone say 'má' vs 'mẹ' immediately tells you they come from a Southern Vietnamese background."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u4-l06-ex04",
+      "question": "Speaking to an elderly man at the temple, you say: 'Dạ, _____ tên Minh.' (My name is Minh — respectfully to an elderly stranger.)",
+      "sentence": "Dạ, _____ tên Minh.",
+      "english": "My name is Minh. (to an elderly male stranger)",
+      "correctAnswer": "cháu",
+      "acceptableAnswers": ["cháu", "con"],
+      "explanation": "'Cháu' is how you refer to yourself when speaking to an elderly stranger (ông/bà-aged). 'Con' is also acceptable — some people use 'con' with anyone in the elder generation, especially in Southern Vietnamese. Both show proper respect."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u4-l06-ex05",
+      "question": "Type 'Dad, are you home yet?' in Southern Vietnamese. (Hint: ba + ơi + ba + về + chưa)",
+      "correctAnswer": "Ba ơi, ba về chưa?",
+      "acceptableAnswers": ["Ba ơi, ba về chưa?", "Ba ơi, ba về chưa", "ba ơi, ba về chưa?", "ba ơi ba về chưa", "Ba ơi ba về chưa?"],
+      "explanation": "'Ba ơi, ba về chưa?' — 'Ba' (dad, Southern), 'ơi' (calling particle, like 'hey'), 'về' (come back/return home), 'chưa' (yet?). In Northern Vietnamese, this would be 'Bố ơi, bố về chưa?' The structure is the same, just different words for 'dad.'"
+    }
+  ]
+}

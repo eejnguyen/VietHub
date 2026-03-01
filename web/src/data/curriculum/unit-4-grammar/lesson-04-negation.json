@@ -1,0 +1,202 @@
+{
+  "slug": "lesson-04-negation",
+  "unitSlug": "unit-4-grammar",
+  "title": "Negation",
+  "titleVi": "Phủ Định",
+  "description": "Learn the different ways to say 'no' and 'not' in Vietnamese — from 'không' for general negation to 'chưa' for 'not yet' to 'đừng' for 'don't.' Each one carries different meaning and tone.",
+  "order": 4,
+  "estimatedMinutes": 17,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese has several negation words, and each one carries a different shade of meaning. Using the wrong one changes what you're actually saying. Here's the landscape:\n\n**1. Không** — the default 'not'\n- Tui **không** biết. (I don't know.)\n- Anh **không** đi. (He's not going.)\n\n**2. Chưa** — 'not yet' (implies it might happen later)\n- Tui **chưa** ăn. (I haven't eaten yet.)\n- Em **chưa** làm bài. (I haven't done the homework yet.)\n\n**3. Đừng** — 'don't' (command/warning)\n- **Đừng** lo! (Don't worry!)\n- **Đừng** nói vậy. (Don't say that.)\n\n**4. Chẳng** — 'not at all' (emphatic, literary)\n- Tui **chẳng** sợ gì hết. (I'm not afraid of anything at all.)\n\n**5. Không phải** — 'it's not' (negating identity/correcting)\n- Đó **không phải** là anh tui. (That's not my brother.)\n\n**The big distinction for heritage speakers:** 'Không' vs 'chưa.' If someone asks 'Ăn chưa?' (Have you eaten yet?) and you say 'Không' instead of 'Chưa,' it sounds odd — like you're refusing to eat ever, rather than saying you just haven't gotten to it yet. 'Chưa' implies the action will happen; 'không' is a flat negation."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u4-l04-khong",
+          "vietnamese": "không",
+          "english": "not / no",
+          "ipa": "/xoŋ˧/",
+          "audioFile": null,
+          "notes": "The most common negation word. Placed before the verb: 'Tui không thích' (I don't like it). Also used alone as 'no': 'Không!' Also forms yes/no questions at the end: 'Đi không?' (Going or not?)",
+          "exampleSentence": {
+            "vietnamese": "Tui không hiểu.",
+            "english": "I don't understand.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l04-chua",
+          "vietnamese": "chưa",
+          "english": "not yet",
+          "ipa": "/t͡ɕɨə˧/",
+          "audioFile": null,
+          "notes": "Negation that implies the action hasn't happened YET but might later. 'Tui chưa xong' = I'm not done yet. Compare: 'Tui không ăn' (I don't eat / I won't eat) vs 'Tui chưa ăn' (I haven't eaten yet — but I will). The difference matters!",
+          "exampleSentence": {
+            "vietnamese": "Dạ, con chưa làm bài xong.",
+            "english": "I haven't finished the homework yet.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l04-dung",
+          "vietnamese": "đừng",
+          "english": "don't (imperative/warning)",
+          "ipa": "/ɗɨŋ˧˩/",
+          "audioFile": null,
+          "notes": "Used for negative commands — telling someone not to do something. 'Đừng đi!' (Don't go!), 'Đừng lo!' (Don't worry!). Softer than 'cấm' (forbidden/prohibited). You probably heard 'đừng' a lot growing up: 'Đừng có hư nha!' (Don't misbehave!)",
+          "exampleSentence": {
+            "vietnamese": "Đừng có nói lớn trong nhà!",
+            "english": "Don't speak loudly in the house!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l04-chang",
+          "vietnamese": "chẳng",
+          "english": "not at all (emphatic negation)",
+          "ipa": "/t͡ɕaŋ˧˩/",
+          "audioFile": null,
+          "notes": "Stronger than 'không,' emphasizing that something absolutely is not the case. 'Chẳng ai biết' = Nobody at all knows. 'Chẳng có gì' = There's nothing at all. More common in Northern speech and written Vietnamese, but Southerners use it too for emphasis.",
+          "exampleSentence": {
+            "vietnamese": "Tui chẳng hiểu gì hết.",
+            "english": "I don't understand anything at all.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l04-khongphai",
+          "vietnamese": "không phải",
+          "english": "is not / it's not (negating identity)",
+          "ipa": "/xoŋ˧ faːj˧˥/",
+          "audioFile": null,
+          "notes": "'Không phải' negates 'là' (to be) statements. 'Đây không phải là nhà tui' = This is not my house. Use this to correct identity or categorization. You can't just say 'không là' — 'không phải' is the required negation of 'là.'",
+          "exampleSentence": {
+            "vietnamese": "Cái đó không phải của tui.",
+            "english": "That's not mine.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l04-het",
+          "vietnamese": "hết",
+          "english": "at all / completely (reinforces negation)",
+          "ipa": "/het˧˥/",
+          "audioFile": null,
+          "notes": "Added at the end of a negative sentence for emphasis: 'Không biết gì hết' (Don't know anything at all). Very common in Southern Vietnamese. Think of it like adding 'at all' or 'whatsoever' in English. Also means 'all gone': 'Hết tiền rồi!' (Out of money!)",
+          "exampleSentence": {
+            "vietnamese": "Tui không sợ gì hết!",
+            "english": "I'm not scared of anything at all!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l04-dau",
+          "vietnamese": "đâu (negation)",
+          "english": "not at all / no way (sentence-final negation, Southern)",
+          "ipa": "/ɗəw˧/",
+          "audioFile": null,
+          "notes": "In Southern Vietnamese, 'đâu' at the end of a sentence acts as a negation marker: 'Có đâu!' (No way! / That's not true!), 'Tui không biết đâu' (I really don't know). This is very Southern — Northerners don't use 'đâu' this way as much. Same word as 'where' but totally different function.",
+          "exampleSentence": {
+            "vietnamese": "Tui có làm gì đâu!",
+            "english": "I didn't do anything! (defensive)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l04-co",
+          "vietnamese": "có...đâu",
+          "english": "it's not like... / I didn't... (defensive negation)",
+          "ipa": "/kɔ˧˥...ɗəw˧/",
+          "audioFile": null,
+          "notes": "The 'có...đâu' pattern is a distinctly Southern defensive negation. 'Có nói đâu!' (I didn't say that!), 'Có biết đâu!' (I didn't know!). It implies you're defending yourself against an accusation. Very colloquial and very Southern.",
+          "exampleSentence": {
+            "vietnamese": "Tui có ăn hết đâu!",
+            "english": "I didn't eat it all! (It wasn't me!)",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l04-cam",
+          "vietnamese": "cấm",
+          "english": "forbidden / prohibited",
+          "ipa": "/kəm˧˥/",
+          "audioFile": null,
+          "notes": "Stronger than 'đừng.' Used for rules and prohibitions: 'Cấm hút thuốc' (No smoking), 'Cấm vào' (No entry). This is the word you see on signs. Parents might say 'Cấm!' to children for absolute prohibitions.",
+          "exampleSentence": {
+            "vietnamese": "Cấm chụp hình ở đây.",
+            "english": "Photography is prohibited here.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l04-khongco",
+          "vietnamese": "không có",
+          "english": "there is not / don't have",
+          "ipa": "/xoŋ˧ kɔ˧˥/",
+          "audioFile": null,
+          "notes": "'Không có' negates existence or possession: 'Không có tiền' (Don't have money), 'Không có ai ở nhà' (Nobody is home). In fast Southern speech, this often gets shortened to just 'hổng có' or 'hông có.'",
+          "exampleSentence": {
+            "vietnamese": "Tui không có tiền mua.",
+            "english": "I don't have money to buy it.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "**The art of indirect refusal in Vietnamese culture:**\n\nVietnamese people rarely say a flat 'không' (no) to someone's face, especially to elders or in social situations. It's considered blunt and can cause 'mất mặt' (loss of face). Instead, you'll hear softer refusals:\n\n- 'Để tui coi lại' (Let me check again) — probably means no\n- 'Chắc không được' (Probably can't) — means no\n- 'Để hôm khác nha' (Another day, okay) — polite dodge\n- 'Tui bận lắm' (I'm very busy) — indirect no\n\nAs a heritage speaker, you might default to American directness. That's fine with close friends and family, but in more formal Vietnamese social situations, softening your 'no' goes a long way. Even adding 'dạ' before your refusal helps: 'Dạ, chắc không được' sounds much gentler than a bare 'Không.'"
+    },
+    {
+      "type": "instruction",
+      "content": "**Negation Quick Reference:**\n\n| Negation | Meaning | Example |\n|----------|---------|--------|\n| **không** + verb | don't / doesn't | Tui không biết. |\n| **chưa** + verb | not yet | Tui chưa ăn. |\n| **đừng** + verb | don't (command) | Đừng lo! |\n| **chẳng** + verb | not at all (emphatic) | Chẳng ai biết. |\n| **không phải** | is not (identity) | Không phải tui. |\n| verb + **hết** | ...at all (reinforcer) | Không biết gì hết. |\n| **có**...verb...**đâu** | didn't (defensive) | Có làm đâu! |\n| **cấm** + verb | forbidden | Cấm hút thuốc. |\n\n**Heritage speaker tip:** Pay attention to 'không' vs 'chưa.' If you always default to 'không,' try 'chưa' when the situation is about timing rather than refusal. 'Chưa xong' (not done yet) sounds more natural than 'không xong' (which implies it CAN'T be done)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u4-l04-ex01",
+      "question": "Someone asks 'Ăn chưa?' (Have you eaten yet?) and you haven't. What's the natural response?",
+      "options": ["Không.", "Chưa.", "Đừng.", "Hết."],
+      "correctAnswer": "Chưa.",
+      "explanation": "'Chưa' questions get 'chưa' answers. 'Chưa' means 'not yet' — it implies you will eat, just haven't gotten to it. Answering 'Không' to an 'ăn chưa' question sounds odd, like you're refusing to eat entirely."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u4-l04-ex02",
+      "question": "How do you say 'Don't worry!' in Vietnamese?",
+      "options": ["Không lo!", "Chưa lo!", "Đừng lo!", "Chẳng lo!"],
+      "correctAnswer": "Đừng lo!",
+      "explanation": "'Đừng' is for negative commands — telling someone not to do something. 'Đừng lo!' = Don't worry! 'Không lo' would mean 'doesn't worry' (a statement, not a command). 'Đừng' is the imperative negation word."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u4-l04-ex03",
+      "question": "Which sentence correctly negates an identity statement ('That is not my brother')?",
+      "options": ["Đó không anh tui.", "Đó không phải anh tui.", "Đó chưa anh tui.", "Đó đừng anh tui."],
+      "correctAnswer": "Đó không phải anh tui.",
+      "explanation": "'Không phải' is the negation used for identity statements (negating 'là'). You can't just say 'không' before a noun to negate identity — you need 'không phải.' 'Đó không phải anh tui' = That is not my brother."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u4-l04-ex04",
+      "question": "Complete the sentence: 'Tui _____ làm bài tập xong.' (I haven't finished the homework yet.)",
+      "sentence": "Tui _____ làm bài tập xong.",
+      "english": "I haven't finished the homework yet.",
+      "correctAnswer": "chưa",
+      "acceptableAnswers": ["chưa"],
+      "explanation": "'Chưa' is correct because the sentence implies 'not yet' — the homework isn't done but it will be eventually. Using 'không' here would imply you didn't do it and aren't going to, which is a different meaning."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u4-l04-ex05",
+      "question": "Type 'I don't understand anything at all' in Southern Vietnamese. (Hint: không + hiểu + gì + hết)",
+      "correctAnswer": "Tui không hiểu gì hết.",
+      "acceptableAnswers": ["Tui không hiểu gì hết.", "Tui không hiểu gì hết", "tui không hiểu gì hết", "Tôi không hiểu gì hết"],
+      "explanation": "'Tui không hiểu gì hết' — 'không' (not) + 'hiểu' (understand) + 'gì' (anything) + 'hết' (at all). The 'hết' at the end is a very Southern way to emphasize the negation, like saying 'whatsoever' in English."
+    }
+  ]
+}

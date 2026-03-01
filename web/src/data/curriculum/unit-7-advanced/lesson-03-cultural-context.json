@@ -1,0 +1,256 @@
+{
+  "slug": "lesson-03-cultural-context",
+  "unitSlug": "unit-7-advanced",
+  "title": "Cultural Context in Language",
+  "titleVi": "Văn Hóa Trong Ngôn Ngữ",
+  "description": "Explore Vietnamese words that carry deep cultural weight — concepts like hiếu, duyên, and tình nghĩa that simply don't translate into English. Understand the values embedded in the language itself.",
+  "order": 3,
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Some Vietnamese words don't just mean something — they carry an entire worldview. When your parents say 'hiếu' or 'tình nghĩa,' they're referencing a system of values that goes back centuries.\n\nAs a heritage speaker growing up between two cultures, you've felt this gap. Your parents say something in Vietnamese and you understand the words but sense there's a deeper layer you can't quite translate. This lesson unpacks that layer.\n\nThese are the words that make Vietnamese *Vietnamese* — the ones that reveal how Vietnamese people think about duty, fate, relationships, and what it means to live a good life."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u7-l03-hieu",
+          "vietnamese": "hiếu",
+          "english": "filial piety (devotion and duty to one's parents)",
+          "ipa": "/hiəw˧˥/",
+          "audioFile": null,
+          "notes": "From Confucian philosophy, 'hiếu' is arguably the most important virtue in Vietnamese culture. It means unwavering devotion, obedience, and care for your parents. 'Có hiếu' = to be filial/dutiful. 'Bất hiếu' = to be unfilial — one of the worst things a Vietnamese person can be called. This concept shapes everything from career choices to living arrangements.",
+          "exampleSentence": {
+            "vietnamese": "Con phải có hiếu với ba má — họ hy sinh nhiều lắm cho con.",
+            "english": "You must be dutiful to your parents — they sacrificed so much for you.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l03-tinhnghia",
+          "vietnamese": "tình nghĩa",
+          "english": "the bond of affection and moral obligation in a relationship",
+          "ipa": "/tiŋ˧˩ ŋiə˧˩/",
+          "audioFile": null,
+          "notes": "'Tình' = feeling/love, 'nghĩa' = duty/moral obligation. Together they describe the deep bond that comes with shared history — the idea that if someone helped you, you owe them loyalty and care. 'Người có tình có nghĩa' = a person who honors their bonds. Goes beyond English concepts of friendship or love — it's emotional debt freely honored.",
+          "exampleSentence": {
+            "vietnamese": "Hai người đó có tình nghĩa với nhau mấy chục năm rồi.",
+            "english": "Those two have had a deep bond with each other for decades.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l03-on",
+          "vietnamese": "ơn",
+          "english": "a debt of gratitude / grace received from someone",
+          "ipa": "/ʔən˧/",
+          "audioFile": null,
+          "notes": "'Ơn' is not just 'thanks' — it's a deep sense of indebtedness for kindness received. 'Mang ơn' = to carry a debt of gratitude. 'Trả ơn' = to repay that debt. 'Biết ơn' = to be grateful. Vietnamese culture tracks these debts seriously. 'Quên ơn' (forgetting the debt) is a moral failing.",
+          "exampleSentence": {
+            "vietnamese": "Tui mang ơn cô giáo đó — hồi đó cổ giúp tui nhiều lắm.",
+            "english": "I carry a debt of gratitude to that teacher — she helped me so much back then.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l03-duyen",
+          "vietnamese": "duyên",
+          "english": "fate/destiny that brings people together; charm/grace",
+          "ipa": "/jwiən˧/",
+          "audioFile": null,
+          "notes": "Has two interrelated meanings: (1) the fated connection between people, especially romantic — 'có duyên với nhau' = destined to meet/be together; (2) personal charm/grace — 'có duyên' = to have charm. Rooted in Buddhist concept of predestined connections (duyên phận). Vietnamese people often explain relationships through duyên rather than choice.",
+          "exampleSentence": {
+            "vietnamese": "Hai đứa gặp nhau là do duyên — không ai sắp đặt hết.",
+            "english": "Those two meeting was fate — nobody arranged it.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l03-so",
+          "vietnamese": "số",
+          "english": "fate / destiny / one's lot in life",
+          "ipa": "/ʂo˧˥/",
+          "audioFile": null,
+          "notes": "'Số' literally means 'number' but in cultural context means your predetermined fate. 'Số khổ' = fated to suffer. 'Số sướng' = lucky fate. Many Vietnamese, especially older generations, view hardships through this lens — 'Số mình vậy đó' (that's just my fate). It's a mix of Buddhist karma and folk fatalism.",
+          "exampleSentence": {
+            "vietnamese": "Bà ngoại hay nói số bà khổ, nhưng con cháu bà sướng.",
+            "english": "Grandma always says her fate is to suffer, but her children and grandchildren are blessed.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l03-kho",
+          "vietnamese": "khổ",
+          "english": "suffering / hardship / to suffer",
+          "ipa": "/xo˧˩˥/",
+          "audioFile": null,
+          "notes": "From Buddhist 'dukkha' (suffering). Central to Vietnamese storytelling and identity. 'Khổ quá' = how miserable. 'Đời khổ' = a hard life. Vietnamese people often discuss suffering openly — it's not taboo. Older generations especially identify with 'khổ' as part of their life narrative. 'Khổ trước sướng sau' = suffer first, enjoy later.",
+          "exampleSentence": {
+            "vietnamese": "Hồi đó ba má khổ lắm — qua Mỹ không có gì hết.",
+            "english": "Back then your parents suffered a lot — came to America with nothing.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l03-annoi",
+          "vietnamese": "ăn nói",
+          "english": "the way one speaks (manners of speech)",
+          "ipa": "/ʔan˧ nɔj˧˥/",
+          "audioFile": null,
+          "notes": "Literally 'eat-speak.' One of many 'ăn' compounds that reveal how Vietnamese views behavior. 'Ăn nói' isn't just talking — it's your manner and politeness of speech. 'Ăn nói lễ phép' = speak politely. 'Ăn nói vậy đó hả?' = is that how you talk? (scolding). Speech manners are considered a direct reflection of upbringing.",
+          "exampleSentence": {
+            "vietnamese": "Con phải ăn nói cho đàng hoàng — đừng nói tục!",
+            "english": "You need to speak properly — don't use vulgar language!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l03-ano",
+          "vietnamese": "ăn ở",
+          "english": "the way one conducts oneself / how one lives and treats others",
+          "ipa": "/ʔan˧ ʔə˧˩/",
+          "audioFile": null,
+          "notes": "Literally 'eat-live.' Describes your overall conduct and character in how you treat people and live your life. 'Ăn ở có đức' = to live virtuously. 'Ăn ở không ra gì' = to behave badly. Vietnamese judges character through 'ăn ở' — it's your moral track record.",
+          "exampleSentence": {
+            "vietnamese": "Người đó ăn ở tốt lắm — ai cũng thương.",
+            "english": "That person conducts themselves very well — everyone loves them.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l03-anmac",
+          "vietnamese": "ăn mặc",
+          "english": "the way one dresses (dress and appearance)",
+          "ipa": "/ʔan˧ mak˧˩/",
+          "audioFile": null,
+          "notes": "Literally 'eat-wear.' How you dress reflects your family and upbringing. 'Ăn mặc đẹp' = dress nicely. 'Ăn mặc lôi thôi' = dress sloppily. Vietnamese parents care deeply about this — going out looking messy reflects poorly on the whole family.",
+          "exampleSentence": {
+            "vietnamese": "Đi đám cưới phải ăn mặc cho tử tế nha con.",
+            "english": "Going to a wedding you need to dress properly, okay?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l03-troi",
+          "vietnamese": "trời",
+          "english": "heaven / sky / God (in folk sense)",
+          "ipa": "/tɕəj˧˩/",
+          "audioFile": null,
+          "notes": "'Trời' is sky/heaven but functions as a folk concept of God or higher power. 'Trời ơi!' = oh my God! 'Ông trời' = the heavens/fate. 'Trời có mắt' = heaven has eyes (justice will come). Not tied to any specific religion — it's a cultural concept that predates organized religion in Vietnam.",
+          "exampleSentence": {
+            "vietnamese": "Trời ơi, sao khổ quá vậy trời!",
+            "english": "Oh heavens, why is it so difficult!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l03-dephep",
+          "vietnamese": "lễ phép",
+          "english": "politeness / proper manners (especially toward elders)",
+          "ipa": "/le˧˩ fep˧˥/",
+          "audioFile": null,
+          "notes": "'Lễ' = ritual/ceremony, 'phép' = rules/manners. Together: proper decorum, especially when interacting with elders and authority figures. 'Có lễ phép' = well-mannered. 'Vô lễ' = rude/disrespectful. Vietnamese parents obsess over this — it's the visible marker of good parenting.",
+          "exampleSentence": {
+            "vietnamese": "Con nhỏ đó lễ phép lắm — chào hỏi đàng hoàng.",
+            "english": "That child is very polite — greets everyone properly.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l03-thedien",
+          "vietnamese": "thể diện",
+          "english": "face / dignity / social reputation",
+          "ipa": "/tʰe˧˩ jiən˧˩/",
+          "audioFile": null,
+          "notes": "The Vietnamese concept of 'face' — your social reputation and dignity. 'Mất thể diện' = to lose face. 'Giữ thể diện' = to save/maintain face. This drives enormous amounts of Vietnamese behavior: why parents push for prestigious careers, why families put on elaborate weddings, why criticism must be indirect. Understanding 'thể diện' explains a lot about Vietnamese social dynamics.",
+          "exampleSentence": {
+            "vietnamese": "Đừng nói vậy trước mặt người ta — mất thể diện lắm!",
+            "english": "Don't say that in front of people — it's so embarrassing/face-losing!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l03-duyenphan",
+          "vietnamese": "duyên phận",
+          "english": "fated connection / predestined relationship",
+          "ipa": "/jwiən˧ fən˧˩/",
+          "audioFile": null,
+          "notes": "'Duyên' (karmic connection) + 'phận' (lot/portion in life). Together they describe the Buddhist-influenced idea that relationships are predestined. Used especially for romantic relationships. 'Có duyên không có phận' = fated to meet but not fated to be together — a tragically beautiful concept often heard in Vietnamese songs and stories.",
+          "exampleSentence": {
+            "vietnamese": "Có duyên mà không có phận — gặp nhau rồi cũng phải chia tay.",
+            "english": "Fated to meet but not fated to stay — they found each other but still had to part.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "The 'ăn' (eat) compounds reveal something fundamental about Vietnamese culture. Eating is the central metaphor for living. Consider:\n\n- **ăn nói** (eat-speak) = how you talk\n- **ăn ở** (eat-live) = how you conduct yourself\n- **ăn mặc** (eat-wear) = how you dress\n- **ăn học** (eat-study) = education\n- **ăn chơi** (eat-play) = to party/live it up\n- **ăn cắp** (eat-steal) = to steal\n- **ăn gian** (eat-cheat) = to cheat\n\nFood is survival, and in a culture shaped by famine, war, and agrarian life, 'eating' became the root metaphor for all of existence. When your family gathers around a meal, they're not just eating — they're performing the most fundamental Vietnamese act of togetherness."
+    },
+    {
+      "type": "instruction",
+      "content": "**Concepts that don't translate to English:**\n\n- **Hiếu** has no one-word English equivalent. 'Filial piety' is academic; 'devotion to parents' is close but misses the *obligation* aspect.\n- **Tình nghĩa** is deeper than 'friendship' or 'loyalty' — it's a moral bond that once formed, persists regardless of circumstance.\n- **Duyên** combines 'fate,' 'charm,' and 'karmic connection' in ways that English splits into separate concepts.\n- **Ơn** is more than gratitude — it's a tracked moral debt that must be repaid.\n- **Thể diện** ('face') drives behavior that Westerners often misread as vanity or stubbornness. It's actually about community honor.\n\nWhen you understand these words at a cultural level, you'll understand why your parents do what they do. These aren't just vocabulary — they're the operating system of Vietnamese family life."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u7-l03-ex01",
+      "question": "Your grandmother says someone is 'bất hiếu.' What does she mean?",
+      "options": [
+        "They are very generous",
+        "They don't take care of or respect their parents",
+        "They are unlucky in love",
+        "They talk too much"
+      ],
+      "correctAnswer": "They don't take care of or respect their parents",
+      "explanation": "'Bất hiếu' means unfilial — failing in your duty to care for and respect your parents. It's one of the most serious moral criticisms in Vietnamese culture, rooted in Confucian values of filial piety (hiếu)."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u7-l03-ex02",
+      "question": "What does 'có duyên không có phận' express?",
+      "options": [
+        "Being very lucky in business",
+        "Having charm but no money",
+        "Being fated to meet someone but not fated to stay together",
+        "Having many friends but no family"
+      ],
+      "correctAnswer": "Being fated to meet someone but not fated to stay together",
+      "explanation": "'Có duyên không có phận' means you were destined (duyên) to cross paths with someone, but your lot in life (phận) doesn't include staying together. It's a bittersweet expression often used about star-crossed lovers."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u7-l03-ex03",
+      "question": "In the compound 'ăn nói,' what does 'ăn' contribute to the meaning?",
+      "options": [
+        "It means the person talks while eating",
+        "It's a metaphorical prefix — 'ăn' compounds describe aspects of behavior and living",
+        "It indicates the person is hungry",
+        "It's a grammatical filler with no meaning"
+      ],
+      "correctAnswer": "It's a metaphorical prefix — 'ăn' compounds describe aspects of behavior and living",
+      "explanation": "'Ăn' (eat) in compounds like ăn nói, ăn ở, ăn mặc functions as a metaphorical root for human behavior. In Vietnamese culture, eating is the central metaphor for living, so 'ăn nói' literally 'eat-speak' means one's manner of speech."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u7-l03-ex04",
+      "question": "Complete the phrase: 'Đừng nói vậy trước mặt người ta — mất _____ lắm!'",
+      "sentence": "Đừng nói vậy trước mặt người ta — mất _____ lắm!",
+      "english": "Don't say that in front of people — it's so face-losing!",
+      "correctAnswer": "thể diện",
+      "acceptableAnswers": ["thể diện", "Thể diện", "the dien"],
+      "explanation": "'Mất thể diện' means to lose face — to have your dignity or social reputation damaged. 'Thể diện' (face/dignity) is a central concept in Vietnamese social interaction."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u7-l03-ex05",
+      "question": "Type the Vietnamese word that means 'a debt of gratitude' — the deep sense of owing someone for their kindness:",
+      "correctAnswer": "ơn",
+      "acceptableAnswers": ["ơn", "Ơn", "on", "ơn nghĩa"],
+      "explanation": "'Ơn' is a moral debt of gratitude. 'Mang ơn' = to carry this debt, 'trả ơn' = to repay it, 'biết ơn' = to be grateful. Vietnamese culture tracks these debts carefully — forgetting an ơn (quên ơn) is considered a serious moral failing."
+    }
+  ]
+}

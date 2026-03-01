@@ -1,0 +1,228 @@
+{
+  "slug": "lesson-03-question-words",
+  "unitSlug": "unit-4-grammar",
+  "title": "Question Words",
+  "titleVi": "Từ Hỏi",
+  "description": "Learn how to ask questions in Vietnamese — the question word stays in place (no word-order flip like English), and Southern dialect has its own flair with particles like 'vậy' and 'hả.'",
+  "order": 3,
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Forming questions in Vietnamese is actually easier than English in one key way: **the question word stays where the answer would go.** There's no subject-verb inversion.\n\nCompare:\n- English: **Where** are you going? (question word moves to the front)\n- Vietnamese: Em đi **đâu**? (literally: You go **where**?)\n\n- English: **What** are you eating?\n- Vietnamese: Em ăn **gì**? (literally: You eat **what**?)\n\nSee the pattern? In Vietnamese, you just replace the unknown piece with the question word — everything else stays in its normal position.\n\n**Yes/No questions** use a different trick. You add **không** (or **chưa**) at the end:\n- Em khỏe **không**? (Are you well?)\n- Em ăn **chưa**? (Have you eaten yet?)\n\n**Southern flavor:** In Southern Vietnamese, you'll often hear **'vậy'** tacked onto the end of questions for a softer, more conversational feel:\n- Em đi đâu **vậy**? (Where are you going?)\n- Cái này bao nhiêu tiền **vậy**? (How much is this?)\n\nYou'll also hear **'hả'** or **'hả?'** at the end for surprise or confirmation:\n- Thiệt **hả**? (Really?)\n- Em không biết **hả**? (You don't know?)"
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u4-l03-ai",
+          "vietnamese": "ai",
+          "english": "who",
+          "ipa": "/aːj˧/",
+          "audioFile": null,
+          "notes": "Question word for people. Stays in the position of the answer: 'Ai nấu cơm?' (Who cooked?) — 'ai' is in the subject position. 'Em thích ai?' (Who do you like?) — 'ai' is in the object position.",
+          "exampleSentence": {
+            "vietnamese": "Ai gọi điện cho con vậy?",
+            "english": "Who called you?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l03-gi",
+          "vietnamese": "gì",
+          "english": "what",
+          "ipa": "/ji˧˩/",
+          "audioFile": null,
+          "notes": "Question word for things. 'Em muốn gì?' (What do you want?). Also used in 'cái gì' (what thing) for emphasis. In casual Southern speech, 'gì' can also mean 'anything': 'Có gì đâu' (It's nothing).",
+          "exampleSentence": {
+            "vietnamese": "Em đang làm gì vậy?",
+            "english": "What are you doing?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l03-nao",
+          "vietnamese": "nào",
+          "english": "which / which one",
+          "ipa": "/naːw˧˩/",
+          "audioFile": null,
+          "notes": "Used for 'which' when choosing among options. Follows the classifier + noun: 'Cái nào?' (Which one?), 'Con chó nào?' (Which dog?). Also used in 'khi nào' (when), 'ở đâu...nào' constructions.",
+          "exampleSentence": {
+            "vietnamese": "Em thích cái nào?",
+            "english": "Which one do you like?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l03-dau",
+          "vietnamese": "đâu",
+          "english": "where",
+          "ipa": "/ɗəw˧/",
+          "audioFile": null,
+          "notes": "Question word for location. 'Em đi đâu?' (Where are you going?), 'Ở đâu?' (Where?). Also used as a negation in casual speech: 'Có đâu!' (No way! / It's not like that!). Southern Vietnamese uses 'đâu' in both senses constantly.",
+          "exampleSentence": {
+            "vietnamese": "Tiệm phở ở đâu vậy?",
+            "english": "Where is the pho restaurant?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l03-baogio",
+          "vietnamese": "bao giờ / khi nào",
+          "english": "when",
+          "ipa": "/ɓaːw˧ jəː˧˩/ /xi˧ naːw˧˩/",
+          "audioFile": null,
+          "notes": "'Bao giờ' and 'khi nào' both mean 'when.' Position matters: at the beginning = future ('Bao giờ em về?' = When will you come back?), at the end = past ('Em về bao giờ?' = When did you come back?). Southern speakers often prefer 'khi nào' or 'hồi nào.'",
+          "exampleSentence": {
+            "vietnamese": "Khi nào anh về Việt Nam?",
+            "english": "When are you going back to Vietnam?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l03-taisao",
+          "vietnamese": "tại sao / sao",
+          "english": "why",
+          "ipa": "/taːj˧˩ saːw˧/ /saːw˧/",
+          "audioFile": null,
+          "notes": "'Tại sao' is the full form; 'sao' is the casual short form used constantly in Southern speech. 'Sao em không ăn?' (Why aren't you eating?). 'Tại sao' sounds more formal. You can also use 'vì sao' (for what reason).",
+          "exampleSentence": {
+            "vietnamese": "Sao em buồn vậy?",
+            "english": "Why are you sad?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l03-baonhieu",
+          "vietnamese": "bao nhiêu",
+          "english": "how much / how many (large or unknown quantity)",
+          "ipa": "/ɓaːw˧ ɲiəw˧/",
+          "audioFile": null,
+          "notes": "Used when you expect a larger or unknown number: 'Bao nhiêu tiền?' (How much money?), 'Bao nhiêu tuổi?' (How old? — but asking age this directly can be rude to adults). Use 'bao nhiêu' when you have no idea of the quantity.",
+          "exampleSentence": {
+            "vietnamese": "Cái này bao nhiêu tiền vậy?",
+            "english": "How much does this cost?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l03-may",
+          "vietnamese": "mấy",
+          "english": "how many (small quantity, under 10)",
+          "ipa": "/məj˧˥/",
+          "audioFile": null,
+          "notes": "Used when you expect a small number (roughly under 10): 'Mấy giờ rồi?' (What time is it?), 'Em có mấy anh chị em?' (How many siblings do you have?). The distinction between 'mấy' and 'bao nhiêu' is about expected quantity.",
+          "exampleSentence": {
+            "vietnamese": "Mấy giờ mình đi?",
+            "english": "What time are we leaving?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l03-khong",
+          "vietnamese": "không",
+          "english": "yes/no question particle (at end of sentence)",
+          "ipa": "/xoŋ˧/",
+          "audioFile": null,
+          "notes": "Added to the end of a statement to make it a yes/no question: 'Em hiểu không?' (Do you understand?). The structure is: Statement + không? Answer yes by repeating the verb: 'Hiểu.' Answer no with 'Không' + verb: 'Không hiểu.'",
+          "exampleSentence": {
+            "vietnamese": "Anh đói không?",
+            "english": "Are you hungry?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l03-chua",
+          "vietnamese": "chưa",
+          "english": "yet? (question particle for completed actions)",
+          "ipa": "/t͡ɕɨə˧/",
+          "audioFile": null,
+          "notes": "'Chưa' asks whether something has happened yet: 'Ăn chưa?' (Have you eaten yet?). Answer yes: 'Rồi' (Already). Answer no: 'Chưa' (Not yet). This is different from 'không' which asks about general yes/no.",
+          "exampleSentence": {
+            "vietnamese": "Em làm bài tập chưa?",
+            "english": "Have you done your homework yet?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l03-vay",
+          "vietnamese": "vậy",
+          "english": "sentence-final particle (softener in questions)",
+          "ipa": "/vəj˧˩/",
+          "audioFile": null,
+          "notes": "A distinctly Southern particle added to the end of questions to make them sound more conversational and less abrupt. 'Đi đâu vậy?' sounds warmer than just 'Đi đâu?' You'll hear this constantly in Saigon. Northern Vietnamese uses 'thế' in a similar way.",
+          "exampleSentence": {
+            "vietnamese": "Em nói cái gì vậy?",
+            "english": "What did you just say?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l03-ha",
+          "vietnamese": "hả / hả?",
+          "english": "sentence-final particle (surprise/confirmation)",
+          "ipa": "/haː˧˥/",
+          "audioFile": null,
+          "notes": "Southern Vietnamese particle expressing surprise or asking for confirmation: 'Thiệt hả?' (Really?). Can sound rude if used with elders — stick to 'hả' with peers and younger people. With elders, use 'phải không' or 'hả' very gently.",
+          "exampleSentence": {
+            "vietnamese": "Anh nghỉ việc rồi hả?",
+            "english": "You quit your job? (really?)",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "**'Đi đâu vậy?' — The Vietnamese non-question**\n\nIf you've walked through a Vietnamese neighborhood, you've probably been asked 'Đi đâu vậy?' (Where are you going?). This isn't actually a question — it's a greeting. Nobody expects a real answer.\n\nStandard responses:\n- 'Dạ, đi chơi.' (Just going out.) — even if you're going to work\n- 'Dạ, đi mua đồ.' (Going shopping.) — vague is fine\n- Just smile and nod\n\nSimilarly, 'Ăn cơm chưa?' (Have you eaten yet?) is a greeting, not an invitation. Don't overthink your answer. Vietnamese culture values connection through these small exchanges — the specific content matters less than the act of acknowledging each other."
+    },
+    {
+      "type": "instruction",
+      "content": "**Question Formation Quick Reference:**\n\n| Question Type | Pattern | Example |\n|--------------|---------|--------|\n| Who | ...ai...? | Ai làm vậy? (Who did that?) |\n| What | ...gì...? | Em ăn gì? (What are you eating?) |\n| Where | ...đâu...? | Ở đâu? (Where?) |\n| When | Bao giờ / Khi nào...? | Khi nào em về? (When are you coming back?) |\n| Why | Sao / Tại sao...? | Sao không đi? (Why not go?) |\n| How much | Bao nhiêu...? | Bao nhiêu tiền? (How much?) |\n| How many (small) | Mấy...? | Mấy giờ? (What time?) |\n| Which | ...nào? | Cái nào? (Which one?) |\n| Yes/No | Statement + không? | Đói không? (Hungry?) |\n| Yet? | Statement + chưa? | Ăn chưa? (Eaten yet?) |\n\n**Key rule:** The question word goes where the answer would be. No flipping word order like English."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u4-l03-ex01",
+      "question": "How do you say 'What are you eating?' in Vietnamese?",
+      "options": ["Gì em ăn?", "Em ăn gì?", "Ăn gì em?", "Em gì ăn?"],
+      "correctAnswer": "Em ăn gì?",
+      "explanation": "In Vietnamese, the question word stays in the position where the answer would go. The answer would be 'Em ăn phở' (You eat pho) — so 'gì' (what) replaces 'phở' in the same position: 'Em ăn gì?' No word-order inversion like English."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u4-l03-ex02",
+      "question": "What's the difference between 'mấy' and 'bao nhiêu'?",
+      "options": ["'Mấy' is formal, 'bao nhiêu' is casual", "'Mấy' is for small numbers, 'bao nhiêu' is for larger/unknown quantities", "'Mấy' is Southern, 'bao nhiêu' is Northern", "They are completely interchangeable"],
+      "correctAnswer": "'Mấy' is for small numbers, 'bao nhiêu' is for larger/unknown quantities",
+      "explanation": "'Mấy' is used when you expect a small number (roughly under 10): 'Mấy giờ?' (What time?). 'Bao nhiêu' is used when the quantity is larger or unknown: 'Bao nhiêu tiền?' (How much money?). Both are used in all dialects."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u4-l03-ex03",
+      "question": "Your aunt asks 'Ăn cơm chưa?' — how do you answer if you already ate?",
+      "options": ["Không.", "Dạ, rồi.", "Dạ, ăn.", "Dạ, không."],
+      "correctAnswer": "Dạ, rồi.",
+      "explanation": "'Chưa' questions (asking 'yet?') are answered with 'Rồi' (already) for yes or 'Chưa' (not yet) for no. 'Dạ, rồi' adds the polite Southern particle. 'Không' would be the answer to a 'không' question, not a 'chưa' question."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u4-l03-ex04",
+      "question": "Complete the question: 'Tiệm phở ở _____ vậy?' (Where is the pho restaurant?)",
+      "sentence": "Tiệm phở ở _____ vậy?",
+      "english": "Where is the pho restaurant?",
+      "correctAnswer": "đâu",
+      "acceptableAnswers": ["đâu"],
+      "explanation": "'Đâu' means 'where.' The question word goes where the answer would be: 'Tiệm phở ở Bolsa' becomes 'Tiệm phở ở đâu?' 'Vậy' at the end is the Southern softening particle."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u4-l03-ex05",
+      "question": "Type 'What time are we leaving?' in Vietnamese. (Hint: use 'mấy giờ' for 'what time' and 'mình đi' for 'we leave')",
+      "correctAnswer": "Mấy giờ mình đi?",
+      "acceptableAnswers": ["Mấy giờ mình đi?", "Mấy giờ mình đi", "mấy giờ mình đi?", "mấy giờ mình đi", "Mấy giờ mình đi vậy?"],
+      "explanation": "'Mấy giờ mình đi?' — 'Mấy giờ' (what time) + 'mình' (we, casual) + 'đi' (go). 'Mấy' is appropriate here because clock times are small numbers. Adding 'vậy' at the end is also natural in Southern speech."
+    }
+  ]
+}

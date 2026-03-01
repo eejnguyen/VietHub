@@ -1,0 +1,241 @@
+{
+  "slug": "lesson-02-weather",
+  "unitSlug": "unit-5-intermediate",
+  "title": "Weather & Seasons",
+  "titleVi": "Thời Tiết",
+  "description": "Talk about weather like a Saigonese — from the relentless heat to sudden downpours. Learn Southern Vietnam's tropical weather vocabulary and the two-season system.",
+  "order": 2,
+  "estimatedMinutes": 17,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Southern Vietnam doesn't have four seasons — it has two: mùa mưa (rainy season) and mùa khô (dry season). If your family is from Saigon or the Mekong Delta, you've probably heard them talk about the heat, the sudden afternoon rains, and the humidity that never lets up.\n\nWeather is a daily conversation topic, especially for the older generation who grew up farming or without air conditioning. Knowing this vocabulary helps you connect with those everyday family conversations."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u5-l02-nong",
+          "vietnamese": "nóng",
+          "english": "hot",
+          "ipa": "/nɔŋ˧˥/",
+          "audioFile": null,
+          "notes": "The number one weather word in Southern Vietnam. 'Nóng quá trời!' (Hot as heaven!) is a daily complaint. 'Nóng nực' = hot and stuffy.",
+          "exampleSentence": {
+            "vietnamese": "Sài Gòn nóng quá trời luôn, ra ngoài là đổ mồ hôi.",
+            "english": "Saigon is insanely hot — step outside and you're sweating.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l02-lanh",
+          "vietnamese": "lạnh",
+          "english": "cold",
+          "ipa": "/laɲ˧˩ˀ/",
+          "audioFile": null,
+          "notes": "Rarely used in Saigon except when the temperature drops to 20°C and everyone acts like it's winter. Northern Vietnam actually gets cold. 'Lạnh lẽo' = cold and desolate.",
+          "exampleSentence": {
+            "vietnamese": "Hai mươi độ mà người Sài Gòn kêu lạnh rồi.",
+            "english": "Twenty degrees and Saigon people are already saying it's cold.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l02-mua",
+          "vietnamese": "mưa",
+          "english": "rain",
+          "ipa": "/mɨə˧/",
+          "audioFile": null,
+          "notes": "Rain dominates half the year in Southern Vietnam (May-November). 'Mưa rào' = a sudden downpour. 'Trời mưa' = it's raining.",
+          "exampleSentence": {
+            "vietnamese": "Chiều nào cũng mưa, mùa mưa mà.",
+            "english": "It rains every afternoon — it's the rainy season, after all.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l02-nang",
+          "vietnamese": "nắng",
+          "english": "sunny, sunshine",
+          "ipa": "/naŋ˧˥/",
+          "audioFile": null,
+          "notes": "Nắng describes intense sunshine, not gentle warmth. 'Nắng gắt' = scorching sun. Vietnamese people (especially women) avoid the sun — it's a cultural thing.",
+          "exampleSentence": {
+            "vietnamese": "Nắng gắt quá, nhớ thoa kem chống nắng.",
+            "english": "The sun is scorching — remember to put on sunscreen.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l02-gio",
+          "vietnamese": "gió",
+          "english": "wind, windy",
+          "ipa": "/jɔ˧˥/",
+          "audioFile": null,
+          "notes": "Southern pronunciation: 'gió' sounds like 'yó'. Northern: /zɔ˧˥/. 'Gió mát' = cool breeze, a welcome relief from the heat.",
+          "exampleSentence": {
+            "vietnamese": "Hôm nay có gió mát ghê, đi dạo đi.",
+            "english": "Today has such a nice cool breeze — let's go for a walk.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l02-bao",
+          "vietnamese": "bão",
+          "english": "storm, typhoon",
+          "ipa": "/baːw˧˥/",
+          "audioFile": null,
+          "notes": "Typhoons (bão) mainly hit Central and Northern Vietnam but can bring heavy rain to the South. 'Mùa bão' = typhoon season (roughly August-November).",
+          "exampleSentence": {
+            "vietnamese": "Năm nay bão nhiều quá, miền Trung bị ngập hết.",
+            "english": "So many storms this year — Central Vietnam is all flooded.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l02-am",
+          "vietnamese": "ẩm",
+          "english": "humid, damp",
+          "ipa": "/əm˧˩ˀ/",
+          "audioFile": null,
+          "notes": "Southern Vietnam is humid year-round. 'Ẩm ướt' = damp/moist. Humidity is why Vietnamese food spoils fast and why everyone owns a dehumidifier or keeps things in the fridge.",
+          "exampleSentence": {
+            "vietnamese": "Trời ẩm quá, quần áo phơi mấy ngày không khô.",
+            "english": "It's so humid — the clothes have been hanging for days and won't dry.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l02-kho",
+          "vietnamese": "khô",
+          "english": "dry",
+          "ipa": "/xo˧/",
+          "audioFile": null,
+          "notes": "'Mùa khô' = dry season (December-April in Southern Vietnam). During mùa khô, Saigon is hot and dusty. 'Khô ráo' = dry and clear.",
+          "exampleSentence": {
+            "vietnamese": "Mùa khô nắng nóng dữ lắm, uống nước nhiều vào.",
+            "english": "The dry season is brutally hot — drink lots of water.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l02-may",
+          "vietnamese": "mây",
+          "english": "cloud, cloudy",
+          "ipa": "/məj˧/",
+          "audioFile": null,
+          "notes": "'Trời nhiều mây' = the sky is cloudy. 'Mây đen' = dark clouds (rain coming). 'Trời âm u' = overcast/gloomy weather.",
+          "exampleSentence": {
+            "vietnamese": "Trời nhiều mây vậy, chắc sắp mưa rồi.",
+            "english": "The sky is so cloudy — it's probably about to rain.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l02-sam",
+          "vietnamese": "sấm",
+          "english": "thunder",
+          "ipa": "/səm˧˥/",
+          "audioFile": null,
+          "notes": "'Sấm sét' = thunder and lightning together. Thunderstorms are dramatic in Saigon during mùa mưa, often hitting suddenly in the afternoon.",
+          "exampleSentence": {
+            "vietnamese": "Sấm dữ quá, em bé sợ khóc luôn.",
+            "english": "The thunder is so loud — the baby got scared and cried.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l02-chop",
+          "vietnamese": "chớp",
+          "english": "lightning",
+          "ipa": "/tɕəːp˧˥/",
+          "audioFile": null,
+          "notes": "'Sét' is also used for lightning (specifically the bolt). 'Chớp' is the flash of light. 'Sấm chớp' = thunder and lightning.",
+          "exampleSentence": {
+            "vietnamese": "Chớp sáng lòa, chắc mưa to lắm đây.",
+            "english": "The lightning is flashing bright — it's going to rain hard.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l02-mua-mua",
+          "vietnamese": "mùa mưa",
+          "english": "rainy season",
+          "ipa": "/muə˧˩ mɨə˧/",
+          "audioFile": null,
+          "notes": "May to November in Southern Vietnam. Expect daily afternoon downpours that last 1-2 hours, then clear skies. Everyone carries a rain poncho on their motorbike.",
+          "exampleSentence": {
+            "vietnamese": "Mùa mưa đi đâu cũng phải mang áo mưa.",
+            "english": "During rainy season, you have to bring a rain poncho everywhere.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u5-l02-mua-kho",
+          "vietnamese": "mùa khô",
+          "english": "dry season",
+          "ipa": "/muə˧˩ xo˧/",
+          "audioFile": null,
+          "notes": "December to April. Hot, dry, and dusty. This is when Tết (Lunar New Year) falls. The best time to visit Vietnam.",
+          "exampleSentence": {
+            "vietnamese": "Mùa khô là lúc đẹp nhất để về Việt Nam chơi.",
+            "english": "The dry season is the best time to visit Vietnam.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "In Southern Vietnam, weather shapes daily life in ways that might surprise heritage speakers raised abroad. Motorbike riders check the sky constantly — a dark cloud means pulling over to throw on a rain poncho. Vietnamese women carry umbrellas for sun protection, not rain. And when Saigon floods during heavy mùa mưa rains, people wade through knee-deep water like it's perfectly normal.\n\nYour family might talk about weather back home very differently from local weather. In Saigon, there's no 'winter' — if it drops below 25°C, people pull out jackets. When your relatives say 'lạnh quá' at 22°C, they genuinely mean it!"
+    },
+    {
+      "type": "instruction",
+      "content": "**Talking about weather — sentence patterns:**\n\n| Pattern | Example | Meaning |\n|---|---|---|\n| Trời + [weather word] | Trời nóng | It's hot (weather) |\n| Trời đang + [verb] | Trời đang mưa | It's raining |\n| Hôm nay trời... | Hôm nay trời đẹp | Today the weather is nice |\n| Chắc sắp... | Chắc sắp mưa | It's probably about to rain |\n\n'Trời' literally means 'sky/heaven' and is the subject when talking about weather — similar to 'it' in English weather expressions."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u5-l02-ex01",
+      "question": "Southern Vietnam has two seasons. What are they called?",
+      "options": ["mùa xuân and mùa hè", "mùa mưa and mùa khô", "mùa thu and mùa đông", "mùa nóng and mùa lạnh"],
+      "correctAnswer": "mùa mưa and mùa khô",
+      "explanation": "Southern Vietnam has 'mùa mưa' (rainy season, May-Nov) and 'mùa khô' (dry season, Dec-Apr). The four-season system (xuân, hè, thu, đông) applies more to Northern Vietnam."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u5-l02-ex02",
+      "question": "What does 'Trời ẩm quá' mean?",
+      "options": ["It's too cold", "It's too humid", "It's too windy", "It's too dark"],
+      "correctAnswer": "It's too humid",
+      "explanation": "'Ẩm' means humid/damp. 'Trời ẩm quá' = the weather is too humid — a very common complaint in Southern Vietnam."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u5-l02-ex03",
+      "question": "Which word means 'thunder'?",
+      "options": ["chớp", "bão", "sấm", "gió"],
+      "correctAnswer": "sấm",
+      "explanation": "'Sấm' is thunder (the sound). 'Chớp' is lightning (the flash). 'Sấm chớp' or 'sấm sét' = thunder and lightning together."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u5-l02-ex04",
+      "question": "Complete this sentence about Saigon's heat:",
+      "sentence": "Sài Gòn _____ quá trời luôn!",
+      "english": "Saigon is insanely hot!",
+      "correctAnswer": "nóng",
+      "acceptableAnswers": ["nóng", "Nóng"],
+      "explanation": "'Nóng' means hot. 'Nóng quá trời luôn!' is a very natural Southern exclamation — 'quá trời' means 'beyond the sky' (extremely)."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u5-l02-ex05",
+      "question": "Type 'It's raining' in Vietnamese:",
+      "correctAnswer": "Trời đang mưa",
+      "acceptableAnswers": ["Trời đang mưa", "trời đang mưa", "Trời mưa", "trời mưa", "Đang mưa", "đang mưa"],
+      "explanation": "'Trời đang mưa' = It's currently raining. 'Trời' (sky) is the subject, 'đang' indicates ongoing action, 'mưa' = rain."
+    }
+  ]
+}

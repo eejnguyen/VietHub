@@ -1,0 +1,228 @@
+{
+  "slug": "lesson-01-sentence-structure",
+  "unitSlug": "unit-4-grammar",
+  "title": "Sentence Structure",
+  "titleVi": "Cấu Trúc Câu",
+  "description": "Understand how Vietnamese sentences are built — SVO order, topic-comment structure, and where adjectives and 'là' fit in. If you grew up hearing Vietnamese at home, you already feel the rhythm — now you'll see the logic behind it.",
+  "order": 1,
+  "estimatedMinutes": 18,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese sentence structure is **Subject-Verb-Object (SVO)**, just like English. That's the good news. The tricky part is what Vietnamese does *differently*:\n\n**1. No verb conjugation.** The verb stays the same no matter who does it or when.\n- Tui ăn cơm. (I eat rice.)\n- Má ăn cơm. (Mom eats rice.)\n- Hồi qua tui ăn cơm. (Yesterday I ate rice.)\n\n**2. Adjectives come AFTER the noun.**\n- con mèo đen = the black cat (literally: classifier + cat + black)\n- cái áo đẹp = the pretty shirt (literally: classifier + shirt + pretty)\n\n**3. 'Là' is the Vietnamese 'to be' — but only for identity, not description.**\n- Tui **là** sinh viên. (I **am** a student.) — identity, use 'là'\n- Tui **mệt**. (I **am** tired.) — description, NO 'là'\n\nThis is one of the biggest mistakes heritage speakers make: inserting 'là' everywhere because of English influence. 'Tui là mệt' is WRONG.\n\n**4. Topic-comment structure.** Vietnamese loves to front-load the topic:\n- **Cuốn sách đó**, tui đọc rồi. (That book, I already read it.)\n- **Món này**, ngon lắm! (This dish, it's so delicious!)\n\nYou're placing the topic first, then commenting on it. This is extremely natural in spoken Southern Vietnamese and you probably already do it without thinking."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u4-l01-la",
+          "vietnamese": "là",
+          "english": "to be (identity/definition only)",
+          "ipa": "/laː˧˩/",
+          "audioFile": null,
+          "notes": "Only used for identity statements: 'X là Y' means 'X is Y' where Y is a noun. Never use 'là' before adjectives. 'Tui là bác sĩ' (I am a doctor) is correct. 'Tui là mệt' (I am tired) is WRONG — just say 'Tui mệt.'",
+          "exampleSentence": {
+            "vietnamese": "Chị ấy là cô giáo của tui.",
+            "english": "She is my teacher.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l01-thi",
+          "vietnamese": "thì",
+          "english": "then / as for (topic marker)",
+          "ipa": "/tʰi˧˩/",
+          "audioFile": null,
+          "notes": "Used to separate the topic from the comment. 'Anh thì cao, em thì thấp' (The older brother is tall, the younger one is short). It adds emphasis and contrast. In casual Southern speech, it's often dropped.",
+          "exampleSentence": {
+            "vietnamese": "Cái này thì đắt quá.",
+            "english": "This one, it's too expensive.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l01-cung",
+          "vietnamese": "cũng",
+          "english": "also / too",
+          "ipa": "/kuŋ˧˥/",
+          "audioFile": null,
+          "notes": "Placed before the verb. 'Tui cũng thích' = I also like it. Very common connector in Vietnamese sentences. Position matters — it always goes right before the verb or adjective.",
+          "exampleSentence": {
+            "vietnamese": "Em cũng muốn đi nữa.",
+            "english": "I also want to go too.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l01-rat",
+          "vietnamese": "rất",
+          "english": "very",
+          "ipa": "/zət˧˥/",
+          "audioFile": null,
+          "notes": "Placed before the adjective: 'rất đẹp' = very pretty. In Southern casual speech, people often use 'lắm' (placed after the adjective) instead: 'đẹp lắm.' Both mean the same thing.",
+          "exampleSentence": {
+            "vietnamese": "Món này rất ngon.",
+            "english": "This dish is very delicious.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l01-lam",
+          "vietnamese": "lắm",
+          "english": "very / really (Southern, after adjective)",
+          "ipa": "/lam˧˥/",
+          "audioFile": null,
+          "notes": "Southern Vietnamese intensifier placed AFTER the adjective. 'Ngon lắm!' = Very delicious! More casual and emotional than 'rất' which goes before. You probably hear your family say 'lắm' way more than 'rất.'",
+          "exampleSentence": {
+            "vietnamese": "Trời nóng lắm hôm nay.",
+            "english": "It's really hot today.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l01-ma",
+          "vietnamese": "mà",
+          "english": "but / that (relative clause) / emphasis particle",
+          "ipa": "/maː˧˩/",
+          "audioFile": null,
+          "notes": "A Swiss-army-knife word. Can mean 'but': 'Tui muốn đi mà không có tiền' (I want to go but don't have money). Also used as a relative marker: 'Người mà tui nói' (The person that I mentioned). And as a sentence-final emphasis: 'Biết rồi mà!' (I already know!)",
+          "exampleSentence": {
+            "vietnamese": "Tui nói rồi mà!",
+            "english": "I already told you!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l01-cua",
+          "vietnamese": "của",
+          "english": "of / belonging to (possession marker)",
+          "ipa": "/kuə˧˥/",
+          "audioFile": null,
+          "notes": "Shows possession: 'sách của tui' = my book. In casual speech, 'của' is often dropped: 'sách tui' means the same thing. In Southern Vietnamese, dropping 'của' is extremely common.",
+          "exampleSentence": {
+            "vietnamese": "Đây là xe của ba tui.",
+            "english": "This is my dad's car.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l01-va",
+          "vietnamese": "và",
+          "english": "and",
+          "ipa": "/vaː˧˩/",
+          "audioFile": null,
+          "notes": "'Và' connects nouns and phrases: 'ba và má' = dad and mom. In casual Southern speech, people often just list things with a pause: 'ba, má' or use 'với' instead of 'và.' 'Với' is much more common in spoken Vietnamese.",
+          "exampleSentence": {
+            "vietnamese": "Tui mua rau và thịt.",
+            "english": "I bought vegetables and meat.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l01-voi",
+          "vietnamese": "với",
+          "english": "and / with (casual connector)",
+          "ipa": "/vəːj˧˥/",
+          "audioFile": null,
+          "notes": "In spoken Southern Vietnamese, 'với' is used far more than 'và' for 'and.' 'Mua cái này với cái kia' = Buy this and that. Also means 'with': 'đi với tui' = go with me.",
+          "exampleSentence": {
+            "vietnamese": "Em đi với anh nha.",
+            "english": "I'll go with you, okay.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l01-nay",
+          "vietnamese": "này",
+          "english": "this",
+          "ipa": "/naːj˧˩/",
+          "audioFile": null,
+          "notes": "Demonstrative that comes AFTER the noun: 'cái áo này' = this shirt. In Southern speech, you'll also hear 'nè' as a more casual variant: 'cái này nè' = this one right here.",
+          "exampleSentence": {
+            "vietnamese": "Cái áo này bao nhiêu tiền?",
+            "english": "How much is this shirt?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l01-do",
+          "vietnamese": "đó",
+          "english": "that / there",
+          "ipa": "/ɗo˧˥/",
+          "audioFile": null,
+          "notes": "Demonstrative meaning 'that,' placed after the noun: 'cuốn sách đó' = that book. Also means 'there': 'ở đó' = over there. Northern equivalent is 'ấy' or 'kia.'",
+          "exampleSentence": {
+            "vietnamese": "Người đó là ai vậy?",
+            "english": "Who is that person?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u4-l01-nen",
+          "vietnamese": "nên",
+          "english": "so / therefore / should",
+          "ipa": "/nɛn˧/",
+          "audioFile": null,
+          "notes": "Two meanings: (1) 'therefore/so': 'Trời mưa nên tui ở nhà' = It's raining so I stayed home. (2) 'should': 'Em nên đi ngủ' = You should go to sleep. Context makes it clear which meaning.",
+          "exampleSentence": {
+            "vietnamese": "Tui mệt nên tui nghỉ sớm.",
+            "english": "I'm tired so I'm resting early.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "**Why topic-comment structure matters:**\n\nHeritage speakers often get told their Vietnamese sounds 'weird' when they translate directly from English. That's usually because English is subject-prominent (you always need a subject) while Vietnamese is **topic-prominent** (you lead with what you're talking about).\n\nCompare:\n- English: 'I already ate that one.' (subject-first)\n- Natural Vietnamese: '**Cái đó**, tui ăn rồi.' (topic-first: 'That one, I ate already.')\n\nAnother example:\n- English: 'The weather is nice today.'\n- Natural Vietnamese: '**Hôm nay** trời đẹp.' (topic-first: 'Today, the sky is pretty.')\n\nIf you find yourself building every sentence as Subject + Verb + Object, try flipping it: put the topic (time, place, or the thing you're discussing) at the front. It'll instantly make your Vietnamese sound more natural to native speakers."
+    },
+    {
+      "type": "instruction",
+      "content": "**Quick Reference — Vietnamese Sentence Patterns:**\n\n| Pattern | Example | Translation |\n|---------|---------|-------------|\n| S + V + O | Tui ăn cơm. | I eat rice. |\n| S + là + Noun | Tui là sinh viên. | I am a student. |\n| S + Adjective | Tui mệt. | I am tired. |\n| Topic + Comment | Món này, ngon lắm! | This dish, so good! |\n| Noun + Adjective | cái áo đẹp | the pretty shirt |\n| S + cũng + V | Tui cũng thích. | I also like (it). |\n| S + V + rất/lắm | Nó chạy nhanh lắm. | He/she runs very fast. |\n\n**Heritage speaker tip:** When you're unsure about sentence order, think about how your parents would say it at home. That instinct is usually correct — your ears have been trained since childhood even if the grammar rules feel new."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u4-l01-ex01",
+      "question": "Which sentence correctly uses 'là'?",
+      "options": ["Tui là mệt.", "Tui là bác sĩ.", "Tui là cao.", "Tui là đói."],
+      "correctAnswer": "Tui là bác sĩ.",
+      "explanation": "'Là' is only used for identity statements (X is a noun). 'Tui là bác sĩ' (I am a doctor) is correct because 'bác sĩ' is a noun. 'Tui là mệt/cao/đói' are all wrong because mệt (tired), cao (tall), and đói (hungry) are adjectives — you just say 'Tui mệt', 'Tui cao', 'Tui đói' without 'là.'"
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u4-l01-ex02",
+      "question": "In Vietnamese, where does the adjective go relative to the noun?",
+      "options": ["Before the noun, like English", "After the noun", "Either position is fine", "Adjectives are separate sentences"],
+      "correctAnswer": "After the noun",
+      "explanation": "Vietnamese adjectives always come AFTER the noun: 'cái áo đẹp' (the pretty shirt), 'con mèo đen' (the black cat). This is the opposite of English where adjectives come before the noun."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u4-l01-ex03",
+      "question": "Which sentence uses natural Vietnamese topic-comment structure?",
+      "options": ["Tui đã đọc cuốn sách đó.", "Cuốn sách đó, tui đọc rồi.", "Đọc rồi tui cuốn sách đó.", "Tui cuốn sách đó đọc rồi."],
+      "correctAnswer": "Cuốn sách đó, tui đọc rồi.",
+      "explanation": "'Cuốn sách đó, tui đọc rồi' (That book, I already read it) uses topic-comment structure — the topic ('cuốn sách đó') comes first, then the comment about it. This is very natural in spoken Vietnamese. The first option is also grammatically correct (SVO order) but less natural in conversation."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u4-l01-ex04",
+      "question": "Complete the sentence: 'Cái áo _____ bao nhiêu tiền?' (How much is this shirt?)",
+      "sentence": "Cái áo _____ bao nhiêu tiền?",
+      "english": "How much is this shirt?",
+      "correctAnswer": "này",
+      "acceptableAnswers": ["này", "nầy"],
+      "explanation": "'Này' means 'this' and comes AFTER the noun in Vietnamese. 'Cái áo này' = this shirt. Remember: demonstratives (this, that) follow the noun, just like adjectives."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u4-l01-ex05",
+      "question": "Type 'I am also tired' in Southern Vietnamese. (Hint: subject + also + adjective)",
+      "correctAnswer": "Tui cũng mệt.",
+      "acceptableAnswers": ["Tui cũng mệt.", "Tui cũng mệt", "tui cũng mệt", "Tôi cũng mệt"],
+      "explanation": "'Tui cũng mệt' — 'Tui' (I, Southern), 'cũng' (also) goes before the adjective, and 'mệt' (tired). No 'là' needed because 'mệt' is an adjective, not a noun. 'Cũng' always sits right before the verb or adjective it modifies."
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "slug": "lesson-01-idioms",
+  "unitSlug": "unit-7-advanced",
+  "title": "Idioms & Proverbs",
+  "titleVi": "Thành Ngữ & Tục Ngữ",
+  "description": "Master the Vietnamese proverbs and idioms your grandparents quote at every family gathering. These thành ngữ and tục ngữ carry generations of Southern Vietnamese wisdom.",
+  "order": 1,
+  "estimatedMinutes": 20,
+  "sections": [
+    {
+      "type": "instruction",
+      "content": "Vietnamese is incredibly rich in proverbs (tục ngữ) and idiomatic expressions (thành ngữ). If you grew up in a Vietnamese household, you've definitely heard your bà ngoại or ông nội drop one of these at the dinner table — usually to make a point about your behavior.\n\nThành ngữ are fixed expressions (like English idioms — 'raining cats and dogs'). Tục ngữ are folk proverbs that encode life wisdom. As a heritage speaker, learning these will unlock a deeper layer of Vietnamese conversation and help you understand what the elders are *really* saying.\n\nMany of these originate from agricultural life, Confucian values, and centuries of Vietnamese resilience. Let's dig in."
+    },
+    {
+      "type": "vocabulary",
+      "items": [
+        {
+          "key": "u7-l01-anqua",
+          "vietnamese": "ăn quả nhớ kẻ trồng cây",
+          "english": "When eating fruit, remember the one who planted the tree (be grateful to those who came before you)",
+          "ipa": "/ʔan˧ kwaː˧˩ ɲə˧˥ kɛ˧˩ tɕoŋ˧˩ kəj˧/",
+          "audioFile": null,
+          "notes": "One of the most commonly quoted Vietnamese proverbs. Teaches gratitude and respect for ancestors and predecessors. You'll hear this at Tết, graduations, and whenever parents want to remind you to be thankful. Equivalent to 'don't forget your roots.'",
+          "exampleSentence": {
+            "vietnamese": "Con thành công rồi, nhưng nhớ ăn quả nhớ kẻ trồng cây nha con.",
+            "english": "You've succeeded, but remember — when eating fruit, remember the planter, okay?",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l01-nuocchay",
+          "vietnamese": "nước chảy đá mòn",
+          "english": "Flowing water wears away stone (persistence overcomes all obstacles)",
+          "ipa": "/nɨək˧˥ tɕaj˧˩ ɗaː˧˥ mɔn˧˩/",
+          "audioFile": null,
+          "notes": "Emphasizes patience and persistence. Vietnamese parents love this one when you want to give up on something. Similar to English 'slow and steady wins the race' but more poetic.",
+          "exampleSentence": {
+            "vietnamese": "Học tiếng Việt khó, nhưng nước chảy đá mòn — cứ kiên nhẫn đi.",
+            "english": "Learning Vietnamese is hard, but flowing water wears away stone — just be patient.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l01-cocong",
+          "vietnamese": "có công mài sắt có ngày nên kim",
+          "english": "If you put in the effort to grind iron, one day it becomes a needle (hard work pays off)",
+          "ipa": "/kɔ˧˥ koŋ˧ maj˧˩ sak˧˥ kɔ˧˥ ŋaj˧˩ nen˧ kim˧/",
+          "audioFile": null,
+          "notes": "The Vietnamese equivalent of 'practice makes perfect' or 'Rome wasn't built in a day.' Parents and teachers use this constantly. The imagery is vivid: grinding a piece of iron until it becomes a fine needle.",
+          "exampleSentence": {
+            "vietnamese": "Đừng bỏ cuộc! Có công mài sắt có ngày nên kim.",
+            "english": "Don't give up! With effort grinding iron, one day it becomes a needle.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l01-ancom",
+          "vietnamese": "ăn cơm nhà vác tù và hàng tổng",
+          "english": "Eating rice at home but blowing the horn for the village (meddling in others' business)",
+          "ipa": "/ʔan˧ kəm˧ ɲaː˧˩ vak˧˥ tuː˧˩ vaː˧˩ haːŋ˧˩ toŋ˧˩˥/",
+          "audioFile": null,
+          "notes": "Used to describe a busybody — someone who takes care of everyone else's problems instead of their own household. 'Tù và' is an old horn used to make announcements. You'll hear this when someone is gossiping or overinvolved in neighborhood drama.",
+          "exampleSentence": {
+            "vietnamese": "Cô Hai suốt ngày ăn cơm nhà vác tù và hàng tổng, chuyện ai cũng biết!",
+            "english": "Aunt Hai is always meddling in everyone's business — she knows everything about everyone!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l01-consau",
+          "vietnamese": "con sâu làm rầu nồi canh",
+          "english": "One worm spoils the whole pot of soup (one bad apple spoils the bunch)",
+          "ipa": "/kɔn˧ səw˧ lam˧˩ ɾəw˧˩ noj˧˩ kaɲ˧/",
+          "audioFile": null,
+          "notes": "Identical in meaning to 'one bad apple spoils the barrel.' Used when one person's bad behavior reflects poorly on the whole group. Very common in family and community contexts.",
+          "exampleSentence": {
+            "vietnamese": "Một người làm bậy thôi mà con sâu làm rầu nồi canh — ai cũng bị nói.",
+            "english": "Just one person misbehaved but one worm spoils the whole pot — everyone gets talked about.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l01-tham",
+          "vietnamese": "tham thì thâm",
+          "english": "Greed leads to loss",
+          "ipa": "/tʰam˧ tʰiː˧˩ tʰəm˧/",
+          "audioFile": null,
+          "notes": "Short, punchy, and rhyming. Used as a warning against greed. The rhyme makes it memorable and satisfying to say. Very common in Southern speech, often said with a knowing nod.",
+          "exampleSentence": {
+            "vietnamese": "Lấy nhiều quá rồi mất hết — tham thì thâm mà!",
+            "english": "Took too much and lost it all — greed leads to loss!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l01-gannua",
+          "vietnamese": "gần mực thì đen, gần đèn thì sáng",
+          "english": "Near ink you become dark, near a lamp you become bright (you become like the company you keep)",
+          "ipa": "/ɡən˧˩ mɨk˧˩ tʰiː˧˩ ɗen˧ ɡən˧˩ ɗɛn˧˩ tʰiː˧˩ ʂaːŋ˧˥/",
+          "audioFile": null,
+          "notes": "The Vietnamese version of 'you are the company you keep' or 'birds of a feather flock together.' Parents use this ALL the time to warn you about hanging out with the wrong crowd. Ink = bad influence, lamp = good influence.",
+          "exampleSentence": {
+            "vietnamese": "Má nói hoài — gần mực thì đen, gần đèn thì sáng. Chơi với bạn tốt đi!",
+            "english": "Mom always says — near ink you get dark, near a lamp you get bright. Hang out with good friends!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l01-thuong",
+          "vietnamese": "thương cho roi cho vọt, ghét cho ngọt cho bùi",
+          "english": "Love gives the rod and whip, hate gives sweets and treats (tough love is real love)",
+          "ipa": "/tʰɨəŋ˧ tɕo˧ ɾoj˧ tɕo˧ vɔt˧˩ ɡet˧˥ tɕo˧ ŋɔt˧˩ tɕo˧ buj˧˩/",
+          "audioFile": null,
+          "notes": "The ultimate Vietnamese parenting philosophy proverb. Used to justify strict discipline — if someone truly loves you, they'll be tough on you. If they're just being nice, they don't really care. You've probably heard this after getting scolded.",
+          "exampleSentence": {
+            "vietnamese": "Ba la con là vì thương — thương cho roi cho vọt mà!",
+            "english": "Dad scolds you because he loves you — love gives the rod!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l01-mottay",
+          "vietnamese": "một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao",
+          "english": "One tree cannot make a forest, but three trees together make a tall mountain (unity is strength)",
+          "ipa": "/mot˧˩ kəj˧ lam˧˩ tɕaŋ˧˩˥ nen˧ nɔn˧ baː˧ kəj˧ tɕum˧˩ laj˧˩ nen˧ hɔn˧˩ nuj˧˥ kaːw˧/",
+          "audioFile": null,
+          "notes": "Promotes teamwork and community. Often quoted at community events, church gatherings, or when the family needs to work together. 'Chụm lại' (gather together) is very Southern — Northern speakers might say 'chụm vào.'",
+          "exampleSentence": {
+            "vietnamese": "Mình phải giúp nhau — một cây làm chẳng nên non mà.",
+            "english": "We have to help each other — one tree alone can't make a forest.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l01-chacha",
+          "vietnamese": "cha mẹ sinh con, trời sinh tính",
+          "english": "Parents give birth to children, but heaven gives them their personality",
+          "ipa": "/tɕaː˧ mɛ˧˩ siŋ˧ kɔn˧ tɕəj˧˩ siŋ˧ tiŋ˧˥/",
+          "audioFile": null,
+          "notes": "Used when a child turns out completely different from their parents. A mix of acceptance and mild exasperation. 'Trời' (heaven/sky/God) is central to Vietnamese folk philosophy — many things are attributed to trời.",
+          "exampleSentence": {
+            "vietnamese": "Nhà ai cũng hiền mà nó nghịch quá — cha mẹ sinh con, trời sinh tính!",
+            "english": "Everyone in the family is gentle but that kid is so mischievous — parents birth children, heaven gives personality!",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l01-datlanhchim",
+          "vietnamese": "đất lành chim đậu",
+          "english": "Good land attracts birds (a welcoming place attracts good people)",
+          "ipa": "/ɗat˧˥ laɲ˧˩ tɕim˧ ɗəw˧˩/",
+          "audioFile": null,
+          "notes": "Used to describe a good environment that naturally attracts people. Often said about businesses, communities, or neighborhoods. Also used by the Vietnamese diaspora about finding new homes abroad.",
+          "exampleSentence": {
+            "vietnamese": "Tiệm đông khách vì đất lành chim đậu — chủ tốt thì người ta tới.",
+            "english": "The shop is always busy because good land attracts birds — a good owner draws customers.",
+            "audioFile": null
+          }
+        },
+        {
+          "key": "u7-l01-chet",
+          "vietnamese": "chết vinh còn hơn sống nhục",
+          "english": "Better to die in glory than live in shame",
+          "ipa": "/tɕet˧˥ viŋ˧ kɔn˧˩ hən˧ ʂoŋ˧˥ ɲuk˧˩/",
+          "audioFile": null,
+          "notes": "A proverb about honor and dignity. Reflects deep Vietnamese values about face (thể diện) and pride. You may hear older generations reference this when talking about the Vietnam War or moments of great sacrifice.",
+          "exampleSentence": {
+            "vietnamese": "Ông nội nói hồi đó ai cũng nghĩ chết vinh còn hơn sống nhục.",
+            "english": "Grandpa said back then everyone believed it's better to die in glory than live in shame.",
+            "audioFile": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "cultural_note",
+      "content": "Vietnamese proverbs often come in pairs with parallel structure and internal rhyme. This makes them easy to memorize and satisfying to say aloud. Many are rooted in agricultural imagery (rice, water, trees, soil) because Vietnam was historically a farming society.\n\nIn Southern Vietnamese families, proverbs aren't just decorative language — they're used as real arguments. If your bà quotes a tục ngữ, the discussion is basically over. Proverbs carry the weight of ancestral authority.\n\nNotice that many proverbs encode Confucian values: respect for elders (ăn quả nhớ kẻ trồng cây), the value of hard work (có công mài sắt), and community over individualism (một cây làm chẳng nên non). Understanding these proverbs means understanding Vietnamese cultural DNA."
+    },
+    {
+      "type": "instruction",
+      "content": "**How to use proverbs naturally:**\n\n1. **As advice:** Drop the proverb at the end of your point, followed by 'mà' or 'nha' — e.g., *Cứ cố gắng đi — nước chảy đá mòn mà!*\n\n2. **As a reaction:** When something happens that perfectly fits a proverb, just say it — e.g., someone being greedy and losing everything: *Tham thì thâm!*\n\n3. **As a lesson:** Start with the situation, then the proverb — e.g., *Nó chơi với mấy đứa đó rồi hư luôn. Gần mực thì đen mà.*\n\n4. **With 'người ta nói'** (people say): *Người ta nói có công mài sắt có ngày nên kim — cứ từ từ.*\n\nDon't overthink it. Heritage speakers who start using proverbs naturally will immediately sound more fluent and will make their elders very proud."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "multiple_choice",
+      "key": "u7-l01-ex01",
+      "question": "Your grandmother says 'ăn quả nhớ kẻ trồng cây' at Tết dinner. What is she reminding everyone to do?",
+      "options": [
+        "Eat more fruit for good health",
+        "Be grateful to those who came before you",
+        "Plant more trees this year",
+        "Remember to buy groceries"
+      ],
+      "correctAnswer": "Be grateful to those who came before you",
+      "explanation": "'Ăn quả nhớ kẻ trồng cây' literally means 'when eating fruit, remember the one who planted the tree.' It's about gratitude and remembering your roots — the people who sacrificed so you could have what you have."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u7-l01-ex02",
+      "question": "Which proverb would a parent most likely say to justify strict discipline?",
+      "options": [
+        "Tham thì thâm",
+        "Thương cho roi cho vọt, ghét cho ngọt cho bùi",
+        "Đất lành chim đậu",
+        "Nước chảy đá mòn"
+      ],
+      "correctAnswer": "Thương cho roi cho vọt, ghét cho ngọt cho bùi",
+      "explanation": "This proverb means 'love gives the rod, hate gives sweets.' It's the classic justification for tough love in Vietnamese parenting — if someone truly cares, they'll push you hard."
+    },
+    {
+      "type": "multiple_choice",
+      "key": "u7-l01-ex03",
+      "question": "Someone is always gossiping and getting involved in everyone's problems. Which proverb fits?",
+      "options": [
+        "Con sâu làm rầu nồi canh",
+        "Ăn cơm nhà vác tù và hàng tổng",
+        "Một cây làm chẳng nên non",
+        "Cha mẹ sinh con, trời sinh tính"
+      ],
+      "correctAnswer": "Ăn cơm nhà vác tù và hàng tổng",
+      "explanation": "'Ăn cơm nhà vác tù và hàng tổng' means eating at home but blowing the village horn — a busybody who minds everyone's business but their own."
+    },
+    {
+      "type": "fill_blank",
+      "key": "u7-l01-ex04",
+      "question": "Complete this proverb about persistence: 'Có công mài sắt có ngày nên _____'",
+      "sentence": "Có công mài sắt có ngày nên _____.",
+      "english": "With effort grinding iron, one day it becomes a _____.",
+      "correctAnswer": "kim",
+      "acceptableAnswers": ["kim", "Kim"],
+      "explanation": "The full proverb is 'có công mài sắt có ngày nên kim' — grinding iron into a needle. 'Kim' means needle, symbolizing that persistent effort transforms something rough into something refined."
+    },
+    {
+      "type": "type_vietnamese",
+      "key": "u7-l01-ex05",
+      "question": "Type the proverb that means 'greed leads to loss' (hint: it's three words that rhyme):",
+      "correctAnswer": "tham thì thâm",
+      "acceptableAnswers": ["tham thì thâm", "Tham thì thâm", "tham thi tham", "Tham thi tham"],
+      "explanation": "'Tham thì thâm' is a beautifully concise proverb — just three rhyming words that warn against greed. 'Tham' = greedy, 'thâm' = to suffer a deep loss."
+    }
+  ]
+}
